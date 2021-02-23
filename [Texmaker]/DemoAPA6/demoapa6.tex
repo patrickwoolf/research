@@ -1,0 +1,80 @@
+\documentclass[jou]{apa6}
+\usepackage{apacite}
+\usepackage{filecontents}
+\usepackage[hidelinks,bookmarks=true]{hyperref}
+\usepackage[numbered]{bookmark}
+\usepackage{xcolor}
+\begin{filecontents}{thebibliography.bib}
+@article{Patrick LOVE Evonne,
+    Author = {Author, Patrick Yihong Wu, Evonne Hsiaoyun Hung},
+    Date-Added = {2019-01-16 19:11:00 +0800},
+    Date-Modified = {2019-01-16 19:11:00 +0800},
+    Doi = {10.XXXX/YYYY},
+    Journal = {\LaTeX{} Studies},
+    Pages = {1--5},
+    Title = {Example Citation with DOI},
+    Volume = {1},
+    Year = {2019}}
+\end{filecontents}
+
+\renewcommand{\doiprefix}{}
+\newcommand{\doi}[1]{https://doi.org/#1}
+\title{Patrick LOVE Evonne}
+\twoauthors{Patrick Yihong Wu}{Evonne Hsiaoyun Hung}
+\twoaffiliations{College of Medicine, National Taiwan University}{College of Dentistry, National Taiwan University}
+
+\begin{document}
+\maketitle
+
+\section{Introduction to CKD and Frailty}
+Chronic kidney disease is also called chronic kidney failure, including symptoms such as gradual loss of kidney function, and advanced stage of CKD indicates a dangerous level of fluid, electrolytes and wastes accumulate in body. However,d the early stage of the disease doesn’t usually manifest signs.
+
+Treatment often focuses on halting the process of failure by treating the underlying cause. Without good control, CKD progresses to end-stage kidney failure (ESKD), and if no transplant or artificial dialysis often leads to death.
+
+Symptoms and signs of CKD involve nausea, vomiting, loss of appetite, fatigue and weakness, sleep problems, changes in how much you urinate, decreased mental sharpness, muscle twitches and cramps, swelling of feet and ankles, persistent itching, chest pain if fluid builds up around the lining of the heart, shortness of breath if fluid builds up in the lungs, high blood pressure (hypertension) that’s difficult to control. But because kidney is exceedingly malleable, signs may not develop until irrevocable damage has been made. Sometimes even failures have developed, amount of urine stay normal, however, wastes are not sufficiently excreted.
+
+Causes related to CKD are Type I or II diabetes, high B.P., glomerulonephritis, interstitial nephritis, polycystic kidney disease, prolonged obstruction of the urinary tract (usually caused by enlarged prostate, kidney stones and some cancers), vesicoureteral reflux (a disorder that makes urine back up into kidneys), recurrent kidney infection which is also called pyelonephritis. Risk factors that may increase the risk of CKD are diabetes, high B.P.., cardiovascular disease, smoking, obesity, being African-American, Native American or Asian-American, family history of KD, abnormal kidney structure, older age [a1].
+Frailty is a geriatric condition in which resilience to stressors decreased. The risk of frailty increases with age or incidence of disease. Gradually considered more as the hallmark geriatric syndrome and foreshadowing of other geriatric syndromes, including falls, fractures, delirium, and incontinence. 
+
+Differential diagnosis of frailty requires ruling out other underlying medical or physiological issues which might drive symptoms of frailty. These conditions include:
+\begin{APAenumerate}
+	\item Depression
+	\item Malignancy - Lymphoma, multiple myeloma, occult solid tumors
+	\item Rheumatologic disease - Polymyalgia rheumatica, vasculitis
+	\item Endocrinologic disease - Hyper- or hypothyroidism, diabetes mellitus
+	\item Cardiovascular disease - Hypertension, heart failure, coronary artery disease, peripheral vascular disease
+	\item Renal disease - Renal insufficiency
+	\item Hematologic disease - Myelodysplasia, iron deficiency, and pernicious anemia
+	\item Nutritional deficits - Vitamin deficiencies
+	\item Neurologic disease - Parkinson disease, vascular dementia, serial lacunar infarcts
+\end{APAenumerate}
+
+Most research identifies frailty based on the five Fried frailty criteria (slowness, weakness, low physical activity, exhaustion and shrinkage) and divides participants into three stages: non-frail, pre-frail and frail. The above stages determined with scores in the social (social network type, informal care use, loneliness), psychological (psychological distress, mastery, self-management) and physical (chronic diseases, GARS IADL-disability, OECD disability) domains [b3]. Despite the prevalence of Fried criteria, there are dissimilarities in methods used to evaluate frailty between different studies. Another approach to assess frailty is the frailty index approach, which sees frailty as accumulations of deficits beginning from cellular level, and quantification relies on counting the amounts of deficits among manifold organ systems.
+
+Regardless of measurement methods, patients with frailty have their physical function declined and risk of adverse health outcomes augmented.
+
+
+\section{Epidemiology of frailty}
+The prevalence of frailty in those who have CKD have a larger span: from 7\% in community-dwellers to 73\% in a cohort of patients on hemodialysis [b3]. 
+
+\section{Pathophysiology}
+Two leading hypotheses are plausible to explain the relationship between frailty and inflammatory-related disease.
+One mechanism is “punished inefficiency,” which indicates the sequential effect of impairments in one system on stress and inefficiencies in other systems. The second mechanism, “shared pathophysiology,” suggests inflammation being a probable etiological cause of frailty, inflammatory-related disease has a high prevalence in frail older people.
+
+\section{Mortality}
+Frailty is associated with higher mortality risk, and varying hazard ratios (HR) depends on frailty definitions and populations. In the longitudinal Women’s Health Initiative Observational Study, mortality rose in those with baseline frailty (HR 1.71; 95\% CI 1.48-1.97) [b1]. In another study, compared with robust men, it was twice the mortality for frail men (HR 2.05; 95\% CI 1.55-2.72) [b2]. 
+
+\section{Complications}
+Chronic kidney disease can affect almost every part of your body. Potential complications may include fluid retention, high blood pressure, or pulmonary edema. Hyperkalemia is probable, which is capable of damaging the heart’s function, being life-threatening. Cardiovascular disease, weak bones, anemia, decreased sex drive, erectile dysfunction or reduced fertility may be accompanying. Besides, damage to central nervous system, leading to difficulty concentrating, personality changes or seizures is likely. Other complications like decreased immune response, pericarditis, pregnancy complications that carry risks for the mother and the developing fetus, and irreversible damage to kidneys (end-stage kidney disease) making patients eventually needing either dialysis or a kidney transplant for survival.
+
+\section{Test}
+Some claim that \cite{sanchez2017comparison}, however, others don't think that way \cite{mathiesen2019survival}.
+\section{Comments}
+\textcolor{red}{
+Why is this shit always blocking me from adding bookmark \cite{studzinska2017atranorin}???
+
+Ach so, this motherfucker shit TexMaker needs me to press F1 and F11 like crazily, again and again. Am I playing piano? I couldn't figure it out...}
+
+\bibliographystyle{apacite}
+\bibliography{References}
+\end{document}

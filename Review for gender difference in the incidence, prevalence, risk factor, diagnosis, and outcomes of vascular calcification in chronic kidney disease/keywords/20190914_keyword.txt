@@ -1,0 +1,33 @@
+('gender' OR 'gender differences' OR 'sex differences' OR 'male vs. female' OR 'men vs. women') 
+AND 
+('vascular calcification' OR 'vessel calcification' OR 'arterial calcification' OR 'venous calcification' OR 'incidence' OR 'prevalence' OR 'risk factor' OR 'risk' OR 'diagnosis' OR 'outcomes' OR 'complications' OR 'causality') 
+AND 
+('vascular calcification' OR 'vessel calcification' OR 'arterial calcification' OR 'venous calcification') 
+AND 
+('chronic kidney disease' OR 'chronic renal disease' OR 'chronic renal insufficiency' OR 'kidney transplant' OR 'renal transplant' OR 'end-stage kidney disease' OR 'end-stage renal disease' OR 'dialysis')
+
+
+(gender OR gender differences OR sex differences OR male vs. female OR men vs. women) 
+AND 
+(vascular calcification OR vessel calcification OR arterial calcification OR venous calcification OR incidence OR prevalence OR risk factor OR risk OR diagnosis OR outcomes OR complication OR causality) 
+AND 
+(vascular calcification OR vessel calcification OR arterial calcification OR venous calcification) 
+AND 
+(chronic kidney disease OR chronic renal disease OR chronic renal insufficiency OR kidney transplant OR renal transplant OR end-stage kidney disease OR end-stage renal disease OR dialysis)
+
+
+20210223
+medline: 527; (fulltext & abstract & scholarly reviewed): 136; (keywords in abstract & fulltext & abstract & scholarly reviewed): 50
+pubmed (abstract & fulltext): 621; (keywords in title/abstract & abstract & fulltext): 113; (keywords in title & abstract & fulltext): 1
+
+_____________________
+Cinahl: 41
+Cinahl-deprecated: 42
+Web of Science: 270; article (264), proceeding papers (9), review (6)
+Web of Science - deprecated: 230
+Cochrane: 88; embase (42), PubMed (29), Cochrane Reviews (18), Cochrane Protocols (4), Trials (66)
+Cochrane-deprecated: 79; embase (34), PubMed (29), Cochrane Reviews (18), Cochrane Protocols (4), Trials (57)
+Embase: 210; review (11)
+Embase-deprecated: 146
+PubMed-deprecated: 489; review (24)
+PubMed: 505; review (25)

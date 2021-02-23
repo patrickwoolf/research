@@ -1,0 +1,3097 @@
+﻿//frailty AND "kidney" AND cause
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "kidney"[All Fields] AND cause[All Fields]
+//
+
+1. Clin J Am Soc Nephrol. 2019 Feb 5. pii: CJN.08240718. doi: 10.2215/CJN.08240718. 
+[Epub ahead of print]
+
+Associations between Hemodialysis Facility Practices to Manage Fluid Volume and
+Intradialytic Hypotension and Patient Outcomes.
+
+Dasgupta I(1)(2), Thomas GN(2), Clarke J(2), Sitch A(2)(3), Martin J(2), Bieber
+B(4), Hecking M(5), Karaboyas A(4), Pisoni R(4), Port F(4), Robinson B(4), Rayner
+H(6).
+
+Author information: 
+(1)Department of Renal Medicine, Heartlands Hospital, Birmingham, UK;
+Indranil.Dasgupta@heartofengland.nhs.uk.
+(2)Institute of Applied Health Research, University of Birmingham, Birmingham,
+UK.
+(3)National Institute for Health Research, Birmingham Biomedical Research Centre,
+University Hospitals Birmingham National Health Service Foundation Trust and
+University of Birmingham, Birmingham, UK.
+(4)Arbor Research Collaborative for Health, Ann Arbor, Michigan; and.
+(5)Department of Internal Medicine III, Clinical Division of Nephrology and
+Dialysis, Medical University of Vienna, Vienna, Austria.
+(6)Department of Renal Medicine, Heartlands Hospital, Birmingham, UK.
+
+BACKGROUND AND OBJECTIVES: Fluid overload and intradialytic hypotension are
+associated with cardiovascular events and mortality in patients on hemodialysis. 
+We investigated associations between hemodialysis facility practices related to
+fluid volume and intradialytic hypotension and patient outcomes.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: Data were analyzed from 10,250
+patients in 273 facilities across 12 countries, from phase 4 of the Dialysis
+Outcomes and Practice Patterns Study (DOPPS; 2009-2012). Cox regression models
+(shared frailty) were used to estimate associations between facility practices
+reported by medical directors in response to the DOPPS Medical Directors Survey
+and all-cause and cardiovascular mortality and hospitalization, and
+cardiovascular events, adjusting for country, age, sex, dialysis vintage,
+predialysis systolic BP, cardiovascular comorbidities, diabetes, body mass index,
+smoking, residual kidney function, dialysis adequacy, and vascular access type.
+RESULTS: Of ten facility practices tested (chosen a priori), having a protocol
+that specifies how often to assess dry weight in most patients was associated
+with lower all-cause (hazard ratio [HR], 0.78; 99% confidence interval [99% CI], 
+0.64 to 0.94) and cardiovascular mortality (HR, 0.72; 99% CI, 0.55 to 0.95).
+Routine orthostatic BP measurement to assess dry weight was associated with lower
+all-cause hospitalization (HR, 0.86; 99% CI, 0.77 to 0.97) and cardiovascular
+events (HR, 0.85; 99% CI, 0.73 to 0.98). Routine use of lower dialysate
+temperature to limit or prevent intradialytic hypotension was associated with
+lower cardiovascular mortality (HR, 0.76; 99% CI, 0.58 to 0.98). Routine use of
+an online volume indicator to assess dry weight was associated with higher
+all-cause hospitalization (HR, 1.19; 99% CI, 1.02 to 1.38). Routine use of sodium
+modeling/profiling to limit or prevent intradialytic hypotension was associated
+with higher all-cause mortality (HR, 1.36; 99% CI, 1.14 to 1.63), cardiovascular 
+mortality (HR, 1.34; 99% CI, 1.04 to 1.73), and cardiovascular events (HR, 1.21; 
+99% CI, 1.03 to 1.43).
+CONCLUSIONS: Hemodialysis facility practices relating to the management of fluid 
+volume and intradialytic hypotension are associated with patient outcomes.
+
+Copyright © 2019 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.08240718 
+PMID: 30723164 
+
+
+2. Kardiol Pol. 2018 Dec 21. doi: 10.5603/KP.a2018.0243. [Epub ahead of print]
+
+The obesity paradox in patients undergoing transcatheter aortic valve
+implantation: is there any effect of body mass index on survival?
+
+Tokarek TA, Dziewierz A, Sorysz D, Bagienski M, Rzeszutko Ł, Krawczyk-Ożóg A,
+Dudek D, Kleczyński P(1).
+
+Author information: 
+(1)2nd Department of Cardiology and Cardiovascular Interventions, University
+Hospital, Krakow, Poland; 2nd Department of Cardiology, Institute of Cardiology, 
+Jagiellonian University, Medical College, Krakow, Poland. kleczu@interia.pl.
+
+BACKGROUND: Conflicting results have been presented regarding influence of body
+mass index (BMI) on outcomes among patients undergoing transcatheter aortic valve
+implantation (TAVI).
+AIMS: To investigate impact of the BMI on the clinical results after TAVI.
+METHODS: A total of 148 consecutive patients were categorized using baseline BMI 
+according to World Health Organization criteria. The baseline patient
+characteristics, frailty, procedural and clinical outcomes with 30 days and
+12-month all-cause mortality were compared between BMI categories. Patients were 
+followed-up for a median of 460.0 (182.0-1042.0) days.
+RESULTS: Obesity was diagnosed in 37 (25.2%) patients, 73 were overweight
+(49.7%), and 37 (25.2%) had normal weight. Lower frailty prevalence as assessed
+with 5-meter walking test was confirmed in obese patients as compared to other
+groups. A trend towards a lower rate of in-hospital bleeding complications [18
+(48.6%) vs. 21 (28.8%) vs. 9 (24.3%); p = 0.06] and less frequent blood
+transfusions in overweight and obese was observed [18 (48.6%) vs. 17 [23.3%) vs. 
+8 (21.6%); p = 0.016]. The rate of grade 3 acute kidney injury was the lowest in 
+the overweight group [4 (10.8%) vs. 1 (1.4%) vs. 3 (8.1%); p = 0.05]. There was
+no difference between groups in all-cause mortality at 30 days (p = 0.15).
+However, 12-month all-cause mortality was the lowest in obese patients [12
+(32.4%) vs. 10 (13.7%) vs. 2 (5.4%); p = 0.004]. Increase in BMI was
+independently associated with lower all-cause mortality [HR (95%CI) per 1 kg/m²
+increase: 0.91 (0.845-0.98); p = 0.018].
+CONCLUSIONS: Increased BMI was independently associated with survival benefit
+after TAVI.
+
+DOI: 10.5603/KP.a2018.0243 
+PMID: 30575008 
+
+
+3. Am J Cardiol. 2019 Jan 15;123(2):315-322. doi: 10.1016/j.amjcard.2018.10.008.
+Epub 2018 Oct 18.
+
+Impact of Dialysis on the Prognosis of Patients Undergoing Transcatheter Aortic
+Valve Implantation.
+
+Schymik G(1), Bramlage P(2), Herzberger V(3), Bergmann J(3), Conzelmann LO(4),
+Würth A(5), Luik A(3), Schröfel H(6), Tzamalis P(3).
+
+Author information: 
+(1)Department of Cardiology, Medical Clinic IV, Municipal Hospital Karlsruhe,
+Academic Teaching Hospital of the University of Freiburg, Germany. Electronic
+address: gerhard.schymik@klinikum-karlsruhe.de.
+(2)Institute for Pharmacology and Preventive Medicine, Cloppenburg, Germany.
+(3)Department of Cardiology, Medical Clinic IV, Municipal Hospital Karlsruhe,
+Academic Teaching Hospital of the University of Freiburg, Germany.
+(4)Helios Clinic for Cardiac Surgery Karlsruhe, Germany.
+(5)Department of Cardiology, Medical Clinic III, Vincentius Hospital Karlsruhe,
+Germany.
+(6)Department Cardiovascular Surgery, University Heart Center Freiburg, Bad
+Krozingen, Germany.
+
+End-stage renal disease (ESRD) affects approximately 2% to 4% of patients with
+severe aortic stenosis. It is because these patients have been excluded from
+clinical trials, the impact of transcatheter aortic valve implantation (TAVI) in 
+this patient group has not been thoroughly investigated. Between April 2008 and
+March 2015, 2,000 patients (dialysis group, n = 56 [2.8%]) were consecutively
+enrolled when diagnosed with severe aortic stenosis and eligible to undergo TAVI.
+Procedural and longer-term outcomes were analyzed and adjusted for differences in
+baseline characteristics. Patients on dialysis had a higher periprocedural
+mortality (10.7% vs 1.7%; adjusted odds ratio [adjOR] 5.65, 95% confidence
+interval [CI] 1.91 to 16.67; p = 0.002) and a lower Valve Academic Research
+Consortium (VARC)-II (VARC) defined device success (adjOR 0.34, 95% CI 0.15 to
+0.79; p = 0.012). At 30 days, there was an increased rate of all-cause mortality 
+(21.4 vs 4.8%; adjOR 4.90, 95% CI 1.96 to 12.26; p = 0.001), cardiovascular
+(adjOR 3.67, 95% CI 1.43 to 9.41; p = 0.007) and noncardiovascular mortality
+(adjOR 6.28, 95% CI 1.36 to 9.41; p = 0.019), myocardial infarction (adjOR 9.39, 
+95% CI 1.84 to 48.03; p = 0.007), bleeding (adjOR 2.48, 95% CI 1.06 to 5.83;
+p = 0.036) as well as the VARC-II defined early safety combined end point (adjOR 
+2.97, 95% CI 1.28 to 6.90; p = 0.012) associated with dialysis. Dialysis was
+associated with poor survival at one (57.1% vs 84.2%) and 3 years (26.8% vs
+66.9%) with or without the consideration of the first 72 hours (p <0.001;
+adjusted p <0.001). Although, in the multivariable regression analysis, reduced
+ejection fraction, peripheral arterial disease, pulmonary hypertension (PH),
+frailty and dialysis were associated with 1-year mortality, only PH (>60 mm Hg)
+remained significant in an analysis restricted to the dialysis patients (adjusted
+hazard ratio 2.68; 95% CI 1.18 to 5.88; p = 0.018). PH had a sensitivity of
+45.8%, a specificity of 81.3%, and a positive predictive value of 64.7%. In
+conclusion, dialysis is an independent predictor of mortality in patients who
+underwent TAVI. Long-term mortality in dialysis patients appears to be largely
+determined by the kidney disease and/or dialysis itself whereas VARC-II defined
+complications are largely unaffected. An increased short-term mortality still
+calls for (pre-) procedural optimization.
+
+Copyright © 2018. Published by Elsevier Inc.
+
+DOI: 10.1016/j.amjcard.2018.10.008 
+PMID: 30424871 
+
+
+4. Geriatr Gerontol Int. 2018 Dec;18(12):1597-1602. doi: 10.1111/ggi.13534. Epub
+2018 Oct 11.
+
+Diabetic nephropathy is associated with frailty in patients with chronic
+hemodialysis.
+
+Kakio Y(1), Uchida HA(1)(2), Takeuchi H(1)(3), Okuyama Y(1), Okuyama M(4),
+Umebayashi R(1), Wada K(5), Sugiyama H(1)(6), Sugimoto K(7), Rakugi H(7),
+Kasahara S(4), Wada J(1).
+
+Author information: 
+(1)Department of Nephrology, Rheumatology, Endocrinology and Metabolism, Okayama 
+University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences,
+Okayama, Japan.
+(2)Department of Chronic Kidney Disease and Cardiovascular Disease, Okayama
+University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences,
+Okayama, Japan.
+(3)Department of Internal Medicine, Innoshima General Hospital, Hiroshima, Japan.
+(4)Department of Cardiovascular Surgery, Okayama University Graduate School of
+Medicine, Dentistry and Pharmaceutical Sciences, Okayama, Japan.
+(5)Division of Nephrology and Dialysis, Department of Internal Medicine, Nippon
+Kokan Fukuyama Hospital, Hiroshima, Japan.
+(6)Department of Human Resource Development of Dialysis Therapy for Kidney
+Disease, Okayama University Graduate School of Medicine, Dentistry and
+Pharmaceutical Sciences, Okayama, Japan.
+(7)Department of Geriatric and General Medicine, Osaka University Graduate School
+of Medicine, Osaka, Japan.
+
+AIM: Since 1998, the leading cause of chronic hemodialysis in Japan has been
+diabetic nephropathy. Diabetes mellitus is known to be a risk factor for frailty,
+but it still remains unknown whether diabetic nephropathy is associated with
+frailty in chronic dialysis patients. The authors carried out the present study
+to reveal the association between frailty and diabetic nephropathy in chronic
+hemodialysis patients.
+METHODS: A total of 355 patients who were on hemodialysis were recruited.
+Participants were divided into two groups of either patients who suffered
+diabetic nephropathy with end-stage renal disease (DN group, n = 150) or not
+(Non-DN group, n = 205). The authors investigated the difference of the
+prevalence of frailty between the two groups. Furthermore, the authors examined
+the risk factors for frailty.
+RESULTS: The prevalence of frailty in the DN group was significantly higher than 
+that in the Non-DN group (28.0% vs 16.5%, P = 0.0161). To evaluate the
+association between frailty and its risk factors, we compared frail patients
+(n = 71) and non-frail patients (n = 262). After adjusting their
+interrelationships by using multivariate logistic regression analysis, diabetic
+nephropathy was determined as a significant risk factor for frailty.
+CONCLUSIONS: The authors found the close association between frailty and diabetic
+nephropathy in chronic hemodialysis patients. Geriatr Gerontol Int 2018; 18:
+1597-1602.
+
+© 2018 Japan Geriatrics Society.
+
+DOI: 10.1111/ggi.13534 
+PMID: 30311338 
+
+
+5. Can J Diabetes. 2018 Jun 20. pii: S1499-2671(18)30001-7. doi:
+10.1016/j.jcjd.2018.06.001. [Epub ahead of print]
+
+Frailty, Health-Related Quality of Life, Cognition, Depression, Vitamin D and
+Health-Care Utilization in an Ambulatory Adult Population with Type 1 or Type 2
+Diabetes Mellitus and Chronic Kidney Disease: A Cross-Sectional Analysis.
+
+Adame Perez SI(1), Senior PA(2), Field CJ(1), Jindal K(3), Mager DR(4).
+
+Author information: 
+(1)Department of Agricultural, Food and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada.
+(2)Department of Endocrinology, University of Alberta, Edmonton, Alberta, Canada.
+(3)Northern Alberta Renal Program, Alberta Health Services and Department of
+Nephrology, University of Alberta, Edmonton, Alberta, Canada.
+(4)Department of Agricultural, Food and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada. Electronic address: mager@ualberta.ca.
+
+OBJECTIVES: Frailty can cause increased vulnerability to adverse health outcomes,
+such as falls, fractures, depression and reduced health-related quality of life
+(HRQoL). This cross-sectional study compared the differences in body composition,
+HRQoL, mental health and cognitive and vitamin D (vitD) status with health-care
+utilization by frail and nonfrail adults with diabetes mellitus (type 1 and type 
+2) and with chronic kidney disease (stages 1 through 5).
+METHODS: We studied adults with type 1 and type 2 diabetes and chronic kidney
+disease stages 1 through 5 who were participating in a longitudinal follow-up
+study (41 to 83 years of age; n=41). Body composition (dual-energy x-ray
+absorptiometry); vitD status (serum 25[OH]D3); frailty (Edmonton Frail Scale);
+depression (Major Depression Inventory); HRQoL (Short Form Health Survey-36); and
+cognitive status (Mini Mental State exam) were measured using validated tools.
+Participants who were on dialysis and had body weights >136 kg, and coinciding
+comorbidities known to influence vitD metabolism were excluded.
+RESULTS: Frailty occurred in 17% of participants (n=7). Frail participants had
+lower lean body mass, lower HRQoL scores (individual and composite scores), more 
+depression (p=<0.05) and higher numbers of health visits (total, inpatient and
+emergency) compared with nonfrail participants (p<0.05). No differences in
+health-care visit types or vitD status were noted between frail and nonfrail
+participants (p>0.05).
+CONCLUSIONS: Frailty in an ambulatory population of adults with chronic kidney
+disease and diabetes is associated with low lean body mass, low HRQoL, greater
+depression and higher numbers of health-care visits.
+
+Copyright © 2018 Diabetes Canada. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jcjd.2018.06.001 
+PMID: 30139571 
+
+
+6. Curr Top Microbiol Immunol. 2018;417:157-180. doi: 10.1007/82_2018_118.
+
+Residual Immune Activation and Latency.
+
+Bruzzesi E(1)(2), Sereti I(3)(4).
+
+Author information: 
+(1)Laboratory of Immunoregulation, National Institutes of Allergy and Infectious 
+Diseases, National Institutes of Health, Bethesda, MD, USA.
+(2)Department of Infectious Diseases, IRCCS, San Raffaele Scientific Institute,
+Milan, Italy.
+(3)Laboratory of Immunoregulation, National Institutes of Allergy and Infectious 
+Diseases, National Institutes of Health, Bethesda, MD, USA.
+ISereti@niaid.nih.gov.
+(4)Department of Infectious Diseases, IRCCS, San Raffaele Scientific Institute,
+Milan, Italy. ISereti@niaid.nih.gov.
+
+The introduction of combination antiretroviral therapy (cART) in the 1990s has
+dramatically changed the course of HIV infection, decreasing the risk for both
+AIDS- and non-AIDS-related events. Cancers, cardiovascular disease (CVD), liver
+and kidney disease, neurological disorders and frailty have become of great
+importance lately in the clinical management as they represent the principal
+cause of death in people living with HIV who receive cART (Kirk et al. in Clin
+Infect Dis 45(1):103-10, 2007; Strategies for Management of Antiretroviral
+Therapy Study et al. N Engl J Med 355(22):2283-2296, 2006; Ances et al. J Infect 
+Dis 201(3):336-340, 2010; Desquilbet et al. J Gerontol A Biol Sci Med Sci
+62(11):1279-1286, 2007; Lifson et al. HIV Clin Trials 9(3):177-185, 2008).
+Despite the undeniable achievements of cART, we are now faced with its
+limitations: a considerable proportion of individuals, referred as to
+immunological non-responders, fails to reconstitute the immune system despite
+optimal treatment and viral suppression (Kelley et al. Clin Infect Dis
+48(6):787-794, 2009; Robbins et al. Clin Infect Dis 48(3):350-361, 2009) and
+remains at high risk for opportunistic infections and non-AIDS-related events
+(Strategies for Management of Antiretroviral Therapy Study et al. N Engl J Med
+355(22):2283-2296, 2006). Moreover, the generalized state of immune activation
+and inflammation, linked to serious non-AIDS events, persists despite successful 
+HIV suppression with cART. Finally, the current strategies have so far failed to 
+eradicate the virus, and inflammation appears a driving force in viral
+persistence. In the light of all this, it is of fundamental importance to
+investigate the pathophysiological processes that link incomplete immune
+recovery, immune activation and HIV persistence to design targeted therapies that
+could impact on the three.
+
+DOI: 10.1007/82_2018_118 
+PMID: 30105422 
+
+
+7. Can J Kidney Health Dis. 2018 Jun 1;5:2054358118780372. doi:
+10.1177/2054358118780372. eCollection 2018.
+
+Hospitalizations in Dialysis Patients in Canada: A National Cohort Study.
+
+Molnar AO(1)(2), Moist L(3), Klarenbach S(4), Lafrance JP(5), Kim SJ(6),
+Tennankore K(7), Perl J(8), Kappel J(9), Terner M(10), Gill J(11), Sood MM(12).
+
+Author information: 
+(1)Division of Nephrology, Department of Medicine, McMaster University, Hamilton,
+Ontario, Canada.
+(2)Department of Health Research Methods, Evidence, and Impact, McMaster
+University, Hamilton, Ontario, Canada.
+(3)Division of Nephrology, Department of Medicine, Western University, London,
+Ontario, Canada.
+(4)Division of Nephrology, Department of Medicine, University of Alberta,
+Edmonton, Canada.
+(5)Department of Pharmacology and Physiology, University of Montreal, Quebec,
+Canada.
+(6)Division of Nephrology, University Health Network, Department of Medicine,
+University of Toronto, Ontario, Canada.
+(7)Division of Nephrology, Department of Medicine, Dalhousie University, Halifax,
+Nova Scotia, Canada.
+(8)Division of Nephrology, St. Michael's Hospital, Department of Medicine,
+University of Toronto, Ontario, Canada.
+(9)Division of Nephrology, Department of Medicine, University of Saskatchewan,
+Saskatoon, Canada.
+(10)Canadian Institute of Health Information, Toronto, Ontario, Canada.
+(11)Division of Nephrology, Department of Medicine, University of British
+Columbia, Vancouver, Canada.
+(12)Division of Nephrology, Department of Medicine, University of Ottawa,
+Ontario, Canada.
+
+Background: Hospitalizations of chronic dialysis patients have not been
+previously studied at a national level in Canada. Understanding the scope and
+variables associated with hospitalizations will inform measures for improvement.
+Objective: To describe the risk of all-cause and infection-related
+hospitalizations in patients on dialysis.
+Design: Retrospective cohort study using health care administrative databases.
+Setting: Provinces and territories across Canada (excluding Manitoba and Quebec).
+Patients: Incident chronic dialysis patients with a dialysis start date between
+January 1, 2005, and March 31, 2014. Patients with a prior history of kidney
+transplantation were excluded.
+Measurements: Patient characteristics were recorded at baseline. Dialysis
+modality was treated as a time-varying covariate. The primary outcomes of
+interest were all-cause and dialysis-specific infection-related hospitalizations.
+Methods: Crude rates for all-cause hospitalization and infection-related
+hospitalization were determined per patient year (PPY) at 7 and 30 days, and at
+3, 6, and 12 months postdialysis initiation. A stratified, gamma-distributed
+frailty model was used to assess repeat hospital admissions and to determine the 
+inter-recurrence dependence of hospitalizations within individuals, as well as
+the hazard ratio (HR) attributed to each covariate of interest.
+Results: A total of 38 369 incident chronic dialysis patients were included: 38
+088 adults and 281 pediatric patients (age less than 18 years). There were 112
+374 hospitalizations, of which 11.5% were infection-related hospitalizations. The
+all-cause hospitalization rate was similar for all adult age groups (age 65 years
+and older: 1.40, 1.35, and 1.18 admissions PPY at 7 days, 30 days, and 6 months, 
+respectively). The all-cause hospitalization rate was higher for pediatric
+patients (1.67, 2.48, and 2.47 admissions PPY at 7 days, 30 days, and 6 months,
+respectively; adjusted HR: 2.73, 95% confidence interval [CI]: 2.37-3.15,
+referent age group: 45-64 years). Within the first 7 days after dialysis
+initiation, patients on peritoneal dialysis had a higher risk of all-cause
+hospitalization (HR: 1.27, 95% CI: 1.07-1.50) and infection-related
+hospitalization (HR: 2.05, 95% CI: 1.19-3.55) compared with patients on
+hemodialysis. Beyond 7 days, the risk did not differ significantly by dialysis
+modality. Female sex and Indigenous race were significant risk factors for
+all-cause hospitalization.
+Limitations: The cohort had too few home hemodialysis patients to examine this
+subgroup. The outcome of infection-related hospitalization was determined using
+diagnostic codes. Dialysis patients from Manitoba and Quebec were not included.
+Conclusions: In Canada, the rates of hospitalization were not influenced by
+dialysis modality beyond the initial 7-day period following dialysis initiation; 
+however, the rate of hospitalization in pediatric patients was higher than in
+adults at every time frame examined.
+
+Publisher: Le taux d’hospitalisation des patients dialysés n’avait jamais fait
+l’objet d’une étude pancanadienne. Une connaissance approfondie de la portée et
+des variables associées aux hospitalisations orientera les mesures
+d’amélioration.L’étude visait à mieux évaluer les risques d’hospitalisations des 
+patients dialysés; toutes causes confondues ou liées spécifiquement à une
+infection.Il s’agit d’une étude de cohorte rétrospective fondée sur des bases de 
+données administratives en santé.L’étude couvrait les provinces et territoires du
+Canada à l’exception du Québec et du Manitoba.L’étude a porté sur tous les
+patients dialysés à vie dont le traitement avait commencé entre le 1er janvier
+2005 et le 31 mars 2014. Les patients ayant reçu une greffe rénale ont été
+exclus.Les caractéristiques initiales des patients ont été consignées, et la
+modalité de dialyse a été traitée comme une co-variable sujette à changement dans
+le temps. La principale issue d’intérêt était une hospitalisation due à une
+infection directement liée à la dialyse, ou une hospitalisation toutes causes
+confondues.Les taux bruts d’hospitalisations toutes causes confondues (global) et
+d’hospitalisations liées à une infection ont été calculés en années-patients
+(HAP) à différents moments suivant le début de la dialyse (7 jours, 30 jours, 3
+mois, 6 mois et 12 mois). Un modèle stratifié de fragilité à distribution gamma a
+été employé pour i) répertorier les hospitalisations répétées; ii) déterminer
+l’interrécurrence et le lien de dépendance entre les hospitalisations pour chaque
+patient; et iii) établir le rapport de risque (RR) attribué à chaque covariable
+d’intérêt.En tout, 38 369 patients dialysés, soit 38 088 adultes et 281 patients 
+mineurs (moins de 18 ans) ont été inclus dans l’étude. Au cours de la période
+étudiée, on a répertorié 112 374 hospitalisations, dont 11,5 % étaient dues à une
+infection en lien direct avec la dialyse. Le taux d’hospitalisations global était
+similaire pour tous les groupes d’âge chez les patients adultes. Par exemple,
+chez les patients âgés de 65 ans et plus, ce taux se situait respectivement à
+1,40 HAP, à 1,35 HAP et à 1,18 HAP lorsque calculé 7 jours, 30 jours et 6 mois
+après l’initiation de la dialyse. Lorsque comparé au groupe des 45-64 ans, le
+taux d’hospitalisations global s’est avéré plus élevé chez les patients
+pédiatriques (1,67 HAP à 7 jours, 2,48 HAP à 30 jours et 2,47 HAP à 6 mois)
+post-initiation de la dialyse (RR: 2,73; IC 95 %: 2,37-3,15). Dans les 7 jours
+suivant l’initiation du traitement, les patients traités par dialyse péritonéale 
+présentaient un risque plus élevé d’hospitalisation toutes causes confondues (RR:
+1,27; IC 95 %: 1,07-1,50) ou d’hospitalisation liée à une infection (RR: 2,05; IC
+95 %: 1,19-3,55) que les patients hémodialysés. Par contre, cet écart entre les
+modalités de dialyse n’était plus observable au-delà des sept premiers jours.
+Enfin, le fait d’être autochtone ou de sexe féminin s’avérait un facteur de
+risque d’hospitalisation significatif (toutes causes confondues).Plusieurs
+facteurs limitent la portée des résultats: i) la cohorte comptait trop peu de
+patients hémodialysés à domicile pour permettre une analyse de ce sous-groupe;
+ii) les hospitalisations relatives à une infection ont été établies à l’aide de
+codes diagnostiques; et iii) les patients dialysés résidant au Québec et au
+Manitoba étaient exclus de l’étude.Au Canada, au-delà des sept jours suivant
+l’initiation de la dialyse, la modalité employée n’a plus d’influence sur les
+taux d’hospitalisations. Cependant, à tous les moments post-initiation mesurés,
+les taux d’hospitalisations se sont avérés plus élevés chez les patients
+pédiatriques que chez les adultes.
+DOI: 10.1177/2054358118780372 
+PMCID: PMC5985541
+PMID: 29900002 
+
+Conflict of interest statement: Declaration of Conflicting Interests: The
+author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.
+
+
+8. PLoS One. 2018 May 10;13(5):e0196877. doi: 10.1371/journal.pone.0196877.
+eCollection 2018.
+
+Transcatheter aortic valve implantation for aortic stenosis in high surgical risk
+patients: A systematic review and meta-analysis.
+
+Liu Z(1), Kidney E(2), Bem D(2), Bramley G(2), Bayliss S(2), de Belder MA(3),
+Cummins C(2), Duarte R(4).
+
+Author information: 
+(1)Nuffield Department of Population Health, University of Oxford, Oxford, United
+Kingdom.
+(2)Institute of Applied Health Research, University of Birmingham, Birmingham,
+United Kingdom.
+(3)The James Cook University Hospital, Middlesbrough, United Kingdom.
+(4)Liverpool Reviews and Implementation Group, University of Liverpool,
+Liverpool, United Kingdom.
+
+BACKGROUND: Symptomatic aortic stenosis has a poor prognosis. Many patients are
+considered inoperable or at high surgical risk for surgical aortic valve
+replacement (SAVR), reflecting their age, comorbidities and frailty. The clinical
+effectiveness and safety of TAVI have not been reviewed systematically for these 
+high levels of surgical risk. This systematic review compares mortality and other
+important clinical outcomes up to 5 years post treatment following TAVI or other 
+treatment in these risk groups.
+METHODS: A systematic review protocol was registered on the PROSPERO database
+(CRD42016048396). The Cochrane Library, Centre for Reviews and Dissemination
+Databases, MEDLINE, EMBASE, and ZETOC were searched from January 2002 to August
+2016. Clinical trials or matched studies comparing TAVI with other treatments for
+AS in patients surgically inoperable or operable at a high risk were included.
+Data extraction and quality assessment were conducted by two reviewers. Data were
+pooled using random-effects meta-analysis. The main outcomes were all-cause
+mortality, efficacy and major complications.
+RESULTS: Three good quality randomised controlled trials (RCTs) were included.
+Patients' mean age ranged from 83-85 years, around half were female and New York 
+Heart Association (NYHA) functional class III or IV ranged from 83.8% to 94.2%
+with frequent comorbidities. In 358 surgically inoperable patients from one RCT, 
+TAVI was superior to medical therapy for all-cause mortality at 1 year (hazard
+ratio (HR) 0.58, 95% confidence interval (CI) 0.36-0.92), 2 years (HR 0.50, 95%
+CI 0.39-0.65), 3 years (HR 0.53, 95% CI 0.41to 0.68) and 5 years (HR 0.50, 95% CI
+0.39-0.65), and NYHA class III or IV at 2 years (TAVI 16.8% (16/95), medical
+therapy 57.5% (23/40), p<0.001), quality of life and re-hospitalisation. TAVI had
+higher risks of major bleeding up to 1 year, of stroke up to 3 years (at one year
+11.2% versus 5.5%, p = .06; HR at 2 years 2.79, 95% CI 1.25-6.22; HR at 3 years
+2.81; 95% CI 1.26-6.26) and of major vascular complication at 3 years (HR 8.27,
+95% CI 2.92-23.44). Using the GRADE tool, this evidence was considered to be of
+moderate quality. In a meta-analysis including 1,494 high risk surgically
+operable patients from two non-inferiority RCTs TAVI showed no significant
+differences from SAVR in all-cause mortality at two years (HR 1.03, 95% CI
+0.82-1.29) and up to 5 years (HR 0.83, 95% CI 0.83-1.12). There were no
+statistically significant differences in major vascular complications and
+myocardial infarction at any time point, discrepant results for major bleeding on
+variable definitions and no differences in stroke rate at any time point. Using
+the GRADE tool, this evidence was considered of low quality.
+CONCLUSIONS: Symptomatic aortic stenosis can be lethal without intervention but
+surgical resection is contraindicated for some patients and high risk for others.
+We found that all-cause mortality up to 5 years of follow-up did not differ
+significantly between TAVI and SAVR in patients surgically operable at a high
+risk, but favoured TAVI over medical therapy in patients surgically inoperable.
+TAVI is a viable life-extending treatment option in these surgical high risk
+groups.
+
+DOI: 10.1371/journal.pone.0196877 
+PMCID: PMC5944928
+PMID: 29746546  [Indexed for MEDLINE]
+
+
+9. Respir Med. 2018 Apr;137:89-94. doi: 10.1016/j.rmed.2018.02.022. Epub 2018 Mar 6.
+
+Bacterial pneumonia in kidney transplant recipients.
+
+Wilmes D(1), Coche E(2), Rodriguez-Villalobos H(3), Kanaan N(4).
+
+Author information: 
+(1)Division of Internal Medicine, Cliniques universitaires Saint-Luc, Université 
+catholique de Louvain, Brussels, Belgium.
+(2)Division of Radiology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium.
+(3)Division of Microbiology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium.
+(4)Division of Nephrology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium. Electronic address:
+nada.kanaan@uclouvain.be.
+
+Bacterial pathogens are the most frequent cause of pneumonia after
+transplantation. Early after transplantation, recipients are at higher risk for
+nosocomial infections. The most commonly encountered pathogens during this period
+are gram-negative bacilli (Klebsiella pneumoniae, Escherichia coli, Pseudomonas
+aeruginosa …), but gram-positive coccus such as Staphylococcus aureus or
+Streptococcus pneumoniae and anaerobic bacteria can also be found. Empirical
+antibiotic therapy should be guided by previous colonisation of the recipient and
+bacterial resistance pattern in the hospital. Six months after transplantation,
+pneumonias are mostly due to community-acquired bacteria (S. pneumonia, H.
+influenza, Mycoplasma, Chlamydia and others). Opportunistic pathogens take
+advantage of the state of immunosuppression which is usually highest from one to 
+six months after transplantation. During this period, but also occurring many
+years later in the setting of a chronically depressed immune system, bacterial
+pathogens with low intrinsic virulence can cause pneumonia. The diagnosis of
+pneumonia caused by opportunistic pathogens can be challenging. The delay in
+diagnosis preventing the early instauration of adequate treatment in kidney
+transplant recipients with a depressed immune system, frequently coupled with
+co-morbid conditions and a state of frailty, will affect prognosis and outcome,
+increasing morbidity and mortality. This review will focus on the most common
+opportunistic bacterial pathogens causing pneumonia in kidney transplant
+recipients: Legionella, Nocardia, Mycobacterium tuberculosis/nontuberculous, and 
+Rhodococcus. Recognition of their specificities in the setting of
+immunosuppression will allow early diagnosis, crucial for initiation of effective
+therapy and successful outcome. Interactions with immunosuppressive therapy
+should be considered as well as reducing immunosuppression if necessary.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rmed.2018.02.022 
+PMID: 29605219  [Indexed for MEDLINE]
+
+
+10. Curr Pharm Des. 2018;24(5):641-646. doi: 10.2174/1381612824666180219145229.
+
+Impact of Pre-procedural Cerebrovascular Events on Clinical Outcomes After
+Transcatheter Aortic Valve Implantation in Patients with Severe Aortic Stenosis.
+
+Wiktorowicz A(1), Kleczynski P(1), Dziewierz A(1), Tokarek T(1), Sorysz D(1),
+Bagienski M(1), Rzeszutko L(1), Dudek D(1).
+
+Author information: 
+(1)2nd Department of Cardiology, Jagiellonian University Medical College, Krakow,
+Poland.
+
+BACKGROUND: Transcatheter aortic valve implantation (TAVI) is an increasingly
+common treatment of symptomatic severe aortic valve stenosis (AS). Thus, it is
+reasonable to carefully investigate the impact of individual clinical factors on 
+outcomes after TAVI.
+OBJECTIVES: We aimed to investigate the impact of the previous cerebro-vascular
+events (CVEs) on outcomes of patients with severe AS undergoing TAVI.
+METHODS: A total of 148 consecutive patients scheduled for TAVI were included and
+stratified as with and without a history of CVEs (stroke or transient ischemic
+attack). Frailty features were also assessed. The primary endpoint was a 12-month
+all-cause mortality.
+RESULTS: Seventeen (11.5%) patients had a history of CVEs (the CVE group). At 30 
+days and 12 months, all-cause mortality was higher in the CVE group [30-day: 5
+(29.4%) vs. 7 (5.3%); p=0.005; 12-month: 9 (52.9%) vs. 13 (9.9%); p=0.001].
+Similarly, at the longest available follow-up, mortality was higher in the CVE
+group [10 (58.8%) vs. 23 (17.6%); p=0.001]. Similar rates of other complications 
+after TAVI were noted, apart from inhospital acute kidney injury (AKI) grade 3 [3
+(17.6%) vs. 5 (3.8%); p=0.049] and blood transfusions [9 (52.9%) vs. 35 (26.7%); 
+p=0.026]. Results of 5MWT and Katz index assessment indicated a greater level of 
+frailty in the CVE group. There were no differences in subsequent events
+including CVEs, bleeding, myocardial infarction, and new-onset of atrial
+fibrillation (AF) at 12 months between the groups.
+CONCLUSION: We showed that a history of CVEs in patients with severe AS
+undergoing TAVI is associated with a higher long-term mortality.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.org.
+
+DOI: 10.2174/1381612824666180219145229 
+PMID: 29468958 
+
+
+11. Acta Diabetol. 2018 Apr;55(4):323-330. doi: 10.1007/s00592-017-1094-7. Epub 2018 
+Jan 11.
+
+Levels of serum uric acid at admission for hypoglycaemia predict 1-year
+mortality.
+
+Bonaventura A(1), Gallo F(2), Carbone F(3), Liberale L(3)(4), Maggi D(2), Sacchi 
+G(5), Dallegri F(3)(6), Montecucco F(3)(6)(7), Cordera R(2).
+
+Author information: 
+(1)First Clinic of Internal Medicine, Department of Internal Medicine, University
+of Genoa, 6 Viale Benedetto XV, 16132, Genoa, Italy. aldobon85@gmail.com.
+(2)Diabetology Unit, Department of Internal Medicine, University of Genoa, 6
+Viale Benedetto XV, 16132, Genoa, Italy.
+(3)First Clinic of Internal Medicine, Department of Internal Medicine, University
+of Genoa, 6 Viale Benedetto XV, 16132, Genoa, Italy.
+(4)Center for Molecular Cardiology, University of Zürich, 12 Wagistrasse, 8952,
+Schlieren, Switzerland.
+(5)Emergency Department, Ospedale Policlinico San Martino, 10 Largo Benzi, 16132,
+Genoa, Italy.
+(6)Ospedale Policlinico San Martino, 10 Largo Benzi, 16132, Genoa, Italy.
+(7)Centre of Excellence for Biomedical Research (CEBR), University of Genoa, 9
+Viale Benedetto XV, 16132, Genoa, Italy.
+
+AIMS: Hypoglycaemia represents a critical burden with clinical and social
+consequences in the management of diabetes. Serum uric acid (SUA) has been
+associated with cardiovascular diseases (CVD), but no conclusive findings are
+available nowadays in patients suffering from hypoglycaemia. We investigated
+whether SUA levels at the time of hypoglycaemia could predict all-cause mortality
+after 1-year follow-up.
+METHODS: In total, 219 patients admitted to the Emergency Department (ED) of
+Ospedale Policlinico S. Martino of Genoa (Italy) have been enrolled between
+January 2011 and December 2014. The primary endpoint of the study consisted in
+determining whether SUA levels at the time of ED admission could predict the
+occurrence of death after 1 year.
+RESULTS: The majority of patients were diabetic, especially type 2. CVD and
+chronic kidney disease were prevalent comorbidities. By a cut-off value obtained 
+by the receiver operating characteristic curve analysis, a Kaplan-Meier analysis 
+demonstrated that patients with SUA levels > 5.43 mg/dL were more prone to death 
+after 1 year compared to those with lower SUA levels. The risk of death increased
+with high SUA levels both in the univariate and the multivariate models including
+estimated glomerular filtration rate, C-reactive protein, type of diabetes, and
+age-adjusted Charlson comorbidity index.
+CONCLUSIONS: SUA could be useful as a predictor of 1-year mortality in
+hypoglycaemic patients, irrespective of severe comorbidities notably increasing
+the risk of death in these frail patients.
+
+DOI: 10.1007/s00592-017-1094-7 
+PMID: 29327150  [Indexed for MEDLINE]
+
+
+12. Saudi J Kidney Dis Transpl. 2017 Nov-Dec;28(6):1321-1329. doi:
+10.4103/1319-2442.220873.
+
+Acute kidney injury due to overcorrection of hypovitaminosis D: A tertiary center
+experience in the Kashmir Valley of India.
+
+Chowdry AM(1), Azad H(1), Najar MS(1), Mir I(1).
+
+Author information: 
+(1)Department of Nephrology, Sher-i-Kashmir Institute of Medical Sciences, Soura,
+Srinagar, Jammu and Kashmir, India.
+
+Vitamin D deficiency state is endemic in the Kashmir valley of the Indian
+subcontinent. Clinicians frequently treat patients with Vitamin D for diverse
+clinical symptoms to improve the general health and to reduce the frailty of
+elderly and these doses may at times be inappropriately high. Vitamin D
+toxicity-induced acute kidney injury (AKI), often considered rare, can be
+life-threatening and associated with substantial morbidity if not identified
+promptly. We aimed to describe clinical and biochemical features, risk factors,
+and management of AKI patients with Vitamin D toxicity seen at a single tertiary 
+care centre in Sher-i-Kashmir Institute of Medical Sciences, Srinagar, India,
+between January 2014 and January 2016. Evaluation included detailed clinical
+history and biochemical tests including serum calcium, phosphorus, creatinine,
+intact parathyroid hormone, and 25-hydroxyvitamin D [25(OH)D]. Nineteen patients 
+with Vitamin D toxicity-induced AKI could be identified. Clinical manifestations 
+included nausea, vomiting, altered sensorium, constipation, pancreatitis, AKI,
+acute on chronic kidney disease, and weight loss. Median (range) age was 64
+(45-89) years. Median (range) serum 25(OH)D level and median (range) total serum 
+calcium level were 99 (190-988) ng/mL and 139 (119-152) mg/dL, respectively.
+Overdose of Vitamin D caused by prescription of megadoses of Vitamin D was the
+cause of AKI in all cases. Median (range) cumulative Vitamin D dose was 6,000,000
+(3,600,000-9,000,000) IU. On three- and six-month follow-up, the creatinine and
+estimated glomerular filtration rate normalized and returned to baseline in all
+patients except three cases who had underlying chronic kidney disease. Three
+patients needed rehospitalization for another episode of AKI. Our data
+demonstrate an emergence of Vitamin D toxicity as a cause of AKI in this part of 
+the world. Irrational use of Vitamin D in megadoses resulted in AKI in all cases.
+Persistence of Vitamin D in the body for longer time resulted in
+rehospitalization of patients with AKI. Awareness among health-care providers
+regarding the toxic potential of high doses of Vitamin D and cautious use of
+Vitamin D supplements can have immense value to prevent this AKI.
+
+DOI: 10.4103/1319-2442.220873 
+PMID: 29265043 
+
+
+13. J Cachexia Sarcopenia Muscle. 2018 Feb;9(1):41-52. doi: 10.1002/jcsm.12260. Epub 
+2017 Nov 21.
+
+Vitamin B12 deficiency and impaired expression of amnionless during aging.
+
+Pannérec A(1), Migliavacca E(1), De Castro A(2), Michaud J(1), Karaz S(1), Goulet
+L(1), Rezzi S(1), Ng TP(3)(4), Bosco N(2), Larbi A(5), Feige JN(1).
+
+Author information: 
+(1)Nestlé Institute of Health Sciences, EPFL Innovation Park, Building H, 1015,
+Lausanne, Switzerland.
+(2)Nestlé Research Centre, Singapore.
+(3)Gerontology Research Programme, Department of Psychological Medicine, Young
+Loo Lin School of Medicine, National University of Singapore, Singapore.
+(4)Geriatric Education and Research Institute, Ministry of Health, Singapore.
+(5)Singapore Immunology Network, Biopolis, Agency for Science, Technology and
+Research, Singapore.
+
+BACKGROUND: Physical frailty and loss of mobility in elderly individuals lead to 
+reduced independence, quality of life, and increased mortality. Vitamin B12
+deficiency has been linked to several age-related chronic diseases, including in 
+the musculo-skeletal system, where vitamin B12 deficiency is generally believed
+to be linked to poor nutritional intake. In the present study, we asked whether
+aging and frailty associate with altered vitamin B12 homeostasis in humans and
+investigated the underlying molecular mechanisms using preclinical models.
+METHODS: We analysed a subset of the Singapore Longitudinal Aging Study and
+stratified 238 participants based on age and Fried frailty criteria. Levels of
+methyl-malonic acid (MMA), a marker for vitamin B12 deficiency, and amnionless,
+the vitamin B12 co-receptor that anchors the vitamin B12 transport complex to the
+membrane of epithelial cells, were measured in plasma. In addition, vitamin B12
+levels and the molecular mechanisms of vitamin B12 uptake and excretion were
+analysed in ileum, kidney, liver, and blood using a rat model of natural aging
+where nutritional intake is fully controlled.
+RESULTS: We demonstrate that aging and frailty are associated with a higher
+prevalence of functional vitamin B12 deficiency that can be detected by increased
+levels of MMA in blood (ρ = 0.25; P = 0.00013). The decline in circulating
+vitamin B12 levels is recapitulated in a rat model of natural aging where food
+composition and intake are stable. At the molecular level, these perturbations
+involve altered expression of amnionless in the ileum and kidney. Interestingly, 
+we demonstrate that amnionless can be detected in serum where its levels increase
+during aging in both rodents and human (P = 3.3e-07 and 9.2e-07, respectively).
+Blood amnionless levels negatively correlate with vitamin B12 in rats (r2
+ = 0.305; P = 0.0042) and positively correlate with the vitamin B12 deficiency
+marker MMA in humans (ρ = 0.22; P = 0.00068).
+CONCLUSIONS: Our results demonstrate that aging and frailty cause intrinsic
+vitamin B12 deficiencies, which can occur independently of nutritional intake.
+Mechanistically, vitamin B12 deficiency involves the physio-pathological decline 
+of both the intestinal uptake and the renal reabsorption system for vitamin B12. 
+Finally, amnionless is a novel biomarker which can detect perturbed vitamin B12
+bioavailability during aging and physical frailty.
+
+© 2017 The Authors. Journal of Cachexia, Sarcopenia and Muscle published by John 
+Wiley & Sons Ltd on behalf of the Society on Sarcopenia, Cachexia and Wasting
+Disorders.
+
+DOI: 10.1002/jcsm.12260 
+PMCID: PMC5803611
+PMID: 29159972  [Indexed for MEDLINE]
+
+
+14. Nephrology (Carlton). 2019 Jan;24(1):94-101. doi: 10.1111/nep.13194.
+
+Suboptimal initiation predicts short-term prognosis and vulnerability among very 
+elderly patients who start haemodialysis.
+
+Kanno A(1), Nakayama M(2), Sanada S(1), Sato M(1), Sato T(1), Taguma Y(1).
+
+Author information: 
+(1)Department of Nephrology, Japan Community Health Care Organization (JCHO)
+Sendai Hospital, Sendai, Japan.
+(2)Research Division of Chronic Kidney Disease and Dialysis Treatment, Tohoku
+University Hospital, Tohoku University, Sendai, Japan.
+
+AIM: A recent, growing concern regarding haemodialysis in Japan is a sustained
+increase in the elderly population. Among very elderly people who start
+haemodialysis, the prognosis is considered to be poor; however, this has not been
+fully elucidated. This study aimed to discover the short-term prognosis and
+related factors in very elderly patients who commence haemodialysis.
+METHODS: Between January 2008 and December 2013, 122 patients aged ≥85 years at
+haemodialysis initiation were documented in our hospital. Predictors of 90-day
+and 1-year mortality after haemodialysis initiation were assessed with Cox
+proportional hazards regression analysis. Selection of covariates for the
+multivariate model was based on forward stepwise selection using the probability 
+of a likelihood ratio statistics.
+RESULTS: The subjects' mean age was 87.4 ± 2.5 years, and 48% were female. The
+most common cause of death was infection (38% of patients) and the leading cause 
+of infectious death was pneumonia. The 90-day and 1-year survival rates were 81% 
+and 62%, respectively. Suboptimal initiation was a significant prognostic factor 
+for 90-day [hazard ratio (HR) 3.98, 95% confidence interval (CI) 1.18-13.43] and 
+1-year [HR 3.19, 95% CI 1.51-6.76] mortality after adjusting for confounders in
+multivariate analysis.
+CONCLUSION: Very elderly patients who started haemodialysis had a poor prognosis,
+and suboptimal initiation significantly predicted outcome. Shared decision-making
+with patients and their families is needed for initiating haemodialysis on the
+conditions that appropriate information on the expected prognosis is provided.
+
+© 2017 Asian Pacific Society of Nephrology.
+
+DOI: 10.1111/nep.13194 
+PMID: 29131496 
+
+
+15. Am J Kidney Dis. 2018 Feb;71(2):182-190. doi: 10.1053/j.ajkd.2017.08.014. Epub
+2017 Nov 8.
+
+Association of Citizenship Status With Kidney Transplantation in Medicaid
+Patients.
+
+Shen JI(1), Hercz D(2), Barba LM(3), Wilhalme H(2), Lum EL(4), Huang E(4), Reddy 
+U(5), Salas L(6), Vangala S(2), Norris KC(7).
+
+Author information: 
+(1)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA; Department of Medicine,
+David Geffen School of Medicine at UCLA, Los Angeles, CA. Electronic address:
+jshen@labiomed.org.
+(2)Department of Medicine Statistics Core, David Geffen School of Medicine at
+UCLA, Los Angeles, CA.
+(3)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA; Department of Medicine,
+David Geffen School of Medicine at UCLA, Los Angeles, CA.
+(4)Division of Nephrology, David Geffen School of Medicine at UCLA, Los Angeles, 
+CA.
+(5)Division of Nephrology and Hypertension, University of California Irvine,
+Orange, CA.
+(6)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA.
+(7)Division of General Internal Medicine and Health Services Research, David
+Geffen School of Medicine at UCLA, Los Angeles, CA.
+
+BACKGROUND: Although individuals classified as nonresident aliens, including
+undocumented immigrants, are entitled to receive emergency dialysis in the United
+States regardless of their ability to pay, most states do not provide them with
+subsidized care for maintenance dialysis or kidney transplantation. We explored
+whether nonresident aliens have similar outcomes to US citizens after receiving
+kidney transplants covered by Medicaid, a joint federal and state health
+insurance program.
+STUDY DESIGN: Retrospective observational cohort study.
+SETTING & PARTICIPANTS: All adult Medicaid patients in the US Renal Data System
+who received their first kidney transplant from 1990 to 2011.
+PREDICTOR: Citizenship status, categorized as US citizen, nonresident alien, or
+permanent resident.
+OUTCOME: All-cause transplant loss.
+MEASUREMENTS: HRs and 95% CIs estimated by applying Cox proportional hazards
+frailty models with transplantation center as a random effect.
+RESULTS: Of 10,495 patients, 8,660 (82%) were US citizens, 1,489 (14%) were
+permanent residents, and 346 (3%) were nonresident aliens, whom we assumed were
+undocumented immigrants. Nonresident aliens were younger, healthier, receiving
+dialysis longer, and more likely to have had a living donor. 71% underwent
+transplantation in California, and 61% underwent transplantation after 2005.
+Nonresident aliens had a lower unadjusted risk for transplant loss compared with 
+US citizens (HR, 0.48; 95% CI, 0.35-0.65). Results were attenuated but still
+significant when adjusted for demographics, comorbid conditions, dialysis, and
+transplant-related factors (HR, 0.67; 95% CI, 0.46-0.94).
+LIMITATIONS: Citizenship status was self-reported, possible residual confounding.
+CONCLUSIONS: Our study suggests that the select group of insured nonresident
+aliens who undergo transplantation with Medicaid do just as well as US citizens
+with Medicaid. Policymakers should consider expanding coverage for kidney
+transplantation in nonresident aliens, including undocumented immigrants, given
+the associated high-quality outcomes in these patients.
+
+Copyright © 2017 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.ajkd.2017.08.014 
+PMCID: PMC5794566
+PMID: 29128413 
+
+
+16. BMJ. 2017 Oct 17;359:j4323. doi: 10.1136/bmj.j4323.
+
+Comparative safety of direct oral anticoagulants and warfarin in venous
+thromboembolism: multicentre, population based, observational study.
+
+Jun M(1)(2)(3), Lix LM(4), Durand M(5), Dahl M(6), Paterson JM(7)(8)(9), Dormuth 
+CR(10), Ernst P(11)(12), Yao S(13), Renoux C(11)(14)(15), Tamim H(16)(17), Wu
+C(18), Mahmud SM(19), Hemmelgarn BR(20); Canadian Network for Observational Drug 
+Effect Studies (CNODES) Investigators.
+
+Author information: 
+(1)Departments of Medicine and Community Health Sciences, University of Calgary, 
+AB, Canada.
+(2)The George Institute for Global Health, Sydney, NSW, Australia.
+(3)Faculty of Medicine, UNSW Sydney, NSW, Australia.
+(4)Department of Community Health Sciences, University of Manitoba, MB, Canada.
+(5)Department of Internal Medicine, University of Montreal Health Centre,
+Montreal, QC, Canada.
+(6)Manitoba Centre for Health Policy, Department of Community Health Sciences,
+University of Manitoba, Winnipeg, MB, Canada.
+(7)Department of Family Medicine, McMaster University, Hamilton, ON, Canada.
+(8)Institute for Clinical Evaluative Sciences, Toronto, ON, Canada.
+(9)Institute of Health Policy, Management and Evaluation, University of Toronto, 
+ON, Toronto.
+(10)Department of Anesthesiology, Pharmacology and Therapeutics, University of
+British Columbia, Vancouver, BC, Canada.
+(11)Center for Clinical Epidemiology, Lady Davis Research Institute, Jewish
+General Hospital, Montreal, QC, Canada.
+(12)Department of Medicine, McGill University, Montreal, QC, Canada.
+(13)College of Pharmacy and Nutrition, Department of Pharmacy, University of
+Saskatchewan, SK, Canada.
+(14)Department of Neurology and Neurosurgery, McGill University, Montréal, QC,
+Canada.
+(15)Department of Epidemiology and Biostatistics, McGill University, Montréal,
+QC, Canada.
+(16)School of Kinesiology and Health Science, York University, Toronto, ON,
+Canada.
+(17)Department of Community Health and Epidemiology, Dalhousie University,
+Halifax, NS, Canada.
+(18)Department of Medicine, University of Alberta, Edmonton, AB, Canada.
+(19)Department of Community Health Sciences, University of Manitoba, Winnipeg,
+MB, Canada.
+(20)Departments of Medicine and Community Health Sciences, University of Calgary,
+AB, Canada Brenda.Hemmelgarn@ahs.ca.
+
+Objective To determine the safety of direct oral anticoagulant (DOAC) use
+compared with warfarin use for the treatment of venous
+thromboembolism.Design Retrospective matched cohort study conducted between 1
+January 2009 and 31 March 2016.Setting Community based, using healthcare data
+from six jurisdictions in Canada and the United States.Participants 59 525 adults
+(12 489 DOAC users; 47 036 warfarin users) with a new diagnosis of venous
+thromboembolism and a prescription for a DOAC or warfarin within 30 days of
+diagnosis.Main outcome measures Outcomes included hospital admission or emergency
+department visit for major bleeding and all cause mortality within 90 days after 
+starting treatment. Propensity score matching and shared frailty models were used
+to estimate adjusted hazard ratios of the outcomes comparing DOACs with warfarin.
+Analyses were conducted independently at each site, with meta-analytical methods 
+used to estimate pooled hazard ratios across sites.Results Of the 59 525
+participants, 1967 (3.3%) had a major bleed and 1029 (1.7%) died over a mean
+follow-up of 85.2 days. The risk of major bleeding was similar for DOAC compared 
+with warfarin use (pooled hazard ratio 0.92, 95% confidence interval 0.82 to
+1.03), with the overall direction of the association favouring DOAC use. No
+difference was found in the risk of death (pooled hazard ratio 0.99, 0.84 to
+1.16) for DOACs compared with warfarin use. There was no evidence of
+heterogeneity across centres, between patients with and without chronic kidney
+disease, across age groups, or between male and female patients.Conclusions In
+this analysis of adults with incident venous thromboembolism, treatment with
+DOACs, compared with warfarin, was not associated with an increased risk of major
+bleeding or all cause mortality in the first 90 days of treatment.Trial
+registration Clinical trials NCT02833987.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.j4323 
+PMCID: PMC5641962
+PMID: 29042362  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed
+the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available 
+on request from the corresponding author) and declare: support for the submitted 
+work as described above; CW has received honorariums (for advisory board meetings
+as well as speaking engagements) from Leo Pharma and Pfizer (makers of tinzaparin
+and dalteparin, respectively); SMM has received research grants for work
+unrelated to this project from GlaxoSmithKline, Merck, Pfizer, and Sanofi; no
+other relationships or activities that could appear to have influenced the
+submitted work.
+
+
+17. Kidney Blood Press Res. 2017;42(3):575-586. doi: 10.1159/000480674. Epub 2017 Sep
+18.
+
+The Clinical Significance of Physical Activity in Maintenance Dialysis Patients.
+
+Kang SH(1), Do JY(1), Jeong HY(2), Lee SY(2), Kim JC(3).
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, Yeungnam University
+Hospital, Daegu, Republic of Korea.
+(2)Division of Nephrology, Department of Internal Medicine, CHA Bundang Medical
+Center, CHA University School of Medicine, Seongnam, Republic of Korea.
+(3)Division of Nephrology, Department of Internal Medicine, CHA Gumi Medical
+Center, CHA University, Gumi, Republic of Korea.
+
+BACKGROUND: The aim of the present study was to evaluate the effects of physical 
+activity on various aspects in Asian dialysis patients.
+METHODS: This was a retrospective cohort study. Study participants were recruited
+from 27 hospitals or dialysis centers in Korea (n = 1611). The participants were 
+divided into 3 groups according to the degree of regular exercise: Inactive
+group, Intermediate group, and Active group.
+RESULTS: The proportions of patients with frailty and the presence of each
+component decreased as physical activity increased. The presence and numbers of
+disabilities decreased as physical activity increased. The number of participants
+with a history of fall during the last 12 months was 149 (20.5%) in the Inactive 
+group, 88 (16.9%) in the Intermediate group, and 48 (13.2%) in the Active group. 
+Physical component scale and mental component scale scores increased as physical 
+activity increased. The survival rate for all-cause death at 500 days was 95.5%
+in the Active group, 95.2% in the Intermediate group, and 93.5% in the Inactive
+group.
+CONCLUSION: High physical activity was associated with favorable results for most
+health-related quality of life scale scores, including frailty, disability, and
+exhaustion, in Korean dialysis patients.
+
+© 2017 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000480674 
+PMID: 29017151  [Indexed for MEDLINE]
+
+
+18. J Korean Med Sci. 2017 Nov;32(11):1800-1806. doi: 10.3346/jkms.2017.32.11.1800.
+
+Is Frailty a Modifiable Risk Factor of Future Adverse Outcomes in Elderly
+Patients with Incident End-Stage Renal Disease?
+
+Lee SW(1)(2), Lee A(3), Yu MY(4), Kim SW(3), Kim KI(3)(5), Na KY(1)(3)(5), Chae
+DW(1)(3)(5), Kim CH(3)(5), Chin HJ(3)(6).
+
+Author information: 
+(1)Department of Internal Medicine, Seoul National University Postgraduate
+School, Seoul, Korea.
+(2)Department of Internal Medicine, Eulji General Hospital, Seoul, Korea.
+(3)Department of Internal Medicine, Seoul National University Bundang Hospital,
+Seongnam, Korea.
+(4)Department of Internal Medicine, Seoul National University Hospital, Seoul,
+Korea.
+(5)Department of Internal Medicine, Seoul National University College of
+Medicine, Seoul, Korea.
+(6)Department of Internal Medicine, Seoul National University College of
+Medicine, Seoul, Korea. mednep@snubh.org.
+
+Little is known about the clinical significance of frailty and changes of frailty
+after dialysis initiation in elderly patients with end-stage renal disease
+(ESRD). We prospectively enrolled 46 elderly patients with incident ESRD at a
+dialysis center of a tertiary hospital between May 2013 and March 2015. Frailty
+was assessed by using a comprehensive geriatric assessment protocol and defined
+as a multidimensional frailty score of ≥ 10. The main outcome was the composite
+of all-cause death or cardiovascular hospitalization, as determined in June 2016.
+The median age of the 46 participants was 71.5 years, and 63.0% of them were men.
+During the median 17.7 months follow-up, the rate of composite outcome was 17.4%.
+In multivariate logistic regression analysis, after adjusting for age, sex,
+diabetes, body mass index (BMI), and time of predialytic nephrologic care, female
+sex, and increased BMI were associated with increased and decreased odds of
+frailty, respectively. In multivariate Cox proportional hazards analysis, after
+adjusting for age, sex, diabetes, BMI, and time of predialytic nephrologic care, 
+frailty was significantly associated with the composite adverse outcome. In
+repeated frailty assessments, the multidimensional frailty score significantly
+improved 12 months after the initiation of dialysis, which largely relied on
+improved nutrition. Therefore, frailty needs to be assessed for risk
+stratification in elderly patients with incident ESRD.
+
+© 2017 The Korean Academy of Medical Sciences.
+
+DOI: 10.3346/jkms.2017.32.11.1800 
+PMCID: PMC5639060
+PMID: 28960032  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no potential conflicts of
+interest to disclose.
+
+
+19. BMJ. 2017 Sep 20;358:j4208. doi: 10.1136/bmj.j4208.
+
+Development and validation of QMortality risk prediction algorithm to estimate
+short term risk of death and assess frailty: cohort study.
+
+Hippisley-Cox J(1), Coupland C(2).
+
+Author information: 
+(1)Division of Primary Care, University Park, University of Nottingham,
+Nottingham NG2 7RD, UK Julia.hippisley-cox@nottingham.ac.uk.
+(2)Division of Primary Care, University Park, University of Nottingham,
+Nottingham NG2 7RD, UK.
+
+Comment in
+    BMJ. 2017 Sep 27;358:j4478.
+
+Objectives To derive and validate a risk prediction equation to estimate the
+short term risk of death, and to develop a classification method for frailty
+based on risk of death and risk of unplanned hospital
+admission.Design Prospective open cohort study.Participants Routinely collected
+data from 1436 general practices contributing data to QResearch in England
+between 2012 and 2016. 1079 practices were used to develop the scores and a
+separate set of 357 practices to validate the scores. 1.47 million patients aged 
+65-100 years were in the derivation cohort and 0.50 million patients in the
+validation cohort.Methods Cox proportional hazards models in the derivation
+cohort were used to derive separate risk equations in men and women for
+evaluation of the risk of death at one year. Risk factors considered were age,
+sex, ethnicity, deprivation, smoking status, alcohol intake, body mass index,
+medical conditions, specific drugs, social factors, and results of recent
+investigations. Measures of calibration and discrimination were determined in the
+validation cohort for men and women separately and for each age and ethnic group.
+The new mortality equation was used in conjunction with the existing QAdmissions 
+equation (which predicts risk of unplanned hospital admission) to classify
+patients into frailty groups.Main outcome measure The primary outcome was all
+cause mortality.Results During follow-up 180 132 deaths were identified in the
+derivation cohort arising from 4.39 million person years of observation. The
+final model included terms for age, body mass index, Townsend score, ethnic
+group, smoking status, alcohol intake, unplanned hospital admissions in the past 
+12 months, atrial fibrillation, antipsychotics, cancer, asthma or chronic
+obstructive pulmonary disease, living in a care home, congestive heart failure,
+corticosteroids, cardiovascular disease, dementia, epilepsy, learning disability,
+leg ulcer, chronic liver disease or pancreatitis, Parkinson's disease, poor
+mobility, rheumatoid arthritis, chronic kidney disease, type 1 diabetes, type 2
+diabetes, venous thromboembolism, anaemia, abnormal liver function test result,
+high platelet count, visited doctor in the past year with either appetite loss,
+unexpected weight loss, or breathlessness. The model had good calibration and
+high levels of explained variation and discrimination. In women, the equation
+explained 55.6% of the variation in time to death (R2), and had very good
+discrimination-the D statistic was 2.29, and Harrell's C statistic value was
+0.85. The corresponding values for men were 53.1%, 2.18, and 0.84. By combining
+predicted risks of mortality and unplanned hospital admissions, 2.7% of patients 
+(n=13 665) were classified as severely frail, 9.4% (n=46 770) as moderately
+frail, 43.1% (n=215 253) as mildly frail, and 44.8% (n=223 790) as
+fit.Conclusions We have developed new equations to predict the short term risk of
+death in men and women aged 65 or more, taking account of demographic, social,
+and clinical variables. The equations had good performance on a separate
+validation cohort. The QMortality equations can be used in conjunction with the
+QAdmissions equations, to classify patients into four frailty groups (known as
+QFrailty categories) to enable patients to be identified for further assessment
+or interventions.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.j4208 
+PMCID: PMC5606253
+PMID: 28931509  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Both authors have completed 
+the uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on
+request from the corresponding author) and declare: JHC is codirector of
+QResearch, a not-for-profit organisation, which is a joint partnership between
+the University of Nottingham and Egton Medical Information Systems (leading
+commercial supplier of IT for 55% of general practices in the UK). JHC is also a 
+paid director of ClinRisk, which produces open and closed source software to
+ensure the reliable and updatable implementation of clinical risk equations
+within clinical computer systems to help improve patient care. CC is a paid
+consultant statistician for ClinRisk. This work and any views expressed within it
+are solely those of the authors and not of any affiliated bodies or
+organisations.
+
+
+20. Biometrics. 2018 Mar;74(1):289-299. doi: 10.1111/biom.12739. Epub 2017 Jul 6.
+
+Evaluating center performance in the competing risks setting: Application to
+outcomes of wait-listed end-stage renal disease patients.
+
+Dharmarajan SH(1), Schaubel DE(1), Saran R(2).
+
+Author information: 
+(1)Department of Biostatistics, University of Michigan, Ann Arbor, Michigan,
+U.S.A.
+(2)Department of Internal Medicine, University of Michigan, Ann Arbor, Michigan, 
+U.S.A.
+
+It is often of interest to compare centers or healthcare providers on quality of 
+care delivered. We consider the setting where evaluation of center performance on
+multiple competing events is of interest. We propose estimating center effects
+through cause-specific proportional hazards frailty models that allow correlation
+among a center's cause-specific effects. Estimation of our model proceeds via
+penalized partial likelihood and is implemented in R. To evaluate center
+performance, we also propose a directly standardized excess cumulative incidence 
+(ECI) measure. Therefore, based on our proposed methods, practitioners can
+evaluate centers either through the cause-specific hazards or the cumulative
+incidence functions. We demonstrate, through simulations, the advantages of the
+proposed methods to detect outlying centers, by comparing the proposed methods
+and existing methods which assume uncorrelated random center effects. In
+addition, we develop a Correlation Score Test to test the null hypothesis that
+the competing event processes within a center are correlated. Using data from the
+Scientific Registry of Transplant Recipients, we apply our method to evaluate the
+performance of Organ Procurement Organizations on two competing risks: (i)
+receipt of a kidney transplant and (ii) death on the wait-list.
+
+© 2017, The International Biometric Society.
+
+DOI: 10.1111/biom.12739 
+PMID: 28682445 
+
+
+21. Clin J Am Soc Nephrol. 2017 Jul 7;12(7):1090-1099. doi: 10.2215/CJN.12321216.
+Epub 2017 Jun 21.
+
+Multicenter Registry Analysis of Center Characteristics Associated with Technique
+Failure in Patients on Incident Peritoneal Dialysis.
+
+Htay H(1), Cho Y(1), Pascoe EM(1), Darssan D(1), Nadeau-Fredette AC(1), Hawley
+C(1), Clayton PA(1), Borlace M(1), Badve SV(1), Sud K(1), Boudville N(1),
+McDonald SP(1), Johnson DW(2).
+
+Author information: 
+(1)Due to the number of contributing authors, the affiliations are provided in
+the Supplemental Material.
+(2)Due to the number of contributing authors, the affiliations are provided in
+the Supplemental Material. david.johnson2@health.qld.gov.au.
+
+Comment in
+    Clin J Am Soc Nephrol. 2017 Jul 7;12 (7):1032-1034.
+
+BACKGROUND AND OBJECTIVES: Technique failure is a major limitation of peritoneal 
+dialysis. Our study aimed to identify center- and patient-level predictors of
+peritoneal dialysis technique failure.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: All patients on incident
+peritoneal dialysis in Australia from 2004 to 2014 were included in the study
+using data from the Australia and New Zealand Dialysis and Transplant Registry.
+Center- and patient-level characteristics associated with technique failure were 
+evaluated using Cox shared frailty models. Death-censored technique failure and
+cause-specific technique failure were analyzed as secondary outcomes.
+RESULTS: The study included 9362 patients from 51 centers in Australia. The
+technique failure rate was 0.35 (95% confidence interval, 0.34 to 0.36) episodes 
+per patient-year, with a sevenfold variation across centers that was mainly
+associated with center-level characteristics. Technique failure was significantly
+less likely in centers with larger proportions of patients treated with
+peritoneal dialysis (>29%; adjusted hazard ratio, 0.83; 95% confidence interval, 
+0.73 to 0.94) and more likely in smaller centers (<16 new patients per year;
+adjusted hazard ratio, 1.10; 95% confidence interval, 1.00 to 1.21) and centers
+with lower proportions of patients achieving target baseline serum phosphate
+levels (<40%; adjusted hazard ratio, 1.15; 95% confidence interval, 1.03 to
+1.29). Similar results were observed for death-censored technique failure, except
+that center target phosphate achievement was not significantly associated.
+Technique failure due to infection, social reasons, mechanical causes, or death
+was variably associated with center size, proportion of patients on peritoneal
+dialysis, and/or target phosphate achievement, automated peritoneal dialysis
+exposure, icodextrin use, and antifungal use. The variation of hazards of
+technique failure across centers was reduced by 28% after adjusting for
+patient-specific factors and an additional 53% after adding center-specific
+factors.
+CONCLUSIONS: Technique failure varies widely across centers in Australia. A
+significant proportion of this variation is related to potentially modifiable
+center characteristics, including peritoneal dialysis center size, proportion of 
+patients on peritoneal dialysis, and proportion of patients on peritoneal
+dialysis achieving target phosphate level.
+
+Copyright © 2017 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.12321216 
+PMCID: PMC5498362
+PMID: 28637862  [Indexed for MEDLINE]
+
+
+22. BMC Nephrol. 2017 May 22;18(1):166. doi: 10.1186/s12882-017-0574-x.
+
+Periodontitis and early mortality among adults treated with hemodialysis: a
+multinational propensity-matched cohort study.
+
+Ruospo M(1)(2), Palmer SC(3), Wong G(4), Craig JC(4), Petruzzi M(5), De
+Benedittis M(5), Ford P(6), Johnson DW(6)(7), Tonelli M(8), Natale P(1),
+Saglimbene V(1)(4), Pellegrini F(9), Celia E(1), Gelfman R(1), Leal MR(1), Torok 
+M(1), Stroumza P(1), Bednarek-Skublewska A(1)(10), Dulawa J(1)(11), Frantzen
+L(1), Del Castillo D(1), Schon S(1), Bernat AG(1), Hegbrant J(1), Wollheim C(1), 
+Gargano L(1), Bots CP(12), Strippoli GF(13)(14)(15)(16); ORALD Investigators.
+
+Author information: 
+(1)Diaverum Medical Scientific Office, Lund, Sweden.
+(2)Amedeo Avogadro University of Eastern Piedmont, Novara, Italy.
+(3)University of Otago Christchurch, Christchurch, New Zealand.
+(4)University of Sydney, Sydney, Australia.
+(5)Department of Emergency and Organ Transplantation, University of Bari, Piazza 
+Giulio Cesare, 70124, Bari, Italy.
+(6)University of Queensland, Brisbane, Australia.
+(7)Translational Research Institute, Brisbane, Australia.
+(8)University of Calgary, Calgary, Canada.
+(9)Global Medical Biogen Idec, Cambridge, MA, USA.
+(10)Medical University of Lublin, Lublin, Poland.
+(11)SHS, Medical University of Silesia, Katowice, Poland.
+(12)Academic Centre for Dentistry Amsterdam (ACTA), Amsterdam, The Netherlands.
+(13)Diaverum Medical Scientific Office, Lund, Sweden. gfmstrippoli@gmail.com.
+(14)University of Sydney, Sydney, Australia. gfmstrippoli@gmail.com.
+(15)Department of Emergency and Organ Transplantation, University of Bari, Piazza
+Giulio Cesare, 70124, Bari, Italy. gfmstrippoli@gmail.com.
+(16)Diaverum Academy, Lund, Sweden. gfmstrippoli@gmail.com.
+
+BACKGROUND: Periodontitis is associated with cardiovascular mortality in the
+general population and adults with chronic diseases. However, it is unclear
+whether periodontitis predicts survival in the setting of kidney failure.
+METHODS: ORAL-D was a propensity matched analysis in 3338 dentate adults with
+end-stage kidney disease treated in a hemodialysis network in Europe and South
+America designed to examine the association between periodontitis and all-cause
+and cardiovascular-related mortality in people on long-term hemodialysis.
+Participants were matched 1:1 on their propensity score for moderate to severe
+periodontitis assessed using the World Health Organization Community Periodontal 
+Index. A random-effects Cox proportional hazards model was fitted with shared
+frailty to account for clustering of mortality risk within countries.
+RESULTS: Among the 3338 dentate participants, 1355 (40.6%) had moderate to severe
+periodontitis at baseline. After using propensity score methods to generate a
+matched cohort of participants with periodontitis similar to those with none or
+mild periodontal disease, moderate to severe periodontitis was associated with a 
+lower risk of all-cause (9.1 versus 13.0 per 100 person years, hazard ratio 0.74,
+95% confidence interval 0.61 to 0.90) and cardiovascular (4.3 versus 6.9 per 100 
+person years, hazard ratio 0.67, 0.51 to 0.88) mortality. These associations were
+not changed substantially when participants were limited to those with 12 or more
+natural teeth and when accounting for competing causes of cardiovascular death.
+CONCLUSION: In contrast to the general population, periodontitis does not appear 
+to be associated with an increased risk of early death in adults treated with
+hemodialysis.
+
+DOI: 10.1186/s12882-017-0574-x 
+PMCID: PMC5440912
+PMID: 28532432  [Indexed for MEDLINE]
+
+
+23. J Am Geriatr Soc. 2017 Jan;65(1):16-21. doi: 10.1111/jgs.14681. Epub 2016 Nov 7.
+
+Applying the Systolic Blood Pressure Intervention Trial Results to Older Adults.
+
+Supiano MA(1)(2), Williamson JD(3).
+
+Author information: 
+(1)Division of Geriatrics, School of Medicine, University of Utah, Salt Lake
+City, Utah.
+(2)Geriatric Research, Education, and Clinical Center, Veterans Affairs Salt Lake
+City, Salt Lake City, Utah.
+(3)Section on Geriatric Medicine, Department of Internal Medicine, School of
+Medicine, Wake Forest University, Winston-Salem, North Carolina.
+
+The Systolic Blood Pressure Intervention Trial (SPRINT; ClinicalTrials.gov,
+NCT01206062) was stopped early because of significantly lower risk of
+cardiovascular disease in participants randomized to a systolic blood pressure
+target of 120 mmHg (intensive) than in those randomized to 140 mmHg (standard).
+The cardiovascular outcome benefit was also identified in subjects aged 75 and
+older assigned to the intensive arm-34% lower than in the standard arm-in
+addition to 33% lower all-cause mortality at 3.14 years of follow-up. These
+beneficial outcomes held in older participants characterized as frail or with
+impaired gait speed. This article addresses several questions that need to be
+considered in applying the SPRINT results to the clinical care of older adults:
+Why are the SPRINT results discordant from those of epidemiological studies? Do
+the SPRINT findings generalize to the frail, older adults that I care for? Were
+there more adverse events in the intensive treatment group? What about cognitive 
+and kidney outcomes? What are future considerations, and how low should we go?
+
+© 2016, Copyright the Authors Journal compilation © 2016, The American Geriatrics
+Society.
+
+DOI: 10.1111/jgs.14681 
+PMID: 28111758  [Indexed for MEDLINE]
+
+
+24. Am J Cardiol. 2017 Mar 1;119(5):770-777. doi: 10.1016/j.amjcard.2016.11.019. Epub
+2016 Dec 2.
+
+Prognostic Value of Hypoalbuminemia After Transcatheter Aortic Valve Implantation
+(from the Japanese Multicenter OCEAN-TAVI Registry).
+
+Yamamoto M(1), Shimura T(2), Kano S(3), Kagase A(2), Kodama A(2), Sago M(2),
+Tsunaki T(2), Koyama Y(3), Tada N(4), Yamanaka F(5), Naganuma T(6), Araki M(7),
+Shirai S(8), Watanabe Y(9), Hayashida K(10).
+
+Author information: 
+(1)Department of Cardiology, Toyohashi Heart Center, Toyohashi, Japan. Electronic
+address: masa-nori@nms.ac.jp.
+(2)Department of Cardiology, Toyohashi Heart Center, Toyohashi, Japan.
+(3)Department of Cardiology, Nagoya Heart Center, Nagoya, Japan.
+(4)Department of Cardiology, Sendai Kousei Hospital, Sendai, Japan.
+(5)Department of Cardiology, Syonan Kamakura Hospital, Shonan, Japan.
+(6)Department of Cardiology, New Tokyo Hospital, Chiba, Japan.
+(7)Department of Cardiology, Saiseikai Yokohama City Eastern Hospital, Yokohama, 
+Japan.
+(8)Department of Cardiology, Kokura Memorial Hospital, Kokura, Japan.
+(9)Department of Cardiology, Teikyo University School of Medicine, Tokyo, Japan.
+(10)Department of Cardiology, Keio University School of Medicine, Tokyo, Japan.
+
+Hypoalbuminemia, a frailty criterion, belongs to a group of co-morbidities not
+captured as a traditional risk factor. We assessed its prognostic value in
+patients who underwent transcatheter aortic valve implantation (TAVI). The study 
+included 1,215 consecutive patients from the Optimized Catheter Valvular
+Intervention -TAVI Japanese multicenter registry. Hypoalbuminemia was defined as 
+serum albumin level <3.5 g/dl. Baseline characteristics, procedural outcomes, and
+all-cause, cardiovascular and noncardiovascular mortality rates after TAVI were
+compared between patients with albumin level <3.5 g/dl (hypo[h]-ALB group, n =
+284) and those with albumin level >3.5 g/dl (nonhypo[nh]-ALB group, n = 931).
+Several baseline characteristics differed significantly between both groups,
+including age (85.1 ± 5.1 vs 84.2 ± 4.9 years, p = 0.012), ejection fraction
+(58.5 ± 14.3% vs 62.9 ± 12.4%, p <0.001), baseline kidney function, or liver
+disease. The 30-day mortality rate in all patients showed significant differences
+between the 2 groups (3.9% vs 1.3%, p = 0.005). During a mean follow-up of
+330 days, cumulative all-cause, cardiovascular, and noncardiovascular mortality
+rates were significantly higher in the hALB group than in the nhALB group
+(log-rank test, p <0.001, p = 0.0021, and p <0.001, respectively). The groups
+were also analyzed using a propensity matching model for adjusting the baseline
+differences. The analysis revealed that the poorer prognosis of the hALB group in
+terms of cumulative all-cause and noncardiovascular mortality was retained (p =
+0.038, and p = 0.0068, respectively); however, differences in cardiovascular
+mortality rates in the 2 groups were attenuated (p = 0.93). In conclusion,
+hypoalbuminemia was associated with poor prognosis, highlighted by the increase
+in noncardiovascular mortality. Baseline albumin level could be a useful marker
+for risk stratification before TAVI.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjcard.2016.11.019 
+PMID: 28017301  [Indexed for MEDLINE]
+
+
+25. Ann Epidemiol. 2016 Nov;26(11):773-779. doi: 10.1016/j.annepidem.2016.08.010.
+Epub 2016 Aug 31.
+
+Measuring senescence rates of patients with end-stage renal disease while
+accounting for population heterogeneity: an analysis of data from the ERA-EDTA
+Registry.
+
+Koopman JJ(1), Kramer A(2), van Heemst D(3), Åsberg A(4), Beuscart JB(5),
+Buturović-Ponikvar J(6), Collart F(7), Couchoud CG(8), Finne P(9), Heaf JG(10),
+Massy ZA(11), De Meester JM(12), Palsson R(13), Steenkamp R(14), Traynor JP(15), 
+Jager KJ(2), Putter H(16).
+
+Author information: 
+(1)Section of Gerontology and Geriatrics, Department of Internal Medicine, Leiden
+University Medical Center, Leiden, The Netherlands. Electronic address:
+j.j.e.koopman@lumc.nl.
+(2)ERA-EDTA Registry, Department of Medical Informatics, Academic Medical Center,
+University of Amsterdam, Amsterdam, The Netherlands.
+(3)Section of Gerontology and Geriatrics, Department of Internal Medicine, Leiden
+University Medical Center, Leiden, The Netherlands.
+(4)Norwegian Renal Registry, Department of Transplant Medicine, Oslo University
+Hospital-Rikshospitalet, Oslo, Norway.
+(5)University of Lille, EA2694, Santé publique: épidémiologie et qualité des
+soins, Lille, France; CHU Lille, Geriatric Department, Lille, France.
+(6)Department of Nephrology, Ljubljana University Medical Center, Ljubljana,
+Slovenia; Medical Faculty, University of Ljubljana, Ljubljana, Slovenia.
+(7)Department of Nephrology and Dialysis, Brugmann University Hospital, Brussels,
+Belgium.
+(8)Renal Epidemiology and Information Network (REIN) Registry, French Biomedical 
+Agency, Saint-Denis-la-Plaine, France.
+(9)Finnish Registry for Kidney Diseases, Helsinki, Finland; Department of
+Nephrology, Helsinki University Central Hospital, Helsinki, Finland.
+(10)Department of Medicine, Zealand University Hospital, Roskilde, Denmark.
+(11)Division of Nephrology, Ambroise Paré University Hospital, University of
+Paris Ouest-Versailles-St-Quentin-en-Yvelines, Paris, France; Institut National
+de la Santé et de la Recherche Médicale (INSERM) U1018, Research Centre in
+Epidemiology and Population Health (CESP), Villejuif, France.
+(12)Department of Nephrology, Dialysis, and Hypertension, AZ Nikolaas,
+Sint-Niklaas, Belgium.
+(13)Division of Nephrology, Landspitali-The National University Hospital of
+Iceland, Reykjavik, Iceland; Faculty of Medicine, School of Health Sciences,
+University of Iceland, Reykjavik, Iceland.
+(14)UK Renal Registry, Southmead Hospital, Bristol, UK.
+(15)The Scottish Renal Registry, Information Services Division Scotland, Glasgow,
+UK.
+(16)Department of Medical Statistics and Bioinformatics, Leiden University
+Medical Center, Leiden, The Netherlands.
+
+PURPOSE: Although a population's senescence rate is classically measured as the
+increase in mortality rate with age on a logarithmic scale, it may be more
+accurately measured as the increase on a linear scale. Patients on dialysis, who 
+suffer from accelerated senescence, exhibit a smaller increase in their mortality
+rate on a logarithmic scale, but a larger increase on a linear scale than
+patients with a functioning kidney transplant. However, this comparison may be
+biased by population heterogeneity.
+METHODS: Follow-up data on 323,308 patients on dialysis and 91,679 patients with 
+a functioning kidney transplant were derived from the ERA-EDTA Registry. We
+measured the increases in their mortality rates using Gompertz frailty models
+that allow individual variation in this increase.
+RESULTS: According to these models, the senescence rate measured as the increase 
+in mortality rate on a logarithmic scale was smaller in patients on dialysis,
+while the senescence rate measured as the increase on a linear scale was larger
+in patients on dialysis than patients with a functioning kidney transplant.
+CONCLUSIONS: Also when accounting for population heterogeneity, a population's
+senescence rate is more accurately measured as the increase in mortality rate on 
+a linear scale than a logarithmic scale.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.annepidem.2016.08.010 
+PMID: 27665405  [Indexed for MEDLINE]
+
+
+26. Ann Thorac Surg. 2016 Oct;102(4):1172-80. doi: 10.1016/j.athoracsur.2016.07.001. 
+Epub 2016 Sep 1.
+
+Impact of Preoperative Chronic Kidney Disease in 2,531 High-Risk and Inoperable
+Patients Undergoing Transcatheter Aortic Valve Replacement in the PARTNER Trial.
+
+Thourani VH(1), Forcillo J(2), Beohar N(3), Doshi D(4), Parvataneni R(5), Ayele
+GM(5), Kirtane AJ(6), Babaliaros V(2), Kodali S(6), Devireddy C(2), Szeto W(7),
+Herrmann HC(7), Makkar R(8), Ailawadi G(9), Lim S(9), Maniar HS(10), Zajarias
+A(10), Suri R(11), Tuzcu EM(11), Kapadia S(11), Svensson L(11), Condado J(2),
+Jensen HA(2), Mack MJ(12), Leon MB(6).
+
+Author information: 
+(1)Emory University School of Medicine, Atlanta, Georgia. Electronic address:
+vthoura@emory.edu.
+(2)Emory University School of Medicine, Atlanta, Georgia.
+(3)Columbia University Division of Cardiology, Mount Sinai Medical Center, Miami 
+Beach, Florida.
+(4)Columbia University Medical Center, New York, New York.
+(5)Cardiovascular Research Foundation, New York, New York.
+(6)Columbia University Medical Center, New York, New York; Cardiovascular
+Research Foundation, New York, New York.
+(7)University of Pennsylvania, Philadelphia, Pennsylvania.
+(8)Cedars-Sinai Medical Center, Los Angeles, California.
+(9)University of Virginia, Charlottesville, Virginia.
+(10)Washington University, St. Louis, Missouri.
+(11)Cleveland Clinic, Cleveland, Ohio.
+(12)Baylor, Scott, and White Healthcare, Plano, Texas.
+
+BACKGROUND: Although preoperative renal dysfunction (RD) is associated with
+increased mortality and morbidity after surgical aortic valve replacement, its
+impact on clinical outcomes after transcatheter aortic valve replacement (TAVR)
+is less defined.
+METHODS: TAVR patients in the PARTNER (Placement of Aortic Transcatheter Valves) 
+trial with a calculable glomerular filtration rate (GFR) using the Modification
+of Diet in Renal Disease equation were included. Patients were divided into three
+groups: GFR >60 mL/min (none/mild RD), GFR 31 to 60 mL/min (moderate RD), and GFR
+≤30 mL/min (severe RD). Operative characteristics and clinical outcomes were
+analyzed. Cox regression models were used to determine multivariable predictors
+of 1-year all-cause mortality.
+RESULTS: A total of 2,531 inoperable or high surgical risk patients from the
+PARTNER trial and continued access registries had a calculable GFR level: 767
+(30%) had normal renal function or mild RD, 1,473 (58%) had moderate RD, and 291 
+(12%) presented with severe RD. The mean Society of Thoracic Surgeons Predicted
+Risk of Mortality for the cohort was 11.5%, and it was highest in those with
+severe RD (13.8%). Patients with severe RD were more often women with a higher
+prevalence of diabetes. Patients with severe RD had the highest incidence of
+30-day and 1-year all-cause mortality and rehospitalization. The 30-day rate of
+death from any cause was 10.7% in the severe RD group versus 6.0% in the moderate
+and mild RD groups (p = 0.01). The 1-year rate of death from any cause was 34.4% 
+in the severe RD group versus 21.5% in the moderate RD and 20.8% in the none/mild
+RD groups (adjusted hazard ratio [HR] 2.24, p < 0.0001 for severe versus
+none/mild; adjusted HR 1.14, p = 0.24 for severe versus moderate). Other
+significant predictors of 1-year all-cause mortality included lower body mass
+index, frailty, the transapical approach, a lower ejection fraction,
+oxygen-dependent chronic obstructive pulmonary disease, liver disease, and male
+sex.
+CONCLUSIONS: Preoperative severe RD is a significant predictor for 1-year
+mortality in TAVR patients. Careful risk stratification by the heart team is
+required in patients with severe preprocedural RD.
+
+Copyright © 2016 The Society of Thoracic Surgeons. Published by Elsevier Inc. All
+rights reserved.
+
+DOI: 10.1016/j.athoracsur.2016.07.001 
+PMID: 27592092  [Indexed for MEDLINE]
+
+
+27. Am J Gastroenterol. 2016 Dec;111(12):1759-1767. doi: 10.1038/ajg.2016.303. Epub
+2016 Aug 2.
+
+A Rapid Bedside Screen to Predict Unplanned Hospitalization and Death in
+Outpatients With Cirrhosis: A Prospective Evaluation of the Clinical Frailty
+Scale.
+
+Tandon P(1), Tangri N(2), Thomas L(1), Zenith L(1), Shaikh T(1), Carbonneau M(1),
+Ma M(1), Bailey RJ(3), Jayakumar S(3), Burak KW(3), Abraldes JG(1), Brisebois
+A(4), Ferguson T(2), Majumdar SR(5).
+
+Author information: 
+(1)Cirrhosis Care Clinic, University of Alberta, Edmonton, Alberta, Canada.
+(2)Division of Nephrology, University of Manitoba, Winnipeg, Manitoba, Canada.
+(3)Division of GI, Royal Alexandra Hospital, Edmonton, Alberta, Canada.
+(4)Palliative Care, University of Alberta, Edmonton, Alberta, Canada.
+(5)Division of General Internal Medicine, University of Alberta, Edmonton,
+Alberta, Canada.
+
+Comment in
+    Am J Gastroenterol. 2016 Dec;111(12 ):1776-1777.
+    Z Gastroenterol. 2017 Jun;55(6):592-593.
+
+OBJECTIVES: Screening tools to determine which outpatients with cirrhosis are at 
+highest risk for unplanned hospitalization are lacking. Frailty is a novel
+prognostic factor but conventional screening for frailty is time consuming. We
+evaluated the ability of a 1 min bedside screen (Clinical Frailty Scale (CFS)) to
+predict unplanned hospitalization or death in outpatients with cirrhosis and
+compared the CFS with two conventional frailty measures (Fried Frailty Criteria
+(FFC) and Short Physical Performance Battery (SPPB)).
+METHODS: We prospectively enrolled consecutive outpatients from three tertiary
+care liver clinics. Frailty was defined by CFS >4. The primary outcome was the
+composite of unplanned hospitalization or death within 6 months of study entry.
+RESULTS: A total of 300 outpatients were enrolled (mean age 57 years, 35% female,
+81% white, 66% hepatitis C or alcohol-related liver disease, mean Model for
+End-Stage Liver Disease (MELD) score 12, 28% with ascites). Overall, 54 (18%)
+outpatients were frail and 91 (30%) patients had an unplanned hospitalization or 
+death within 6 months. CFS >4 was independently associated with increased rates
+of unplanned hospitalization or death (57% frail vs. 24% not frail, adjusted odds
+ratio 3.6; 95% confidence interval (CI): 1.7-7.5; P=0.0008) and there was a dose 
+response (adjusted odds ratio 1.9 per 1-unit increase in CFS, 95% CI: 1.4-2.6;
+P<0.0001). Models including MELD, ascites, and CFS >4 had a greater
+discrimination (c-statistic=0.84) than models using FFC or SPPB.
+CONCLUSIONS: Frailty is strongly and independently associated with an increased
+risk of unplanned hospitalization or death in outpatients with cirrhosis. The CFS
+is a rapid screen that could be easily adopted in liver clinics to identify those
+at highest risk of adverse events.
+
+DOI: 10.1038/ajg.2016.303 
+PMID: 27481305  [Indexed for MEDLINE]
+
+
+28. JAMA Intern Med. 2016 Aug 1;176(8):1095-102. doi:
+10.1001/jamainternmed.2016.1200.
+
+Quality of End-of-Life Care Provided to Patients With Different Serious
+Illnesses.
+
+Wachterman MW(1), Pilver C(2), Smith D(3), Ersek M(4), Lipsitz SR(5), Keating
+NL(6).
+
+Author information: 
+(1)Section of General Internal Medicine, VA Boston Healthcare System, Boston,
+Massachusetts2Division of General Internal Medicine, Brigham and Women's
+Hospital, Boston, Massachusetts3Department of Psychosocial Oncology and
+Palliative Care, Dana Farber Cancer.
+(2)Center for Healthcare Organization and Implementation Research, VA Boston
+Healthcare System, Boston, Massachusetts5Tufts Health Plan, Watertown,
+Massachusetts.
+(3)Center for Health Equity Research and Promotion, Department of Veterans
+Affairs Medical Center, Philadelphia, Pennsylvania.
+(4)Center for Health Equity Research and Promotion, Department of Veterans
+Affairs Medical Center, Philadelphia, Pennsylvania7University of Pennsylvania
+School of Nursing, Philadelphia.
+(5)Division of General Internal Medicine, Brigham and Women's Hospital, Boston,
+Massachusetts.
+(6)Division of General Internal Medicine, Brigham and Women's Hospital, Boston,
+Massachusetts8Department of Health Care Policy, Harvard Medical School, Boston,
+Massachusetts.
+
+Comment in
+    JAMA Intern Med. 2016 Aug 1;176(8):1102-4.
+    Am J Kidney Dis. 2017 May;69(5):564-567.
+
+IMPORTANCE: Efforts to improve end-of-life care have focused primarily on
+patients with cancer. High-quality end-of-life care is also critical for patients
+with other illnesses.
+OBJECTIVE: To compare patterns of end-of-life care and family-rated quality of
+care for patients dying with different serious illnesses.
+DESIGN, SETTING, AND PARTICIPANTS: A retrospective cross-sectional study was
+conducted in all 146 inpatient facilities within the Veteran Affairs health
+system among patients who died in inpatient facilities between October 1, 2009,
+and September 30, 2012, with clinical diagnoses categorized as end-stage renal
+disease (ESRD), cancer, cardiopulmonary failure (congestive heart failure or
+chronic obstructive pulmonary disease), dementia, frailty, or other conditions.
+Data analysis was conducted from April 1, 2014, to February 10, 2016.
+MAIN OUTCOMES AND MEASURES: Palliative care consultations, do-not-resuscitate
+orders, death in inpatient hospices, death in the intensive care unit, and
+family-reported quality of end-of-life care.
+RESULTS: Among 57 753 decedents, approximately half of the patients with ESRD,
+cardiopulmonary failure, or frailty received palliative care consultations
+(adjusted proportions, 50.4%, 46.7%, and 43.7%, respectively) vs 73.5% of
+patients with cancer and 61.4% of patients with dementia (P < .001).
+Approximately one-third of patients with ESRD, cardiopulmonary failure, or
+frailty (adjusted proportions, 32.3%, 34.1%, and 35.2%, respectively) died in the
+intensive care unit, more than double the rates among patients with cancer and
+those with dementia (13.4% and 8.9%, respectively) (P < .001). Rates of excellent
+quality of end-of-life care reported by 34 005 decedents' families were similar
+for patients with cancer and those with dementia (adjusted proportions, 59.2% and
+59.3%; P = .61), but lower for patients with ESRD, cardiopulmonary failure, or
+frailty (54.8%, 54.8%, and 53.7%, respectively; all P ≤ .02 vs patients with
+cancer). This quality advantage was mediated by palliative care consultation,
+setting of death, and a code status of do-not-resuscitate; adjustment for these
+variables rendered the association between diagnosis and overall end-of-life care
+quality nonsignificant.
+CONCLUSIONS AND RELEVANCE: Family-reported quality of end-of-life care was
+significantly better for patients with cancer and those with dementia than for
+patients with ESRD, cardiopulmonary failure, or frailty, largely owing to higher 
+rates of palliative care consultation and do-not-resuscitate orders and fewer
+deaths in the intensive care unit among patients with cancer and those with
+dementia. Increasing access to palliative care and goals of care discussions that
+address code status and preferred setting of death, particularly for patients
+with end-organ failure and frailty, may improve the overall quality of
+end-of-life care for Americans dying of these illnesses.
+
+DOI: 10.1001/jamainternmed.2016.1200 
+PMCID: PMC5470549
+PMID: 27367547  [Indexed for MEDLINE]
+
+
+29. Geriatr Gerontol Int. 2017 Apr;17(4):529-544. doi: 10.1111/ggi.12758. Epub 2016
+May 31.
+
+Chronic kidney disease-related physical frailty and cognitive impairment: a
+systemic review.
+
+Shen Z(1), Ruan Q(2), Yu Z(2), Sun Z(1).
+
+Author information: 
+(1)Department of Urology, Huadong Hospital, Fudan University, 221 West Yan'an
+Road, Shanghai, China.
+(2)Shanghai Institute of Geriatrics and Gerontology, Shanghai Key Laboratory of
+Clinical Geriatrics, Department of Geriatrics, Huadong Hospital, and Research
+Center of Aging and Medicine, Shanghai Medical College, Fudan University,
+Shanghai, China.
+
+AIM: The objective of this review was to assess chronic kidney disease-related
+frailty and cognitive impairment, as well as their probable causes, mechanisms
+and the interventions.
+METHODS: Studies from 1990 to 2015 were reviewed to evaluate the relationship
+between chronic kidney disease and physical frailty and cognitive impairment. Of 
+the 1694 studies from the initial search, longitudinal studies (n = 22) with the 
+keywords "Cognitive and CKD" and longitudinal or cross-sectional studies (n = 5) 
+with the keywords "Frailty and CKD" were included in final analysis.
+RESULTS: By pooling current research, we show clear evidence for a relationship
+between chronic kidney disease and frailty and cognitive impairment in major
+studies. Vascular disease is likely an important mediator, particularly for
+cognitive impairment. However, non-vascular factors also play an important role. 
+Many of the other mechanisms that contribute to impaired cognitive function and
+increased frailty in CKD remain to be elucidated. In limited studies, medication 
+therapy did not obtain the ideal effect. There are limited data on treatment
+strategies, but addressing the vascular disease risk factors earlier in life
+might decrease the subsequent burden of frailty and cognitive impairment in this 
+population. Multidimensional interventions, which address both microvascular
+health and other factors, may have substantial benefits for both the cognitive
+impairments and physical frailty in this vulnerable population.
+CONCLUSIONS: Chronic kidney disease is a potential cause of frailty and cognitive
+impairment. Vascular and non-vascular factors are the possible causes. The
+mechanism of chronic kidney disease-induced physical frailty and cognitive
+impairment suggests that multidimensional interventions may be effective
+therapeutic strategies in the early stage of chronic kidney disease. Geriatr
+Gerontol Int 2017; 17: 529-544.
+
+© 2016 Japan Geriatrics Society.
+
+DOI: 10.1111/ggi.12758 
+PMID: 27240548  [Indexed for MEDLINE]
+
+
+30. Int Urol Nephrol. 2016 Aug;48(8):1357-1362. doi: 10.1007/s11255-016-1306-z. Epub 
+2016 May 10.
+
+High prevalence of frailty in end-stage renal disease.
+
+Drost D(1), Kalf A(1), Vogtlander N(2), van Munster BC(3)(4).
+
+Author information: 
+(1)Department of Geriatrics, Gelre Hospitals, Apeldoorn, The Netherlands.
+(2)Division of Nephrology, Department of Medicine, Gelre Hospitals, Apeldoorn,
+The Netherlands.
+(3)Department of Geriatrics, Gelre Hospitals, Apeldoorn, The Netherlands.
+b.van.munster@gelre.nl.
+(4)Department of Medicine, University Medical Center Groningen, Groningen, The
+Netherlands. b.van.munster@gelre.nl.
+
+PURPOSE: Prognosis of the increasing number of elderly patients with end-stage
+renal disease (ESRD) is poor with high risk of functional decline and mortality. 
+Frailty seems to be a good predictor for those patients that will not benefit
+from dialysis. Varying prevalences between populations are probably related to
+the instrument used. The aim of this study was to measure the prevalence of
+frailty among ESRD patients with two different validated instruments.
+METHODS: This cross-sectional study was conducted among patients, aged ≥18 years,
+receiving hemodialysis, peritoneal dialysis and pre-dialysis care between
+September 2013 and December 2013 in a single dialysis center in Apeldoorn, the
+Netherlands. Frailty was measured with the frailty index (FI) and frailty
+phenotype (FP).
+RESULTS: Prevalence of frailty by the FI was 36.8 % among 95 participants with
+ESRD (age: 65.2 years, SD ± 12.0). Frailty prevalence among participants aged ≥65
+and <65 years was 43.6 and 27.5 %, respectively. Female sex [odds ratio (OR) 3.3,
+95 % confidence interval (CI) 1.3-8.0] and a Charlson comorbidity index score of 
+≥5 (OR 2.6, 95 % CI 1.0-6.6) were associated with frailty. The FI identified
+different but overlapping participants as frail compared with the FP; 62.5 % of
+frail participants according to FI were also frail according to the FP.
+CONCLUSIONS: Prevalence of frailty among young and elderly ESRD patients is high;
+being female and having more comorbidity was associated with frailty. Use of a
+broader definition of frailty, like the FI, gives a higher estimation of
+prevalence among ESRD patients compared with a physical frailty assessment.
+
+DOI: 10.1007/s11255-016-1306-z 
+PMCID: PMC4949293
+PMID: 27165401  [Indexed for MEDLINE]
+
+
+31. Circulation. 2016 Apr 5;133(14):1351-9. doi: 10.1161/CIRCULATIONAHA.115.020279.
+Epub 2016 Feb 26.
+
+Gait Speed Predicts 30-Day Mortality After Transcatheter Aortic Valve
+Replacement: Results From the Society of Thoracic Surgeons/American College of
+Cardiology Transcatheter Valve Therapy Registry.
+
+Alfredsson J(1), Stebbins A(1), Brennan JM(1), Matsouaka R(1), Afilalo J(1),
+Peterson ED(1), Vemulapalli S(1), Rumsfeld JS(1), Shahian D(1), Mack MJ(1),
+Alexander KP(2).
+
+Author information: 
+(1)From Duke Clinical Research Institute, Durham, NC (J. Alfredsson, A.S.,
+E.D.P., K.P.A.); Department of Cardiology and Department of Medical and Health
+Sciences, Linköping University, Sweden (J. Alfredsson); Duke University School of
+Medicine, Durham, NC (J.M.B., R.M., E.D.P., S.V., K.P.A.); Division of
+Cardiology, Jewish General Hospital, McGill University, Montreal, QC, Canada (J. 
+Afilalo); University of Colorado School of Medicine, Aurora (J.S.R.);
+Massachusetts General Hospital, Boston (D.S.); and Baylor Scott & White Health,
+Plano, TX (M.J.M.).
+(2)From Duke Clinical Research Institute, Durham, NC (J. Alfredsson, A.S.,
+E.D.P., K.P.A.); Department of Cardiology and Department of Medical and Health
+Sciences, Linköping University, Sweden (J. Alfredsson); Duke University School of
+Medicine, Durham, NC (J.M.B., R.M., E.D.P., S.V., K.P.A.); Division of
+Cardiology, Jewish General Hospital, McGill University, Montreal, QC, Canada (J. 
+Afilalo); University of Colorado School of Medicine, Aurora (J.S.R.);
+Massachusetts General Hospital, Boston (D.S.); and Baylor Scott & White Health,
+Plano, TX (M.J.M.). karen.alexander@duke.edu.
+
+BACKGROUND: Surgical risk scores do not include frailty assessments (eg, gait
+speed), which are of particular importance for patients with severe aortic
+stenosis considering transcatheter aortic valve replacement.
+METHODS AND RESULTS: We assessed the association of 5-m gait speed with outcomes 
+in a cohort of 8039 patients who underwent transcatheter aortic valve replacement
+(November 2011-June 2014) and were included in the Society of Thoracic
+Surgeons/American College of Cardiology Transcatheter Valve Therapy Registry. We 
+evaluated the association between continuous and categorical gait speed and
+30-day all-cause mortality before and after adjustment for Society of Thoracic
+Surgeons-predicted risk of mortality score and key variables. Secondary outcomes 
+included in-hospital mortality, bleeding, acute kidney injury, and stroke. The
+overall median gait speed was 0.63 m/s (25th-75th percentile, 0.47-0.79 m/s),
+with the slowest walkers (<0.5 m/s) constituting 28%, slow walkers (0.5-0.83 m/s)
+making up 48%, and normal walkers (>0.83 m/s) constituting 24% of the population.
+Thirty-day all-cause mortality rates were 8.4%, 6.6%, and 5.4% for the slowest,
+slow, and normal walkers, respectively (P<0.001). Each 0.2-m/s decrease in gait
+speed corresponded to an 11% increase in 30-day mortality (adjusted odds ratio,
+1.11; 95% confidence interval, 1.01-1.22). The slowest walkers had 35% higher
+30-day mortality than normal walkers (adjusted odds ratio, 1.35; 95% confidence
+interval, 1.01-1.80), significantly longer hospital stays, and a lower
+probability of being discharged to home.
+CONCLUSIONS: Gait speed is independently associated with 30-day mortality after
+transcatheter aortic valve replacement. Identification of frail patients with the
+slowest gait speeds facilitates preprocedural evaluation and anticipation of a
+higher level of postprocedural care.
+CLINICAL TRIAL REGISTRATION: URL: http://www.clinicaltrials.gov. Unique
+identifier: NCT01737528.
+
+© 2016 American Heart Association, Inc.
+
+DOI: 10.1161/CIRCULATIONAHA.115.020279 
+PMID: 26920495  [Indexed for MEDLINE]
+
+
+32. J Am Geriatr Soc. 2016 Feb;64(2):270-6. doi: 10.1111/jgs.13951.
+
+Fibroblast Growth Factor-23 and Frailty in Elderly Community-Dwelling
+Individuals: The Cardiovascular Health Study.
+
+Beben T(1)(2), Ix JH(1)(2), Shlipak MG(3)(4), Sarnak MJ(5), Fried LF(6)(7),
+Hoofnagle AN(8), Chonchol M(9), Kestenbaum BR(10), de Boer IH(10), Rifkin
+DE(1)(2).
+
+Author information: 
+(1)Division of Nephrology, University of California at San Diego, San Diego,
+California.
+(2)Nephrology Section, Veterans Affairs San Diego Healthcare System, San Diego,
+California.
+(3)Department of Medicine, University of California at San Francisco, San
+Francisco, California.
+(4)General Internal Medicine Section, San Francisco Veterans Affairs Medical
+Center, San Francisco, California.
+(5)Division of Nephrology, Tufts Medical Center, Boston, Massachusetts.
+(6)Department of Medicine, University of Pittsburgh and Veteran Affairs
+Pittsburgh Healthcare System, Pittsburgh, Pennsylvania.
+(7)Nephrology Section, Veterans Affairs Pittsburgh Healthcare System, Pittsburgh,
+Pennsylvania.
+(8)Department of Laboratory Medicine, University of Washington, Seattle,
+Washington.
+(9)Division of Renal Disease and Hypertension, University of Colorado at Denver, 
+Denver, Colorado.
+(10)Division of Nephrology and Kidney Research Institute, Department of Medicine,
+University of Washington, Seattle, Washington.
+
+OBJECTIVES: To evaluate whether fibroblast growth factor 23 (FGF-23) is related
+to frailty and to characterize the nature of their joint association with
+mortality.
+DESIGN: Cross-sectional analysis for frailty and longitudinal cohort analysis for
+mortality.
+SETTING: Cardiovascular Health Study.
+PARTICIPANTS: Community-dwelling individuals (N = 2,977; mean age 77.9 ± 4.7, 40%
+male, 83% white).
+MEASUREMENTS: The predictor was serum FGF-23 concentration (C-terminal
+enzyme-linked immunosorbent assay), and the outcomes were frailty status
+(determined according to frailty phenotype criteria of weight loss, weakness,
+exhaustion, slowness, and low physical activity) and mortality. Multinomial
+logistic regression was used to assess the cross-sectional association between
+FGF-23 and frailty and prefrailty, adjusting for demographic characteristics,
+cardiovascular disease and risk factors, and kidney markers. Proportional hazards
+Cox proportional hazards regression was used to assess the association between
+FGF-23, frailty, and all-cause mortality.
+RESULTS: Mean estimated glomerular filtration rate (eGFR) was 64 ± 17 mL/min per 
+1.73 m(2) . Median FGF-23 was 70.3 RU/mL (interquartile range 53.4-99.2); 52%
+were prefrail, and 13% were frail. After multivariate adjustment, each doubling
+in FGF-23 concentration was associated with 38% (95% confidence interval (CI) =
+17-62%) higher odds of frailty than of nonfrailty and 16% (95% CI = 3-30%) higher
+odds of prefrailty. FGF-23 (hazard ratio (HR) = 1.16, 95% CI = 1.10-1.23) and
+frailty (HR = 1.82, 95% CI = 1.57-2.12) were independently associated with
+mortality, but neither association was meaningfully attenuated when adjusted for 
+the other.
+CONCLUSION: In a large cohort of older adults, higher FGF-23 was independently
+associated with prevalent frailty and prefrailty. FGF-23 and frailty were
+independent and additive risk factors for mortality. FGF-23 may be a marker for
+functional outcomes.
+
+© 2016, Copyright the Authors Journal compilation © 2016, The American Geriatrics
+Society.
+
+DOI: 10.1111/jgs.13951 
+PMCID: PMC5510331
+PMID: 26889836  [Indexed for MEDLINE]
+
+
+33. Clin J Am Soc Nephrol. 2016 Mar 7;11(3):431-41. doi: 10.2215/CJN.06290615. Epub
+2016 Jan 4.
+
+Trends in Survival and Renal Recovery in Patients with Multiple Myeloma or
+Light-Chain Amyloidosis on Chronic Dialysis.
+
+Decourt A(1), Gondouin B(1), Delaroziere JC(2), Brunet P(1), Sallée M(1), Burtey 
+S(1), Dussol B(1), Ivanov V(3), Costello R(3), Couchoud C(4), Jourde-Chiche N(5).
+
+Author information: 
+(1)Departments of *Nephrology.
+(2)Public Health, and.
+(3)Immuno-Hematology, Assistance Publique-Hôpitaux de Marseille, Conception
+Hospital, Aix-Marseille University, Marseille, France; and.
+(4)French Biomedical Agency, Renal Epidemiology and Information Network Registry,
+St. Denis, France.
+(5)Departments of *Nephrology, noemie.jourde@ap-hm.fr.
+
+BACKGROUND AND OBJECTIVES: Monoclonal gammopathies (MGs) with renal involvement
+can lead to ESRD caused by myeloma cast nephropathy (MCN), immunoglobulin light
+chain amyloidosis (ALA), or light-chain deposition disease (LCDD). Few studies
+have focused on the prognosis of patients with MG on chronic dialysis. We
+evaluated the outcomes of patients with MG incident on chronic dialysis in
+France.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: All incident patients registered
+in the Renal Epidemiology and Information Network Registry between 2002 and 2011 
+with ESRD caused by ALA, LCDD, or MCN were included. Patient's survival, censored
+for renal transplantation, renal recovery, and loss to follow-up, as well as
+renal outcomes were analyzed and compared with a control group. Risk factors and 
+causes of death were analyzed.
+RESULTS: We included 1459 patients, comprising 265 (18%) patients with ALA, 334
+(23%) patients with LCDD, and 861 (59%) patients with MCN. Median age was 72
+years, and 56% were men. Median follow-up was 13.1 months. Renal recovery was
+observed in 9.1% of patients and more frequent after 2006. Kidney transplantation
+was rare in this population (2.3%). Among 1272 patients who remained on dialysis,
+67% died. Median survival on dialysis was 18.3 months. Main causes of death were 
+malignancies (34.4%), cardiovascular diseases (18%), infections (13.3%), and
+cachexia (5.2%). Independent risk factors of death were age (hazard ratio [HR],
+1.03 per year increase; 95% confidence interval [95% CI], 1.02 to 1.03), frailty 
+(HR, 1.93; 95% CI, 1.58 to 2.36), congestive heart failure (HR, 1.54; 95% CI,
+1.23 to 1.93), and dialysis initiation on a central catheter (HR, 1.40; 95% CI,
+1.11 to 1.75). Factors associated with a lower risk of death were year of
+dialysis initiation (HR, 0.95 per year increase; 95% CI, 0.91 to 0.99) and high
+BP (HR, 0.80; 95% CI, 0.67 to 0.97).
+CONCLUSIONS: Survival of patients with ALA, LCDD, or MCN on chronic dialysis is
+poor but has improved over time. Progressive malignancy is the main cause of
+death in this population. Renal recovery has increased since 2006.
+
+Copyright © 2016 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.06290615 
+PMCID: PMC4791812
+PMID: 26728585  [Indexed for MEDLINE]
+
+
+34. Catheter Cardiovasc Interv. 2016 Jul;88(1):118-24. doi: 10.1002/ccd.26377. Epub
+2015 Dec 30.
+
+Body mass index association with survival in severe aortic stenosis patients
+undergoing transcatheter aortic valve replacement.
+
+Koifman E(1), Kiramijyan S(1), Negi SI(1), Didier R(1), Escarcega RO(1), Minha
+S(1), Gai J(1), Torguson R(1), Okubagzi P(1), Ben-Dor I(1), Satler LF(1), Pichard
+AD(1), Waksman R(1).
+
+Author information: 
+(1)Section of Interventional Cardiology, MedStar Washington Hospital Center,
+Washington, DC.
+
+Comment in
+    Catheter Cardiovasc Interv. 2016 Jul;88(1):125-6.
+
+BACKGROUND: Conflicting results have been reported regarding impact of body mass 
+index (BMI) on outcome of transcatheter aortic valve replacement (TAVR) patients.
+This study evaluates the impact of BMI on 1 year mortality in patients undergoing
+TAVR via the transfemoral (TF) access.
+METHODS: Aortic stenosis (AS) patients undergoing TAVR via a TF access between
+May 2007 and December 2014 were categorized to 4 groups by BMI: low (<20), normal
+(20-24.9), overweight (25-30), and obese (>30). Baseline parameters were
+compared, and multivariate Cox proportional hazard regression models were
+generated to assess outcome differences.
+RESULTS: Among 491 severe AS TAVR patients, 43 had low BMI, 148 had normal BMI,
+162 were overweight, and 138 were obese. Obese patients were younger with lower
+Society of Thoracic Surgeons scores and higher rates of preserved ejection
+fraction and diabetes. There was a higher rate of women in the BMI extremes.
+Aortic valve area was higher among obese patients; however, the indexed area was 
+inversely correlated with BMI. Vascular complications and transfusions were more 
+common in the low-BMI group, while acute kidney injury was more common in obese
+patients. All-cause mortality at 1 year was higher in the low-BMI group (log-rank
+p = 0.003) with no significant difference among normal and above-normal BMI
+patients. In a multivariate model, BMI <20 kg/m(2) was an independent predictor
+of mortality (HR = 2.45, p = 0.01).
+CONCLUSIONS: BMI <20 kg/m(2) should be considered a frailty marker during the
+screening process of severe AS TAVR patients as it is associated with higher
+mortality, while obesity confers similar mortality risk as normal weight. © 2015 
+Wiley Periodicals, Inc.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ccd.26377 
+PMID: 26715505  [Indexed for MEDLINE]
+
+
+35. Adv Chronic Kidney Dis. 2016 Jan;23(1):44-50. doi: 10.1053/j.ackd.2015.11.002.
+
+Kidney Transplantation Among the Elderly: Challenges and Opportunities to Improve
+Outcomes.
+
+Singh P(1), Ng YH(1), Unruh M(2).
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, University of New
+Mexico.
+(2)Division of Nephrology, Department of Internal Medicine, University of New
+Mexico. Electronic address: mlunruh@salud.unm.edu.
+
+Elderly patients (>65 years old) represent the fastest growing population among
+the ESRD patients and those awaiting kidney transplantation. There is ample
+evidence to suggest that kidney transplant in the elderly population offers the
+best chance of survival and improves health-related quality of life compared to
+remaining on dialysis. Although all these emerging facts are encouraging, this
+population brings with them complex medical problems including frailty, cognitive
+impairment, and multiple comorbidities. These issues can be barriers to
+transplantation and threaten the well-being of the patients after
+transplantation. Furthermore, aging results in changes to the immune system and
+affects the pharmacokinetics of immunosuppressants. All these changes can
+increase risk of complications such as infections and malignancy. Because death
+with a functioning graft is a common cause of graft loss, the new kidney
+allocation system has been implemented in an attempt to maximize allograft
+utilization and minimize unrealized graft years. This may result in longer
+wait-times for the elderly. In this review, we will highlight the barriers to
+kidney transplant, characterize transplant-related issues in the elderly, and
+propose alternative strategies under the new allocation system.
+
+Published by Elsevier Inc.
+
+DOI: 10.1053/j.ackd.2015.11.002 
+PMID: 26709062  [Indexed for MEDLINE]
+
+
+36. BMC Nephrol. 2015 Sep 23;16:157. doi: 10.1186/s12882-015-0150-1.
+
+Association of frailty with endothelial dysfunction and its possible impact on
+negative outcomes in Brazilian predialysis patients with chronic kidney disease.
+
+Mansur HN(1)(2), Lovisi JC(3), Colugnati FA(3), Raposo NR(3), Fernandes NM(3),
+Bastos MG(4).
+
+Author information: 
+(1)IMEPEN Foundation, Federal University of Juiz de Fora, Juiz de Fora, Brazil.
+hnmansur@gmail.com.
+(2)Academic Centre of Vitoria, Federal University of Pernambuco, Vitória de Santo
+Antão, Pernambuco, Brazil. hnmansur@gmail.com.
+(3)IMEPEN Foundation, Federal University of Juiz de Fora, Juiz de Fora, Brazil.
+(4)Federal University of Juiz de Fora, José Lourenço Kelmer Street, 1300, Juiz de
+Fora, Minas Gerais, Brazil. marcusbastos7@gmail.com.
+
+BACKGROUND: Frailty is a state of physiological vulnerability common in the
+elderly. It is more predominant in patients with Chronic Kidney Disease in
+comparison to healthy subjects, which can also be diagnosed in non-elderly
+individuals and be associated with innumerous causes such as muscle strength,
+body composition and inflammation. The association between frailty and
+endothelial function, as well as the association between frailty and the combined
+outcome of mortality multiple cause and start of renal replace therapy were
+assessed.
+METHODS: In the initial analysis, sixty-one predialysis patients with Chronic
+Kidney Disease stages were evaluated and included in this study. Due to patient
+drop-out during follow-up, fifty-seven patients were subsequently re-evaluated 12
+months later. The diagnosis of frailty was based on the Johansen et al. (J Am Soc
+Nephrol 18(11):2960-67, 2007) criteria. The groups were divided into Non-frail
+and Frail. Sociodemographic, inflammatory markers (IL-6, TNF-?, CRP-us),
+endothelial dysfunction (flow-mediated vasodilatation - FMD), body composition
+(DXA) and the 25-hidroxi-vitamin D parameters were analyzed.
+RESULTS: The average age of the patients used in the study was 64.9 ± 10.3 years 
+old. The predominance of frailty was 42.6%, of which 46% were non-elderly. After 
+some adjustments, frailty was associated with gender (OR = 11.32; IC 95% = 2.30
+to 55.67), advanced age (OR = 4.07; IC 95% = 1.02 to 16.20), obesity (OR = 6.63; 
+IC 95% = 0.82 to 11.44) and endothelial dysfunction (OR = 3.86; IC 95% = 1.00 to 
+14.88). The ratio of the incidence of frail subjects to the variable outcome was 
+2.5 (CI 95%, 1.04 to 6.50).
+CONCLUSIONS: Although an observational study does not allow one to determine the 
+casual relation between frailty and endothelial dysfunction, we conclude that
+frailty was predominant in our sample of Brazilian patients with chronic kidney
+disease on predialysis, even in elderly individuals. This was linked to either
+worse endothelial function or mortality.
+
+DOI: 10.1186/s12882-015-0150-1 
+PMCID: PMC4579818
+PMID: 26395776  [Indexed for MEDLINE]
+
+
+37. Am J Cardiol. 2015 Nov 1;116(9):1391-8. doi: 10.1016/j.amjcard.2015.08.004. Epub 
+2015 Aug 14.
+
+Long-Term Outcomes for Patients With Severe Symptomatic Aortic Stenosis Treated
+With Transcatheter Aortic Valve Implantation.
+
+Codner P(1), Orvin K(1), Assali A(1), Sharony R(2), Vaknin-Assa H(1), Shapira
+Y(1), Schwartzenberg S(1), Bental T(1), Sagie A(1), Kornowski R(3).
+
+Author information: 
+(1)Cardiology Department, Rabin Medical Center, Petah Tikwa, Israel; "Sackler"
+School of Medicine, Tel Aviv University, Tel Aviv, Israel.
+(2)"Sackler" School of Medicine, Tel Aviv University, Tel Aviv, Israel;
+Cardiothoracic Surgery Department, Rabin Medical Center, Petah Tikwa, Israel.
+(3)Cardiology Department, Rabin Medical Center, Petah Tikwa, Israel; "Sackler"
+School of Medicine, Tel Aviv University, Tel Aviv, Israel. Electronic address:
+ran.kornowski@gmail.com.
+
+Transcatheter aortic valve implantation (TAVI) is an established technique for
+the treatment of severe symptomatic aortic stenosis. Data on long-term TAVI
+outcomes, both hemodynamic and clinical, in real-world practice settings are
+limited. We aim to explore the long-term clinical results in patients with severe
+symptomatic aortic stenosis using multiple catheter-based options: 360
+TAVI-treated patients were followed up for ≤5 years. The Medtronic CoreValve was 
+used in 71% and the Edwards SAPIEN in 26%. The primary end point was all-cause
+mortality during follow-up. Outcomes were assessed based on the Valve Academic
+Research Consortium 2 criteria. The mean ± SD patient age was 82.1 ± 6.9 years
+(56.4% women). The Society of Thoracic Surgeons score was 7.5 ± 4.7. The clinical
+efficacy end point and time-related valve safety at 3 years was 50% and 81.7%,
+respectively. The calculated 3- and 5-year survival rates were 71.6% and 56.4%,
+respectively. Five-year follow-up data were obtained for 54 patients alive; 96.2%
+of alive patients were in the New York Heart Association class I and II, 4 years 
+after TAVI. No gender differences in all-cause mortality rates were observed (p =
+0.58). In multivariate analysis, hospitalization 6 months previous to TAVI
+(hazard ratio [HR] 1.92, 95% confidence interval [CI] 1.17 to 3.15, p = 0.01),
+frailty (HR 1.89, 95% CI 1.11 to 3.2, p = 0.02), acute kidney injury (HR 1.93,
+95% CI 1.03 to 3.61, p = 0.04), and moderate or more paravalvular aortic
+regurgitation after TAVI (HR 4.26, 95% CI 2.54 to 7.15, p <0.001) were
+independent predictors for all-cause mortality. In conclusion, long-term outcomes
+of TAVI are encouraging. Prevention and early identification of paravalvular leak
+and acute renal failure after the procedure would improve short- and long-term
+outcomes.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjcard.2015.08.004 
+PMID: 26342515  [Indexed for MEDLINE]
+
+
+38. Am J Kidney Dis. 2015 Oct;66(4):666-76. doi: 10.1053/j.ajkd.2015.04.051. Epub
+2015 Jun 25.
+
+Dental Health and Mortality in People With End-Stage Kidney Disease Treated With 
+Hemodialysis: A Multinational Cohort Study.
+
+Palmer SC(1), Ruospo M(2), Wong G(3), Craig JC(3), Petruzzi M(4), De Benedittis
+M(5), Ford P(6), Johnson DW(7), Tonelli M(8), Natale P(9), Saglimbene V(9),
+Pellegrini F(10), Celia E(9), Gelfman R(9), Leal MR(9), Torok M(9), Stroumza
+P(9), Bednarek-Skublewska A(11), Dulawa J(12), Frantzen L(9), Ferrari JN(9), Del 
+Castillo D(9), Bernat AG(9), Hegbrant J(9), Wollheim C(9), Gargano L(9), Bots
+CP(13), Strippoli GF(14); ORAL-D Study Investigators.
+
+Collaborators: Raña S, Serrano M, Claros S, Arias M, Petracci L, Arana M, De Rosa
+P, Gutierrez A, Simon M, Vergara V, Tosi M, Cernadas M, Vilamajó I, Gravac D,
+Paulón M, Penayo L, Carrizo G, Ghiani M, Perez G, Da Cruz O, Galarce D, Gravielle
+M, Vescovo E, Paparone R, Mato Mira C, Mojico E, Hermida O, Florio D, Yucoswky M,
+Labonia W, Rubio D, Di Napoli G, Fernandez A, Altman H, Rodriguez J, Serrano S,
+Valle G, Lobos M, Acosta V, Corpacci G, Jofre M, Gianoni L, Chiesura G, Capdevila
+M, Montenegro J, Bequi J, Dayer J, Gómez A, Calderón C, Abrego E, Cechín C,
+García J, Corral J, Natiello M, Coronel A, Muñiz M, Muñiz V, Bonelli A, Sanchez
+F, Maestre S, Olivera S, Camargo M, Avalos V, Geandet E, Canteli M, Escobar A,
+Sena E, Tirado S, Peñalba A, Neme G, Cisneros M, Oliszewski R, Nascar V, Daud M, 
+Mansilla S, Paredes Álvarez A, Gamín L, Arijón M, Coombes M, Zapata M, Boriceanu 
+C, Frantzen-Trendel S, Albert K, Csaszar I, Kiss E, Kosa D, Orosz A, Redl J,
+Kovacs L, Varga E, Szabo M, Magyar K, Kriza G, Zajko E, Bereczki A, Csikos J,
+Kuti A, Mike A, Steiner K, Nemeth E, Tolnai K, Toth A, Vinczene J, Szummer S,
+Tanyi E, Toth R, Szilvia M, Dambrosio N, Paparella G, Sambati M, Donatelli C,
+Pedone F, Cagnazzo VA, Antinoro R, Torsello F, Saturno C, Giannoccaro G, Maldera 
+S, Boccia E, Mantuano M, Di Toro Mammarella R, Meconizzi M, Steri PF, Riccardi C,
+Flammini A, Moscardelli L, Murgo M, San Filippo N, Pagano S, Marino G, Montalto
+G, Cantarella S, Salamone B, Randazzo G, Rallo D, Maniscalco A, Fici M, Lupo A,
+Pellegrino P, Fichera R, D'Angelo A, Falsitta N, Bochenska-Nowacka E, Jaroszynski
+A, Drabik J, Birecka M, Daniewska D, Drobisz M, Doskocz K, Wyrwicz G,
+Inchaustegui L, Outerelo C, Sousa Mendes D, Mendes A, Lopes J, Barbas J, Madeira 
+C, Fortes A, Vizinho R, Cortesão A, Almeida E, Bernat A, De la Torre B, Lopez A, 
+Martín J, Cuesta G, Rodriguez RM, Ros F, Garcia M, Orero E, Ros E, Caetano A,
+MacGregor K, Santos M, Silva Pinheiro S, Martins L, Leitão D, Izidoro C, Bava G, 
+Bora A, Gorena H, Calderón T, Dupuy R, Alonso N, Siciliano V, Frantzen-Trendel S,
+Nagy K, Bajusz Ö, Pinke I, Decsi G, Gyergyoi L, Jobba Z, Zalai Z, Zsedenyi Á,
+Kiss G, Pinter M, Kereszturi M, Petruzzi M, De Benedittis M, Szkutnik J,
+Sieczkarek J, Capelo A, Garcia Gallart M, Mendieta C.
+
+Author information: 
+(1)University of Otago, Christchurch, New Zealand.
+(2)Diaverum Medical Scientific Office, Lund, Sweden; Amedeo Avogadro University
+of Eastern Piedmont, Novara, Italy.
+(3)University of Sydney, Sydney, Australia.
+(4)University of Bari, Bari, Italy.
+(5)Universita' del Piemonte Orientale, Vercelli, Italy.
+(6)University of Queensland, Brisbane, Australia.
+(7)University of Queensland, Brisbane, Australia; Translational Research
+Institute, Brisbane, Australia.
+(8)University of Calgary, Calgary, Canada.
+(9)Diaverum Medical Scientific Office, Lund, Sweden.
+(10)Global Medical Biogen Idec, Cambridge, MA.
+(11)Diaverum Medical Scientific Office, Lund, Sweden; Medical University of
+Lublin, Lublin.
+(12)Diaverum Medical Scientific Office, Lund, Sweden; Medical University of
+Silesia, Silesia, Poland.
+(13)Academic Centre for Dentistry Amsterdam (ACTA), Oral Biochemistry, Amsterdam,
+the Netherlands.
+(14)Diaverum Medical Scientific Office, Lund, Sweden; University of Sydney,
+Sydney, Australia; University of Bari, Bari, Italy; Diaverum Academy, Lund,
+Sweden. Electronic address: gfmstrippoli@gmail.com.
+
+BACKGROUND: Dental disease is more extensive in adults with chronic kidney
+disease, but whether dental health and behaviors are associated with survival in 
+the setting of hemodialysis is unknown.
+STUDY DESIGN: Prospective multinational cohort.
+SETTING & PARTICIPANTS: 4,205 adults treated with long-term hemodialysis, 2010 to
+2012 (Oral Diseases in Hemodialysis [ORAL-D] Study).
+PREDICTORS: Dental health as assessed by a standardized dental examination using 
+World Health Organization guidelines and personal oral care, including
+edentulousness; decayed, missing, and filled teeth index; teeth brushing and
+flossing; and dental health consultation.
+OUTCOMES: All-cause and cardiovascular mortality at 12 months after dental
+assessment.
+MEASUREMENTS: Multivariable-adjusted Cox proportional hazards regression models
+fitted with shared frailty to account for clustering of mortality risk within
+countries.
+RESULTS: During a mean follow-up of 22.1 months, 942 deaths occurred, including
+477 cardiovascular deaths. Edentulousness (adjusted HR, 1.29; 95% CI, 1.10-1.51) 
+and decayed, missing, or filled teeth score ≥ 14 (adjusted HR, 1.70; 95% CI,
+1.33-2.17) were associated with early all-cause mortality, while dental flossing,
+using mouthwash, brushing teeth daily, spending at least 2 minutes on oral
+hygiene daily, changing a toothbrush at least every 3 months, and visiting a
+dentist within the past 6 months (adjusted HRs of 0.52 [95% CI, 0.32-0.85], 0.79 
+[95% CI, 0.64-0.97], 0.76 [95% CI, 0.58-0.99], 0.84 [95% CI, 0.71-0.99], 0.79
+[95% CI, 0.65-0.95], and 0.79 [95% CI, 0.65-0.96], respectively) were associated 
+with better survival. Results for cardiovascular mortality were similar.
+LIMITATIONS: Convenience sample of clinics.
+CONCLUSIONS: In adults treated with hemodialysis, poorer dental health was
+associated with early death, whereas preventive dental health practices were
+associated with longer survival.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.ajkd.2015.04.051 
+PMID: 26120038  [Indexed for MEDLINE]
+
+
+39. Immunol Rev. 2015 May;265(1):63-74. doi: 10.1111/imr.12295.
+
+Drivers of age-related inflammation and strategies for healthspan extension.
+
+Goldberg EL(1), Dixit VD.
+
+Author information: 
+(1)Section of Comparative Medicine, Yale School of Medicine, New Haven, CT, USA; 
+Department of Immunobiology, Yale School of Medicine, New Haven, CT, USA.
+
+Aging is the greatest risk factor for the development of chronic diseases such as
+arthritis, type 2 diabetes, cardiovascular disease, kidney disease, Alzheimer's
+disease, macular degeneration, frailty, and certain forms of cancers. It is
+widely regarded that chronic inflammation may be a common link in all these
+age-related diseases. This raises the question, can one alter the course of aging
+and potentially slow the development of all chronic diseases by manipulating the 
+mechanisms that cause age-related inflammation? Emerging evidence suggests that
+pro-inflammatory cytokines interleukin-1 (IL-1) and IL-18 show an age-dependent
+regulation implicating inflammasome-mediated caspase-1 activation in the aging
+process. The Nod-like receptor (NLR) family of innate immune cell sensors, such
+as the nucleotide-binding domain, leucine-rich-containing family, pyrin
+domain-containing-3 (NLRP3) inflammasome controls the caspase-1 activation in
+myeloid-lineage cells in several organs during aging. The NLRP3 inflammasome is
+especially relevant to aging as it can get activated in response to structurally 
+diverse damage-associated molecular patterns (DAMPs) such as extracellular ATP,
+excess glucose, ceramides, amyloids, urate, and cholesterol crystals, all of
+which increase with age. Interestingly, reduction in NLRP3-mediated inflammation 
+prevents age-related insulin resistance, bone loss, cognitive decline, and
+frailty. NLRP3 is a major driver of age-related inflammation and therefore
+dietary or pharmacological approaches to lower aberrant inflammasome activation
+holds promise in reducing multiple chronic diseases of age and may enhance
+healthspan.
+
+© 2015 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/imr.12295 
+PMCID: PMC4400872
+PMID: 25879284  [Indexed for MEDLINE]
+
+
+40. Am J Epidemiol. 2015 Jul 1;182(1):17-25. doi: 10.1093/aje/kwu485. Epub 2015 Apr
+12.
+
+Controlling Time-Dependent Confounding by Health Status and Frailty: Restriction 
+Versus Statistical Adjustment.
+
+McGrath LJ, Ellis AR, Brookhart MA.
+
+Nonexperimental studies of preventive interventions are often biased because of
+the healthy-user effect and, in frail populations, because of confounding by
+functional status. Bias is evident when estimating influenza vaccine
+effectiveness, even after adjustment for claims-based indicators of illness. We
+explored bias reduction methods while estimating vaccine effectiveness in a
+cohort of adult hemodialysis patients. Using the United States Renal Data System 
+and linked data from a commercial dialysis provider, we estimated vaccine
+effectiveness using a Cox proportional hazards marginal structural model of
+all-cause mortality before and during 3 influenza seasons in 2005/2006 through
+2007/2008. To improve confounding control, we added frailty indicators to the
+model, measured time-varying confounders at different time intervals, and
+restricted the sample in multiple ways. Crude and baseline-adjusted marginal
+structural models remained strongly biased. Restricting to a healthier population
+removed some unmeasured confounding; however, this reduced the sample size,
+resulting in wide confidence intervals. We estimated an influenza vaccine
+effectiveness of 9% (hazard ratio = 0.91, 95% confidence interval: 0.72, 1.15)
+when bias was minimized through cohort restriction. In this study, the
+healthy-user bias could not be controlled through statistical adjustment;
+however, sample restriction reduced much of the bias.
+
+© The Author 2015. Published by Oxford University Press on behalf of the Johns
+Hopkins Bloomberg School of Public Health. All rights reserved. For permissions, 
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwu485 
+PMCID: PMC4479111
+PMID: 25868551  [Indexed for MEDLINE]
+
+
+41. Clin Exp Nephrol. 2015 Dec;19(6):1165-78. doi: 10.1007/s10157-015-1108-0. Epub
+2015 Mar 19.
+
+Variability of laboratory parameters is associated with frailty markers and
+predicts non-cardiac mortality in hemodialysis patients.
+
+Nakazato Y(1), Kurane R(2), Hirose S(2), Watanabe A(2), Shimoyama H(2).
+
+Author information: 
+(1)Division of Nephrology, Hakuyukai Medical Corporation, Yuai Nisshin Clinic,
+2-1914-6 Nisshin-cho, Kita-ku, Saitama-City, Saitama, 331-0823, Japan.
+nkzt@hakuyukai.jp.
+(2)Division of Nephrology, Hakuyukai Medical Corporation, Yuai Nisshin Clinic,
+2-1914-6 Nisshin-cho, Kita-ku, Saitama-City, Saitama, 331-0823, Japan.
+
+BACKGROUND: The levels of many laboratory parameters are associated with the
+outcomes of dialysis patients, but the significance of their variability has not 
+been well studied.
+METHODS: A total of 384 patients receiving stable hemodialysis treatment during
+2002 were followed up for mortality until the end of 2013. The within-patient
+coefficients of variation (CV) were calculated for 13 laboratory parameters from 
+1 year of data. We defined variability as CV and analyzed the survival of the
+patients according to the baseline CV values of each parameter by proportional
+hazard modeling.
+RESULTS: During the 11-year observation period, 125 patients died. Higher CV
+levels for eight parameters, namely, blood urea nitrogen (BUN), sodium,
+hemoglobin, creatinine, total protein, albumin, potassium and phosphate, were
+significantly associated with all-cause mortality. The adjusted hazard ratios for
+a high BUN-CV (>15 %) and a high Na-CV (>1.3 %) against a lower CV were 1.92 (95 
+% CI 1.31-2.81) and 1.95 (1.36-2.80), respectively. The increased mortality risk 
+associated with each variability was attributed to excess non-cardiac deaths. The
+CV values of most parameters were correlated with each other and often exhibited 
+negative associations with age, diabetes, and mobility as well as the levels of
+hemoglobin, albumin, creatinine, Na, the protein catabolic rate, and the
+creatinine generation rate. Therefore, a high variability was generally
+associated with frailty-related adverse prognostic factors.
+CONCLUSIONS: The variability of several blood parameters had a significant impact
+on all-cause and non-cardiac mortality. The levels of the variabilities were most
+likely related to poor physical conditions of the patients.
+
+DOI: 10.1007/s10157-015-1108-0 
+PMID: 25788369  [Indexed for MEDLINE]
+
+
+42. Transplantation. 2015 Apr;99(4):805-10. doi: 10.1097/TP.0000000000000444.
+
+Frailty, mycophenolate reduction, and graft loss in kidney transplant recipients.
+
+McAdams-DeMarco MA(1), Law A, Tan J, Delp C, King EA, Orandi B, Salter M,
+Alachkar N, Desai N, Grams M, Walston J, Segev DL.
+
+Author information: 
+(1)1 Department of Surgery, Johns Hopkins University School of Medicine,
+Baltimore, MD. 2 Department of Epidemiology, Johns Hopkins Bloomberg School of
+Public Health, Baltimore, MD. 3 Division of Nephrology, Johns Hopkins University 
+School of Medicine, Baltimore, MD. 4 Division of Geriatric Medicine and
+Gerontology, Johns Hopkins University School of Medicine, Baltimore, MD.
+
+BACKGROUND: Mycophenolate mofetil (MMF) side effects often prompt dose reduction 
+or discontinuation, and this MMF dose reduction (MDR) can lead to rejection and
+possibly graft loss. Unfortunately, little is known about what factors might
+cause or contribute to MDR. Frailty, a measure of physiologic reserve, is
+emerging as an important, novel domain of risk in kidney transplantation
+recipients. We hypothesized that frailty, an inflammatory phenotype, might be
+associated with MDR.
+METHODS: We measured frailty (shrinking, weakness, exhaustion, low physical
+activity, and slowed walking speed), other patient and donor characteristics,
+longitudinal MMF doses, and graft loss in 525 kidney transplantation recipients. 
+Time-to-MDR was quantified using an adjusted Cox proportional hazards model.
+RESULTS: By 2 years after transplantation, 54% of frail recipients and 45% of
+nonfrail recipients experienced MDR; by 4 years, incidence was 67% and 51%. Frail
+recipients were 1.29 times (95% confidence interval [95% CI], 1.01-1.66; P =
+0.04) more likely to experience MDR, as were deceased donor recipients (adjusted 
+hazard ratio [aHR], 1.92; 95% CI, 1.44-2.54, P < 0.001) and older adults (age ≥
+65 vs <65; aHR, 1.47; 95% CI, 1.10-1.96, P = 0.01). Mycophenolate mofetil dose
+reduction was independently associated with a substantially increased risk of
+death-censored graft loss (aHR, 5.24; 95% CI, 1.97-13.98, P = 0.001).
+CONCLUSION: A better understanding of risk factors for MMF intolerance might help
+in planning alternate strategies to maintain adequate immunosuppression and
+prolong allograft survival.
+
+DOI: 10.1097/TP.0000000000000444 
+PMCID: PMC4382409
+PMID: 25393156  [Indexed for MEDLINE]
+
+
+43. Transplant Rev (Orlando). 2014 Oct;28(4):188-92. doi: 10.1016/j.trre.2014.07.001.
+Epub 2014 Jul 31.
+
+Renal transplantation in elderly patients. How to select the candidates to the
+waiting list?
+
+Ponticelli C(1), Podestà MA(2), Graziani G(2).
+
+Author information: 
+(1)Nephrology and Dialysis unit, Humanitas Clinical and Research Center, Via
+Manzoni 56, 20089, Rozzano (Milano), Italy. Electronic address:
+ponticelli.claudio@gmail.com.
+(2)Nephrology and Dialysis unit, Humanitas Clinical and Research Center, Via
+Manzoni 56, 20089, Rozzano (Milano), Italy.
+
+Today, old age does not represent a formal contraindication to kidney
+transplantation. Rather, there is evidence that in elderly patients renal
+transplantation offers longer life expectancy and better quality of life in
+comparison with dialysis. Yet, the results of renal transplantation in recipients
+older than 65years are inferior to those observed in younger adults, death with
+functioning graft representing a major cause of failure. Therefore, the selection
+of aged patients is of paramount importance. Apart from the routine clinical and 
+biological investigations, three aspects have been relatively neglected by the
+transplant community and may require a careful analysis in elderly candidates to 
+transplantation: the presence and degree of frailty, the presence of
+comorbidities and the adherence to prescriptions. Although there are rapid and
+simple tests for assessing the degree of frailty in the elderly, there is no
+clear cut-off value to decide whether a patient should be accepted or not. With
+advanced age the prevalence and severity of cardiovascular events and other
+diseases tend to increase. The use of combined age-comorbidity indices may be
+helpful to identify patients at high risk of mortality. Another critical point is
+the poor unintentional adherence to treatment, often caused by forgetfulness and 
+mild cognitive impairment. These drawbacks may be further enhanced by a high
+number of pills to take and by changes in the dosage or type of prescriptions. A 
+careful screening of the presence and degree of frailty, comorbidity and poor
+compliance to treatment is highly recommended before admitting older candidates
+to the waiting list for transplantation.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.trre.2014.07.001 
+PMID: 25154797  [Indexed for MEDLINE]
+
+
+44. EuroIntervention. 2014 Sep;10(5):609-19. doi: 10.4244/EIJY14M08_03.
+
+Impact of frailty on short- and long-term morbidity and mortality after
+transcatheter aortic valve implantation: risk assessment by Katz Index of
+activities of daily living.
+
+Puls M(1), Sobisiak B, Bleckmann A, Jacobshagen C, Danner BC, Hünlich M,
+Beißbarth T, Schöndube F, Hasenfuß G, Seipelt R, Schillinger W.
+
+Author information: 
+(1)Department of Cardiology, University Medical Centre Göttingen, Göttingen,
+Germany.
+
+AIMS: Transcatheter aortic valve implantation (TAVI) represents a less invasive
+treatment option for elderly patients. Therefore, we aimed to determine the
+impact of frailty measured by the Katz Index of activities of daily living (ADL) 
+on short- and long-term mortality after TAVI.
+METHODS AND RESULTS: Our study included 300 consecutive patients (mean age, 82±5 
+years) who had undergone TAVI at our institution (158 transapical, 142
+transfemoral procedures). At baseline, 144 patients were impaired in at least one
+ADL and therefore defined as frail (Katz Index <6). Regarding in-hospital
+outcome, all serious complications except for stage 3 acute kidney injury were
+equally distributed in both groups, but early mortality was significantly higher 
+in frail persons (5.5% vs. 1.3%, p=0.04 for immediate procedural mortality; 17%
+vs. 5.8%, p=0.002 for 30-day mortality; and 23% vs. 6.4%, p<0.0001 for procedural
+mortality). The risk-score-based 30-day mortality estimates (29% vs. 24% for log.
+EuroSCORE I, 9.5% vs. 7.5% for EuroSCORE II, and 8.8% vs. 5.9% for STS score)
+reflected neither the observed 30-day mortality in both groups nor the threefold 
+risk elevation in frail patients. In contrast, the Katz Index <6 was identified
+as a significant independent predictor of long-term all-cause mortality by
+multivariate analysis (HR 2.67 [95% CI: 1.7-4.3], p<0.0001). During follow-up
+(median observation period 537 days) 56% of frail vs. 24% of non-frail patients
+died.
+CONCLUSIONS: Frailty status measured by the Katz Index represents a powerful
+predictor of adverse early and late outcome after TAVI, whereas commonly used
+risk scores lack calibration and discrimination in a TAVI-specific patient
+cohort. Therefore, we propose the incorporation of this simple and reproducible
+measure into pre-TAVI risk assessment.
+
+DOI: 10.4244/EIJY14M08_03 
+PMID: 25136880  [Indexed for MEDLINE]
+
+
+45. Clin Interv Aging. 2014 Jul 16;9:1109-14. doi: 10.2147/CIA.S62877. eCollection
+2014.
+
+Linagliptin use in older individuals with type 2 diabetes.
+
+Pratley RE(1).
+
+Author information: 
+(1)Florida Hospital Diabetes Institute, Orlando, FL, USA ; Translational Research
+Institute for Metabolism and Diabetes, Orlando, FL, USA ; Sanford-Burnham Medical
+Research Institute, Orlando, FL, USA.
+
+Older people have the highest prevalence of type 2 diabetes mellitus (T2DM) of
+any age group and are thus frequent users of glucose-lowering agents. Because
+individuals 65 years or older are underrepresented in clinical studies, there is 
+a lack of information regarding the efficacy and safety of available treatments
+in this population. Additionally, a high prevalence of comorbidities,
+polypharmacy, and frailty can make treatment of T2DM in this population
+challenging. Safety is an important consideration when choosing a treatment for
+older individuals. Renal impairment is quite common in older patients with T2DM
+and can contribute to hypoglycemia. Hypoglycemia can lead to serious
+consequences, such as falls and fractures, and cognitive changes. As such,
+hemoglobin A₁c treatment targets, typically <7% in the general population, are
+less stringent in older people, with the goal being an individualized target that
+balances efficacy and safety. Many glucose-lowering agents can cause adverse
+events detrimental to older individuals, such as hypoglycemia (insulin,
+sulfonylureas), weight gain (sulfonylureas, thiazolidinediones), gastrointestinal
+events (metformin), and fractures (thiazolidinediones), and are contraindicated
+or require dose adjustments in those with renal impairment (most oral/injectable 
+agents). Orally administered dipeptidyl peptidase (DPP)-4 inhibitors have a low
+risk of hypoglycemia and are generally well tolerated. Linagliptin is the only
+DPP-4 inhibitor excreted through nonrenal pathways and therefore does not require
+any dose adjustment in older patients with kidney disease. This paper reviews the
+findings of a recent study by Barnett et al assessing the efficacy and safety of 
+the DPP-4 inhibitor linagliptin in patients with T2DM aged 70 years or older,
+which concluded that linagliptin may be a useful glucose-lowering option for
+older patients with T2DM.
+
+DOI: 10.2147/CIA.S62877 
+PMCID: PMC4108453
+PMID: 25083132  [Indexed for MEDLINE]
+
+
+46. Diabetes Obes Metab. 2015 Feb;17(2):107-15. doi: 10.1111/dom.12319. Epub 2014 Jun
+25.
+
+Dipeptidyl peptidase-4 inhibitors can minimize the hypoglycaemic burden and
+enhance safety in elderly people with diabetes.
+
+Avogaro A(1), Dardano A, de Kreutzenberg SV, Del Prato S.
+
+Author information: 
+(1)Department of Medicine, Section of Diabetes and Metabolic Diseases, University
+of Padova, Padua, Italy.
+
+The prevalence of type 2 diabetes mellitus (T2DM) among elderly people is
+increasing. Often associated with disabilities/comorbidities, T2DM lowers the
+chances of successful aging and is independently associated with frailty and an
+increased risk of hypoglycaemia, which can be further exacerbated by
+antihyperglycaemic treatment. From this perspective, the clinical management of
+T2DM in the elderly is challenging and requires individualization of optimum
+glycaemic targets depending on comorbidities, cognitive functioning and ability
+to recognize and self-manage the disease. The lack of solid evidence-based
+medicine supporting treatment guidelines for older people with diabetes further
+complicates the matter. Several classes of medicine for the treatment of T2DM are
+currently available and different drug combinations are often required to achieve
+individualized glycaemic goals. Many of these drugs, however, carry disadvantages
+such as the propensity to cause weight gain or hypoglycaemia. Dipeptidyl
+peptidase-4 (DPP-4) inhibitors, a recent addition to the pharmacological
+armamentarium, have become widely accepted in clinical practice because of their 
+efficacy, low risk of hypoglycaemia, neutral effect on body weight, and
+apparently greater safety in patients with kidney failure. Although more
+information is needed to reach definitive conclusions, growing evidence suggests 
+that DPP-4 inhibitors may become a valuable component in the pharmacological
+management of elderly people with T2DM. The present review aims to delineate the 
+potential advantages of this pharmacological approach in the treatment of elderly
+people with T2DM.
+
+© 2014 John Wiley & Sons Ltd.
+
+DOI: 10.1111/dom.12319 
+PMID: 24867662  [Indexed for MEDLINE]
+
+
+47. Age (Dordr). 2014 Jun;36(3):9641. doi: 10.1007/s11357-014-9641-4. Epub 2014 Mar
+25.
+
+Glomerular filtration rate in the elderly and in the oldest old: correlation with
+frailty and mortality.
+
+Montesanto A(1), De Rango F, Berardelli M, Mari V, Lattanzio F, Passarino G,
+Corsonello A.
+
+Author information: 
+(1)Department of Biology, Ecology and Earth Science, University of Calabria,
+87036, Rende, Italy, alberto.montesanto@unical.it.
+
+The equations for estimating kidney function have become very popular in the last
+decade. However, the clinical and prognostic meaning of these measures may be
+very different in older populations. Two cohorts of people aged 65-89 years
+(older sample) and 90 or more (oldest old sample) were used to investigate the
+prognostic significance of estimated glomerular filtration rate (eGFR).
+Additionally, we also investigated whether combining frailty and eGFR may improve
+the accuracy of frailty in predicting mortality. We found that lower eGFR values 
+were significantly more frequent among frail subjects in both groups. eGFR < 30
+was associated with increased risk for all-cause mortality either in subjects
+aged 65-89 years (HR = 3.71, 95% CI = 1.23-11.2) or in those aged 90 or more
+(HR = 1.53, 95% CI = 1.05-2.23). In the latter group, a not significant trend for
+increasing mortality was also observed among people with eGFR > 60 (HR = 1.28,
+95% CI = 0.72-2.26). In addition, the oldest old subjects with eGFR > 60 and
+eGFR < 30 had the lowest hand-grip strength and ADL values. Combining eGFR and
+frailty status significantly improved the accuracy of frailty in predicting
+mortality only in the older sample. In conclusion, a U-shaped relationship exists
+between eGFR and mortality in the oldest old, but not in older individuals. Our
+findings suggest that eGFR needs to be adjusted for muscle mass/physical
+performance when estimating kidney function in people aged 90 or more.
+Nevertheless, in subjects aged 65-89 years, eGFR may improve the accuracy of
+frailty status in predicting prognosis, thus suggesting that eGFR may represent
+an additional dimension of frailty syndrome.
+
+DOI: 10.1007/s11357-014-9641-4 
+PMCID: PMC4082598
+PMID: 24664801  [Indexed for MEDLINE]
+
+
+48. Curr Opin Nephrol Hypertens. 2014 May;23(3):291-7. doi:
+10.1097/01.mnh.0000444821.87873.7b.
+
+Cognitive and physical function in chronic kidney disease.
+
+Weiner DE(1), Seliger SL.
+
+Author information: 
+(1)aTufts Medical Center, Boston, Massachusetts bUniversity of Maryland Medical
+Center, Baltimore VA Medical Center, Baltimore, Maryland, USA.
+
+PURPOSE OF REVIEW: Both cognitive and physical function are commonly impaired in 
+individuals with chronic kidney disease (CKD), resulting in important impacts on 
+their quality of life and overall health. This review summarizes the burden of
+cognitive and physical impairment in CKD, focusing on recent research that
+highlights a possible unifying microvascular cause among these shared comorbid
+conditions.
+RECENT FINDINGS: Multiple small studies have been published recently evaluating
+cognitive and physical functioning in people with CKD. These studies overall
+demonstrate a high burden of comorbid conditions in people with CKD, including
+microvascular disease, that may result in cognitive impairment. Additionally,
+studies demonstrate that physical function is substantially worse than expected
+in individuals with CKD, that decreased physical activity is associated with
+worse outcomes, that frailty is very common and associated with an increased risk
+of death, and that structured exercise programs have small but tangible
+short-term effects on markers of physical performance.
+SUMMARY: Impaired cognitive function and physical performance are important
+factors impacting the lives of people with CKD. Further research is necessary to 
+better treat these important comorbid conditions in people with CKD.
+
+DOI: 10.1097/01.mnh.0000444821.87873.7b 
+PMCID: PMC4052721
+PMID: 24638060  [Indexed for MEDLINE]
+
+
+49. QJM. 2014 Jul;107(7):545-55. doi: 10.1093/qjmed/hcu043. Epub 2014 Feb 24.
+
+Survival of patients with ANCA-associated vasculitis on chronic dialysis: data
+from the French REIN registry from 2002 to 2011.
+
+Romeu M(1), Couchoud C(1), Delarozière JC(1), Burtey S(1), Chiche L(1), Harlé
+JR(1), Gondouin B(1), Brunet P(1), Berland Y(1), Jourde-Chiche N(2).
+
+Author information: 
+(1)From the Department of Nephrology, Hopital Conception, AP-HM, Aix-Marseille
+Université, 147 Bd Baille, 13385 Marseille Cedex 5, Agence de la Biomédecine,
+Registre REIN, 1 avenue du Stade de France, 93212 Saint-Denis-La Plaine, France, 
+Department of Public Health, Hopital Timone, AP-HM, Aix-Marseille Université, 27 
+Bd Jean Moulin, 13385 Marseille Cedex 5 and Department of Internal Medicine,
+Hopital Conception, AP-HM, Aix-Marseille Université, 147 Bd Baille, 13385
+Marseille Cedex 5, France.
+(2)From the Department of Nephrology, Hopital Conception, AP-HM, Aix-Marseille
+Université, 147 Bd Baille, 13385 Marseille Cedex 5, Agence de la Biomédecine,
+Registre REIN, 1 avenue du Stade de France, 93212 Saint-Denis-La Plaine, France, 
+Department of Public Health, Hopital Timone, AP-HM, Aix-Marseille Université, 27 
+Bd Jean Moulin, 13385 Marseille Cedex 5 and Department of Internal Medicine,
+Hopital Conception, AP-HM, Aix-Marseille Université, 147 Bd Baille, 13385
+Marseille Cedex 5, France noemie.jourde@ap-hm.fr.
+
+BACKGROUND: Anti-neutrophil cytoplasmic antibody (ANCA)-associated vasculitides
+(AAV) can lead to end-stage renal disease in patients with renal involvement.
+OBJECTIVE: This study evaluated the survival of AAV patients on chronic dialysis 
+in France.
+METHODS: Between 2002 and 2011, a total of 425 AAV patients started chronic
+dialysis and were registered in the Renal Epidemiology and Information Network.
+We analysed survival censored for renal transplantation, recovery of renal
+function and loss to follow-up. AAV patients were compared with 794 matched
+non-AAV patients on chronic dialysis.
+RESULTS: A total of 166 (39%) patients with microscopic polyangiitis and 259
+(61%) patients with granulomatosis with polyangiitis were registered. Within a
+median follow-up of 23 months, 58 (14%) patients received a renal allograft and
+19 (4%) recovered renal function. Median survival on dialysis was 5.35 years (95%
+CI, 4.4-6.3) and survival rates at 3 months, 1, 3 and 5 years were 96%, 85%, 68% 
+and 53%, respectively. A total of 143 (41%) patients died after a median of 16
+months. Causes of death were cardiovascular (29%), infections (20%), malnutrition
+(13%), malignancies (4%), AAV relapse (2%), miscellaneous (14%) and unknown
+(18%). Multivariate logistic regression identified three independent risk factors
+associated with AAV patients' mortality: age (HR = 1.05/year, P < 0.001),
+peripheral artery disease (HR = 2.62, P = 0.003) and frailty (HR = 2.43, P <
+0.001). Survival of AAV patients did not differ from non-AAV controls, but
+infectious mortality was higher in AAV patients (20% vs. 8%, P < 0.001).
+CONCLUSION: Survival of AAV patients in chronic dialysis, although poor, was
+comparable to survival of non-AAV controls on dialysis. There was a similar
+burden of cardiovascular mortality, but higher infectious mortality.
+
+© The Author 2014. Published by Oxford University Press on behalf of the
+Association of Physicians. All rights reserved. For Permissions, please email:
+journals.permissions@oup.com.
+
+DOI: 10.1093/qjmed/hcu043 
+PMID: 24570478  [Indexed for MEDLINE]
+
+
+50. J Bone Miner Res. 2014 Jul;29(7):1701-7. doi: 10.1002/jbmr.2164.
+
+Association of serum uric acid and incident nonspine fractures in elderly men:
+the Osteoporotic Fractures in Men (MrOS) study.
+
+Lane NE(1), Parimi N, Lui LY, Wise BL, Yao W, Lay YA, Cawthon PM, Orwoll E;
+Osteoporotic Fractures in Men Study Group.
+
+Author information: 
+(1)University of California at Davis, Sacramento, CA, USA.
+
+Uric acid (UA) is produced from purines by the enzyme xanthine oxidase, and
+elevated levels may cause arthritis and kidney stones. Conversely, UA also
+appears to function as an antioxidant and may protect against the oxidative
+stress associated with aging and disease. We performed a prospective fracture
+case-cohort study to understand the relation of UA and fracture risk in older men
+enrolled in the Osteoporotic Fractures in Men (MrOS) study. In the cohort of 5994
+men aged 65 years and older attending the baseline MrOS examination, we evaluated
+a subgroup 1680 men in a case-cohort study design. The analytic group included
+387 men with incident nonspine fractures (73 hip) and a random sample of 1383.
+Serum UA was measured in baseline serum samples. Modified proportional hazards
+models that account for case-cohort study design were used to estimate the
+relative hazards (RH) of hip and nonspine fracture in men for serum UA. Models
+were adjusted for age, race, clinic site, body mass index, vitamin D, parathyroid
+hormone, walking speed, Physical Activity Scale for the Elderly (PASE) score,
+frailty, and total. Subjects with incident nonspine fractures were older, had
+lower total hip bone mineral density (BMD), and higher serum phosphorus. There
+was an 18% decreased risk of nonspine fractures (95% confidence interval [CI]
+0.71-0.93; p = 0.003) per 1 SD increase of baseline serum and 34% decreased risk 
+of nonspine fractures in quartile 4 of UA versus quartiles 1, 2, and 3 (95% CI
+0.49-0.89; p = 0.028) compared with nonfracture cases after multivariate
+adjustment. Hip fractures were not significantly associated with UA. Total hip
+BMD was significantly higher in the group of men with high UA levels compared
+with lower UA levels and increased linearly across quartiles of UA after
+multivariate adjustment (p for trend = 0.002). In summary, higher serum UA levels
+were associated with a reduction in risk of incident nonspine fractures but not
+hip fractures and higher hip BMD.
+
+© 2014 American Society for Bone and Mineral Research.
+
+DOI: 10.1002/jbmr.2164 
+PMCID: PMC4351860
+PMID: 24347506  [Indexed for MEDLINE]
+
+
+51. Curr Opin Nephrol Hypertens. 2013 Nov;22(6):615-23. doi:
+10.1097/MNH.0b013e328365b43a.
+
+The association of physical activity and physical function with clinical outcomes
+in adults with chronic kidney disease.
+
+Painter P(1), Roshanravan B.
+
+Author information: 
+(1)aDepartment of Physical Therapy, University of Utah, Salt Lake City, Utah
+bKidney Research Institute, Division of Nephrology, University of Washington,
+Seattle, Washington, USA.
+
+PURPOSE OF REVIEW: Despite guidelines supporting the regular assessment of
+physical functioning and encouragement of physical activity in management of the 
+patient with chronic kidney disease (CKD), implementation has been undermined by 
+a lack of understanding of the evidence for this recommendation. The purpose of
+this review is to present a summary of emerging data from larger epidemiologic
+cohorts that report associations between low levels of physical functioning
+and/or low physical activity and clinical outcomes in patients with CKD.
+RECENT FINDINGS: Low levels of physical activity and poor physical functioning
+are strongly associated with mortality and poor clinical outcomes in adult
+patients with CKD, regardless of treatment modality. Low physical performance and
+activity limitations are more prevalent in patients with CKD, regardless of age, 
+compared to older community-dwelling adults.
+SUMMARY: The strength of the evidence presented should strongly motivate a focus 
+of treatment on assessing and improving physical activity and physical function
+as part of routine patient-centered management of persons with CKD. Physical
+activity interventions are warranted because patients with CKD, regardless of
+age, have a high prevalence of low physical functioning and frailty that is
+similar to or higher than the general population of elderly adults; physical
+activity, physical function, and performance are strongly associated with
+all-cause mortality; and exercise training and exercise counseling have been
+shown to improve measures of physical functioning.
+
+DOI: 10.1097/MNH.0b013e328365b43a 
+PMID: 24100215  [Indexed for MEDLINE]
+
+
+52. QJM. 2013 Apr;106(4):323-32. doi: 10.1093/qjmed/hcs237. Epub 2013 Jan 22.
+
+Acute kidney injury: outcomes and quality of care.
+
+Aitken E(1), Carruthers C, Gall L, Kerr L, Geddes C, Kingsmore D.
+
+Author information: 
+(1)Department of Renal Surgery, Western Infirmary, Glasgow G11 6NY, UK.
+emmaaitken@nhs.net
+
+BACKGROUND: Deficiencies in management have been highlighted as contributory
+factors in the death of many patients with acute kidney injury (AKI). However,
+there is little evidence addressing the quality of care provided to patients with
+milder AKI.
+AIM: The aim of this study is to evaluate the quality of care provided to a
+non-select cohort of patients with AKI and evaluate discrepancies in causation,
+recognition and management.
+DESIGN: Retrospective inception cohort study.
+METHODS: Demographic data were collected for all 1577 patients admitted to a
+University Teaching Hospital during a 1-month period. Baseline, admission and
+peak creatinine were correlated with mortality and length of hospital admission. 
+AKI was classified according to Kidney Disease Improving Global Outcomes
+criteria. A retrospective case note review of all patients with AKI was carried
+out to evaluate quality of documentation and clinical management of AKI.
+Multivariate analysis was undertaken to determine risk factors for AKI.
+RESULTS: Incidence of AKI on admission was 4.6%. A further 10.3% developed AKI
+while in hospital. All cause mortality was 4-fold higher among patients with AKI 
+compared with those without (19 vs. 3.8%; P < 0.001). Mortality was significantly
+higher in those patients who developed AKI while an in-patient compared with
+those with AKI on admission (27.3 vs. 11.8%; P < 0.001). Diabetes, clinician
+perception of frailty, age and treatment with angiotensin-converting enzyme
+inhibitor prior to admission were found to be independent risk factors for AKI.
+AKI was unrecognized in 23.5% of patients, two-thirds of whom were discharged
+without resolution of renal function. Significant weaknesses in management were
+poorly kept fluid balance charts (48.2%), failure to withhold nephrotoxic drugs
+(38.8%) and failure to act upon abnormal biochemistry (41%) in a timely fashion.
+CONCLUSION: AKI is common in hospitalized patients and associated with a
+significant increase in hospital stay and mortality. AKI is often found in
+conjunction with other organ failure and in many cases is not preventable.
+Nevertheless clinicians need to be more vigilant of small creatinine rises to
+permit early intervention particularly among elderly and frail patients.
+
+DOI: 10.1093/qjmed/hcs237 
+PMID: 23345468  [Indexed for MEDLINE]
+
+
+53. Am J Kidney Dis. 2012 Dec;60(6):912-21. doi: 10.1053/j.ajkd.2012.05.017. Epub
+2012 Jul 7.
+
+A prospective study of frailty in nephrology-referred patients with CKD.
+
+Roshanravan B(1), Khatri M, Robinson-Cohen C, Levin G, Patel KV, de Boer IH,
+Seliger S, Ruzinski J, Himmelfarb J, Kestenbaum B.
+
+Author information: 
+(1)Department of Medicine, Division of Nephrology, University of Washington
+Kidney Research Institute, 325 9th Ave, Seattle, WA 98104, USA.
+broshanr@u.washington.edu
+
+BACKGROUND: Frailty is a construct developed to characterize a state of reduced
+functional capacity in older adults. However, there are limited data describing
+the prevalence or consequences of frailty in middle-aged patients with chronic
+kidney disease (CKD).
+STUDY DESIGN: Observational study.
+SETTING & PARTICIPANTS: 336 non-dialysis-dependent patients with stages 1-4 CKD
+with estimated glomerular filtration rate (eGFR) <90 mL/min/1.73 m(2) (by the
+CKD-EPI [CKD Epidemiology Collaboration] serum creatinine-based equation) or
+evidence of microalbuminuria enrolled in the Seattle Kidney Study, a clinic-based
+cohort study. Findings were compared with community-dwelling older adults in the 
+Cardiovascular Health Study.
+OUTCOME: Prevalence and determinants of frailty in addition to its association
+with the combined outcome of all-cause mortality or renal replacement therapy.
+MEASUREMENTS: We defined frailty according to established criteria as 3 or more
+of the following characteristics: slow gait, weakness, unintentional weight loss,
+exhaustion, and low physical activity. We estimated kidney function using serum
+cystatin C concentrations (eGFR(cys)) to minimize confounding due to
+relationships of serum creatinine levels with muscle mass and frailty.
+RESULTS: The mean age of the study population was 59 years and mean eGFR(cys) was
+51 mL/min/1.73 m(2). The prevalence of frailty (14.0%) was twice that of the much
+older non-CKD reference population (P < 0.01). The most common frailty components
+were physical inactivity and exhaustion. After adjustment including diabetes,
+eGFR(cys) categories of <30 and 30-44 mL/min/1.73 m(2) were associated with a
+2.8- (95% CI, 1.3-6.3) and 2.1 (95% CI, 1.0-4.7)-fold greater prevalence of
+frailty compared with GFR(cys) ≥60 mL/min/1.73 m(2). There were 63 events during 
+a median 987 days of follow-up. After adjustment, the frailty phenotype was
+associated with an estimated 2.5 (95% CI, 1.4-4.4)-fold greater risk of death or 
+dialysis therapy.
+LIMITATIONS: Cross-sectional study design obscures inference regarding temporal
+relationships between CKD and frailty.
+CONCLUSIONS: Frailty is relatively common in middle-aged patients with CKD and is
+associated with lower eGFR(cys) and increased risk of death or dialysis therapy.
+
+Copyright © 2012 National Kidney Foundation, Inc. All rights reserved.
+
+DOI: 10.1053/j.ajkd.2012.05.017 
+PMCID: PMC3491110
+PMID: 22770927  [Indexed for MEDLINE]
+
+
+54. BMC Nephrol. 2011 Nov 17;12:63. doi: 10.1186/1471-2369-12-63.
+
+Duration of temporary catheter use for hemodialysis: an observational,
+prospective evaluation of renal units in Brazil.
+
+Bonfante GM(1), Gomes IC, Andrade EI, Lima EM, Acurcio FA, Cherchiglia ML.
+
+Author information: 
+(1)Faculdade de Medicina, Universidade Federal de Minas Gerais, Brazil.
+gimacedosilva@hotmail.com
+
+BACKGROUND: For chronic hemodialysis, the ideal permanent vascular access is the 
+arteriovenous fistula (AVF). Temporary catheters should be reserved for acute
+dialysis needs. The AVF is associated with lower infection rates, better clinical
+results, and a higher quality of life and survival when compared to temporary
+catheters. In Brazil, the proportion of patients with temporary catheters for
+more than 3 months from the beginning of therapy is used as an evaluation of the 
+quality of renal units. The aim of this study is to evaluate factors associated
+with the time between the beginning of hemodialysis with temporary catheters and 
+the placement of the first arteriovenous fistula in Brazil.
+METHODS: This is an observational, prospective non-concurrent study using
+national administrative registries of all patients financed by the public health 
+system who began renal replacement therapy (RRT) between 2000 and 2004 in Brazil.
+Incident patients were eligible who had hemodialysis for the first time. Patients
+were excluded who: had hemodialysis reportedly started after the date of death
+(inconsistent database); were younger than 18 years old; had HIV; had no record
+of the first dialysis unit; and were dialyzed in units with less than twenty
+patients. To evaluate individual and renal unit factors associated with the event
+of interest, the frailty model was used (N = 55,589).
+RESULTS: Among the 23,824 patients (42.9%) who underwent fistula placement in the
+period of the study, 18.2% maintained the temporary catheter for more than three 
+months until the fistula creation. The analysis identified five statistically
+significant factors associated with longer time until first fistula: higher age
+(Hazard-risk - HR 0.99, 95% CI 0.99-1.00); having hypertension and cardiovascular
+diseases (HR 0.94, 95% CI 0.9-0.98) as the cause of chronic renal disease;
+residing in capitals cities (HR 0.92, 95% CI 0.9-0.95) and certain regions in
+Brazil - South (HR 0.83, 95% CI 0.8-0.87), Midwest (HR 0.88, 95% CI 0.83-0.94),
+Northeast (HR 0.91, 95% CI 0.88-0.94), or North (HR 0.88, 95% CI 0.83-0.94) and
+the type of renal unit (public or private).
+CONCLUSION: Monitoring the provision of arteriovenous fistulas in renal units
+could improve the care given to patients with end stage renal disease.
+
+DOI: 10.1186/1471-2369-12-63 
+PMCID: PMC3227575
+PMID: 22093280  [Indexed for MEDLINE]
+
+
+55. Semin Dial. 2010 May-Jun;23(3):317-23. doi: 10.1111/j.1525-139X.2010.00736.x.
+
+Thyroid hormone abnormalities and frailty in elderly patients with chronic kidney
+disease: a hypothesis.
+
+Abdel-Rahman EM(1), Mansour W, Holley JL.
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, University of
+Virginia, Charlottesville, Virginia 22908, USA. ea6n@virginia.edu
+
+Thyroid hormones play a crucial role in the metabolic activities of adults,
+affecting almost every organ system. All types of thyroid diseases are
+encountered in the elderly. As symptoms and signs of thyroid diseases may overlap
+with what is considered to be "normal aging," the presence of a thyroid disorder 
+may go undiagnosed in the elderly. This potential problem is further compounded
+in elderly patients with chronic kidney disease (CKD), where the presence of an
+underlying hormonal problem such as hypothyroidism may be erroneously attributed 
+to multiple comorbidities, the aging process, or the kidney disease. Frailty is
+being recognized as a contributing factor to the poor outcomes (hospitalization
+and high mortality) in elderly patients with CKD. Predisposing factors leading to
+frailty in elderly with CKD such as increased inflammatory markers, anemia, low
+testosterone, sarcopenia, and depression are associated with thyroid hormonal
+abnormalities. These associations are remarkable and raise the question of
+whether routine monitoring and screening for thyroid hormone changes in elderly
+CKD patients might be helpful in identifying reversible causes of frailty. In
+this review, we will focus on the associations between thyroid hormone
+abnormalities and the predisposing factors of frailty in elderly patients with
+CKD. If a cause-effect relationship of thyroid hormone abnormalities and factors 
+predisposing to frailty in CKD patients is established, identification and
+treatment of thyroid abnormalities in this population would assume increased
+importance.
+
+DOI: 10.1111/j.1525-139X.2010.00736.x 
+PMID: 20636925  [Indexed for MEDLINE]
+
+
+56. Curr Opin Nephrol Hypertens. 2010 Mar;19(2):153-9. doi:
+10.1097/MNH.0b013e328335f939.
+
+Health-related quality of life outcomes in chronic kidney disease.
+
+Soni RK(1), Weisbord SD, Unruh ML.
+
+Author information: 
+(1)Department of Medicine, University of Pittsburgh Medical Center, Pittsburgh,
+Pennsylvania 15213, USA.
+
+PURPOSE OF REVIEW: Patients with chronic kidney disease (CKD) endure compromised 
+health-related quality of life (HRQOL). Although the link between HRQOL and
+increased mortality in patients with end-stage renal disease (ESRD) is well
+documented, less is known about the relationship between CKD and HRQOL. This
+article reviews the recent evidence on HRQOL, its correlates and proposed
+intervention strategies to improve HRQOL in CKD.
+RECENT FINDINGS: A growing body of literature indicates that various comorbid
+conditions related to CKD play a substantial role in impaired HRQOL in CKD.
+Hypertension, both a cause and complication of CKD, negatively affects HRQOL due 
+to associated comorbidities, side effects from antihypertensive medications and
+awareness of the diagnosis. Anemia has been associated with HRQOL, but concerns
+about the safety of erythropoietin-stimulating agents (ESAs) have led to more
+conservative anemia treatment. Frailty, symptom burden and depression are also
+major contributory factors to HRQOL in CKD.
+SUMMARY: Certain determinants of HRQOL in CKD, namely anemia and depression, are 
+treatable. Early identification and correction may improve overall well being of 
+patients. Clinical trials are required to demonstrate whether treatment
+interventions benefit HRQOL in this high-risk population. Furthermore, whether
+integration of HRQOL assessment into routine clinical practice will improve HRQOL
+outcomes remains to be determined.
+
+DOI: 10.1097/MNH.0b013e328335f939 
+PMCID: PMC2900393
+PMID: 20051850  [Indexed for MEDLINE]
+
+
+57. J Palliat Med. 2007 Oct;10(5):1137-45.
+
+Diagnostic classifications and resource utilization of decedents served by the
+Department of Veterans Affairs.
+
+Duffy SA(1), Copeland LA, Hopp FP, Zalenski RJ.
+
+Author information: 
+(1)VA Center for Clinical Management Research, Health Services Research and
+Development, Ann Arbor, Michigan 48113-0170, USA. Sonia.Duffy@va.gov
+
+BACKGROUND: Given the volume and cost of inpatient care during the last year of
+life, there is a critical need to identify patterns of dying as a means of
+planning end-of-life care services, especially for the growing number of older
+persons who receive services from the Veterans Health Administration (VHA).
+METHODS: A retrospective computerized record review was conducted of 20,933 VHA
+patients who died as inpatients between October 1, 2001 and September 30, 2002.
+Diagnoses were aggregated into one of five classification patterns of death and
+analyzed in terms of health care resource utilization (mean number of inpatient
+days and cumulative outpatient visits in the year preceding the patient's death).
+RESULTS: Cancer deaths were the most common (30.4%) followed by end-stage renal
+disease (ESRD) (23.2%), cardiopulmonary failure (21.4%), frailty (11.6%), "other"
+diagnoses (7.3%), and sudden deaths (6.1%). Those with ESRD were more likely to
+be male and nonwhite (p < 0.05) and those with frailty were more likely to be
+older and married (p < 0.05). Controlling for demographic variables, those with
+frailty had the highest number of inpatient days while those with ESRD had the
+highest number of outpatient visits. Non-married status was associated with more 
+inpatient days, especially among younger decedents.
+CONCLUSION: As a recognized leader in end-of-life care, the VHA can play a unique
+role in the development of specific interventions that address the diverse needs 
+of persons with different dying trajectories identified through this research.
+
+DOI: 10.1089/jpm.2006.0256 
+PMID: 17985970  [Indexed for MEDLINE]
+
+
+58. Am J Hum Biol. 2006 May-Jun;18(3):387-401.
+
+Biological aging and Cox hazard analysis of mortality trends in a Mennonite
+community from south-central Kansas.
+
+Melton PE(1), Zlojutro M, Kimminau K, Crawford MH.
+
+Author information: 
+(1)Department of Anthropology, University of Kansas, Lawrence, 66045, USA.
+pmelton@ku.edu
+
+This study investigated mortality in 568 individuals from the Goessel Mennonite
+community in rural central Kansas. There were three main objectives to this
+research: 1) characterize mortality trends within a biologically well-defined
+Mennonite community; 2) determine what biochemical, morphological, and
+physiological risk factors could be related to all-cause mortality, stratified by
+age and sex; and 3) compare these results to previously described variables that 
+were associated with both biological age and mortality in this population.
+Mortality data were obtained from three sources: Kansas Vital Records, the Social
+Security death index, and church records. In total, 221 (39%) individuals were
+found to have died in this population between January 1980-June 2002. Analogous
+to the larger US population, the three leading causes of death in this community 
+were heart disease, cancer, and stroke, accounting for 60% of all deaths. Besides
+advancing age, the greatest biological risk factor in this population was
+decreased amounts of albumin in men (relative risk, 2.47), potentially indicating
+underreported cases of either chronic kidney disease or frailty syndrome for
+males. Cox proportional hazard models demonstrated that increased amounts of
+total cholesterol may provide a protective effect for elderly individuals. We
+conclude, based on the previously described heritability of both albumin (h(2) = 
+0.40) and total cholesterol (h(2) = 0.50) in this population, that underlying
+genetic factors associated with both chronic degenerative diseases and biological
+aging may have important implications for understanding mortality patterns in
+this community.
+
+DOI: 10.1002/ajhb.20514 
+PMID: 16634024  [Indexed for MEDLINE]
+
+
+59. Int Urol Nephrol. 2001;32(3):469-74.
+
+Geriatric nephrology units: the way of the future.
+
+Jassal SV(1).
+
+Author information: 
+(1)Department of Geriatric Medicine, University of Liverpool, UK.
+Vanita.Jassal@uhn.on.ca
+
+The emergence of the sub-speciality geriatric nephrology is an exciting
+development for the future. The main objectives should be to maximise patient
+independence and minimise deterioration and learn dependent behaviour in this
+population. To achieve these goals a holistic approach needs to be taken, to the 
+patient, their environment and the efficacy of such units, and this can only be
+achieved using a multi-disciplinary team approach. In the creation of a geriatric
+nephrology unit it is important to identify the factors that cause frailty and,
+if possible, modify or prevent the initial decline using nutritional and other
+interventions. This requires careful monitoring, not only using the traditional
+markers of renal disease including urea and creatinine, but also using
+instruments that measure functional ability. These issues are discussed under the
+headings prevention, documentation and planning.
+
+
+PMID: 11583373  [Indexed for MEDLINE]

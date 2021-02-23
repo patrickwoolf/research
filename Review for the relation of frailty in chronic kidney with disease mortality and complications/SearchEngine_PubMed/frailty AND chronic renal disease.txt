@@ -1,0 +1,453 @@
+﻿//frailty AND "chronic renal disease" 
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "chronic renal disease"[All Fields]
+==============================================================================================
+1. Aortic Valve Replacement.
+
+Rajput FA(1), Zeltser R(2).
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2018-.
+2019 Jan 29.
+
+Author information: 
+(1)University of Wisconsin - Madison
+(2)Hofstra Northwell School of Medicine
+
+The aortic valve is a semilunar valve with three leaflets, which lies at the
+junction of left ventricle and aorta. It allows unidirectional blood flow from
+the left ventricle to the aorta and the rest of the body. Because of the highly
+complex and sophisticated cellular and molecular functions, the thin valve
+leaflet can withstand extreme mechanical and hemodynamic forces with every
+cardiac cycle.[1] Various factors including age and congenital defects can
+compromise the normal valvular function leading to a wide variety of
+complications.[2] Although bicuspid aortic valves (BAV) are the most common
+congenital abnormality, congenital valve defects can range from aortic atresia
+(missing or incomplete closure of aortic valves) to a sub or supra-valvular
+stenosis. BAV is reported to have an incidence of 1 to 2% with a male
+predominance. Lack of microfibrillar proteins during valvulogenesis has been
+reported to affect the leaflet development where two leaflets are fused to form
+one large leaflet. It frequently correlates with aortic abnormalities such as
+aortic dilation (root, ascending and arch) and coarctation of the aorta.[3] The
+bicuspid aortic valve leaflets can undergo accelerated calcific degeneration
+because of abnormal hemodynamic forces. Congenital abnormalities including BAV
+can lead to various valvular complications including aortic stenosis and aortic
+regurgitation leading to an increased risk to infective endocarditis, which has a
+reported incidence of 12 to 39% in BAV.[3] Unless severe, BAV generally remains
+asymptomatic till the age of 50 to 60 years. Aortic stenosis (AS) is a narrowing 
+of the valve aperture reducing the aortic valve area. Increased resistance to
+blood flow and transvalvular pressure gradient causes increased left ventricle
+workload causing hypertrophy. Its prevalence increases with age and can be as
+high as 4.6% in people greater than age 75 years. Being the most common valvular 
+disease in Europe and America, estimates are that 3.5 million people in England
+alone will have AS by the year 2020.[4] Calcific degeneration leading to
+stiffening and restriction motion of valve leaflet is the most common cause of
+AS. Disruption of endothelium lining on the aortic side caused by increased
+mechanical stress seem to be the inciting event. Posterior leaflets are
+reported to be affected the most.[5] Rheumatic fever causing inflammation of the 
+leaflets is still the leading cause of AS in developing countries. AS can be
+asymptomatic or can cause symptoms of syncope, angina and heart
+failure.[6] Severe AS is fatal with a 50% mortality at 2 years.[7] As per The
+American College of Cardiology/American Heart Association (ACC/AHA) guidelines,
+AS is graded severe when the orifice area is less than 1.0 cm, the mean gradient 
+is greater than 40 mmHg or the jet velocity is greater than 4 m/s. Prognosis is
+poor in symptomatic or severe cases unless the valve is replaced. Up to 30% of
+patients aged > 75 do not undergo surgical valve replacement either because of
+technical reasons; this may include porcelain aorta, general frailty, refusal to 
+undergo surgery, and serious comorbid conditions.[8] The operative death risk for
+surgical aortic valve replacement (SAVR) is as high as 10% in patients with LV
+dysfunction, chronic renal disease, and advanced age.[9] Trans-catheter aortic
+valve replacement and trans-catheter aortic valve implantation (TAVR/TAVI) have
+emerged as a more feasible and less risky option for patients not suitable for
+surgery. Aortic regurgitation (AR) is the backflow of blood from the aorta to the
+left ventricle when the valve leaflets fail to coapt. Common causes include
+congenital defects, calcific degeneration, infective endocarditis, rheumatic
+fever, and trauma.[10][11][12][13] Ventricular hypertrophy in chronic cases
+accommodates increased volume to maintain the normal stroke volume and
+end-diastolic pressure; hence, chronic AR can be asymptomatic for decades.[14] In
+contrast, with acute cases of AR, ventricles do not have enough time to undergo
+the needed changes such as hypertrophy to accommodate increased volumes. Because 
+of decreased stroke volume, the heart rate increases to maintain cardiac output
+but is insufficient to meet the demand resulting in increased left atrial
+pressure, pulmonary edema and cardiogenic shock. On physical examination, AR
+murmur is blowing, high-pitched, diastolic, and decrescendo, beginning soon after
+the aortic component of S (A); it is loudest at the 3rd or 4th left parasternal
+intercostal space. It also has associations with various other murmurs including:
+“Mid-systolic murmur” because of rapid ejection of an overload of blood from the 
+left ventricle, “Austin Flint” murmur is mid-to-late diastolic murmur due
+to partial closure of mitral valve during ventricular systole because of
+regurgitant flow from aortic valve, “Cole-Cecil” is a diastolic murmur due to the
+fusion of an aortic murmur with the S3 because of simultaneous filling of the
+left ventricle from left atrium and AR. History of valvular surgery Dr. Theodore 
+Tuffier, in 1912, used his finger to free the fused leaflets of a stenosed aortic
+valve.[15] Before the advent of cardiopulmonary bypass (CPB), mitral valve repair
+involved commissurotomy through access from the left atrial chamber. Thomas Homes
+Sellors performed first pulmonary valvulotomy in 1948 by using a tenotomy
+knife.[16] Charles Hufnagel developed the first artificial valve based on a
+reciprocating ball and cage. It was used to prevent backflow of blood into the
+ventricles due to aortic insufficiency.[17] CPB machine revolutionized the valve 
+replacement in the anatomical position. Dr. Dwight Harken and his colleagues
+performed the first successful aortic valve replacement. Later that year, Drs.
+Albert Starr and Lowell Edwards performed mitral valve replacement.[18]
+Bioprosthetic valves are closer in function to natural valves but have a limited 
+life expectancy, whereas, Mechanical valves are more durable but require
+anticoagulation. The choice of valves, among other factors, depends upon the
+patient’s age and well-being. Mechanical heart valves are known to last for
+approximately 25 years. Seventy different mechanical heart valves have been
+developed since 1960.[19] Ball and cage, bi-leaflet, and tilting disc are the
+common ones. Modification of the ball valve by Dr. Albert Starr and Lowell
+Edwards entailed developing a cage made of lucite with a silicone elastomer ball.
+The cage material was later changed to stainless steel and then cobalt-chromium
+alloys. The Starr-Edward valve also has a Teflon sewing ring, which enabled
+suturing into mitral and later into the aortic position.[20]  Increased
+thrombogenicity has been a significant issue, for which valves underwent several 
+modifications such as measures to reduce metal contact by covering the struts
+with cloth and using Silastic shields. Other issues included hemolysis due to
+excessive rubbing of the ball against the sewing ring and occlusion of coronary
+ostia because of high profile. Despite these issues, these valves showed the
+feasibility of prosthetic valve enabling Starr-Edwards to draw design criteria.
+Basic points included that the valves should be chemically inert, biocompatible, 
+a-traumatic to blood, and non-thrombogenic.[21]  In 1965, Kay-Shiley’s
+non-rotating disc valve replaced the ball with a single disc but demonstrated
+poor hemodynamics and hemolysis and was discontinued. Bjork-Shiley in 1969
+developed a tilting-disc valve, which overcame the problems with the single-disc 
+valve. Free rotation of disc between metal struts allows it to open by tilting at
+a 60-degree angle. Bjork-Shiley replaced the flat with the convexo-concave disc
+to create a larger orifice in 1975 but were the object of a recall due to
+fracture of welded struts.[22]  Medtronic Hall valve developed by Dr. Karl Hall
+and Robert Kaster is the most common tilting disc valve. Perforation in the
+middle of the disc served as a guide and an improved tilting angle.[23] In 1977, 
+St Jude Medical developed Bi-leaflet valve, which comprised two semi-circular
+flaps with hinges close to the center of the orifice. Stagnation of blood flow
+leading to thrombus formation around the hinge region was a problem with the
+bi-leaflet valve.[15] A newly developed valve resolved this issue with a valve in
+which the continuous 360-degree rotation around the central axis of the valve
+ensured an even distribution of blood flow and prevent thrombus formation.[16] 
+Predisposition for thrombosis, embolism, need for lifelong anticoagulation
+therapy are drawbacks of mechanical valves. Bioprosthetic valves can either be an
+allograft (cadaver or Ross procedure) or, a xenograft (native or pericardium).
+The Ross procedure involves replacing the diseased aortic valve with the
+patient’s own pulmonary valve (autograft) and replace the pulmonary valve with
+aortic or pulmonary allograft. The pulmonary autograft grows with the patient and
+does not induce an immunologic response. The most common xenografts are porcine
+aortic valves and bovine pericardial valves. Lonescu-Shiley developed xenograft
+valves by using bovine pericardium on a titanium stent in 1971 but was later
+withdrawn in 1987 due to structural failure including abrasive tears because of
+fabric-tissue interface and leaflet calcification. Carpentier-Edwards bovine
+pericardial valve overcame those issues by making some structural modifications, 
+like stitching pericardium to the inside of the fabric and using flexible stent
+posts. Although biological valves have better hemodynamics compared to mechanical
+valves, they have a shorter lifespan because of calcification, which stiffens the
+valve leaflets. Tissues engineering, a field in regenerative medicine restores
+and maintains the function of living tissues. Skin graft for burn victims is an
+example. Tissue engineered heart valves (TEHV) are perceived to be
+non-thrombogenic, and infection resistant. With advancement in material science
+and culturing techniques, there is the possibility of a TEHV valve that
+is capable of growing, remodeling and repairing itself as the patients grow.
+Polymeric valves have been around for over 50 years, but because the earlier
+versions were prone to calcification and degradation, they were not widely used
+and instead only used in bridge devices like artificial hearts and left
+ventricular assist devices. Besides the advantage that they can be produced in
+various shapes and sizes,[17] they are known to combine the durability of
+mechanical valves and the hydrodynamic function of bioprosthetic valves.[18] The 
+earliest polymeric valve implanted in a 44-year-old female in 1958 at the mitral 
+position was a polyurethane design with Teflon chordae
+tendinae.[18][18][24] Polyurethane valves have been found to have better
+hemodynamics compared to bioprosthetic valves and a lower incidence of
+thrombogenicity than mechanical valves. With advances in material sciences, the
+future of polymeric valves seems promising.
+
+PMID: 30725821 
+
+
+2. JACC Heart Fail. 2018 Sep;6(9):771-779. doi: 10.1016/j.jchf.2018.03.016. Epub
+2018 Aug 8.
+
+A Bayesian Model to Predict Survival After Left Ventricular Assist Device
+Implantation.
+
+Kanwar MK(1), Lohmueller LC(2), Kormos RL(3), Teuteberg JJ(4), Rogers JG(5),
+Lindenfeld J(6), Bailey SH(7), McIlvennan CK(8), Benza R(7), Murali S(7), Antaki 
+J(2).
+
+Author information: 
+(1)Cardiovascular Institute, Allegheny Health Network, Pittsburgh, Pennsylvania. 
+Electronic address: Manreet.kanwar@ahn.org.
+(2)Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, 
+Pennsylvania.
+(3)Heart and Vascular Institute, University of Pittsburgh Medical Center,
+Pittsburgh, Pennsylvania.
+(4)Department of Cardiovascular Medicine, Stanford University Medical Center,
+Stanford, California.
+(5)Division of Cardiology, Duke University School of Medicine, Durham, North
+Carolina.
+(6)Cardiovascular Medicine, Vanderbilt University Medical Center, Nashville,
+Tennessee.
+(7)Cardiovascular Institute, Allegheny Health Network, Pittsburgh, Pennsylvania.
+(8)Cardiovascular Institute, University of Colorado, Aurora, Colorado.
+
+OBJECTIVES: This study investigates the use of a Bayesian statistical models to
+predict survival at various time points in patients undergoing left ventricular
+assist device (LVAD) implantation.
+BACKGROUND: LVADs are being increasingly used in patients with end-stage heart
+failure. Appropriate patient selection continues to be key in optimizing
+post-LVAD outcomes.
+METHODS: Data used for this study were derived from 10,277 adult patients from
+the INTERMACS (Inter-Agency Registry for Mechanically Assisted Circulatory
+Support) who had a primary LVAD implanted between January 2012 and December 2015.
+Risk for mortality was calculated retrospectively for various time points (1, 3, 
+and 12 months) after LVAD implantation, using multiple pre-implantation
+variables. For each of these endpoints, a separate tree-augmented naïve Bayes
+model was constructed using the most predictive variables.
+RESULTS: A set of 29, 26, and 31 pre-LVAD variables were found to be predictive
+at 1, 3, and 12 months, respectively. Predictors of 1-month mortality included
+low Inter-Agency Registry for Mechanically Assisted Circulatory Support profile, 
+number of acute events in the 48 h before surgery, temporary mechanical
+circulatory support, and renal and hepatic dysfunction. Variables predicting
+12-month mortality included advanced age, frailty, device strategy, and chronic
+renal disease. The accuracy of all Bayesian models was between 76% and 87%, with 
+an area under the receiver operative characteristics curve of between 0.70 and
+0.71.
+CONCLUSIONS: A Bayesian prognostic model for predicting survival based on the
+comprehensive INTERMACS registry provided highly accurate predictions of
+mortality based on pre-operative variables. These models may facilitate clinical 
+decision-making while screening candidates for LVAD therapy.
+
+Copyright © 2018 American College of Cardiology Foundation. Published by Elsevier
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jchf.2018.03.016 
+PMCID: PMC6119115 [Available on 2019-09-01]
+PMID: 30098967 
+
+
+3. J Heart Lung Transplant. 2018 Aug;37(8):1013-1020. doi:
+10.1016/j.healun.2018.04.006. Epub 2018 Apr 25.
+
+Bloodstream infections in mechanical circulatory support device recipients in the
+International Society of Heart and Lung Transplantation Mechanically Assisted
+Circulation Support Registry: Epidemiology, risk factors, and mortality.
+
+Aslam S(1), Xie R(2), Cowger J(3), Kirklin JK(4), Chu VH(5), Schueler S(6), de By
+T(7), Gould K(8), Morrissey O(9), Lund LH(10), Martin S(11), Goldstein D(12),
+Hannan M(13).
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Medicine, University of
+California, San Diego, La Jolla, California. Electronic address: saslam@ucsd.edu.
+(2)James and John Kirklin Institute for Research in Surgical Outcomes (KIRSO),
+Division of Cardiothoracic Surgery, Department of Surgery, The University of
+Alabama at Birmingham, Alabama.
+(3)Division of Cardiovascular Medicine, Henry Ford Hospitals, Detroit, Michigan.
+(4)Division of Cardiothoracic Surgery. Director, Kirklin Institute for Research
+in Surgical Outcomes (KIRSO), Department of Surgery, University of Alabama at
+Birmingham, Alabama.
+(5)Division of Infectious Diseases, Department of Medicine, Duke University
+Medical Center, Durham, North Carolina.
+(6)Department of Cardiothoracic Surgery, Newcastle Hospitals NHS Foundation
+Trust, Newcastle, United Kingdom.
+(7)QUIP Project Manager, EUROMACS Managing Director, EUROMACS, Berlin, Germany.
+(8)Department of Microbiology, Newcastle Hospitals NHS Foundation Trust,
+Newcastle, United Kingdom.
+(9)Department of Infectious Diseases, Alfred Health, Melbourne, Australia.
+(10)Unit of Cardiology, Department of Medicine, Karolinska Institutet, Stockholm,
+Sweden.
+(11)Division of Infectious Diseases. Geisinger Health System, Danville,
+Pennsylvania.
+(12)Department of Cardiothoracic Surgery, Montefiore Medical Center, New York,
+New York.
+(13)Division of Infectious Diseases, Mater Miscordiae University Hospital,
+Dublin, Ireland.
+
+BACKGROUND: We used multicenter international data from the International Society
+of Heart and Lung Transplantation Mechanically Assisted Circulation Support
+(IMACS) registry to determine bloodstream infection (BSI) event rate, independent
+risk factors, and association with mortality.
+METHODS: Included were patients registered in IMACS from January 2013 through
+December 2015, assessed BSI event rate of mechanical circulatory support (MCS)
+and non-MCS-related BSIs, and conducted univariate and multivariate analyses
+between BSI with baseline characteristics and mortality.
+RESULTS: We documented 1,606 BSIs in 1,231 of 10,171 MCS recipients (12%), with
+an event rate of 2.43 BSIs/100 patient-months within 3 months after implant
+(early onset) and 1.03 BSIs/100 patient-months after 3 months (late onset). Of
+these episodes, 1,378 (85.8%) were non- MCS-related BSI. Increasing body mass
+index and bilirubin were independent correlates of MCS-related BSI. Independent
+correlates of non-MCS-related BSI included older age, higher body mass index,
+previous cardiac surgery, baseline chronic renal disease and dialysis,
+pre-implant frailty, presence of biventricular assist device, total artificial
+heart or right ventricular assist device, and Interagency Registry for
+Mechanically Assisted Circulatory Support category 1. Survival after 3 months
+after implant of patients who developed early-onset BSI was 56.9% at 24 months vs
+77.4% in patients without early-onset BSI (p < 0.001). Early-onset BSI was an
+independent correlate of mortality at 3 months after implantation (hazard ratio, 
+2.56; 95% confidence interval, 2.09-3.15; p < 0.001).
+CONCLUSIONS: Early-onset BSI was associated with significantly increased 24-month
+mortality. More than 85% of these BSIs were not device related. There is an
+opportunity for infection prevention practices to decrease the BSI event rate,
+which may affect 24-month survival. These data can also serve as benchmarking for
+individual institutions.
+
+Copyright © 2018 International Society for the Heart and Lung Transplantation.
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.healun.2018.04.006 
+PMID: 29936085 
+
+
+4. Z Gerontol Geriatr. 2016 Aug;49(6):469-76. doi: 10.1007/s00391-016-1109-y. Epub
+2016 Jul 25.
+
+[Decline in renal function in old age : Part of physiological aging versus
+age-related disease].
+
+[Article in German]
+
+Braun F(1), Brinkkötter PT(2).
+
+Author information: 
+(1)Klinik II für Innere Medizin: Nephrologie, Rheumatologie, Diabetologie und
+Allgemeine Innere Medizin, Uniklinik Köln, Kerpener Str. 62, Köln, 50937,
+Deutschland.
+(2)Klinik II für Innere Medizin: Nephrologie, Rheumatologie, Diabetologie und
+Allgemeine Innere Medizin, Uniklinik Köln, Kerpener Str. 62, Köln, 50937,
+Deutschland. paul.brinkkoetter@uk-koeln.de.
+
+The incidence and prevalence of chronic renal disease (CKD) in elderly patients
+are continuously increasing worldwide. Loss of renal function is not only
+considered to be part of the aging process itself but also reflects the
+multimorbidity of many geriatric patients. Calculating the glomerular filtration 
+rate using specific algorithms validated for the elderly population and measuring
+the amount of proteinuria allow an estimation of renal function in elderly
+patients with high accuracy. Chronic renal failure has many clinical consequences
+and not only results in a delayed excretion of toxins cleared by the kidneys but 
+also affects hematogenesis, water and electrolyte balance as well as mineral bone
+metabolism. Furthermore, CKD directly leads to and aggravates geriatric syndromes
+and in particular the onset of frailty. Therapeutic strategies to halt
+progression of CKD not only comprise treatment of the underlying disease but also
+efficient blood pressure and diabetic control and the avoidance of nephrotoxic
+medications.
+
+DOI: 10.1007/s00391-016-1109-y 
+PMID: 27457360  [Indexed for MEDLINE]
+
+
+5. Int Urol Nephrol. 2015 Apr;47(4):647-54. doi: 10.1007/s11255-014-0886-8. Epub
+2014 Dec 5.
+
+Therapeutic alternatives and palliative care for advanced renal disease in the
+very elderly: a review of the literature.
+
+Musso CG(1), Trigka K, Dousdampanis P, Jauregui J.
+
+Author information: 
+(1)Ageing Biology Unit, Hospital Italiano de Buenos Aires, Buenos Aires,
+Argentina, carlos.musso@hospitalitaliano.org.ar.
+
+The overall number of very elderly patients (>79 years of age) requiring renal
+replacement therapy is rising in the Western societies, with a choice for
+managing advanced chronic renal disease among hemodialysis, peritoneal dialysis, 
+kidney transplant, conservative, or palliative care. The selection of the most
+adequate alternatives should be tailored to meet individual needs, considering
+variables such as patient's choice, clinical status, and social context, analyzed
+from a geriatric perspective, aiming not only to prolong patient's life
+expectancy, but also to improve the patient's quality of life. Frailty and
+sarcopenia are highly prevalent comorbidities found in very elderly population,
+particularly in the end-stage chronic renal disease population. Both
+comorbidities have a strong negative impact on health general status, and
+specific treatment should be provided in conjunction with the selected management
+for renal replacement, except when a palliative care has been implemented.
+Moreover, the detected degree of frailty in a renal patient can have an important
+influence on the decision about which modality of renal replacement treatment
+will be selected. All these alternatives and considerations are discussed in the 
+present review article.
+
+DOI: 10.1007/s11255-014-0886-8 
+PMID: 25475195  [Indexed for MEDLINE]
+
+
+6. NPJ Prim Care Respir Med. 2014 Jun 12;24:14008. doi: 10.1038/npjpcrm.2014.8.
+
+The prevalence of COPD co-morbidities in Serbia: results of a national survey.
+
+Nagorni-Obradovic LM(1), Vukovic DS(2).
+
+Author information: 
+(1)1] Faculty of Medicine, University of Belgrade, Belgrade, Serbia [2] Clinic
+for Pulmonology, Clinical Centre of Serbia, Belgrade, Serbia.
+(2)Faculty of Medicine, Institute of Social Medicine, Centre School of Public
+Health, University of Belgrade, Belgrade, Serbia.
+
+BACKGROUND: Research studies have found different prevalence rates for
+co-morbidities in patients with chronic obstructive pulmonary disease (COPD).
+AIMS: The aim of our study was to investigate the prevalence of co-morbidities as
+well as functional limitations in subjects with COPD.
+METHODS: The study was based on a nationally representative sample of the
+population of Serbia. Information on the health of the population was obtained
+from interviews and anthropometric measurements. In this study we analysed a
+total of 10,013 respondents aged 40 years or older. There were 653 subjects with 
+COPD and 9,360 respondents without COPD.
+RESULTS: Out of the 10,013 respondents, 5,377 were aged 40-59 years and 4,636
+were 60 years or older. The prevalence of COPD was 5.0% in respondents aged 40-59
+years and 8.3% in those aged 60 years or older; the total prevalence was 6.5%.
+The most prevalent co-morbidities among respondents with COPD were hypertension
+(54.5%) and dyslipidaemia (26.5%). The prevalence of all analysed co-morbidities 
+was higher in respondents with COPD and the difference was highly statistically
+significant, except for stroke and malignancies, for which the difference was
+significant. Analysis showed that respondents with COPD had a higher prevalence
+of all analysed clinical factors (dizziness, obesity, anaemia and frailty) and
+functional impairments (mobility and hearing and visual impairment) compared with
+respondents without COPD. For those aged 40-59 years the difference was highest
+for mobility difficulty (four times higher prevalence in COPD patients) and
+anaemia (three times higher in COPD patients).
+CONCLUSION: Our analysis showed that the most prevalent co-morbidities in COPD
+were hypertension, dyslipidaemia, chronic renal disease and anxiety/depression.
+The finding suggests that health professionals should actively assess
+co-morbidities in patients with COPD.
+
+DOI: 10.1038/npjpcrm.2014.8 
+PMCID: PMC4373300
+PMID: 24921714  [Indexed for MEDLINE]
+
+
+7. BMC Nephrol. 2011 Nov 17;12:63. doi: 10.1186/1471-2369-12-63.
+
+Duration of temporary catheter use for hemodialysis: an observational,
+prospective evaluation of renal units in Brazil.
+
+Bonfante GM(1), Gomes IC, Andrade EI, Lima EM, Acurcio FA, Cherchiglia ML.
+
+Author information: 
+(1)Faculdade de Medicina, Universidade Federal de Minas Gerais, Brazil.
+gimacedosilva@hotmail.com
+
+BACKGROUND: For chronic hemodialysis, the ideal permanent vascular access is the 
+arteriovenous fistula (AVF). Temporary catheters should be reserved for acute
+dialysis needs. The AVF is associated with lower infection rates, better clinical
+results, and a higher quality of life and survival when compared to temporary
+catheters. In Brazil, the proportion of patients with temporary catheters for
+more than 3 months from the beginning of therapy is used as an evaluation of the 
+quality of renal units. The aim of this study is to evaluate factors associated
+with the time between the beginning of hemodialysis with temporary catheters and 
+the placement of the first arteriovenous fistula in Brazil.
+METHODS: This is an observational, prospective non-concurrent study using
+national administrative registries of all patients financed by the public health 
+system who began renal replacement therapy (RRT) between 2000 and 2004 in Brazil.
+Incident patients were eligible who had hemodialysis for the first time. Patients
+were excluded who: had hemodialysis reportedly started after the date of death
+(inconsistent database); were younger than 18 years old; had HIV; had no record
+of the first dialysis unit; and were dialyzed in units with less than twenty
+patients. To evaluate individual and renal unit factors associated with the event
+of interest, the frailty model was used (N = 55,589).
+RESULTS: Among the 23,824 patients (42.9%) who underwent fistula placement in the
+period of the study, 18.2% maintained the temporary catheter for more than three 
+months until the fistula creation. The analysis identified five statistically
+significant factors associated with longer time until first fistula: higher age
+(Hazard-risk - HR 0.99, 95% CI 0.99-1.00); having hypertension and cardiovascular
+diseases (HR 0.94, 95% CI 0.9-0.98) as the cause of chronic renal disease;
+residing in capitals cities (HR 0.92, 95% CI 0.9-0.95) and certain regions in
+Brazil - South (HR 0.83, 95% CI 0.8-0.87), Midwest (HR 0.88, 95% CI 0.83-0.94),
+Northeast (HR 0.91, 95% CI 0.88-0.94), or North (HR 0.88, 95% CI 0.83-0.94) and
+the type of renal unit (public or private).
+CONCLUSION: Monitoring the provision of arteriovenous fistulas in renal units
+could improve the care given to patients with end stage renal disease.
+
+DOI: 10.1186/1471-2369-12-63 
+PMCID: PMC3227575
+PMID: 22093280  [Indexed for MEDLINE]

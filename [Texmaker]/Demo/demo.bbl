@@ -1,0 +1,33 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+S{\'a}nchez-Garc{\'\i}a%
+\ \protect \BOthers {.}}{%
+S{\'a}nchez-Garc{\'\i}a%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+sanchez2017comparison}
+\APACinsertmetastar {%
+sanchez2017comparison}%
+\begin{APACrefauthors}%
+S{\'a}nchez-Garc{\'\i}a, S.%
+, Gallegos-Carrillo, K.%
+, Espinel-Bermudez, M\BPBI C.%
+, Doubova, S\BPBI V.%
+, S{\'a}nchez-Arenas, R.%
+, Garc{\'\i}a-Pe{\~n}a, C.%
+\BDBL {}Brise{\~n}o-Fabian, S\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Comparison of quality of life among community-dwelling
+  older adults with the frailty phenotype} {Comparison of quality of life among
+  community-dwelling older adults with the frailty phenotype}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Quality of life research}{26}{10}{2693--2703}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,645 @@
+﻿//frailty AND "end-stage renal disease" AND cause
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "end-stage renal disease"[All Fields] AND cause[All Fields]
+//
+1. Am J Cardiol. 2019 Jan 15;123(2):315-322. doi: 10.1016/j.amjcard.2018.10.008.
+Epub 2018 Oct 18.
+
+Impact of Dialysis on the Prognosis of Patients Undergoing Transcatheter Aortic
+Valve Implantation.
+
+Schymik G(1), Bramlage P(2), Herzberger V(3), Bergmann J(3), Conzelmann LO(4),
+Würth A(5), Luik A(3), Schröfel H(6), Tzamalis P(3).
+
+Author information: 
+(1)Department of Cardiology, Medical Clinic IV, Municipal Hospital Karlsruhe,
+Academic Teaching Hospital of the University of Freiburg, Germany. Electronic
+address: gerhard.schymik@klinikum-karlsruhe.de.
+(2)Institute for Pharmacology and Preventive Medicine, Cloppenburg, Germany.
+(3)Department of Cardiology, Medical Clinic IV, Municipal Hospital Karlsruhe,
+Academic Teaching Hospital of the University of Freiburg, Germany.
+(4)Helios Clinic for Cardiac Surgery Karlsruhe, Germany.
+(5)Department of Cardiology, Medical Clinic III, Vincentius Hospital Karlsruhe,
+Germany.
+(6)Department Cardiovascular Surgery, University Heart Center Freiburg, Bad
+Krozingen, Germany.
+
+End-stage renal disease (ESRD) affects approximately 2% to 4% of patients with
+severe aortic stenosis. It is because these patients have been excluded from
+clinical trials, the impact of transcatheter aortic valve implantation (TAVI) in 
+this patient group has not been thoroughly investigated. Between April 2008 and
+March 2015, 2,000 patients (dialysis group, n = 56 [2.8%]) were consecutively
+enrolled when diagnosed with severe aortic stenosis and eligible to undergo TAVI.
+Procedural and longer-term outcomes were analyzed and adjusted for differences in
+baseline characteristics. Patients on dialysis had a higher periprocedural
+mortality (10.7% vs 1.7%; adjusted odds ratio [adjOR] 5.65, 95% confidence
+interval [CI] 1.91 to 16.67; p = 0.002) and a lower Valve Academic Research
+Consortium (VARC)-II (VARC) defined device success (adjOR 0.34, 95% CI 0.15 to
+0.79; p = 0.012). At 30 days, there was an increased rate of all-cause mortality 
+(21.4 vs 4.8%; adjOR 4.90, 95% CI 1.96 to 12.26; p = 0.001), cardiovascular
+(adjOR 3.67, 95% CI 1.43 to 9.41; p = 0.007) and noncardiovascular mortality
+(adjOR 6.28, 95% CI 1.36 to 9.41; p = 0.019), myocardial infarction (adjOR 9.39, 
+95% CI 1.84 to 48.03; p = 0.007), bleeding (adjOR 2.48, 95% CI 1.06 to 5.83;
+p = 0.036) as well as the VARC-II defined early safety combined end point (adjOR 
+2.97, 95% CI 1.28 to 6.90; p = 0.012) associated with dialysis. Dialysis was
+associated with poor survival at one (57.1% vs 84.2%) and 3 years (26.8% vs
+66.9%) with or without the consideration of the first 72 hours (p <0.001;
+adjusted p <0.001). Although, in the multivariable regression analysis, reduced
+ejection fraction, peripheral arterial disease, pulmonary hypertension (PH),
+frailty and dialysis were associated with 1-year mortality, only PH (>60 mm Hg)
+remained significant in an analysis restricted to the dialysis patients (adjusted
+hazard ratio 2.68; 95% CI 1.18 to 5.88; p = 0.018). PH had a sensitivity of
+45.8%, a specificity of 81.3%, and a positive predictive value of 64.7%. In
+conclusion, dialysis is an independent predictor of mortality in patients who
+underwent TAVI. Long-term mortality in dialysis patients appears to be largely
+determined by the kidney disease and/or dialysis itself whereas VARC-II defined
+complications are largely unaffected. An increased short-term mortality still
+calls for (pre-) procedural optimization.
+
+Copyright © 2018. Published by Elsevier Inc.
+
+DOI: 10.1016/j.amjcard.2018.10.008 
+PMID: 30424871 
+
+
+2. Geriatr Gerontol Int. 2018 Dec;18(12):1597-1602. doi: 10.1111/ggi.13534. Epub
+2018 Oct 11.
+
+Diabetic nephropathy is associated with frailty in patients with chronic
+hemodialysis.
+
+Kakio Y(1), Uchida HA(1)(2), Takeuchi H(1)(3), Okuyama Y(1), Okuyama M(4),
+Umebayashi R(1), Wada K(5), Sugiyama H(1)(6), Sugimoto K(7), Rakugi H(7),
+Kasahara S(4), Wada J(1).
+
+Author information: 
+(1)Department of Nephrology, Rheumatology, Endocrinology and Metabolism, Okayama 
+University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences,
+Okayama, Japan.
+(2)Department of Chronic Kidney Disease and Cardiovascular Disease, Okayama
+University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences,
+Okayama, Japan.
+(3)Department of Internal Medicine, Innoshima General Hospital, Hiroshima, Japan.
+(4)Department of Cardiovascular Surgery, Okayama University Graduate School of
+Medicine, Dentistry and Pharmaceutical Sciences, Okayama, Japan.
+(5)Division of Nephrology and Dialysis, Department of Internal Medicine, Nippon
+Kokan Fukuyama Hospital, Hiroshima, Japan.
+(6)Department of Human Resource Development of Dialysis Therapy for Kidney
+Disease, Okayama University Graduate School of Medicine, Dentistry and
+Pharmaceutical Sciences, Okayama, Japan.
+(7)Department of Geriatric and General Medicine, Osaka University Graduate School
+of Medicine, Osaka, Japan.
+
+AIM: Since 1998, the leading cause of chronic hemodialysis in Japan has been
+diabetic nephropathy. Diabetes mellitus is known to be a risk factor for frailty,
+but it still remains unknown whether diabetic nephropathy is associated with
+frailty in chronic dialysis patients. The authors carried out the present study
+to reveal the association between frailty and diabetic nephropathy in chronic
+hemodialysis patients.
+METHODS: A total of 355 patients who were on hemodialysis were recruited.
+Participants were divided into two groups of either patients who suffered
+diabetic nephropathy with end-stage renal disease (DN group, n = 150) or not
+(Non-DN group, n = 205). The authors investigated the difference of the
+prevalence of frailty between the two groups. Furthermore, the authors examined
+the risk factors for frailty.
+RESULTS: The prevalence of frailty in the DN group was significantly higher than 
+that in the Non-DN group (28.0% vs 16.5%, P = 0.0161). To evaluate the
+association between frailty and its risk factors, we compared frail patients
+(n = 71) and non-frail patients (n = 262). After adjusting their
+interrelationships by using multivariate logistic regression analysis, diabetic
+nephropathy was determined as a significant risk factor for frailty.
+CONCLUSIONS: The authors found the close association between frailty and diabetic
+nephropathy in chronic hemodialysis patients. Geriatr Gerontol Int 2018; 18:
+1597-1602.
+
+© 2018 Japan Geriatrics Society.
+
+DOI: 10.1111/ggi.13534 
+PMID: 30311338 
+
+
+3. Am J Kidney Dis. 2018 Feb;71(2):182-190. doi: 10.1053/j.ajkd.2017.08.014. Epub
+2017 Nov 8.
+
+Association of Citizenship Status With Kidney Transplantation in Medicaid
+Patients.
+
+Shen JI(1), Hercz D(2), Barba LM(3), Wilhalme H(2), Lum EL(4), Huang E(4), Reddy 
+U(5), Salas L(6), Vangala S(2), Norris KC(7).
+
+Author information: 
+(1)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA; Department of Medicine,
+David Geffen School of Medicine at UCLA, Los Angeles, CA. Electronic address:
+jshen@labiomed.org.
+(2)Department of Medicine Statistics Core, David Geffen School of Medicine at
+UCLA, Los Angeles, CA.
+(3)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA; Department of Medicine,
+David Geffen School of Medicine at UCLA, Los Angeles, CA.
+(4)Division of Nephrology, David Geffen School of Medicine at UCLA, Los Angeles, 
+CA.
+(5)Division of Nephrology and Hypertension, University of California Irvine,
+Orange, CA.
+(6)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA.
+(7)Division of General Internal Medicine and Health Services Research, David
+Geffen School of Medicine at UCLA, Los Angeles, CA.
+
+BACKGROUND: Although individuals classified as nonresident aliens, including
+undocumented immigrants, are entitled to receive emergency dialysis in the United
+States regardless of their ability to pay, most states do not provide them with
+subsidized care for maintenance dialysis or kidney transplantation. We explored
+whether nonresident aliens have similar outcomes to US citizens after receiving
+kidney transplants covered by Medicaid, a joint federal and state health
+insurance program.
+STUDY DESIGN: Retrospective observational cohort study.
+SETTING & PARTICIPANTS: All adult Medicaid patients in the US Renal Data System
+who received their first kidney transplant from 1990 to 2011.
+PREDICTOR: Citizenship status, categorized as US citizen, nonresident alien, or
+permanent resident.
+OUTCOME: All-cause transplant loss.
+MEASUREMENTS: HRs and 95% CIs estimated by applying Cox proportional hazards
+frailty models with transplantation center as a random effect.
+RESULTS: Of 10,495 patients, 8,660 (82%) were US citizens, 1,489 (14%) were
+permanent residents, and 346 (3%) were nonresident aliens, whom we assumed were
+undocumented immigrants. Nonresident aliens were younger, healthier, receiving
+dialysis longer, and more likely to have had a living donor. 71% underwent
+transplantation in California, and 61% underwent transplantation after 2005.
+Nonresident aliens had a lower unadjusted risk for transplant loss compared with 
+US citizens (HR, 0.48; 95% CI, 0.35-0.65). Results were attenuated but still
+significant when adjusted for demographics, comorbid conditions, dialysis, and
+transplant-related factors (HR, 0.67; 95% CI, 0.46-0.94).
+LIMITATIONS: Citizenship status was self-reported, possible residual confounding.
+CONCLUSIONS: Our study suggests that the select group of insured nonresident
+aliens who undergo transplantation with Medicaid do just as well as US citizens
+with Medicaid. Policymakers should consider expanding coverage for kidney
+transplantation in nonresident aliens, including undocumented immigrants, given
+the associated high-quality outcomes in these patients.
+
+Copyright © 2017 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.ajkd.2017.08.014 
+PMCID: PMC5794566
+PMID: 29128413 
+
+
+4. J Korean Med Sci. 2017 Nov;32(11):1800-1806. doi: 10.3346/jkms.2017.32.11.1800.
+
+Is Frailty a Modifiable Risk Factor of Future Adverse Outcomes in Elderly
+Patients with Incident End-Stage Renal Disease?
+
+Lee SW(1)(2), Lee A(3), Yu MY(4), Kim SW(3), Kim KI(3)(5), Na KY(1)(3)(5), Chae
+DW(1)(3)(5), Kim CH(3)(5), Chin HJ(3)(6).
+
+Author information: 
+(1)Department of Internal Medicine, Seoul National University Postgraduate
+School, Seoul, Korea.
+(2)Department of Internal Medicine, Eulji General Hospital, Seoul, Korea.
+(3)Department of Internal Medicine, Seoul National University Bundang Hospital,
+Seongnam, Korea.
+(4)Department of Internal Medicine, Seoul National University Hospital, Seoul,
+Korea.
+(5)Department of Internal Medicine, Seoul National University College of
+Medicine, Seoul, Korea.
+(6)Department of Internal Medicine, Seoul National University College of
+Medicine, Seoul, Korea. mednep@snubh.org.
+
+Little is known about the clinical significance of frailty and changes of frailty
+after dialysis initiation in elderly patients with end-stage renal disease
+(ESRD). We prospectively enrolled 46 elderly patients with incident ESRD at a
+dialysis center of a tertiary hospital between May 2013 and March 2015. Frailty
+was assessed by using a comprehensive geriatric assessment protocol and defined
+as a multidimensional frailty score of ≥ 10. The main outcome was the composite
+of all-cause death or cardiovascular hospitalization, as determined in June 2016.
+The median age of the 46 participants was 71.5 years, and 63.0% of them were men.
+During the median 17.7 months follow-up, the rate of composite outcome was 17.4%.
+In multivariate logistic regression analysis, after adjusting for age, sex,
+diabetes, body mass index (BMI), and time of predialytic nephrologic care, female
+sex, and increased BMI were associated with increased and decreased odds of
+frailty, respectively. In multivariate Cox proportional hazards analysis, after
+adjusting for age, sex, diabetes, BMI, and time of predialytic nephrologic care, 
+frailty was significantly associated with the composite adverse outcome. In
+repeated frailty assessments, the multidimensional frailty score significantly
+improved 12 months after the initiation of dialysis, which largely relied on
+improved nutrition. Therefore, frailty needs to be assessed for risk
+stratification in elderly patients with incident ESRD.
+
+© 2017 The Korean Academy of Medical Sciences.
+
+DOI: 10.3346/jkms.2017.32.11.1800 
+PMCID: PMC5639060
+PMID: 28960032  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no potential conflicts of
+interest to disclose.
+
+
+5. Biometrics. 2018 Mar;74(1):289-299. doi: 10.1111/biom.12739. Epub 2017 Jul 6.
+
+Evaluating center performance in the competing risks setting: Application to
+outcomes of wait-listed end-stage renal disease patients.
+
+Dharmarajan SH(1), Schaubel DE(1), Saran R(2).
+
+Author information: 
+(1)Department of Biostatistics, University of Michigan, Ann Arbor, Michigan,
+U.S.A.
+(2)Department of Internal Medicine, University of Michigan, Ann Arbor, Michigan, 
+U.S.A.
+
+It is often of interest to compare centers or healthcare providers on quality of 
+care delivered. We consider the setting where evaluation of center performance on
+multiple competing events is of interest. We propose estimating center effects
+through cause-specific proportional hazards frailty models that allow correlation
+among a center's cause-specific effects. Estimation of our model proceeds via
+penalized partial likelihood and is implemented in R. To evaluate center
+performance, we also propose a directly standardized excess cumulative incidence 
+(ECI) measure. Therefore, based on our proposed methods, practitioners can
+evaluate centers either through the cause-specific hazards or the cumulative
+incidence functions. We demonstrate, through simulations, the advantages of the
+proposed methods to detect outlying centers, by comparing the proposed methods
+and existing methods which assume uncorrelated random center effects. In
+addition, we develop a Correlation Score Test to test the null hypothesis that
+the competing event processes within a center are correlated. Using data from the
+Scientific Registry of Transplant Recipients, we apply our method to evaluate the
+performance of Organ Procurement Organizations on two competing risks: (i)
+receipt of a kidney transplant and (ii) death on the wait-list.
+
+© 2017, The International Biometric Society.
+
+DOI: 10.1111/biom.12739 
+PMID: 28682445 
+
+
+6. Ann Epidemiol. 2016 Nov;26(11):773-779. doi: 10.1016/j.annepidem.2016.08.010.
+Epub 2016 Aug 31.
+
+Measuring senescence rates of patients with end-stage renal disease while
+accounting for population heterogeneity: an analysis of data from the ERA-EDTA
+Registry.
+
+Koopman JJ(1), Kramer A(2), van Heemst D(3), Åsberg A(4), Beuscart JB(5),
+Buturović-Ponikvar J(6), Collart F(7), Couchoud CG(8), Finne P(9), Heaf JG(10),
+Massy ZA(11), De Meester JM(12), Palsson R(13), Steenkamp R(14), Traynor JP(15), 
+Jager KJ(2), Putter H(16).
+
+Author information: 
+(1)Section of Gerontology and Geriatrics, Department of Internal Medicine, Leiden
+University Medical Center, Leiden, The Netherlands. Electronic address:
+j.j.e.koopman@lumc.nl.
+(2)ERA-EDTA Registry, Department of Medical Informatics, Academic Medical Center,
+University of Amsterdam, Amsterdam, The Netherlands.
+(3)Section of Gerontology and Geriatrics, Department of Internal Medicine, Leiden
+University Medical Center, Leiden, The Netherlands.
+(4)Norwegian Renal Registry, Department of Transplant Medicine, Oslo University
+Hospital-Rikshospitalet, Oslo, Norway.
+(5)University of Lille, EA2694, Santé publique: épidémiologie et qualité des
+soins, Lille, France; CHU Lille, Geriatric Department, Lille, France.
+(6)Department of Nephrology, Ljubljana University Medical Center, Ljubljana,
+Slovenia; Medical Faculty, University of Ljubljana, Ljubljana, Slovenia.
+(7)Department of Nephrology and Dialysis, Brugmann University Hospital, Brussels,
+Belgium.
+(8)Renal Epidemiology and Information Network (REIN) Registry, French Biomedical 
+Agency, Saint-Denis-la-Plaine, France.
+(9)Finnish Registry for Kidney Diseases, Helsinki, Finland; Department of
+Nephrology, Helsinki University Central Hospital, Helsinki, Finland.
+(10)Department of Medicine, Zealand University Hospital, Roskilde, Denmark.
+(11)Division of Nephrology, Ambroise Paré University Hospital, University of
+Paris Ouest-Versailles-St-Quentin-en-Yvelines, Paris, France; Institut National
+de la Santé et de la Recherche Médicale (INSERM) U1018, Research Centre in
+Epidemiology and Population Health (CESP), Villejuif, France.
+(12)Department of Nephrology, Dialysis, and Hypertension, AZ Nikolaas,
+Sint-Niklaas, Belgium.
+(13)Division of Nephrology, Landspitali-The National University Hospital of
+Iceland, Reykjavik, Iceland; Faculty of Medicine, School of Health Sciences,
+University of Iceland, Reykjavik, Iceland.
+(14)UK Renal Registry, Southmead Hospital, Bristol, UK.
+(15)The Scottish Renal Registry, Information Services Division Scotland, Glasgow,
+UK.
+(16)Department of Medical Statistics and Bioinformatics, Leiden University
+Medical Center, Leiden, The Netherlands.
+
+PURPOSE: Although a population's senescence rate is classically measured as the
+increase in mortality rate with age on a logarithmic scale, it may be more
+accurately measured as the increase on a linear scale. Patients on dialysis, who 
+suffer from accelerated senescence, exhibit a smaller increase in their mortality
+rate on a logarithmic scale, but a larger increase on a linear scale than
+patients with a functioning kidney transplant. However, this comparison may be
+biased by population heterogeneity.
+METHODS: Follow-up data on 323,308 patients on dialysis and 91,679 patients with 
+a functioning kidney transplant were derived from the ERA-EDTA Registry. We
+measured the increases in their mortality rates using Gompertz frailty models
+that allow individual variation in this increase.
+RESULTS: According to these models, the senescence rate measured as the increase 
+in mortality rate on a logarithmic scale was smaller in patients on dialysis,
+while the senescence rate measured as the increase on a linear scale was larger
+in patients on dialysis than patients with a functioning kidney transplant.
+CONCLUSIONS: Also when accounting for population heterogeneity, a population's
+senescence rate is more accurately measured as the increase in mortality rate on 
+a linear scale than a logarithmic scale.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.annepidem.2016.08.010 
+PMID: 27665405  [Indexed for MEDLINE]
+
+
+7. JAMA Intern Med. 2016 Aug 1;176(8):1095-102. doi:
+10.1001/jamainternmed.2016.1200.
+
+Quality of End-of-Life Care Provided to Patients With Different Serious
+Illnesses.
+
+Wachterman MW(1), Pilver C(2), Smith D(3), Ersek M(4), Lipsitz SR(5), Keating
+NL(6).
+
+Author information: 
+(1)Section of General Internal Medicine, VA Boston Healthcare System, Boston,
+Massachusetts2Division of General Internal Medicine, Brigham and Women's
+Hospital, Boston, Massachusetts3Department of Psychosocial Oncology and
+Palliative Care, Dana Farber Cancer.
+(2)Center for Healthcare Organization and Implementation Research, VA Boston
+Healthcare System, Boston, Massachusetts5Tufts Health Plan, Watertown,
+Massachusetts.
+(3)Center for Health Equity Research and Promotion, Department of Veterans
+Affairs Medical Center, Philadelphia, Pennsylvania.
+(4)Center for Health Equity Research and Promotion, Department of Veterans
+Affairs Medical Center, Philadelphia, Pennsylvania7University of Pennsylvania
+School of Nursing, Philadelphia.
+(5)Division of General Internal Medicine, Brigham and Women's Hospital, Boston,
+Massachusetts.
+(6)Division of General Internal Medicine, Brigham and Women's Hospital, Boston,
+Massachusetts8Department of Health Care Policy, Harvard Medical School, Boston,
+Massachusetts.
+
+Comment in
+    JAMA Intern Med. 2016 Aug 1;176(8):1102-4.
+    Am J Kidney Dis. 2017 May;69(5):564-567.
+
+IMPORTANCE: Efforts to improve end-of-life care have focused primarily on
+patients with cancer. High-quality end-of-life care is also critical for patients
+with other illnesses.
+OBJECTIVE: To compare patterns of end-of-life care and family-rated quality of
+care for patients dying with different serious illnesses.
+DESIGN, SETTING, AND PARTICIPANTS: A retrospective cross-sectional study was
+conducted in all 146 inpatient facilities within the Veteran Affairs health
+system among patients who died in inpatient facilities between October 1, 2009,
+and September 30, 2012, with clinical diagnoses categorized as end-stage renal
+disease (ESRD), cancer, cardiopulmonary failure (congestive heart failure or
+chronic obstructive pulmonary disease), dementia, frailty, or other conditions.
+Data analysis was conducted from April 1, 2014, to February 10, 2016.
+MAIN OUTCOMES AND MEASURES: Palliative care consultations, do-not-resuscitate
+orders, death in inpatient hospices, death in the intensive care unit, and
+family-reported quality of end-of-life care.
+RESULTS: Among 57 753 decedents, approximately half of the patients with ESRD,
+cardiopulmonary failure, or frailty received palliative care consultations
+(adjusted proportions, 50.4%, 46.7%, and 43.7%, respectively) vs 73.5% of
+patients with cancer and 61.4% of patients with dementia (P < .001).
+Approximately one-third of patients with ESRD, cardiopulmonary failure, or
+frailty (adjusted proportions, 32.3%, 34.1%, and 35.2%, respectively) died in the
+intensive care unit, more than double the rates among patients with cancer and
+those with dementia (13.4% and 8.9%, respectively) (P < .001). Rates of excellent
+quality of end-of-life care reported by 34 005 decedents' families were similar
+for patients with cancer and those with dementia (adjusted proportions, 59.2% and
+59.3%; P = .61), but lower for patients with ESRD, cardiopulmonary failure, or
+frailty (54.8%, 54.8%, and 53.7%, respectively; all P ≤ .02 vs patients with
+cancer). This quality advantage was mediated by palliative care consultation,
+setting of death, and a code status of do-not-resuscitate; adjustment for these
+variables rendered the association between diagnosis and overall end-of-life care
+quality nonsignificant.
+CONCLUSIONS AND RELEVANCE: Family-reported quality of end-of-life care was
+significantly better for patients with cancer and those with dementia than for
+patients with ESRD, cardiopulmonary failure, or frailty, largely owing to higher 
+rates of palliative care consultation and do-not-resuscitate orders and fewer
+deaths in the intensive care unit among patients with cancer and those with
+dementia. Increasing access to palliative care and goals of care discussions that
+address code status and preferred setting of death, particularly for patients
+with end-organ failure and frailty, may improve the overall quality of
+end-of-life care for Americans dying of these illnesses.
+
+DOI: 10.1001/jamainternmed.2016.1200 
+PMCID: PMC5470549
+PMID: 27367547  [Indexed for MEDLINE]
+
+
+8. Int Urol Nephrol. 2016 Aug;48(8):1357-1362. doi: 10.1007/s11255-016-1306-z. Epub 
+2016 May 10.
+
+High prevalence of frailty in end-stage renal disease.
+
+Drost D(1), Kalf A(1), Vogtlander N(2), van Munster BC(3)(4).
+
+Author information: 
+(1)Department of Geriatrics, Gelre Hospitals, Apeldoorn, The Netherlands.
+(2)Division of Nephrology, Department of Medicine, Gelre Hospitals, Apeldoorn,
+The Netherlands.
+(3)Department of Geriatrics, Gelre Hospitals, Apeldoorn, The Netherlands.
+b.van.munster@gelre.nl.
+(4)Department of Medicine, University Medical Center Groningen, Groningen, The
+Netherlands. b.van.munster@gelre.nl.
+
+PURPOSE: Prognosis of the increasing number of elderly patients with end-stage
+renal disease (ESRD) is poor with high risk of functional decline and mortality. 
+Frailty seems to be a good predictor for those patients that will not benefit
+from dialysis. Varying prevalences between populations are probably related to
+the instrument used. The aim of this study was to measure the prevalence of
+frailty among ESRD patients with two different validated instruments.
+METHODS: This cross-sectional study was conducted among patients, aged ≥18 years,
+receiving hemodialysis, peritoneal dialysis and pre-dialysis care between
+September 2013 and December 2013 in a single dialysis center in Apeldoorn, the
+Netherlands. Frailty was measured with the frailty index (FI) and frailty
+phenotype (FP).
+RESULTS: Prevalence of frailty by the FI was 36.8 % among 95 participants with
+ESRD (age: 65.2 years, SD ± 12.0). Frailty prevalence among participants aged ≥65
+and <65 years was 43.6 and 27.5 %, respectively. Female sex [odds ratio (OR) 3.3,
+95 % confidence interval (CI) 1.3-8.0] and a Charlson comorbidity index score of 
+≥5 (OR 2.6, 95 % CI 1.0-6.6) were associated with frailty. The FI identified
+different but overlapping participants as frail compared with the FP; 62.5 % of
+frail participants according to FI were also frail according to the FP.
+CONCLUSIONS: Prevalence of frailty among young and elderly ESRD patients is high;
+being female and having more comorbidity was associated with frailty. Use of a
+broader definition of frailty, like the FI, gives a higher estimation of
+prevalence among ESRD patients compared with a physical frailty assessment.
+
+DOI: 10.1007/s11255-016-1306-z 
+PMCID: PMC4949293
+PMID: 27165401  [Indexed for MEDLINE]
+
+
+9. QJM. 2014 Jul;107(7):545-55. doi: 10.1093/qjmed/hcu043. Epub 2014 Feb 24.
+
+Survival of patients with ANCA-associated vasculitis on chronic dialysis: data
+from the French REIN registry from 2002 to 2011.
+
+Romeu M(1), Couchoud C(1), Delarozière JC(1), Burtey S(1), Chiche L(1), Harlé
+JR(1), Gondouin B(1), Brunet P(1), Berland Y(1), Jourde-Chiche N(2).
+
+Author information: 
+(1)From the Department of Nephrology, Hopital Conception, AP-HM, Aix-Marseille
+Université, 147 Bd Baille, 13385 Marseille Cedex 5, Agence de la Biomédecine,
+Registre REIN, 1 avenue du Stade de France, 93212 Saint-Denis-La Plaine, France, 
+Department of Public Health, Hopital Timone, AP-HM, Aix-Marseille Université, 27 
+Bd Jean Moulin, 13385 Marseille Cedex 5 and Department of Internal Medicine,
+Hopital Conception, AP-HM, Aix-Marseille Université, 147 Bd Baille, 13385
+Marseille Cedex 5, France.
+(2)From the Department of Nephrology, Hopital Conception, AP-HM, Aix-Marseille
+Université, 147 Bd Baille, 13385 Marseille Cedex 5, Agence de la Biomédecine,
+Registre REIN, 1 avenue du Stade de France, 93212 Saint-Denis-La Plaine, France, 
+Department of Public Health, Hopital Timone, AP-HM, Aix-Marseille Université, 27 
+Bd Jean Moulin, 13385 Marseille Cedex 5 and Department of Internal Medicine,
+Hopital Conception, AP-HM, Aix-Marseille Université, 147 Bd Baille, 13385
+Marseille Cedex 5, France noemie.jourde@ap-hm.fr.
+
+BACKGROUND: Anti-neutrophil cytoplasmic antibody (ANCA)-associated vasculitides
+(AAV) can lead to end-stage renal disease in patients with renal involvement.
+OBJECTIVE: This study evaluated the survival of AAV patients on chronic dialysis 
+in France.
+METHODS: Between 2002 and 2011, a total of 425 AAV patients started chronic
+dialysis and were registered in the Renal Epidemiology and Information Network.
+We analysed survival censored for renal transplantation, recovery of renal
+function and loss to follow-up. AAV patients were compared with 794 matched
+non-AAV patients on chronic dialysis.
+RESULTS: A total of 166 (39%) patients with microscopic polyangiitis and 259
+(61%) patients with granulomatosis with polyangiitis were registered. Within a
+median follow-up of 23 months, 58 (14%) patients received a renal allograft and
+19 (4%) recovered renal function. Median survival on dialysis was 5.35 years (95%
+CI, 4.4-6.3) and survival rates at 3 months, 1, 3 and 5 years were 96%, 85%, 68% 
+and 53%, respectively. A total of 143 (41%) patients died after a median of 16
+months. Causes of death were cardiovascular (29%), infections (20%), malnutrition
+(13%), malignancies (4%), AAV relapse (2%), miscellaneous (14%) and unknown
+(18%). Multivariate logistic regression identified three independent risk factors
+associated with AAV patients' mortality: age (HR = 1.05/year, P < 0.001),
+peripheral artery disease (HR = 2.62, P = 0.003) and frailty (HR = 2.43, P <
+0.001). Survival of AAV patients did not differ from non-AAV controls, but
+infectious mortality was higher in AAV patients (20% vs. 8%, P < 0.001).
+CONCLUSION: Survival of AAV patients in chronic dialysis, although poor, was
+comparable to survival of non-AAV controls on dialysis. There was a similar
+burden of cardiovascular mortality, but higher infectious mortality.
+
+© The Author 2014. Published by Oxford University Press on behalf of the
+Association of Physicians. All rights reserved. For Permissions, please email:
+journals.permissions@oup.com.
+
+DOI: 10.1093/qjmed/hcu043 
+PMID: 24570478  [Indexed for MEDLINE]
+
+
+10. BMC Nephrol. 2011 Nov 17;12:63. doi: 10.1186/1471-2369-12-63.
+
+Duration of temporary catheter use for hemodialysis: an observational,
+prospective evaluation of renal units in Brazil.
+
+Bonfante GM(1), Gomes IC, Andrade EI, Lima EM, Acurcio FA, Cherchiglia ML.
+
+Author information: 
+(1)Faculdade de Medicina, Universidade Federal de Minas Gerais, Brazil.
+gimacedosilva@hotmail.com
+
+BACKGROUND: For chronic hemodialysis, the ideal permanent vascular access is the 
+arteriovenous fistula (AVF). Temporary catheters should be reserved for acute
+dialysis needs. The AVF is associated with lower infection rates, better clinical
+results, and a higher quality of life and survival when compared to temporary
+catheters. In Brazil, the proportion of patients with temporary catheters for
+more than 3 months from the beginning of therapy is used as an evaluation of the 
+quality of renal units. The aim of this study is to evaluate factors associated
+with the time between the beginning of hemodialysis with temporary catheters and 
+the placement of the first arteriovenous fistula in Brazil.
+METHODS: This is an observational, prospective non-concurrent study using
+national administrative registries of all patients financed by the public health 
+system who began renal replacement therapy (RRT) between 2000 and 2004 in Brazil.
+Incident patients were eligible who had hemodialysis for the first time. Patients
+were excluded who: had hemodialysis reportedly started after the date of death
+(inconsistent database); were younger than 18 years old; had HIV; had no record
+of the first dialysis unit; and were dialyzed in units with less than twenty
+patients. To evaluate individual and renal unit factors associated with the event
+of interest, the frailty model was used (N = 55,589).
+RESULTS: Among the 23,824 patients (42.9%) who underwent fistula placement in the
+period of the study, 18.2% maintained the temporary catheter for more than three 
+months until the fistula creation. The analysis identified five statistically
+significant factors associated with longer time until first fistula: higher age
+(Hazard-risk - HR 0.99, 95% CI 0.99-1.00); having hypertension and cardiovascular
+diseases (HR 0.94, 95% CI 0.9-0.98) as the cause of chronic renal disease;
+residing in capitals cities (HR 0.92, 95% CI 0.9-0.95) and certain regions in
+Brazil - South (HR 0.83, 95% CI 0.8-0.87), Midwest (HR 0.88, 95% CI 0.83-0.94),
+Northeast (HR 0.91, 95% CI 0.88-0.94), or North (HR 0.88, 95% CI 0.83-0.94) and
+the type of renal unit (public or private).
+CONCLUSION: Monitoring the provision of arteriovenous fistulas in renal units
+could improve the care given to patients with end stage renal disease.
+
+DOI: 10.1186/1471-2369-12-63 
+PMCID: PMC3227575
+PMID: 22093280  [Indexed for MEDLINE]
+
+
+11. Curr Opin Nephrol Hypertens. 2010 Mar;19(2):153-9. doi:
+10.1097/MNH.0b013e328335f939.
+
+Health-related quality of life outcomes in chronic kidney disease.
+
+Soni RK(1), Weisbord SD, Unruh ML.
+
+Author information: 
+(1)Department of Medicine, University of Pittsburgh Medical Center, Pittsburgh,
+Pennsylvania 15213, USA.
+
+PURPOSE OF REVIEW: Patients with chronic kidney disease (CKD) endure compromised 
+health-related quality of life (HRQOL). Although the link between HRQOL and
+increased mortality in patients with end-stage renal disease (ESRD) is well
+documented, less is known about the relationship between CKD and HRQOL. This
+article reviews the recent evidence on HRQOL, its correlates and proposed
+intervention strategies to improve HRQOL in CKD.
+RECENT FINDINGS: A growing body of literature indicates that various comorbid
+conditions related to CKD play a substantial role in impaired HRQOL in CKD.
+Hypertension, both a cause and complication of CKD, negatively affects HRQOL due 
+to associated comorbidities, side effects from antihypertensive medications and
+awareness of the diagnosis. Anemia has been associated with HRQOL, but concerns
+about the safety of erythropoietin-stimulating agents (ESAs) have led to more
+conservative anemia treatment. Frailty, symptom burden and depression are also
+major contributory factors to HRQOL in CKD.
+SUMMARY: Certain determinants of HRQOL in CKD, namely anemia and depression, are 
+treatable. Early identification and correction may improve overall well being of 
+patients. Clinical trials are required to demonstrate whether treatment
+interventions benefit HRQOL in this high-risk population. Furthermore, whether
+integration of HRQOL assessment into routine clinical practice will improve HRQOL
+outcomes remains to be determined.
+
+DOI: 10.1097/MNH.0b013e328335f939 
+PMCID: PMC2900393
+PMID: 20051850  [Indexed for MEDLINE]
+
+
+12. J Palliat Med. 2007 Oct;10(5):1137-45.
+
+Diagnostic classifications and resource utilization of decedents served by the
+Department of Veterans Affairs.
+
+Duffy SA(1), Copeland LA, Hopp FP, Zalenski RJ.
+
+Author information: 
+(1)VA Center for Clinical Management Research, Health Services Research and
+Development, Ann Arbor, Michigan 48113-0170, USA. Sonia.Duffy@va.gov
+
+BACKGROUND: Given the volume and cost of inpatient care during the last year of
+life, there is a critical need to identify patterns of dying as a means of
+planning end-of-life care services, especially for the growing number of older
+persons who receive services from the Veterans Health Administration (VHA).
+METHODS: A retrospective computerized record review was conducted of 20,933 VHA
+patients who died as inpatients between October 1, 2001 and September 30, 2002.
+Diagnoses were aggregated into one of five classification patterns of death and
+analyzed in terms of health care resource utilization (mean number of inpatient
+days and cumulative outpatient visits in the year preceding the patient's death).
+RESULTS: Cancer deaths were the most common (30.4%) followed by end-stage renal
+disease (ESRD) (23.2%), cardiopulmonary failure (21.4%), frailty (11.6%), "other"
+diagnoses (7.3%), and sudden deaths (6.1%). Those with ESRD were more likely to
+be male and nonwhite (p < 0.05) and those with frailty were more likely to be
+older and married (p < 0.05). Controlling for demographic variables, those with
+frailty had the highest number of inpatient days while those with ESRD had the
+highest number of outpatient visits. Non-married status was associated with more 
+inpatient days, especially among younger decedents.
+CONCLUSION: As a recognized leader in end-of-life care, the VHA can play a unique
+role in the development of specific interventions that address the diverse needs 
+of persons with different dying trajectories identified through this research.
+
+DOI: 10.1089/jpm.2006.0256 
+PMID: 17985970  [Indexed for MEDLINE]

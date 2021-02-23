@@ -1,0 +1,16 @@
+<html>
+<head>
+	<title>Undo of frailty project.</title>
+</head>
+<body>
+
+	<ul>
+<li>1. There was an article with congestive heart failure mentioned, maybe the French article.
+</li>
+<li>2. https://doi.org/10.1016/j.amjmed.2009.01.026
+	<ul>
+	<li></h2>Eine andere Bevolkerungsstudie (NHANES III)466 konnte die Assoziation zwischen allen Stadien der CKD und Frailty bestatigen, wobei die Autoren subklinische vaskulare Pathologien als wichtigen Mediator vermuten.
+	</li>
+	</ul>
+</body>
+</html>

@@ -1,0 +1,306 @@
+﻿//frailty AND "kidney transplant" AND cause 
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "kidney transplant"[All Fields] AND cause[All Fields]
+=============================================================================================
+1. Respir Med. 2018 Apr;137:89-94. doi: 10.1016/j.rmed.2018.02.022. Epub 2018 Mar 6.
+
+Bacterial pneumonia in kidney transplant recipients.
+
+Wilmes D(1), Coche E(2), Rodriguez-Villalobos H(3), Kanaan N(4).
+
+Author information: 
+(1)Division of Internal Medicine, Cliniques universitaires Saint-Luc, Université 
+catholique de Louvain, Brussels, Belgium.
+(2)Division of Radiology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium.
+(3)Division of Microbiology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium.
+(4)Division of Nephrology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium. Electronic address:
+nada.kanaan@uclouvain.be.
+
+Bacterial pathogens are the most frequent cause of pneumonia after
+transplantation. Early after transplantation, recipients are at higher risk for
+nosocomial infections. The most commonly encountered pathogens during this period
+are gram-negative bacilli (Klebsiella pneumoniae, Escherichia coli, Pseudomonas
+aeruginosa …), but gram-positive coccus such as Staphylococcus aureus or
+Streptococcus pneumoniae and anaerobic bacteria can also be found. Empirical
+antibiotic therapy should be guided by previous colonisation of the recipient and
+bacterial resistance pattern in the hospital. Six months after transplantation,
+pneumonias are mostly due to community-acquired bacteria (S. pneumonia, H.
+influenza, Mycoplasma, Chlamydia and others). Opportunistic pathogens take
+advantage of the state of immunosuppression which is usually highest from one to 
+six months after transplantation. During this period, but also occurring many
+years later in the setting of a chronically depressed immune system, bacterial
+pathogens with low intrinsic virulence can cause pneumonia. The diagnosis of
+pneumonia caused by opportunistic pathogens can be challenging. The delay in
+diagnosis preventing the early instauration of adequate treatment in kidney
+transplant recipients with a depressed immune system, frequently coupled with
+co-morbid conditions and a state of frailty, will affect prognosis and outcome,
+increasing morbidity and mortality. This review will focus on the most common
+opportunistic bacterial pathogens causing pneumonia in kidney transplant
+recipients: Legionella, Nocardia, Mycobacterium tuberculosis/nontuberculous, and 
+Rhodococcus. Recognition of their specificities in the setting of
+immunosuppression will allow early diagnosis, crucial for initiation of effective
+therapy and successful outcome. Interactions with immunosuppressive therapy
+should be considered as well as reducing immunosuppression if necessary.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rmed.2018.02.022 
+PMID: 29605219  [Indexed for MEDLINE]
+
+
+2. Am J Kidney Dis. 2018 Feb;71(2):182-190. doi: 10.1053/j.ajkd.2017.08.014. Epub
+2017 Nov 8.
+
+Association of Citizenship Status With Kidney Transplantation in Medicaid
+Patients.
+
+Shen JI(1), Hercz D(2), Barba LM(3), Wilhalme H(2), Lum EL(4), Huang E(4), Reddy 
+U(5), Salas L(6), Vangala S(2), Norris KC(7).
+
+Author information: 
+(1)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA; Department of Medicine,
+David Geffen School of Medicine at UCLA, Los Angeles, CA. Electronic address:
+jshen@labiomed.org.
+(2)Department of Medicine Statistics Core, David Geffen School of Medicine at
+UCLA, Los Angeles, CA.
+(3)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA; Department of Medicine,
+David Geffen School of Medicine at UCLA, Los Angeles, CA.
+(4)Division of Nephrology, David Geffen School of Medicine at UCLA, Los Angeles, 
+CA.
+(5)Division of Nephrology and Hypertension, University of California Irvine,
+Orange, CA.
+(6)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA.
+(7)Division of General Internal Medicine and Health Services Research, David
+Geffen School of Medicine at UCLA, Los Angeles, CA.
+
+BACKGROUND: Although individuals classified as nonresident aliens, including
+undocumented immigrants, are entitled to receive emergency dialysis in the United
+States regardless of their ability to pay, most states do not provide them with
+subsidized care for maintenance dialysis or kidney transplantation. We explored
+whether nonresident aliens have similar outcomes to US citizens after receiving
+kidney transplants covered by Medicaid, a joint federal and state health
+insurance program.
+STUDY DESIGN: Retrospective observational cohort study.
+SETTING & PARTICIPANTS: All adult Medicaid patients in the US Renal Data System
+who received their first kidney transplant from 1990 to 2011.
+PREDICTOR: Citizenship status, categorized as US citizen, nonresident alien, or
+permanent resident.
+OUTCOME: All-cause transplant loss.
+MEASUREMENTS: HRs and 95% CIs estimated by applying Cox proportional hazards
+frailty models with transplantation center as a random effect.
+RESULTS: Of 10,495 patients, 8,660 (82%) were US citizens, 1,489 (14%) were
+permanent residents, and 346 (3%) were nonresident aliens, whom we assumed were
+undocumented immigrants. Nonresident aliens were younger, healthier, receiving
+dialysis longer, and more likely to have had a living donor. 71% underwent
+transplantation in California, and 61% underwent transplantation after 2005.
+Nonresident aliens had a lower unadjusted risk for transplant loss compared with 
+US citizens (HR, 0.48; 95% CI, 0.35-0.65). Results were attenuated but still
+significant when adjusted for demographics, comorbid conditions, dialysis, and
+transplant-related factors (HR, 0.67; 95% CI, 0.46-0.94).
+LIMITATIONS: Citizenship status was self-reported, possible residual confounding.
+CONCLUSIONS: Our study suggests that the select group of insured nonresident
+aliens who undergo transplantation with Medicaid do just as well as US citizens
+with Medicaid. Policymakers should consider expanding coverage for kidney
+transplantation in nonresident aliens, including undocumented immigrants, given
+the associated high-quality outcomes in these patients.
+
+Copyright © 2017 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.ajkd.2017.08.014 
+PMCID: PMC5794566
+PMID: 29128413 
+
+
+3. Biometrics. 2018 Mar;74(1):289-299. doi: 10.1111/biom.12739. Epub 2017 Jul 6.
+
+Evaluating center performance in the competing risks setting: Application to
+outcomes of wait-listed end-stage renal disease patients.
+
+Dharmarajan SH(1), Schaubel DE(1), Saran R(2).
+
+Author information: 
+(1)Department of Biostatistics, University of Michigan, Ann Arbor, Michigan,
+U.S.A.
+(2)Department of Internal Medicine, University of Michigan, Ann Arbor, Michigan, 
+U.S.A.
+
+It is often of interest to compare centers or healthcare providers on quality of 
+care delivered. We consider the setting where evaluation of center performance on
+multiple competing events is of interest. We propose estimating center effects
+through cause-specific proportional hazards frailty models that allow correlation
+among a center's cause-specific effects. Estimation of our model proceeds via
+penalized partial likelihood and is implemented in R. To evaluate center
+performance, we also propose a directly standardized excess cumulative incidence 
+(ECI) measure. Therefore, based on our proposed methods, practitioners can
+evaluate centers either through the cause-specific hazards or the cumulative
+incidence functions. We demonstrate, through simulations, the advantages of the
+proposed methods to detect outlying centers, by comparing the proposed methods
+and existing methods which assume uncorrelated random center effects. In
+addition, we develop a Correlation Score Test to test the null hypothesis that
+the competing event processes within a center are correlated. Using data from the
+Scientific Registry of Transplant Recipients, we apply our method to evaluate the
+performance of Organ Procurement Organizations on two competing risks: (i)
+receipt of a kidney transplant and (ii) death on the wait-list.
+
+© 2017, The International Biometric Society.
+
+DOI: 10.1111/biom.12739 
+PMID: 28682445 
+
+
+4. Ann Epidemiol. 2016 Nov;26(11):773-779. doi: 10.1016/j.annepidem.2016.08.010.
+Epub 2016 Aug 31.
+
+Measuring senescence rates of patients with end-stage renal disease while
+accounting for population heterogeneity: an analysis of data from the ERA-EDTA
+Registry.
+
+Koopman JJ(1), Kramer A(2), van Heemst D(3), Åsberg A(4), Beuscart JB(5),
+Buturović-Ponikvar J(6), Collart F(7), Couchoud CG(8), Finne P(9), Heaf JG(10),
+Massy ZA(11), De Meester JM(12), Palsson R(13), Steenkamp R(14), Traynor JP(15), 
+Jager KJ(2), Putter H(16).
+
+Author information: 
+(1)Section of Gerontology and Geriatrics, Department of Internal Medicine, Leiden
+University Medical Center, Leiden, The Netherlands. Electronic address:
+j.j.e.koopman@lumc.nl.
+(2)ERA-EDTA Registry, Department of Medical Informatics, Academic Medical Center,
+University of Amsterdam, Amsterdam, The Netherlands.
+(3)Section of Gerontology and Geriatrics, Department of Internal Medicine, Leiden
+University Medical Center, Leiden, The Netherlands.
+(4)Norwegian Renal Registry, Department of Transplant Medicine, Oslo University
+Hospital-Rikshospitalet, Oslo, Norway.
+(5)University of Lille, EA2694, Santé publique: épidémiologie et qualité des
+soins, Lille, France; CHU Lille, Geriatric Department, Lille, France.
+(6)Department of Nephrology, Ljubljana University Medical Center, Ljubljana,
+Slovenia; Medical Faculty, University of Ljubljana, Ljubljana, Slovenia.
+(7)Department of Nephrology and Dialysis, Brugmann University Hospital, Brussels,
+Belgium.
+(8)Renal Epidemiology and Information Network (REIN) Registry, French Biomedical 
+Agency, Saint-Denis-la-Plaine, France.
+(9)Finnish Registry for Kidney Diseases, Helsinki, Finland; Department of
+Nephrology, Helsinki University Central Hospital, Helsinki, Finland.
+(10)Department of Medicine, Zealand University Hospital, Roskilde, Denmark.
+(11)Division of Nephrology, Ambroise Paré University Hospital, University of
+Paris Ouest-Versailles-St-Quentin-en-Yvelines, Paris, France; Institut National
+de la Santé et de la Recherche Médicale (INSERM) U1018, Research Centre in
+Epidemiology and Population Health (CESP), Villejuif, France.
+(12)Department of Nephrology, Dialysis, and Hypertension, AZ Nikolaas,
+Sint-Niklaas, Belgium.
+(13)Division of Nephrology, Landspitali-The National University Hospital of
+Iceland, Reykjavik, Iceland; Faculty of Medicine, School of Health Sciences,
+University of Iceland, Reykjavik, Iceland.
+(14)UK Renal Registry, Southmead Hospital, Bristol, UK.
+(15)The Scottish Renal Registry, Information Services Division Scotland, Glasgow,
+UK.
+(16)Department of Medical Statistics and Bioinformatics, Leiden University
+Medical Center, Leiden, The Netherlands.
+
+PURPOSE: Although a population's senescence rate is classically measured as the
+increase in mortality rate with age on a logarithmic scale, it may be more
+accurately measured as the increase on a linear scale. Patients on dialysis, who 
+suffer from accelerated senescence, exhibit a smaller increase in their mortality
+rate on a logarithmic scale, but a larger increase on a linear scale than
+patients with a functioning kidney transplant. However, this comparison may be
+biased by population heterogeneity.
+METHODS: Follow-up data on 323,308 patients on dialysis and 91,679 patients with 
+a functioning kidney transplant were derived from the ERA-EDTA Registry. We
+measured the increases in their mortality rates using Gompertz frailty models
+that allow individual variation in this increase.
+RESULTS: According to these models, the senescence rate measured as the increase 
+in mortality rate on a logarithmic scale was smaller in patients on dialysis,
+while the senescence rate measured as the increase on a linear scale was larger
+in patients on dialysis than patients with a functioning kidney transplant.
+CONCLUSIONS: Also when accounting for population heterogeneity, a population's
+senescence rate is more accurately measured as the increase in mortality rate on 
+a linear scale than a logarithmic scale.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.annepidem.2016.08.010 
+PMID: 27665405  [Indexed for MEDLINE]
+
+
+5. Adv Chronic Kidney Dis. 2016 Jan;23(1):44-50. doi: 10.1053/j.ackd.2015.11.002.
+
+Kidney Transplantation Among the Elderly: Challenges and Opportunities to Improve
+Outcomes.
+
+Singh P(1), Ng YH(1), Unruh M(2).
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, University of New
+Mexico.
+(2)Division of Nephrology, Department of Internal Medicine, University of New
+Mexico. Electronic address: mlunruh@salud.unm.edu.
+
+Elderly patients (>65 years old) represent the fastest growing population among
+the ESRD patients and those awaiting kidney transplantation. There is ample
+evidence to suggest that kidney transplant in the elderly population offers the
+best chance of survival and improves health-related quality of life compared to
+remaining on dialysis. Although all these emerging facts are encouraging, this
+population brings with them complex medical problems including frailty, cognitive
+impairment, and multiple comorbidities. These issues can be barriers to
+transplantation and threaten the well-being of the patients after
+transplantation. Furthermore, aging results in changes to the immune system and
+affects the pharmacokinetics of immunosuppressants. All these changes can
+increase risk of complications such as infections and malignancy. Because death
+with a functioning graft is a common cause of graft loss, the new kidney
+allocation system has been implemented in an attempt to maximize allograft
+utilization and minimize unrealized graft years. This may result in longer
+wait-times for the elderly. In this review, we will highlight the barriers to
+kidney transplant, characterize transplant-related issues in the elderly, and
+propose alternative strategies under the new allocation system.
+
+Published by Elsevier Inc.
+
+DOI: 10.1053/j.ackd.2015.11.002 
+PMID: 26709062  [Indexed for MEDLINE]
+
+
+6. Transplantation. 2015 Apr;99(4):805-10. doi: 10.1097/TP.0000000000000444.
+
+Frailty, mycophenolate reduction, and graft loss in kidney transplant recipients.
+
+McAdams-DeMarco MA(1), Law A, Tan J, Delp C, King EA, Orandi B, Salter M,
+Alachkar N, Desai N, Grams M, Walston J, Segev DL.
+
+Author information: 
+(1)1 Department of Surgery, Johns Hopkins University School of Medicine,
+Baltimore, MD. 2 Department of Epidemiology, Johns Hopkins Bloomberg School of
+Public Health, Baltimore, MD. 3 Division of Nephrology, Johns Hopkins University 
+School of Medicine, Baltimore, MD. 4 Division of Geriatric Medicine and
+Gerontology, Johns Hopkins University School of Medicine, Baltimore, MD.
+
+BACKGROUND: Mycophenolate mofetil (MMF) side effects often prompt dose reduction 
+or discontinuation, and this MMF dose reduction (MDR) can lead to rejection and
+possibly graft loss. Unfortunately, little is known about what factors might
+cause or contribute to MDR. Frailty, a measure of physiologic reserve, is
+emerging as an important, novel domain of risk in kidney transplantation
+recipients. We hypothesized that frailty, an inflammatory phenotype, might be
+associated with MDR.
+METHODS: We measured frailty (shrinking, weakness, exhaustion, low physical
+activity, and slowed walking speed), other patient and donor characteristics,
+longitudinal MMF doses, and graft loss in 525 kidney transplantation recipients. 
+Time-to-MDR was quantified using an adjusted Cox proportional hazards model.
+RESULTS: By 2 years after transplantation, 54% of frail recipients and 45% of
+nonfrail recipients experienced MDR; by 4 years, incidence was 67% and 51%. Frail
+recipients were 1.29 times (95% confidence interval [95% CI], 1.01-1.66; P =
+0.04) more likely to experience MDR, as were deceased donor recipients (adjusted 
+hazard ratio [aHR], 1.92; 95% CI, 1.44-2.54, P < 0.001) and older adults (age ≥
+65 vs <65; aHR, 1.47; 95% CI, 1.10-1.96, P = 0.01). Mycophenolate mofetil dose
+reduction was independently associated with a substantially increased risk of
+death-censored graft loss (aHR, 5.24; 95% CI, 1.97-13.98, P = 0.001).
+CONCLUSION: A better understanding of risk factors for MMF intolerance might help
+in planning alternate strategies to maintain adequate immunosuppression and
+prolong allograft survival.
+
+DOI: 10.1097/TP.0000000000000444 
+PMCID: PMC4382409
+PMID: 25393156  [Indexed for MEDLINE]

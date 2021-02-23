@@ -1,0 +1,82 @@
+Adverse Health Effects of Frailty Among CKD Patients,,,,,
+Related adverse health effects ,Method,References,,Sample Group,comment
+,,Conditions,,,
+,,Data,p-value,,
+CHF,,,,,
+,,,,,
+,,,,,
+Heart failure,,"Roshanravan, B., Khatri, M., Robinson-Cohen, C., Levin, G., Patel, K. V., De Boer, I. H., ... & Kestenbaum, B. (2012). A prospective study of frailty in nephrology-referred patients with CKD. American Journal of Kidney Diseases, 60(6), 912-921.",,,
+,,Nonfrail vs. Frail,,,
+,,Heart Failure Prevalence (%):12 vs. 30,,,
+Angina,,"Roshanravan, B., Khatri, M., Robinson-Cohen, C., Levin, G., Patel, K. V., De Boer, I. H., ... & Kestenbaum, B. (2012). A prospective study of frailty in nephrology-referred patients with CKD. American Journal of Kidney Diseases, 60(6), 912-921.",,,
+,,Nonfrail vs. Frail,,,
+,,Angina Prevalence(%):  22 vs. 34,,,
+Brain wave,"Frailty: simple FRAIL scale (SFS), Fatigue, Resistance, Ambulation, Illness, and Loss of body weight (leading to the acronym “FRAIL”)","(1)Chao, C.-T., Lai, H.-J., Tsai, H.-B., Yang, S.-Y., &Huang, J.-W. (2017). Frail phenotype is associated with distinct quantitative electroencephalographic findings among end-stage renal disease patients: an observational study. BMC Geriatrics, 17(1), 277. ",,Patients with ESRD under chronic dialysis with catastrophic illness certificates were prospectively enrolled from National Taiwan University Hospital Jinshan branch,
+,"Brain wave: electroencephalography, a total of 21 silver/silver chloride cup electrodes were placed on the scalp, as per International 10-20 system.",moderate to severe frailty v. none to mild frailty,,Exclusion criteria: refusal to participate and pregnancy,
+,Continuous variables were expressed as mean ± standard deviation and compared between groups using a Student’s t-test or one-way analysis of variance (ANOVA),DAR (global): 283 ± 679 vs. 2971 ± 4859,DAR (gloibal): 0.02,,
+,Spectral analysis with brain EEG map- ping for the different frequency bands was also done to evaluate anatomical clustering.,DARs (left frontal): 135 ± 250 vs. 3073 ± 4702,DARs (left frontal): 0.01,,
+,,"left TO: 197 ± 318 vs. 3708 ± 6398,",Left TO:0.01,,
+,,"Central: 55 ± 96 vs. 1773 ± 3262, ",Central: 0.03,,
+,,"right TO: 187 ± 261 vs. 4400 ± 7763, ",Right TO: 0.02,,
+,,global DTABR: 191 ± 469 vs. 1781 ± 2793,Global DTABR:0.02,,
+,,DTABRs (left frontal): 86 ± 158 vs. 1680 ± 2388 ,DTABR (left frontal):<.01,,
+,,left TO: 130 ± 210 vs. 1884 ± 2828,Left TO:0.01,,
+,,Central: 39 ± 65 vs. 1132 ± 1957,Central: 0.02,,
+,,right TO DTABR: 126 ± 178 vs. 2960 ± ,Right TO DTABR: 0.03,,
+,,,Overall p=.02,,
+Diabetes,,"Roshanravan, B., Khatri, M., Robinson-Cohen, C., Levin, G., Patel, K. V., De Boer, I. H., ... & Kestenbaum, B. (2012). A prospective study of frailty in nephrology-referred patients with CKD. American Journal of Kidney Diseases, 60(6), 912-921.",,,
+,,Nonfrial vs. Frail,,,
+,,Diabetes Prevalence (%): 49 vs. 64,,,
+Obese,,"Roshanravan, B., Khatri, M., Robinson-Cohen, C., Levin, G., Patel, K. V., De Boer, I. H., ... & Kestenbaum, B. (2012). A prospective study of frailty in nephrology-referred patients with CKD. American Journal of Kidney Diseases, 60(6), 912-921.",,,
+,,Nonfrail vs. Frail,,,
+,,Obese (% in all nutritional status): 50 vs. 64,,,
+,,"McAdams-DeMarco, M. A., Tan, J., Salter, M. L., Gross, A., Meoni, L. A., Jaar, B. G., ... & Sozio, S. M. (2015). Frailty and cognitive function in incident hemodialysis patients. Clinical Journal of the American Society of Nephrology, 10(12), 2181-2189.",,,
+,,Nonfrail vs. Intermediate Frail vs. Frail (at baseline),,,
+,Body mass index (BMI): self-reportd height and dry weight.,Dry weight body mass index (kg/m^2): 27.6 vs. 29.7 vs. 31.5,Dry weight body mass index (kg/m^2): 0.004,,
+,,Obese (%): 23.9 vs. 41.8 vs. 51.8,Obese: <0.001,,
+"Disability
+ ADL (activities of daily living)
+ IADL (instrumental activities of daily living)
+ Falls",,"Roshanravan, B., Khatri, M., Robinson-Cohen, C., Levin, G., Patel, K. V., De Boer, I. H., ... & Kestenbaum, B. (2012). A prospective study of frailty in nephrology-referred patients with CKD. American Journal of Kidney Diseases, 60(6), 912-921.",,,
+,,Nonfrail vs. Frail,,,
+,,ADL (%):5 vs. 15,ADL: 0.009,,
+,,IADL (%):28 vs. 60,IADL: <0.001,,
+,,Mobility Disability (%):18 vs. 40,Mobility Disability: 0.001,,
+Cerebrovascular disease,"Unknown for cerebrovascular disease, not mentioned specifically. 
+Participant-reported medical history, augmented with data from US Centers for Medicare and Medicaid Services Form-2728 and from chart abstraction: other comorbidities including cardiovascular diseases, congestive heart failure, rheumatoid arthritis, cancer, diabetes, hypertension, or chronic obstructive lung diseases","McAdams-DeMarco, M. A., Tan, J., Salter, M. L., Gross, A., Meoni, L. A., Jaar, B. G., ... & Sozio, S. M. (2015). Frailty and cognitive function in incident hemodialysis patients. Clinical Journal of the American Society of Nephrology, 10(12), 2181-2189.",,"A longitudinal cohort study (Predictors of Arrhythmic and Cardiovascular Risk in ESRD [PACE] trial; R01DK072367)  with 324 adults enrolled (November 2008 to July 2012), 95% of which were enrolled within the first month of hemodialysis. 
+Patients location: 27 free-standing dialysis centers in Baltimore, Maryland, and six surrounding counties. 
+Eligible criteria: ≥ 18 years at enrollment and the ability to speak English.","Although previous studies of adults with CKD have found that lower kidney function is associated with worse cognitive function (36,37), we have identified a high-risk subgroup of patients with ESRD: namely, those who are frail who have more profound cognitive loss."
+,,Nonfrail vs. Intermediate frail vs. Frail,,,
+,,Cerebrovascular disease(%): 12.0 vs. 22.1 vs. 26.4,Cerebrovascular disease: 0.03,,
+"HTN, CVA, LVD, PVD, smoking, IDH, serum creatinine, and hemoglobin",,"(1) Yadla, John, & Mummadi, 2017",,,
+,,,,,
+,,(1) RR 1.1-1.5,,,
+Mycophenolate mofetil (MMF) dose reduction (MDR),"Frailty identification: Fried frailty phenotypes,  ≥2 components
+Grouping: Frail (frail and intermediate frail are both referred to as frail empirically) and nonfrail
+Definition of MDR: a reduction in MMF immunosuppression to <2000 mg/day for Mycophenolate mofetil (Cellcept) and <1440
+mg/day for mycophenolic acid (Myfortic).
+Time-to-MDR: quantified with adjusted Cox proportional hazards model","McAdams-DeMarco, M. A., Law, A., Tan, J., Delp, C., King, E. A., Orandi, B., ... & Walston, J. (2015). Frailty, mycophenolate reduction, and graft loss in kidney transplant recipients. Transplantation, 99(4), 805.",,"Single-center study, 525 KT patients
+Prevalence of (at KT):
+ frailty: 19.5%
+ intermediate frailty: 33.2%
+",
+,,Nonfrail vs. Frail,,,
+,,"MDR over time % (95% CI):
+1 year since KT: 40 (34-47) vs. 44 (39-51)
+2 years since KT: 45 (39-52) vs. 54 (48-61)
+3 years since KT: 51 (44-58) vs. 67 (59-75)",Cumulative incidence of MDR: Log Rank P=0.02,,
+,,"Hazard ratio of MDR: 1.29 (95% CI, 1.01-1.66)",Hazard ratio of MDR: 0.04,,
+Laboratory data; Body composition,descriptive cross-sectional study,"SI, A. P., Senior, P. A., Field, C. J., Jindal, K., & Mager, D. R. (2018). Frailty, Health Related Quality of Life, Cognition, Depression, Vitamin D and Health Care Utilization in an Ambulatory Adult Population with Type 1 and Type 2 Diabetes Mellitus and Chronic Kidney Disease: a cross sectional analysis. Canadian Journal of Diabetes.",,"41 ambulatory adults (41 through 83 years of age) with type 1 (n=3) or type 2 (n=38) diabetes mellitus and CKD (stages 1 through V).  Exclusion criteria: Thoses who were on dialysis  (estimated glomerular filtration rate <10 mL/min/1.73 m^2) and had body weights >136 kg, and coinciding comorbidities known to influence vitD metabolism were excluded. ",
+,,Frail vs. Nonfrail,,,
+,Laboratory data: routine clinical blood work,"Laboratory data: 
+eGFR (mL/min/1.72 m2): 18±9 vs. 50±29; 
+Albumin (g/L): 38±2.7 vs. 41±2.8; 
+Creatinine (umol/L): 299 (160–408) vs. 115 (82–227); 
+Calcium (mmol/L): 2.24±0.18 2.36±0.13",Laboratory data: eGFR: 0.007; Albumin: 0.04; Creatinine: <0.05; Calcium: 0.05,,
+,"Body composition (BC): GE Lunar Prodigy High-speed Digital Fan Beam dual-energy x-ray absorptiometry (v. 10.5; GE Healthcare, Madison, Wisconsin, United States)","Body composition: 
+ASMI (kg/m2): 6.8±1.0 vs. 7.7±0.9; 
+Low lean body mass, n (%): 4 (57.1) vs. 5 (14.7);","Body composition: 
+ASMI: 0.02",,
+,,"Lower ASMI and lower LM in some body segments (trunk, gynoid and android).","ASMI: ≤0.05;
+LM: ≤0.05",,
+,,"When adjusted for the potential confounding effects of sex, frail participants had lower ASMI than nonfrail participants. ",ASMI: <0.05,,

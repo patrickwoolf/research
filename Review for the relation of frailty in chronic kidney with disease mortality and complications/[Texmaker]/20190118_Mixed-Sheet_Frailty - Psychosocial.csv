@@ -1,0 +1,56 @@
+Adverse Health Effects of Frailty Among CKD Patients,,,,
+Related adverse health effects ,Method,References,,Sample Group
+,,Conditions,,
+,,Data,p-value,
+Mood,The Edmonton Frail Scale,"Orlandi & Gesualdo, 2014",,N/A
+,,"The Edmonton Frail Scale itself evaluates nine domains, with mood being one of them. So it’s rational to deduce that frailty accounts for negative mood change.",,
+Good interaction with family,Interview,"Moffatt, Moorhouse, Mallery, Landry, & Tennankore, 2018",,
+,,Interview only,,
+Cognitive impairments,Review,"Kittiskulnam, P. et al. (2016). Consequences of CKD on Functioning. Seminars in Nephrology, 36(4), 305–318. ",,
+,,There’s no adverse health effects of frailty other than mortality and morbidities mentioned.,,
+,"Grouping: Nonfrail, intermediate frail, and frail. Fried frailty phenotype.","McAdams-Demarco, M. A., Tan, J., Salter, M. L., Gross, A., Meoni, L. A., Jaar, B. G., …Sozio, S. M. (2015). Frailty and cognitive function in incident hemodialysis patients. Clinical Journal of the American Society of Nephrology, 10(12), 2181–2189.",,"A longitudinal cohort study (Predictors of Arrhythmic and Cardiovascular Risk in ESRD [PACE] trial; R01DK072367)  with 324 adults enrolled (November 2008 to July 2012), 95% of which were enrolled within the first month of hemodialysis. Patients located 27 free-standing dialysis centers in Baltimore, Maryland, and six surrounding counties. Eligible criteria: ≥ 18 years at enrollment and the ability to speak English."
+,"Cognitive function: 
+Global cognitive function: Modified Mini-Mental State (3MS); 
+Speed/Attention: Trail Making Tests A and B (TMTA and TMTB)*. 
+",Nonfrail vs. Intermediate Frail vs. Frail,,
+,"Cognitive impairment was defined as a score <80 for the 3MS, a time 1.5 SD above the mean (from this cohort) for the TMTA/TMTB.",At cohort entry: 3MS (points): Reference vs. -1.29 (-3.05 to 0.48) vs. -2.37 (-4.21 to -0.53); TMTA (seconds): Reference vs. 6.12 (−0.94 to 13.18) vs. 12.08 (4.73 to 19.43); TMTB (seconds): Reference vs. 19.87 (−2.34 to 42.08) vs. 33.15 (9.88 to 56.42),At cohort entry: 3MS: 0.01; TMTA: <0.001; TMTB: 0.01,
+,"*The TMTA and TMTB are time tests that measure executive function. Both of these tests assess scanning, speed of processing, attention and concentration, and psychomotor speed, and the TMTB further assesses cognitive shifting and complex sequencing function. The tests measure the time required to connect a series of sequentially numbered (TMTA) and numbered/lettered (TMTB) circles.",At 1-year follow-up: 3MS (points): Reference vs. −1.74 (−4.16 to 0.69) vs. −2.80 (−5.37 to −0.24),At 1-year follow-up: 3MS: 0.03,
+Functional independence,,"Fabrício-Wehbe, Suzele Cristina Coelho, Schiaveto, Fábio Veiga, Vendrusculo, Thaís Ramos Pereira, Haas, Vanderlei José, Dantas, Rosana Aparecida Spadoti, & Rodrigues, Rosalina Aparecida Partezani. (2009). Adaptação cultural e validade da Edmonton Frail Scale - EFS em uma amostra de idosos brasileiros. Revista Latino-Americana de Enfermagem, 17(6), 1043-1049.",,A subsample of 137 elderly people was selected from 515 elderly using simple random sampling (SRS).
+,Frailty grouping: Edmonton Frail Scale (EFS).,"Spearman's correlation coefficient of frailty diagnosis with global, motor, and cognitive FIM",,
+,Functional independence: Functional Independence Measure (FIM).,"Spearman’s correlation coefficient: -0.703 (moderate), -0.714 (moderate), -0.575 (weak)",All correlations: <0.01,
+,Cognitive assessment: Mini-Mental State Examination (MMSE).,Spearman’s correlation coefficient of frailty scores (EFS) with gross functional dependence (FIM) and the gross MMSE score,,
+,,Spearman’s correlation coefficient: -0.53 and -0.607 (weak),<0.01,
+,,Spearman’s correlation coefficient between functional independence on the EFS and FIM scores,,
+,,Spearman's correlation coefficient: -0.57,<0.01,
+Depression (Beck dep. scale),descriptive cross-sectional study,"SI, A. P., Senior, P. A., Field, C. J., Jindal, K., & Mager, D. R. (2018). Frailty, Health Related Quality of Life, Cognition, Depression, Vitamin D and Health Care Utilization in an Ambulatory Adult Population with Type 1 and Type 2 Diabetes Mellitus and Chronic Kidney Disease: a cross sectional analysis. Canadian Journal of Diabetes.",,"41 ambulatory adults (41 through 83 years of age) with type 1 (n=3) or type 2 (n=38) diabetes mellitus and CKD (stages 1 through V). 
+Exclusion criteria: Thoses who were on dialysis  (estimated glomerular filtration rate <10 mL/min/1.73 m^2) and had body weights >136 kg, and coinciding comorbidities known to influence vitD metabolism were excluded. "
+,"Depression: the validated, self-reported Major Depression Inventory (scores ≥20 are considered abnormal)",,Depression: 0.0002,
+HRQOL,Narrative,"Soni, Weisbord, & Unruh, 2010",,
+,,Narrative only,,
+,,"Kanauchi, Kubo, Kanauchi, & Saito, 2008",,
+,,,between frail and non-frail p ≦ 0.001 (Persons ≧ 75 years old and those with depressive mood or lower creatinine clearance had significantly lower WHOQOL-26 scores than their counterparts.),
+,descriptive cross-sectional study,"SI, A. P., Senior, P. A., Field, C. J., Jindal, K., & Mager, D. R. (2018). Frailty, Health Related Quality of Life, Cognition, Depression, Vitamin D and Health Care Utilization in an Ambulatory Adult Population with Type 1 and Type 2 Diabetes Mellitus and Chronic Kidney Disease: a cross sectional analysis. Canadian Journal of Diabetes.",,"41 ambulatory adults (41 through 83 years of age) with type 1 (n=3) or type 2 (n=38) diabetes mellitus and CKD (stages 1 through V).  Exclusion criteria: Thoses who were on dialysis  (estimated glomerular filtration rate <10 mL/min/1.73 m^2) and had body weights >136 kg, and coinciding comorbidities known to influence vitD metabolism were excluded."
+,HRQoL: the validated self-reported SF-36,,"SF-36 scores: When adjusted for differences in CKD stage, only physical functioning (p=0.004), blood pressure (p=0.001), role physical (p=0.003) and the physical component summary (p=0.002) remained significantly lower",
+,"PREPROCESSING
+Frailty: Fried phenotypes
+Grouping: nonfrail and frail (intermediate frail and frail combined)
+HRQOL: KDQOL-SF (generic core [Short Form-36 (SF-36)] and 11 multi-item kidney disease-specific scales), scores linearly converted to 0 to 100 scales.
+ANALYSIS METHOD
+Relationship between frailty and physical, mental, and kidney disease-specific HRQOL at KT: Multivariable linear regression
+Within-individual changes in HRQOL scores among frail and nonfrail recipients: paired t test
+HRQOL between frail and nonfrail: Student t test
+Post-KT HRQOL change (among frail and nonfrail recipients, a longitudinal analysis): Multilevel mixed effects linear regression models with random slopes and intercepts.","McAdams-DeMarco, M. A., Olorundare, I. O., Ying, H., Warsame, F., Haugen, C. E., Hall, R., …Segev, D. L. (2018). Frailty and Postkidney Transplant Health-Related Quality of Life. Transplantation, 102(2), 291–299.",,"443 KT recipients at Johns Hopkins Hospital (n = 370), Baltimore, Maryland (May 2014 to May 2017) and the University of Michigan (N = 73), Ann Arbor, Michigan (March 2015 to June 2016)."
+,,Frail vs. Nonfrail (At Kidney Transplant),,
+,,,Worse physical HRQOL: <0.001,
+,,,Worse kidney disease-specific HRQOL: 0.001,
+,,,Similar mental HRQOL: 0.43,
+,,Frail vs. Nonfrail (Post-Kidney Transplant),,
+,,,Greater rates of improvement in:,
+,,"Physical HRQOL: 1.35 points/month (95% CI, 0.65-2.05) vs. 0.34 points/month (95% CI, −0.17-0.85)",(1) physical HRQOL: 0.02,
+,,"Kidney Disease-specific HRQOL: 3.75 points/month (95% CI, 2.89-4.60) vs. 2.41 points/month (95% CI, 1.78-3.04)",(2) kidney disease-specific HRQOL: 0.01,
+,,"Mental HRQOL: 0.54 points/month (95% CI, −0.17-1.25) vs. 0.46 points/month (95% CI, −0.06-0.98)",No difference in mental HRQOL: 0.85,
+,"HRQOL: includes PCS (Physical Component Summary, calculated based on physical functioning, role limitations due to physical problems, body pain, and general health perception) and MCS (Mental Component Summary, calculated base on role limitations due to emotional problems, social func- tioning, mental health, and vitality).
+Hierarchical regression: the greater the R^2 change between Model 2 (frailty included) and Model 1 (frailty excluded), the greater the effect of frailty on HRQOL.","Lee, S. J., Son, H., & Shin, S. K. (2015). Influence of frailty on health-related quality of life in pre-dialysis patients with chronic kidney disease in Korea: A cross-sectional study. Health and Quality of Life Outcomes, 13(1).",,Conducted at an outpatient CKD clinic in a general hospital in Korea from March to September 2014.
+,,"Model 2 (hierarchical regression, frailty included) vs. Model 1 (frailty excluded)",,
+,,R^2 change = 29%,Lower PCS: <0.001,
+,,R^2 change = 21.3%,Lower MCS: <0.001,

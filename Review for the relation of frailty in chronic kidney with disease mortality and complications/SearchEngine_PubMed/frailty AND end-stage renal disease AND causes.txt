@@ -1,0 +1,1229 @@
+﻿//frailty AND "end-stage renal disease" AND causes
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "end-stage renal disease"[All Fields] AND ("etiology"[Subheading] OR "etiology"[All Fields] OR "causes"[All Fields] OR "causality"[MeSH Terms] OR "causality"[All Fields])
+//
+1. J Korean Med Sci. 2017 Nov;32(11):1800-1806. doi: 10.3346/jkms.2017.32.11.1800.
+
+Is Frailty a Modifiable Risk Factor of Future Adverse Outcomes in Elderly
+Patients with Incident End-Stage Renal Disease?
+
+Lee SW(1)(2), Lee A(3), Yu MY(4), Kim SW(3), Kim KI(3)(5), Na KY(1)(3)(5), Chae
+DW(1)(3)(5), Kim CH(3)(5), Chin HJ(3)(6).
+
+Author information: 
+(1)Department of Internal Medicine, Seoul National University Postgraduate
+School, Seoul, Korea.
+(2)Department of Internal Medicine, Eulji General Hospital, Seoul, Korea.
+(3)Department of Internal Medicine, Seoul National University Bundang Hospital,
+Seongnam, Korea.
+(4)Department of Internal Medicine, Seoul National University Hospital, Seoul,
+Korea.
+(5)Department of Internal Medicine, Seoul National University College of
+Medicine, Seoul, Korea.
+(6)Department of Internal Medicine, Seoul National University College of
+Medicine, Seoul, Korea. mednep@snubh.org.
+
+Little is known about the clinical significance of frailty and changes of frailty
+after dialysis initiation in elderly patients with end-stage renal disease
+(ESRD). We prospectively enrolled 46 elderly patients with incident ESRD at a
+dialysis center of a tertiary hospital between May 2013 and March 2015. Frailty
+was assessed by using a comprehensive geriatric assessment protocol and defined
+as a multidimensional frailty score of ≥ 10. The main outcome was the composite
+of all-cause death or cardiovascular hospitalization, as determined in June 2016.
+The median age of the 46 participants was 71.5 years, and 63.0% of them were men.
+During the median 17.7 months follow-up, the rate of composite outcome was 17.4%.
+In multivariate logistic regression analysis, after adjusting for age, sex,
+diabetes, body mass index (BMI), and time of predialytic nephrologic care, female
+sex, and increased BMI were associated with increased and decreased odds of
+frailty, respectively. In multivariate Cox proportional hazards analysis, after
+adjusting for age, sex, diabetes, BMI, and time of predialytic nephrologic care, 
+frailty was significantly associated with the composite adverse outcome. In
+repeated frailty assessments, the multidimensional frailty score significantly
+improved 12 months after the initiation of dialysis, which largely relied on
+improved nutrition. Therefore, frailty needs to be assessed for risk
+stratification in elderly patients with incident ESRD.
+
+© 2017 The Korean Academy of Medical Sciences.
+
+DOI: 10.3346/jkms.2017.32.11.1800 
+PMCID: PMC5639060
+PMID: 28960032  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no potential conflicts of
+interest to disclose.
+
+
+2. Am J Physiol Renal Physiol. 2017 Oct 1;313(4):F938-F950. doi:
+10.1152/ajprenal.00256.2017. Epub 2017 Jul 12.
+
+Inflammation and premature aging in advanced chronic kidney disease.
+
+Kooman JP(1), Dekker MJ(2), Usvyat LA(3), Kotanko P(4)(5), van der Sande FM(3),
+Schalkwijk CG(2), Shiels PG(6), Stenvinkel P(7).
+
+Author information: 
+(1)Maastricht University Medical Center, Maastricht, Netherlands;
+Jeroen.kooman@mumc.nl.
+(2)Maastricht University Medical Center, Maastricht, Netherlands.
+(3)Fresenius Medical Care North America, Waltham, Massachusetts.
+(4)Renal Research Institute, New York, New York.
+(5)Icahn School of Medicine at Mount Sinai, New York, New York.
+(6)Institute of Cancer Sciences, College of Medical, Veterinary and Life
+Sciences, University of Glasgow, Glasgow, United Kingdom; and.
+(7)Divsion of Renal Medicine, Department of Clinical Science Technology and
+Intervention, Karolinska Institutet, Stockholm, Sweden.
+
+Systemic inflammation in end-stage renal disease is an established risk factor
+for mortality and a catalyst for other complications, which are related to a
+premature aging phenotype, including muscle wasting, vascular calcification, and 
+other forms of premature vascular disease, depression, osteoporosis, and frailty.
+Uremic inflammation is also mechanistically related to mechanisms involved in the
+aging process, such as telomere shortening, mitochondrial dysfunction, and
+altered nutrient sensing, which can have a direct effect on cellular and tissue
+function. In addition to uremia-specific causes, such as abnormalities in the
+phosphate-Klotho axis, there are remarkable similarities between the
+pathophysiology of uremic inflammation and so-called "inflammaging" in the
+general population. Potentially relevant, but still somewhat unexplored in this
+respect, are abnormal or misplaced protein structures, as well as abnormalities
+in tissue homeostasis, which evoke danger signals through damage-associated
+molecular patterns, as well as the senescence-associated secretory phenotype.
+Systemic inflammation, in combination with the loss of kidney function, can
+impair the resilience of the body to external and internal stressors by reduced
+functional and structural tissue reserves, and by impairing normal organ
+crosstalk, thus providing an explanation for the greatly increased risk of
+homeostatic breakdown in this population. In this review, the relationship
+between uremic inflammation and a premature aging phenotype, as well as potential
+causes and consequences, are discussed.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/ajprenal.00256.2017 
+PMID: 28701312  [Indexed for MEDLINE]
+
+
+3. Clin J Am Soc Nephrol. 2017 Jul 7;12(7):1100-1108. doi: 10.2215/CJN.12131116.
+Epub 2017 Jun 2.
+
+Factors Associated with Frailty and Its Trajectory among Patients on
+Hemodialysis.
+
+Johansen KL(1)(2)(3), Dalrymple LS(4), Delgado C(5)(2), Chertow GM(6), Segal
+MR(3), Chiang J(2)(7), Grimes B(3), Kaysen GA(8)(9).
+
+Author information: 
+(1)Divisions of Nephrology and Kirsten.johansen@ucsf.edu.
+(2)Nephrology and Endocrinology Sections, San Francisco Veterans Affairs Medical 
+Center, San Francisco, California.
+(3)Department of Epidemiology and Biostatistics, University of California, San
+Francisco, California.
+(4)Fresenius Medical Care North America, Waltham, Massachusetts.
+(5)Divisions of Nephrology and.
+(6)Division of Nephrology, Stanford University School of Medicine, Stanford,
+California; and.
+(7)Endocrinology and.
+(8)Division of Nephrology and.
+(9)Department of Biochemistry and Molecular Medicine, University of California,
+Davis, California.
+
+BACKGROUND AND OBJECTIVES: Frailty is common among patients on hemodialysis and
+associated with adverse outcomes. However, little is known about changes in
+frailty over time and the factors associated with those changes.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: To address these questions, we
+examined 762 participants in the A Cohort to Investigate the Value of
+Exercise/Analyses Designed to Investigate the Paradox of Obesity and Survival in 
+ESRD cohort study, among whom frailty was assessed at baseline and 12 and 24
+months. We used ordinal generalized estimating equations analyses and modeled
+frailty (on a scale from zero to five possible components) and death during
+follow-up.
+RESULTS: The mean frailty score at baseline was 1.9, and the distribution of
+frailty scores was similar at each evaluation. However, most participants' scores
+changed, with patients improving almost as often as worsening (overall change,
+0.2 points per year; 95% confidence interval, 0.1 to 0.3). Hispanic ethnicity
+(0.6 points per year; 95% confidence interval, 0.0 to 1.1) and diabetes (0.7
+points per year; 95% confidence interval, 0.3 to 1.0) were associated with higher
+frailty scores and higher serum albumin concentration with lower frailty scores
+(-1.1 points per g/dl; 95% confidence interval, -1.5 to -0.7). In addition,
+patients whose serum albumin increased over time were less likely to become
+frail, with each 1-g/dl increase in albumin associated with a 0.4-point reduction
+in frailty score (95% confidence interval, -0.80 to -0.05). To examine the
+underpinnings of the association between serum albumin and frailty, we included
+serum IL-6, normalized protein catabolic rate, and patient self-report of
+hospitalization within the last year in a second model. Higher IL-6 and
+hospitalization were statistically significantly associated with worse frailty at
+any point and worsening frailty over time, whereas normalized protein catabolic
+rate was not independently associated with frailty.
+CONCLUSIONS: There was substantial year to year variability in frailty scores,
+with approximately equal numbers of patients improving and worsening. Markers of 
+inflammation and hospitalization were independently associated with worsening
+frailty. Studies should examine whether interventions to address inflammation or 
+posthospitalization rehabilitation can improve the trajectory of frailty.
+
+Copyright © 2017 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.12131116 
+PMCID: PMC5498360
+PMID: 28576906  [Indexed for MEDLINE]
+
+
+4. BMC Nephrol. 2017 May 2;18(1):148. doi: 10.1186/s12882-017-0558-x.
+
+Frailty in end-stage renal disease: comparing patient, caregiver, and clinician
+perspectives.
+
+Clark DA(1), Khan U(2), Kiberd BA(1), Turner CC(3), Dixon A(3), Landry D(2),
+Moffatt HC(4), Moorhouse PA(4), Tennankore KK(5).
+
+Author information: 
+(1)Division of Nephrology, Dalhousie University, 5070 Dickson Building, 5820
+University Avenue, Halifax, B3H 2Y9, NS, Canada.
+(2)Nova Scotia Health Authority, Halifax, NS, Canada.
+(3)Division of Internal Medicine, Dalhousie University, Halifax, NS, Canada.
+(4)Division of Geriatric Medicine, Dalhousie University, Halifax, NS, Canada.
+(5)Division of Nephrology, Dalhousie University, 5070 Dickson Building, 5820
+University Avenue, Halifax, B3H 2Y9, NS, Canada. ktennankore@gmail.com.
+
+BACKGROUND: Frailty is associated with poor outcomes for patients on dialysis and
+is traditionally measured using tools that assess physical impairment. Alternate 
+measurement tools highlight cognitive and functional domains, requiring
+clinician, patient, and/or caregiver input. In this study, we compared frailty
+measures for incident dialysis patients that incorporate patient, clinician, and 
+caregiver perspectives with an aim to contrast the measured prevalence of frailty
+using tools derived from different conceptual frameworks.
+METHODS: A prospective cohort study of incident dialysis patients was conducted
+between February 2014 and June 2015. Frailty was assessed at dialysis onset
+using: 1) modified definition of Fried Phenotype (Dialysis Morbidity Mortality
+Study definition, DMMS); 2) Clinical Frailty Scale (CFS); 3) Frailty Assessment
+Care Planning Tool (provides CFS grading, FACT-CFS); and 4) Frailty Index (FI).
+Measures were compared via correlation and sensitivity/specificity analyses.
+RESULTS: A total of 98 patients participated (mean age of 61 ± 14 years).
+Participants were primarily Caucasian (91%), male (58%), and the majority started
+on hemodialysis (83%). The median score for both the CFS and FACT-CFS was 4
+(interquartile range of 3-5). The mean FI score was 0.31 (standard
+deviation ± 0.16). The DMMS identified 78% of patients as frail. The FACT-CFS
+demonstrated highest correlation (r = 0.71) with the FI, while the DMMS was most 
+sensitive (97%, 100%) and a CFS ≥ 5 most specific (100%, 77%) at corresponding FI
+cutoff values (>0.21, >0.45).
+CONCLUSIONS: Frailty assessments of incident dialysis patients that include
+clinician, caregiver and patient perspectives have moderate to strong correlation
+with the FI. At specified FI cutoff values, the FACT-CFS and DMMS are highly
+sensitive measures of frailty. The CFS and FACT-CFS may represent viable
+alternative screening tools in dialysis patients.
+
+DOI: 10.1186/s12882-017-0558-x 
+PMCID: PMC5412047
+PMID: 28464924  [Indexed for MEDLINE]
+
+
+5. Nephrology (Carlton). 2017 Apr;22(4):333-334. doi: 10.1111/nep.12961.
+
+Self-reported frailty among end-stage renal disease patients: A potential
+predictor of dialysis access outcomes.
+
+Chao CT(1)(2)(3), Chiang CK(2)(4), Huang JW(3), Hung KY(3); COGENT study
+group(5).
+
+Author information: 
+(1)Department of Medicine, National Taiwan University Hospital Jinshan branch,
+New Taipei City, Taiwan.
+(2)Graduate Institute of Toxicology, National Taiwan University College of
+Medicine, Taipei, Taiwan.
+(3)Division of Nephrology, Department of Internal Medicine.
+(4)Department of Integrative Diagnostics and Therapeutics, National Taiwan
+University Hospital, Taipei, Taiwan.
+(5)COhort of GEriatric Nephrology in NTUH.
+
+DOI: 10.1111/nep.12961 
+PMID: 28247523  [Indexed for MEDLINE]
+
+
+6. Am J Transplant. 2017 Apr;17(4):1031-1041. doi: 10.1111/ajt.14061. Epub 2016 Oct 
+24.
+
+First-Year Waitlist Hospitalization and Subsequent Waitlist and Transplant
+Outcome.
+
+Lynch RJ(1), Zhang R(2), Patzer RE(1)(3), Larsen CP(1), Adams AB(1).
+
+Author information: 
+(1)Division of Transplantation, Department of Surgery, Emory University School of
+Medicine, Atlanta, GA.
+(2)Department of Biostatistics, Rollins School of Public Health, Emory
+University, Atlanta, GA.
+(3)Department of Epidemiology, Rollins School of Public Health, Emory University,
+Atlanta, GA.
+
+Frailty is associated with inferior survival and increased resource requirements 
+among kidney transplant candidates, but assessments are time-intensive and costly
+and require direct patient interaction. Waitlist hospitalization may be a proxy
+for patient fitness and could help those at risk of poor outcomes. We examined
+United States Renal Data System data from 51 111 adult end-stage renal disease
+patients with continuous Medicare coverage who were waitlisted for transplant
+from January 2000 to December 2011. Heavily admitted patients had higher
+subsequent resource requirements, increased waitlist mortality and decreased
+likelihood of transplant (death after listing: 1-7 days: hazard ratio [HR] 1.24, 
+95% confidence interval [CI] 1.20-1.28; 8-14 days: HR 1.49, 95% CI 1.42-1.56; ≥15
+days: HR 2.07, 95% CI 1.99-2.15; vs. 0 days). Graft and recipient survival was
+inferior, with higher admissions, although survival benefit was preserved. A
+model including waitlist admissions alone performed better (C statistic 0.76, 95%
+CI 0.74-0.80) in predicting postlisting mortality than estimated posttransplant
+survival (C statistic 0.69, 95% CI 0.67-0.73). Although those with a heavy burden
+of admissions may still benefit from kidney transplant, less utility is derived
+from allografts placed in this population. Current kidney allocation policy,
+which is based in part on longevity matching, could be significantly improved by 
+consideration of hospitalization records of transplant candidates.
+
+© 2016 The American Society of Transplantation and the American Society of
+Transplant Surgeons.
+
+DOI: 10.1111/ajt.14061 
+PMID: 27664797  [Indexed for MEDLINE]
+
+
+7. Semin Nephrol. 2016 Jul;36(4):273-82. doi: 10.1016/j.semnephrol.2016.05.004.
+
+The Patterns, Risk Factors, and Prediction of Progression in Chronic Kidney
+Disease: A Narrative Review.
+
+Collister D(1), Ferguson T(1), Komenda P(1), Tangri N(2).
+
+Author information: 
+(1)Department of Medicine, University of Manitoba, Winnipeg, Canada; Department
+of Community Health Sciences, University of Manitoba, Winnipeg, Canada; Chronic
+Disease Innovation Center, Seven Oaks General Hospital, Winnipeg, Canada.
+(2)Department of Medicine, University of Manitoba, Winnipeg, Canada; Department
+of Community Health Sciences, University of Manitoba, Winnipeg, Canada; Chronic
+Disease Innovation Center, Seven Oaks General Hospital, Winnipeg, Canada.
+Electronic address: ntangri@sogh.mb.ca.
+
+Chronic kidney disease (CKD) is a global public health problem that is associated
+with excess morbidity, mortality, and health resource utilization. The
+progression of CKD is defined by a decrease in glomerular filtration rate and
+leads to a variety of metabolic abnormalities including acidosis, hypertension,
+anemia, and mineral bone disorder. Lower glomerular filtration rate also bears a 
+strong relationship with an increased risk of cardiovascular events, end-stage
+renal disease, and death. Patterns of CKD progression include linear and
+nonlinear trajectories, but kidney function can remain stable for years in some
+individuals. Addressing modifiable risk factors for the progression of CKD is
+needed to attenuate its associated morbidity and mortality. Developing effective 
+risk prediction models for CKD progression is critical to identify patients who
+are more likely to benefit from interventions and more intensive monitoring.
+Accurate risk-prediction algorithms permit systems to best align health care
+resources with risk to maximize their effects and efficiency while guiding
+overall decision making.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.semnephrol.2016.05.004 
+PMID: 27475658  [Indexed for MEDLINE]
+
+
+8. Ann Vasc Surg. 2016 Aug;35:19-29. doi: 10.1016/j.avsg.2016.01.052. Epub 2016 Jun 
+2.
+
+Preoperative Frailty Increases Risk of Nonhome Discharge after Elective Vascular 
+Surgery in Home-Dwelling Patients.
+
+Arya S(1), Long CA(2), Brahmbhatt R(2), Shafii S(2), Brewster LP(3), Veeraswamy
+R(2), Johnson TM 2nd(4), Johanning JM(5).
+
+Author information: 
+(1)Division of Vascular Surgery, Department of Surgery, Emory University School
+of Medicine, Atlanta, GA; Surgical Service Line, Atlanta VA Medical Center,
+Decatur, GA. Electronic address: shipra.arya@emory.edu.
+(2)Division of Vascular Surgery, Department of Surgery, Emory University School
+of Medicine, Atlanta, GA.
+(3)Division of Vascular Surgery, Department of Surgery, Emory University School
+of Medicine, Atlanta, GA; Surgical Service Line, Atlanta VA Medical Center,
+Decatur, GA.
+(4)Division of General Medicine and Geriatrics, Department of Medicine, Emory
+University School of Medicine.
+(5)Division of Vascular Surgery, Department of Surgery, University of Nebraska
+Medical Center, Omaha, NE.
+
+BACKGROUND: Patient-centered quality outcomes such as disposition after surgery
+are increasingly being scrutinized. Preoperative factors predictive of nonhome
+discharge (DC) may identify at-risk patients for targeted interventions. This
+study examines the association among preoperative risk factors, frailty, and
+nonhome DC after elective vascular surgery procedures in patients living at home.
+METHODS: The 2011-2012 National Surgical Quality Improvement Project database was
+queried to identify all home-dwelling patients who underwent elective vascular
+procedures (endovascular and open aortic aneurysm repair, suprainguinal and
+infrainguinal bypasses, peripheral endovascular interventions, carotid
+endarterectomy, and stent). Preoperative frailty was measured using the modified 
+frailty index (mFI; derived from Canadian Study of Health and Aging). Univariate 
+and multivariate logistic regression analysis was performed to examine the
+association of frailty and nonhome DC.
+RESULTS: Of 15,843 home-dwelling patients, 1,177 patients (7.4%) did not return
+home postoperatively. Frailty (mFI > 0.25) conferred a significantly increased
+2-fold risk of nonhome DC disposition for each procedure type. Frailty, female
+gender, open procedures, increasing age, end-stage renal disease, and occurrence 
+of any postoperative complication were associated with increased risk of nonhome 
+DC. On multivariate logistic regression analysis, frailty increased the odds of
+nonhome DC by 60% (odds ratio 1.6, 95% confidence interval 1.4-1.8) after
+adjusting for other covariates. In the presence of complications, the risk of
+nonhome DC was 27.5% in frail versus 16.5% in nonfrail patients (P < 0.001). In
+the absence of complications, although absolute risk was lower, frail patients
+were nearly twice as likely to not return home (frail 5.5% vs. nonfrail 2.75%,
+P < 0.001).
+CONCLUSIONS: Frail home-dwelling patients undergoing elective vascular procedures
+are at high risk of not returning home after surgery. Preoperative frailty
+assessment appears to hold potential for counseling regarding postsurgery
+disposition and DC planning.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.avsg.2016.01.052 
+PMID: 27263810  [Indexed for MEDLINE]
+
+
+9. Nefrologia. 2016 Nov - Dec;36(6):609-615. doi: 10.1016/j.nefro.2016.03.020. Epub 
+2016 May 27.
+
+Frailty in elderly people with chronic kidney disease.
+
+[Article in English, Spanish]
+
+Portilla Franco ME(1), Tornero Molina F(2), Gil Gregorio P(3).
+
+Author information: 
+(1)Servicio de Geriatría, Hospital Clínico San Carlos, Madrid, España. Electronic
+address: maeportilla@gmail.com.
+(2)Servicio de Nefrología, Hospital Clínico San Carlos, Madrid, España.
+(3)Servicio de Geriatría, Hospital Clínico San Carlos, Madrid, España.
+
+In recent years, the concept of frailty as a "state of pre-disability" has been
+widely accepted by those involved in the care of the elderly. Its importance lies
+not only in its high prevalence - more than 25% in people over 85 years of age - 
+but it is also considered an independent risk factor of disability,
+institutionalisation and mortality amongst the elderly. The study of renal
+function is relevant in patients with major comorbidities. Studies have shown a
+significant association between chronic kidney disease and the development of
+adverse clinical outcomes such as heart disease, heart failure, end-stage renal
+disease, increased susceptibility to infections and greater functional
+impairment. Frailty can be reversed, which is why a study of frailty in patients 
+with chronic kidney disease is of particular interest. This article aims to
+describe the association between ageing, frailty and chronic kidney disease in
+light of the most recent and relevant scientific publications.
+
+Copyright Â© 2016 Sociedad Española de Nefrología. Published by Elsevier España, 
+S.L.U. All rights reserved.
+
+DOI: 10.1016/j.nefro.2016.03.020 
+PMID: 27242263  [Indexed for MEDLINE]
+
+
+10. Clin J Am Soc Nephrol. 2016 Jul 7;11(7):1245-59. doi: 10.2215/CJN.06660615. Epub 
+2016 Apr 26.
+
+The Relevance of Geriatric Impairments in Patients Starting Dialysis: A
+Systematic Review.
+
+van Loon IN(1), Wouters TR(2), Boereboom FT(3), Bots ML(4), Verhaar MC(5),
+Hamaker ME(6).
+
+Author information: 
+(1)Dianet Dialysis Center, Utrecht, The Netherlands; Departments of Internal
+Medicine and Department of Nephrology and Hypertension and i.vanloon@dianet.nl.
+(2)Departments of Internal Medicine and.
+(3)Dianet Dialysis Center, Utrecht, The Netherlands; Departments of Internal
+Medicine and.
+(4)Julius Center for Health Sciences and Primary Care, University Medical Center 
+Utrecht, Utrecht, The Netherlands.
+(5)Department of Nephrology and Hypertension and.
+(6)Geriatrics, Diakonessenhuis Utrecht, Utrecht, The Netherlands; and.
+
+BACKGROUND AND OBJECTIVES: With aging of the general population, patients who
+enter dialysis therapy will more frequently have geriatric impairments and a
+considerable comorbidity burden. The most vulnerable among these patients might
+benefit from conservative therapy. Whether assessment of geriatric impairments
+would contribute to the decision-making process of dialysis initiation is
+unknown.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: A systematic Medline and Embase
+search was performed on December 1, 2015 to identify studies assessing the
+association between risk of mortality or hospitalization and one or more
+geriatric impairments at the start of dialysis therapy, including impairment of
+cognitive function, mood, performance status or (instrumental) activities of
+daily living, mobility (including falls), social environment, or nutritional
+status.
+RESULTS: Twenty-seven studies were identified that assessed one or more geriatric
+impairments with respect to prognosis. The quality of most studies was moderate. 
+Only seven studies carried out an analysis of elderly patients (≥70 years old).
+Malnutrition and frailty were systematically assessed, and their relation with
+mortality was clear. In addition, cognitive impairment and functional outcomes at
+the initiation of dialysis were related to an increased mortality in most
+studies. However, not all studies applied systematic assessment tools, thereby
+potentially missing relevant impairment. None of the studies applied a geriatric 
+assessment across multiple domains.
+CONCLUSIONS: Geriatric impairment across multiple domains at dialysis initiation 
+is related to poor outcome. However, information in the elderly is sparse, and a 
+systematic approach of multiple domains with respect to poor outcome has not been
+performed. Because a geriatric assessment has proved useful in predicting outcome
+in other medical fields, its potential role in the ESRD population should be the 
+subject of future research.
+
+Copyright © 2016 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.06660615 
+PMCID: PMC4934838
+PMID: 27117581  [Indexed for MEDLINE]
+
+
+11. J Clin Neurosci. 2016 Aug;30:155-157. doi: 10.1016/j.jocn.2016.02.005. Epub 2016 
+Apr 1.
+
+Challenges of cervical reconstruction for destructive spondyloarthropathy in
+renal osteodystrophy.
+
+Elder BD(1), Petteys RJ(2), Sciubba DM(2), Wolinsky JP(2).
+
+Author information: 
+(1)Department of Neurosurgery, The Johns Hopkins University School of Medicine,
+1800 Orleans Street, Room 6007, Baltimore, MD 21287, USA. Electronic address:
+belder4@jhmi.edu.
+(2)Department of Neurosurgery, The Johns Hopkins University School of Medicine,
+1800 Orleans Street, Room 6007, Baltimore, MD 21287, USA.
+
+Patients with end stage renal disease on hemodialysis may present with
+destructive spondyloarthropathy of the spine, most commonly in the subaxial
+cervical and lumbar spine, often with severe stenosis and instability. However,
+surgical management of these patients is challenging due to a high pseudarthrosis
+rate, poor bone quality, and medical frailty. We present a 49-year-old man on
+hemodialysis who presented with C4-C5 vertebral body destruction and a focal
+kyphotic deformity with myelopathy. The patient underwent a 360 degree
+decompression and reconstructive procedure that resulted in posterior
+instrumentation failure. Several salvage techniques were used in order to
+adequately stabilize the spine while preserving the patient's remaining cervical 
+motion.
+
+Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jocn.2016.02.005 
+PMID: 27052255  [Indexed for MEDLINE]
+
+
+12. Nephrology (Carlton). 2016 Apr;21(4):344-5. doi: 10.1111/nep.12612.
+
+Scenario of assessment might influence results using self-report frailty
+instrument in chronic dialysis patients.
+
+Chao CT(1)(2)(3), Huang JW(3).
+
+Author information: 
+(1)Department of Medicine, National Taiwan University Hospital Jinshan branch,
+New Taipei City, Taiwan.
+(2)Graduate Institute of Toxicology, National Taiwan University College of
+Medicine, Taipei, Taiwan.
+(3)Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+Taiwan.
+
+Comment on
+    Nephrology (Carlton). 2015 May;20(5):321-8.
+
+DOI: 10.1111/nep.12612 
+PMID: 27028418  [Indexed for MEDLINE]
+
+
+13. Exp Gerontol. 2017 Jan;87(Pt B):156-159. doi: 10.1016/j.exger.2016.02.003. Epub
+2016 Feb 12.
+
+Kidney disease and aging: A reciprocal relation.
+
+Kooman JP(1), van der Sande FM(2), Leunissen KM(2).
+
+Author information: 
+(1)Department of Internal Medicine, Division of Nephrology, University Hospital
+Maastricht, The Netherlands. Electronic address: jeroen.kooman@mumc.nl.
+(2)Department of Internal Medicine, Division of Nephrology, University Hospital
+Maastricht, The Netherlands.
+
+Chronic kidney disease (CKD) and end-stage renal disease (ESRD) are
+overrepresented in elderly patients. This provides specific challenges for the
+treatment, as the start of dialysis in vulnerable elderly patients may be
+associated with a rapid decline in functional performance. However, prognosis in 
+elderly patients with ESRD is quite variable and related to the presence of
+comorbidity and geriatric impairments. The decision to start dialysis in elderly 
+patients should always be based on shared decision making, which may be aided by 
+the use of prediction models which should however not be used to withhold
+dialysis treatment. The treatment of ESRD in elderly patients should be based on 
+a multidimensional treatment plan with a role for active rehabilitation.
+Moreover, there also appears to be a reciprocal relationship between aging and
+CKD, as the presence of geriatric complications is also high in younger patients 
+with ESRD. This has led to the hypothesis of a premature aging process associated
+with CKD, resulting in different phenotypes such as premature vascular aging,
+muscle wasting, bone disease, cognitive dysfunction and frailty. Prevention and
+treatment of this phenotype is based on optimal treatment of CKD, associated
+comorbidities, and lifestyle factors by established treatments. For the future,
+interventions, which are developed to combat the aging process in general, might 
+also have relevance for the treatment of patients with CKD, but their role should
+always be investigated in adequately powered clinical trials, as results obtained
+in experimental trials may not be directly translatable to the clinical situation
+of elderly patients. In the meantime, physical exercise is a very important
+intervention, by improving both physical capacity and functional performance, as 
+well as by a direct effect on the aging process.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.exger.2016.02.003 
+PMID: 26880178  [Indexed for MEDLINE]
+
+
+14. Am J Transplant. 2016 Jul;16(7):2097-105. doi: 10.1111/ajt.13723. Epub 2016 Apr
+5.
+
+Gender Disparities in Access to Pediatric Renal Transplantation in Europe: Data
+From the ESPN/ERA-EDTA Registry.
+
+Hogan J(1)(2), Couchoud C(1), Bonthuis M(3), Groothoff JW(4)(5), Jager KJ(3),
+Schaefer F(6), Van Stralen KJ(3); ESPN/ERA-EDTA Registry.
+
+Collaborators: Shitza D, Kramar R, Oberbauer R, Baiko S, Sukalo A, van Hoeck K,
+Collart F, des Grottes JM, Pokrajac D, Resić H, Prnjavorac B, Roussinov D,
+Batinić D, Lemac M, Slavicek J, Seeman T, Vondrak K, Heaf JG, Toots U, Finne P,
+Grönhagen-Riska C, Lasalle M, Sahpazova E, Gersdorf G, Barth C, Scholz C,
+Tönshoff B, Ioannidis G, Kapogiannis A, Papachristou F, Reusz G, Túri S, Szabó L,
+Szabó T, Györke ZS, Kis E, Palsson R, Edvardsson V, Gianoglio B, de Palo T,
+Pecoraro C, Picca S, Testa S, Vidal E, Mencarelli F, Jankauskiene A, Pundziene B,
+Said-Conti V, Gatcan S, Berbeca O, Zaikova N, Pavićević S, Leivestad T, Bjerre A,
+Zurowska A, Zagozdzon I, Mota C, Almeida M, Afonso C, Mircescu G, Garneata L,
+Podgoreanu E, Molchanova EA, Tomilina NA, Bikbov BT, Kostic M, Peco-Antic A,
+Puric S, Kruscic D, Spasojevic-Dimitrijeva B, Milosecski-Lomic G, Paripovic D,
+Podracka L, Kolvek G, Buturovic-Ponikvar J, Novljan G, Battelino N, Alonso Melgar
+A, Schön S, Prütz KG, Seeberger A, Backmän L, Evans M, Kuenhi CE, Maurer E, Laube
+G, Simometi G, Hoitsma A, Hemke A, Topaloglu R, Duzova A, Ivanov D, Sinha M.
+
+Author information: 
+(1)REIN Registry, Agence de la Biomédecine, La Plaine Saint-Denis, France.
+(2)Department of Pediatric Nephrology, Robert Debré University Hospital, Paris,
+France.
+(3)ESPN/ERA-EDTA Registry and ERA-EDTA Registry, Department of Medical
+Informatics, Academic Medical Centre, Amsterdam, the Netherlands.
+(4)Department of Pediatric Nephrology, Emma Children's Hospital AMC, Amsterdam,
+the Netherlands.
+(5)Department of Pediatrics, Emma Children's Hospital AMC, Amsterdam, the
+Netherlands.
+(6)Department of Pediatric Nephrology, University of Heidelberg Centre for
+Pediatrics and Adolescent Medicine, Heidelberg, Germany.
+
+Inequalities between genders in access to transplantation have been demonstrated.
+We aimed to validate this gender inequality in a large pediatric population and
+to investigate its causes. This cohort study included 6454 patients starting
+renal replacement therapy before 18 years old, in 35 countries participating in
+the European Society for Paediatric Nephrology/European Renal
+Association-European Dialysis and Transplant Association Registry. We used
+cumulative incidence competing risk and proportional hazards frailty models to
+study the time to receive a transplant and hierarchical logistic regression to
+investigate access to preemptive transplantation. Girls had a slower access to
+renal transplantation because of a 23% lower probability of receiving preemptive 
+transplantation. We found a longer follow-up time before renal replacement
+therapy in boys compared with girls despite a similar estimated glomerular
+filtration rate at first appointment. Girls tend to progress faster toward
+end-stage renal disease than boys, which may contribute to a shorter time
+available for pretransplantation workup. Overall, medical factors explained only 
+70% of the gender difference. In Europe, girls have less access to preemptive
+transplantation for reasons that are only partially related to medical factors.
+Nonmedical factors such as patient motivation and parent and physician attitudes 
+toward transplantation and organ donation may contribute to this inequality. Our 
+study should raise awareness for the management of girls with renal diseases.
+
+© Copyright 2016 The American Society of Transplantation and the American Society
+of Transplant Surgeons.
+
+DOI: 10.1111/ajt.13723 
+PMID: 26783738  [Indexed for MEDLINE]
+
+
+15. J Vasc Access. 2015 Nov-Dec;16(6):439-45. doi: 10.5301/jva.5000440. Epub 2015 Jun
+24.
+
+Optimizing outcomes in the elderly with end-stage renal disease--live long and
+prosper.
+
+Masengu A(1)(2), Hanko JB(1), Maxwell AP(1)(2).
+
+Author information: 
+(1)Regional Nephrology Unit, Belfast City Hospital, Belfast, Northern Ireland -
+UK.
+(2)Nephrology Research Group, Centre for Public Health, Queen's University
+Belfast, Royal Victoria Hospital, Belfast, Northern Ireland - UK.
+
+Comment in
+    J Vasc Access. 2015 Nov-Dec;16(6):437-8.
+
+BACKGROUND: The elderly form an expanding proportion of patients with chronic
+kidney disease and end-stage renal disease worldwide. The increased physiological
+frailty and functional morbidity associated with the aging process pose unique
+challenges when planning optimal management of an older patient needing renal
+replacement therapy (RRT).
+AIMS: This position paper discusses current evidence regarding the optimal
+management of end-stage renal disease in the elderly with an emphasis on
+hemodialysis since it is the most common modality used in older patients. Further
+research is needed to define relevant patient-reported outcome measures for
+end-stage renal disease including functional assessments and psychological
+impacts of various forms of RRT. For those older patients who have opted for
+dialysis treatment, it is important to study the strategies that encourage
+greater uptake of home-based dialysis therapies and optimal vascular access.
+CONCLUSIONS: The management of advanced chronic kidney disease in the elderly can
+be challenging but also extremely rewarding. The key issue is adopting a
+patient-focused and individualized approach that seeks to achieve the best
+outcomes based on a comprehensive holistic assessment of what is important to the
+patient.
+
+DOI: 10.5301/jva.5000440 
+PMID: 26109536  [Indexed for MEDLINE]
+
+
+16. Nephrol Dial Transplant. 2016 Jul;31(7):1070-7. doi: 10.1093/ndt/gfv122. Epub
+2015 Apr 24.
+
+Muscle wasting in end-stage renal disease promulgates premature death:
+established, emerging and potential novel treatment strategies.
+
+Stenvinkel P(1), Carrero JJ(1), von Walden F(2), Ikizler TA(3), Nader GA(4).
+
+Author information: 
+(1)Department of Renal Medicine, CLINTEC, Karolinska Institutet, Stockholm,
+Sweden.
+(2)Department of Women's and Children's Health, Karolinska Institutet, Stockholm,
+Sweden.
+(3)Division of Nephrology, Vanderbilt University Medical Center, Nashville, USA.
+(4)Department of Kinesiology, The Pennsylvania State University, University Park,
+USA.
+
+Muscle wasting (or sarcopenia) is a common feature of the uremic phenotype and
+predisposes this vulnerable patient population to increased risk of comorbid
+complications, poor quality of life, frailty and premature death. The old age of 
+dialysis patients is in addition a likely contributor to loss of muscle mass. As 
+recent evidence suggests that assessment of muscle strength (i.e. function) is a 
+better predictor of outcome and comorbidities than muscle mass, this opens new
+screening, assessment and therapeutic opportunities. Among established treatment 
+strategies, the benefit of resistance exercise and endurance training are
+increasingly recognized among nephrologists as being effective and should be
+promoted in sedentary chronic kidney disease patients. Testosterone and growth
+hormone replacement appear as the most promising among emerging treatments
+strategies for muscle wasting. As treatment of muscle wasting is difficult and
+seldom successful in this often old, frail, sedentary and exercise-hesitant
+patient group, novel treatment strategies are urgently needed. In this review, we
+summarize recent studies on stimulation of mitochondrial biogenesis, myogenic
+stem (satellite) cells and manipulation of transforming growth factor family
+members, all of which hold promise for more effective therapies to target muscle 
+mass loss and function in the future.
+
+© The Author 2015. Published by Oxford University Press on behalf of ERA-EDTA.
+All rights reserved.
+
+DOI: 10.1093/ndt/gfv122 
+PMID: 25910496  [Indexed for MEDLINE]
+
+
+17. Curr Opin Nephrol Hypertens. 2015 May;24(3):268-75. doi:
+10.1097/MNH.0000000000000120.
+
+Body composition in chronic kidney disease.
+
+Johansen KL(1), Lee C.
+
+Author information: 
+(1)Division of Nephrology, University of California, San Francisco, California,
+USA.
+
+PURPOSE OF REVIEW: To summarize the latest information on body composition among 
+patients with chronic kidney disease and its association with outcomes.
+RECENT FINDINGS: Obesity is increasing among patients with end-stage renal
+disease and is more prevalent when direct measures of adiposity are used rather
+than BMI. High BMI is not associated with better survival among patients with
+earlier chronic kidney disease or after kidney transplantation, suggesting that
+excess fat is most protective among the sickest patients. Despite the positive
+association between BMI and survival among patients with end-stage renal disease,
+visceral fat is associated with coronary artery calcification and adverse
+cardiovascular events. Muscle wasting is prominent among patients with chronic
+kidney disease, sometimes even in the setting of obesity. Obesity and muscle
+wasting are associated with worse physical functioning. Indicators of low muscle 
+size and strength are associated with higher mortality. Some interventions can
+affect body composition, but whether they affect survival has not been
+determined.
+SUMMARY: Recent studies show that a high BMI is not protective for all patients
+with chronic kidney disease and is associated with poor physical functioning and 
+frailty. Visceral adiposity is associated with adverse cardiovascular outcomes.
+Sarcopenia is common among patients with end-stage renal disease and is
+associated with worse physical performance and higher mortality.
+
+DOI: 10.1097/MNH.0000000000000120 
+PMCID: PMC4778545
+PMID: 25887900  [Indexed for MEDLINE]
+
+
+18. Nephrology (Carlton). 2015 May;20(5):321-8. doi: 10.1111/nep.12401.
+
+Simple self-report FRAIL scale might be more closely associated with dialysis
+complications than other frailty screening instruments in rural chronic dialysis 
+patients.
+
+Chao CT(1), Hsu YH, Chang PY, He YT, Ueng RS, Lai CF, Chiang CK, Huang JW, Huang 
+SJ.
+
+Author information: 
+(1)Department of Medicine, National Taiwan University Hospital Jin-Shan Branch,
+New Taipei City, Taiwan; Division of Nephrology, Department of Internal Medicine,
+Taipei, Taiwan.
+
+Comment in
+    Nephrology (Carlton). 2016 Apr;21(4):344-5.
+
+AIM: Despite the perceived importance of frailty, few studies focus on its impact
+on rural patients undergoing chronic dialysis. Comparison of different
+self-report questionnaires in assessing frailty among these patients has not been
+attempted before.
+METHODS: A prospectively enrolled chronic dialysis cohort from a rural centre was
+recruited for analysis. Six types of self-report questionnaires were administered
+to these patients. Clinical and dialysis-related laboratory parameters were
+collected. Correlation analyses between questionnaire results and dialysis
+complications were performed, and variables demonstrating significant
+correlations were entered into multivariate regression models to determine their 
+independent associations.
+RESULTS: Six types of questionnaire (Strawbridge questionnaire, Edmonton Frail
+Scale, simple FRAIL scale, Groningen Frail Indicator, G8 questionnaire, and
+Tilburg Frail Indicator) were provided to rural patients undergoing chronic
+dialysis. Scores from each questionnaire showed significant association with each
+other, except the G8 questionnaire. Scores from the simple FRAIL scale correlated
+significantly with age (P = 0.02), female gender (P = 0.03), higher Liu's
+comorbidity index (P = 0.02), lower serum albumin (P = 0.03) and creatinine
+levels (P < 0.01), and higher ferritin levels (P = 0.02). The other five
+questionnaires did not show consistently significant relationships with important
+dialysis-related complications. Multivariate linear regression analysis
+identified an independently negative association between serum albumin and the
+simple FRAIL scale results (P = 0.01).
+CONCLUSION: This is the first study establishing the utility of different
+self-report questionnaires for assessing frailty in chronic dialysis patients.
+The simple FRAIL scale scores might demonstrate a closer relationship with
+dialysis-related complications.
+
+© 2015 Asian Pacific Society of Nephrology.
+
+DOI: 10.1111/nep.12401 
+PMID: 25597434  [Indexed for MEDLINE]
+
+
+19. Semin Dial. 2015 May-Jun;28(3):259-65. doi: 10.1111/sdi.12318. Epub 2014 Nov 6.
+
+Diagnosis and Treatment of Low Testosterone among Patients with End-Stage Renal
+Disease.
+
+Bao Y(1), Johansen KL.
+
+Author information: 
+(1)John Muir Medical Group, Walnut Creek, California.
+
+The prevalence of low testosterone level is particularly high among patients with
+end-stage renal disease (ESRD) and has been associated with mortality. In
+populations without ESRD, low testosterone level has also been associated with a 
+number of morbidities including cardiovascular disease, diabetes mellitus, low
+muscle mass, low bone mass, low physical performance, and frailty. However, there
+is controversy regarding what constitutes low testosterone level in the aging
+population and at what level replacement therapy with testosterone is indicated. 
+There are no randomized controlled trials investigating long-term outcomes of
+testosterone replacement therapy in populations with or without ESRD. Available
+trial results suggest equivocal improvements in sexual function. Muscle mass and 
+bone mineral density appear to improve, but results in physical function and
+performance are mixed and there are no data on fracture prevention. Some recent
+data suggest harm when testosterone was given to men with limited mobility.
+Finally, there is little evidence that testosterone adds to existing
+erythropoietin agents in the treatment of anemia in ESRD. Due to lack of evidence
+supporting long-term use of testosterone, the authors recommend against the
+routine use of testosterone in ESRD patients with low testosterone levels.
+Testosterone treatment can be considered in those with low bone mass and total
+testosterone level <200 ng/dl, or in younger patients with sexual complaints with
+total testosterone level lower than the reference range. It is important to
+engage patients in discussion of risks and benefits before initiating
+testosterone therapy; testosterone therapy should be discontinued if the intended
+treatment effect is not observed after short-term use.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1111/sdi.12318 
+PMCID: PMC4422337
+PMID: 25376701  [Indexed for MEDLINE]
+
+
+20. Kidney Int. 2014 Sep;86(3):475-80. doi: 10.1038/ki.2014.231. Epub 2014 Jul 2.
+
+Ethical challenges with hemodialysis patients who lack decision-making capacity: 
+behavioral issues, surrogate decision-makers, and end-of-life situations.
+
+Feely MA(1), Albright RC(2), Thorsteinsdottir B(3), Moss AH(4), Swetz KM(5).
+
+Author information: 
+(1)1] Department of Medicine, Mayo Clinic, Rochester, Minnesota, USA [2] Division
+of General Internal Medicine, Section of Palliative Medicine, Mayo Clinic,
+Rochester, Minnesota, USA.
+(2)1] Department of Medicine, Mayo Clinic, Rochester, Minnesota, USA [2] Division
+of Nephrology Mayo Clinic, Rochester, Minnesota, USA.
+(3)1] Department of Medicine, Mayo Clinic, Rochester, Minnesota, USA [2] Division
+of Primary Care Internal Medicine Mayo Clinic, Rochester, Minnesota, USA [3]
+Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery and
+Bioethics Research Program, Mayo Clinic, Rochester, Minnesota, USA.
+(4)Center for Health Ethics and Law, Section of Nephrology, Robert C. Byrd Health
+Sciences Center, West Virginia University, Morgantown, West Virginia, USA.
+(5)1] Department of Medicine, Mayo Clinic, Rochester, Minnesota, USA [2] Division
+of General Internal Medicine, Section of Palliative Medicine, Mayo Clinic,
+Rochester, Minnesota, USA [3] Robert D. and Patricia E. Kern Center for the
+Science of Health Care Delivery and Bioethics Research Program, Mayo Clinic,
+Rochester, Minnesota, USA.
+
+Hemodialysis (HD) is routinely offered to patients with end-stage renal disease
+in the United States who are ineligible for other renal replacement modalities.
+The frequency of HD among the US population is greater than all other countries, 
+except Taiwan and Japan. In US, patients are often dialyzed irrespective of age, 
+comorbidities, prognosis, or decision-making capacity. Determination of when
+patients can no longer dialyze is variable and can be dialysis-center specific.
+Determinants may be related to progressive comorbidities and frailty, mobility or
+access issues, patient self-determination, or an inability to tolerate the
+treatment safely for any number of reasons (e.g., hypotension, behavioral
+issues). Behavioral issues may impact the safety of not only patients themselves,
+but also those around them. In this article the authors present the case of an
+elderly patient on HD with progressive cognitive impairment and combative
+behavior placing him and others at risk of physical harm. The authors discuss the
+medical, ethical, legal, and psychosocial challenges to care of such patients who
+lack decision-making capacity with a focus on variable approaches by regions and 
+culture. This manuscript provides recommendations and highlights resources to
+assist nephrologists, dialysis personnel, ethics consultants, and palliative
+medicine teams in managing such patients to resolve conflict.
+
+DOI: 10.1038/ki.2014.231 
+PMID: 24988063  [Indexed for MEDLINE]
+
+
+21. Am J Kidney Dis. 2014 Oct;64(4):600-7. doi: 10.1053/j.ajkd.2014.03.016. Epub 2014
+Apr 30.
+
+Comparison of self-report-based and physical performance-based frailty
+definitions among patients receiving maintenance hemodialysis.
+
+Johansen KL(1), Dalrymple LS(2), Delgado C(3), Kaysen GA(2), Kornak J(4), Grimes 
+B(4), Chertow GM(5).
+
+Author information: 
+(1)United States Renal Data System Nutrition Special Studies Center, University
+of California, San Francisco, CA; Division of Nephrology, University of
+California, San Francisco, CA; Nephrology Section, San Francisco VA Medical
+Center, University of California, San Francisco, CA; Department of Epidemiology &
+Biostatistics, University of California, San Francisco, CA. Electronic address:
+kirsten.johansen@ucsf.edu.
+(2)United States Renal Data System Nutrition Special Studies Center, University
+of California, San Francisco, CA; University of California, San Francisco
+Division of Nephrology, University of California, Davis, CA.
+(3)United States Renal Data System Nutrition Special Studies Center, University
+of California, San Francisco, CA; Division of Nephrology, University of
+California, San Francisco, CA; Nephrology Section, San Francisco VA Medical
+Center, University of California, San Francisco, CA.
+(4)United States Renal Data System Nutrition Special Studies Center, University
+of California, San Francisco, CA; Department of Epidemiology & Biostatistics,
+University of California, San Francisco, CA.
+(5)United States Renal Data System Nutrition Special Studies Center, University
+of California, San Francisco, CA; Division of Nephrology, Stanford University
+School of Medicine, Palo Alto, CA.
+
+Erratum in
+    Am J Kidney Dis. 2015 Jul;66(1):178.
+
+Comment in
+    Am J Kidney Dis. 2014 Oct;64(4):489-91.
+
+BACKGROUND: A well-accepted definition of frailty includes measurements of
+physical performance, which may limit its clinical utility.
+STUDY DESIGN: In a cross-sectional study, we compared prevalence and patient
+characteristics based on a frailty definition that uses self-reported function to
+the classic performance-based definition and developed a modified
+self-report-based definition.
+SETTING & PARTICIPANTS: Prevalent adult patients receiving hemodialysis in 14
+centers around San Francisco and Atlanta in 2009-2011.
+INDEX TESTS: Self-report-based frailty definition in which a score lower than 75 
+on the Physical Function scale of the 36-Item Short Form Health Survey (SF-36)
+was substituted for gait speed and grip strength in the classic definition;
+modified self-report definition with optimized Physical Function score cutoff
+points derived in a development (one-half) cohort and validated in the other
+half.
+REFERENCE TEST: Performance-based frailty defined as 3 of the following: weight
+loss, weakness, exhaustion, low physical activity, and slow gait speed.
+RESULTS: 387 (53%) patients were frail based on self-reported function, of whom
+209 (29% of the cohort) met the performance-based definition. Only 23 (3%) met
+the performance-based definition of frailty only. The self-report definition had 
+90% sensitivity, 64% specificity, 54% positive predictive value, 93% negative
+predictive value, and 72.5% overall accuracy. Intracellular water per kilogram of
+body weight and serum albumin, prealbumin, and creatinine levels were highest
+among nonfrail individuals, intermediate among those who were frail by
+self-report, and lowest among those who also were frail by performance. Age,
+percentage of body fat, and C-reactive protein level followed an opposite
+pattern. The modified self-report definition had better accuracy (84%; 95% CI,
+79%-89%) and superior specificity (88%) and positive predictive value (67%).
+LIMITATIONS: Our study did not address prediction of outcomes.
+CONCLUSIONS: Patients who meet the self-report-based but not the
+performance-based definition of frailty may represent an intermediate phenotype. 
+A modified self-report definition can improve the accuracy of a
+questionnaire-based method of defining frailty.
+
+Published by Elsevier Inc.
+
+DOI: 10.1053/j.ajkd.2014.03.016 
+PMCID: PMC4177262
+PMID: 24793033  [Indexed for MEDLINE]
+
+
+22. QJM. 2014 Jul;107(7):545-55. doi: 10.1093/qjmed/hcu043. Epub 2014 Feb 24.
+
+Survival of patients with ANCA-associated vasculitis on chronic dialysis: data
+from the French REIN registry from 2002 to 2011.
+
+Romeu M(1), Couchoud C(1), Delarozière JC(1), Burtey S(1), Chiche L(1), Harlé
+JR(1), Gondouin B(1), Brunet P(1), Berland Y(1), Jourde-Chiche N(2).
+
+Author information: 
+(1)From the Department of Nephrology, Hopital Conception, AP-HM, Aix-Marseille
+Université, 147 Bd Baille, 13385 Marseille Cedex 5, Agence de la Biomédecine,
+Registre REIN, 1 avenue du Stade de France, 93212 Saint-Denis-La Plaine, France, 
+Department of Public Health, Hopital Timone, AP-HM, Aix-Marseille Université, 27 
+Bd Jean Moulin, 13385 Marseille Cedex 5 and Department of Internal Medicine,
+Hopital Conception, AP-HM, Aix-Marseille Université, 147 Bd Baille, 13385
+Marseille Cedex 5, France.
+(2)From the Department of Nephrology, Hopital Conception, AP-HM, Aix-Marseille
+Université, 147 Bd Baille, 13385 Marseille Cedex 5, Agence de la Biomédecine,
+Registre REIN, 1 avenue du Stade de France, 93212 Saint-Denis-La Plaine, France, 
+Department of Public Health, Hopital Timone, AP-HM, Aix-Marseille Université, 27 
+Bd Jean Moulin, 13385 Marseille Cedex 5 and Department of Internal Medicine,
+Hopital Conception, AP-HM, Aix-Marseille Université, 147 Bd Baille, 13385
+Marseille Cedex 5, France noemie.jourde@ap-hm.fr.
+
+BACKGROUND: Anti-neutrophil cytoplasmic antibody (ANCA)-associated vasculitides
+(AAV) can lead to end-stage renal disease in patients with renal involvement.
+OBJECTIVE: This study evaluated the survival of AAV patients on chronic dialysis 
+in France.
+METHODS: Between 2002 and 2011, a total of 425 AAV patients started chronic
+dialysis and were registered in the Renal Epidemiology and Information Network.
+We analysed survival censored for renal transplantation, recovery of renal
+function and loss to follow-up. AAV patients were compared with 794 matched
+non-AAV patients on chronic dialysis.
+RESULTS: A total of 166 (39%) patients with microscopic polyangiitis and 259
+(61%) patients with granulomatosis with polyangiitis were registered. Within a
+median follow-up of 23 months, 58 (14%) patients received a renal allograft and
+19 (4%) recovered renal function. Median survival on dialysis was 5.35 years (95%
+CI, 4.4-6.3) and survival rates at 3 months, 1, 3 and 5 years were 96%, 85%, 68% 
+and 53%, respectively. A total of 143 (41%) patients died after a median of 16
+months. Causes of death were cardiovascular (29%), infections (20%), malnutrition
+(13%), malignancies (4%), AAV relapse (2%), miscellaneous (14%) and unknown
+(18%). Multivariate logistic regression identified three independent risk factors
+associated with AAV patients' mortality: age (HR = 1.05/year, P < 0.001),
+peripheral artery disease (HR = 2.62, P = 0.003) and frailty (HR = 2.43, P <
+0.001). Survival of AAV patients did not differ from non-AAV controls, but
+infectious mortality was higher in AAV patients (20% vs. 8%, P < 0.001).
+CONCLUSION: Survival of AAV patients in chronic dialysis, although poor, was
+comparable to survival of non-AAV controls on dialysis. There was a similar
+burden of cardiovascular mortality, but higher infectious mortality.
+
+© The Author 2014. Published by Oxford University Press on behalf of the
+Association of Physicians. All rights reserved. For Permissions, please email:
+journals.permissions@oup.com.
+
+DOI: 10.1093/qjmed/hcu043 
+PMID: 24570478  [Indexed for MEDLINE]
+
+
+23. Arch Intern Med. 2012 Jul 23;172(14):1071-7. doi:
+10.1001/archinternmed.2012.3020.
+
+Frailty, dialysis initiation, and mortality in end-stage renal disease.
+
+Bao Y(1), Dalrymple L, Chertow GM, Kaysen GA, Johansen KL.
+
+Author information: 
+(1)Division of Endocrinology, University of California, San Francisco, CA 94143, 
+USA. yeran.bao@ucsf.edu
+
+BACKGROUND: In light of the recent trend toward earlier dialysis initiation and
+its association with mortality among patients with end-stage renal disease, we
+hypothesized that frailty is associated with higher estimated glomerular
+filtration rate (eGFR) at dialysis start and may confound the relation between
+earlier dialysis initiation and mortality.
+METHODS: We examined frailty among participants of the Comprehensive Dialysis
+Study (CDS), a special study of the US Renal Data System, which enrolled incident
+patients from September 1, 2005, through June 1, 2007. Patients were followed for
+vital status through September 30, 2009, and for time to first hospitalization
+through December 31, 2008. We used multivariate logistic regression to model the 
+association of frailty with eGFR at dialysis start and proportional hazards
+regression to assess the outcomes of death or hospitalization.
+RESULTS: Among 1576 CDS participants included, the prevalence of frailty was 73%.
+In multivariate analysis, higher eGFR at dialysis initiation was associated with 
+higher odds of frailty (odds ratio [OR], 1.44 [95% CI, 1.23-1.68] per 5
+mL/min/1.73 m(2); P < .001). Frailty was independently associated with mortality 
+(hazard ratio [HR], 1.57 [95% CI, 1.25-1.97]; P < .001) and time to first
+hospitalization (HR, 1.26 [95% CI, 1.09-1.45]; P < .001). While higher eGFR at
+dialysis initiation was associated with mortality (HR, 1.12 [95% CI, 1.02-1.23]
+per 5 mL/min/1.73 m(2); P = .02), the association was no longer statistically
+significant after frailty was accounted for (HR, 1.08 [95% CI, 0.98-1.19] per 5
+mL/min/1.73 m(2); P = .11).
+CONCLUSIONS: Frailty is extremely common among patients starting dialysis in the 
+United States and is associated with higher eGFR at dialysis initiation.
+Recognition of signs and symptoms of frailty by clinicians may prompt earlier
+initiation of dialysis and may explain, at least in part, the well-described
+association between eGFR at dialysis initiation and mortality.
+
+DOI: 10.1001/archinternmed.2012.3020 
+PMCID: PMC4117243
+PMID: 22733312  [Indexed for MEDLINE]
+
+
+24. Am J Kidney Dis. 2012 Mar;59(3):428-33. doi: 10.1053/j.ajkd.2011.10.049. Epub
+2011 Dec 16.
+
+Risk of herpes zoster in patients treated with long-term hemodialysis: a matched 
+cohort study.
+
+Kuo CC(1), Lee CT, Lee IM, Ho SC, Yang CY.
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, Kaohsiung Chang-Gung 
+Memorial Hospital, Taiwan.
+
+BACKGROUND: The risk of herpes zoster in the dialysis population relative to the 
+general population is not known. The aim of this study was to perform a
+population-based cohort study to investigate the risk of herpes zoster after the 
+initiation of hemodialysis therapy in patients with end-stage renal disease
+(ESRD) in Taiwan, a country with the highest incidence of ESRD in the world.
+STUDY DESIGN: Matched cohort study.
+SETTING & PARTICIPANTS: Data were obtained from the Taiwan National Health
+Insurance Research Database. 843 patients who were beginning hemodialysis therapy
+in 1999-2003 were included as the study cohort and 3,372 patients without ESRD
+matched for age and sex were included as a comparison cohort. A multivariate
+frailty Cox proportional hazard regression model was used to adjust for
+confounding and compare the 6-year herpes zoster-free survival rate between these
+2 cohorts.
+PREDICTORS: Hemodialysis.
+OUTCOMES: Herpes zoster.
+RESULTS: Mean years of follow-up were 4.73 and 5.49 for the hemodialysis and
+comparison cohorts, respectively. 868 patients developed herpes zoster throughout
+the study period, 294 from the hemodialysis cohort and 574 from the comparison
+cohort. The incidence rate of herpes zoster (73.34 events/1,000 person-year) was 
+significantly higher in the hemodialysis cohort than in the control cohort (31.03
+events/1,000 person-years). After adjusting for potential confounders, the
+adjusted HR of herpes zoster was 1.98 (95% CI, 1.72-2.27).
+LIMITATIONS: We expect that some patients with mild zoster chose not to seek
+medical help.
+CONCLUSIONS: We conclude that patients treated with long-term hemodialysis are at
+an increased risk of herpes zoster compared with the general population.
+
+Copyright Â© 2012 National Kidney Foundation, Inc. Published by Elsevier Inc. All
+rights reserved.
+
+DOI: 10.1053/j.ajkd.2011.10.049 
+PMID: 22178678  [Indexed for MEDLINE]
+
+
+25. Kidney Int. 2010 Dec;78(11):1164-70. doi: 10.1038/ki.2010.312. Epub 2010 Sep 1.
+
+Low level of self-reported physical activity in ambulatory patients new to
+dialysis.
+
+Johansen KL(1), Chertow GM, Kutner NG, Dalrymple LS, Grimes BA, Kaysen GA.
+
+Author information: 
+(1)Medical Service, Nephrology Section, San Francisco VA Medical Center,
+Department of Medicine, University of California, San Francisco, California
+94121, USA. Kirsten.johansen@ucsf.edu
+
+Physical inactivity contributes to the frailty and the decline in function that
+develops over time among patients with end-stage renal disease. We assessed
+physical activity among 1547 ambulatory patients new to dialysis in the United
+States Renal Data System Comprehensive Dialysis Study. We used a self-reporting
+Human Activity Profile that included Maximal and Adjusted Activity Scores and
+compared results to established norms by age and gender. Physical activity was
+found to be extremely low with scores for all age and gender categories below the
+5th percentile of healthy individuals and 95% of patients had scores consonant
+with low fitness. Older age, female gender, diabetes, atherosclerotic disease,
+and a low level of education were associated with lower activity scores assessed 
+by univariate and multivariable linear regression analysis. Higher serum albumin,
+creatinine, and lower body mass index, but not hemoglobin levels, were associated
+with greater physical activity. By multivariable analysis, patients on
+hemodialysis using a catheter reported lower levels of physical activity compared
+to those on peritoneal dialysis, hemodialysis using an arteriovenous fistula, or 
+with a graft. Lower Maximal and Adjusted Activity Scores were associated with
+poor physical function and mental health. Hence, physical activity is
+distressingly low among patients new to dialysis. Thus, strategies to enhance
+activity in these patients should be explored.
+
+DOI: 10.1038/ki.2010.312 
+PMCID: PMC4170106
+PMID: 20811334  [Indexed for MEDLINE]
+
+
+26. Curr Opin Nephrol Hypertens. 2010 Mar;19(2):153-9. doi:
+10.1097/MNH.0b013e328335f939.
+
+Health-related quality of life outcomes in chronic kidney disease.
+
+Soni RK(1), Weisbord SD, Unruh ML.
+
+Author information: 
+(1)Department of Medicine, University of Pittsburgh Medical Center, Pittsburgh,
+Pennsylvania 15213, USA.
+
+PURPOSE OF REVIEW: Patients with chronic kidney disease (CKD) endure compromised 
+health-related quality of life (HRQOL). Although the link between HRQOL and
+increased mortality in patients with end-stage renal disease (ESRD) is well
+documented, less is known about the relationship between CKD and HRQOL. This
+article reviews the recent evidence on HRQOL, its correlates and proposed
+intervention strategies to improve HRQOL in CKD.
+RECENT FINDINGS: A growing body of literature indicates that various comorbid
+conditions related to CKD play a substantial role in impaired HRQOL in CKD.
+Hypertension, both a cause and complication of CKD, negatively affects HRQOL due 
+to associated comorbidities, side effects from antihypertensive medications and
+awareness of the diagnosis. Anemia has been associated with HRQOL, but concerns
+about the safety of erythropoietin-stimulating agents (ESAs) have led to more
+conservative anemia treatment. Frailty, symptom burden and depression are also
+major contributory factors to HRQOL in CKD.
+SUMMARY: Certain determinants of HRQOL in CKD, namely anemia and depression, are 
+treatable. Early identification and correction may improve overall well being of 
+patients. Clinical trials are required to demonstrate whether treatment
+interventions benefit HRQOL in this high-risk population. Furthermore, whether
+integration of HRQOL assessment into routine clinical practice will improve HRQOL
+outcomes remains to be determined.
+
+DOI: 10.1097/MNH.0b013e328335f939 
+PMCID: PMC2900393
+PMID: 20051850  [Indexed for MEDLINE]
+
+
+27. Am J Kidney Dis. 1992 Oct;20(4):376-86.
+
+Survival differences among older dialysis patients in the southeast.
+
+Brogan D(1), Kutner NG, Flagg E.
+
+Author information: 
+(1)Division of Biostatistics, School of Public Health, Emory University, Atlanta,
+GA.
+
+Older end-stage renal disease (ESRD) patients treated by chronic dialysis have
+higher mortality in the United States than in many other countries. While
+increasing age, white race, male sex, and/or diabetes are considered risk factors
+for survival, few studies of older dialysis patients have simultaneously
+considered multiple predictor variables and their interactions. Using information
+contained in the 1982 to 1986 ESRD Network 20 database for Georgia and South
+Carolina, we studied hospitalizations and survival of 1,354 blacks and 965 whites
+who were age 60 years or older when they began dialysis therapy. Survival time
+was modeled using the Cox life-table regression method. Older blacks' median age 
+at dialysis initiation was 67.4, compared with 68.7 for older whites (P = 0.001).
+Blacks were more likely than whites (P < 0.001) to have hypertension-related or
+diabetes-related ESRD. White patients experienced approximately 25% more
+hospitalization when adjustment was made for patient-days at risk. Separate
+multivariate survival models were required for patients with diabetes-related
+versus non-diabetes-related ESRD. Among diabetics, mortality was higher among
+whites and among patients who were older when they began dialysis. Among patients
+with non-diabetes-related ESRD, mortality was higher among patients who were
+older when they began dialysis, but the age effect was much stronger for white
+males. Our hospitalization and mortality data support the view that unmeasured
+severity (or frailty) differences characterize white as compared with black
+dialysis patients. Among non-diabetes-related ESRD patients, the age effect on
+survival was more severe in white males than in blacks or in white females. The
+high mortality we observed among older dialysis patients in Georgia and South
+Carolina warrants further study; the data may in part reflect patients' lower
+socioeconomic status compared with age, race, and sex-matched controls.
+
+
+PMID: 1415207  [Indexed for MEDLINE]

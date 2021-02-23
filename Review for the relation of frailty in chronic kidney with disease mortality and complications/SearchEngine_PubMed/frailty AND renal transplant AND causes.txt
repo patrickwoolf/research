@@ -1,0 +1,32 @@
+﻿//frailty AND "renal transplant" AND causes
+//
+1. Transplant Proc. 2018 Dec;50(10):3968-3972. doi:
+10.1016/j.transproceed.2018.07.002. Epub 2018 Jul 7.
+
+Acute Esophageal Necrosis in an Immunosuppressed Kidney Transplant Recipient: A
+Case Report.
+
+Mealiea D(1), Greenhouse D(2), Velez M(3), Moses P(3), Marroquin CE(4).
+
+Author information: 
+(1)Department of Surgery, University of Toronto, Toronto, Ontario, Canada.
+(2)Department of Cardiac Surgery, Children's Healthcare of Atlanta, Atlanta, GA.
+(3)Department of Gastroenterology, University of Vermont Medical Center,
+Burlington, VT.
+(4)Department of Transplant and Hepatobiliary Surgery and Immunology, University 
+of Vermont Medical Center, Burlington, VT. Electronic address:
+Carlos.Marroquin@uvmhealth.org.
+
+Acute esophageal necrosis (AEN) is rare and characterized endoscopically by
+distal esophageal ulceration, blackening, and necrosis. It typically arises in
+patients with multiple comorbidities who have significant systemic disease and
+frailty. Specific precipitating events are variable. Evidence suggests a
+multifactorial etiology likely involving esophageal ischemia in the setting of
+corrosive injury from gastric contents and impaired tissue repair mechanisms. In 
+the transplant setting, immunosuppression likely plays a substantial role. We
+report a case of AEN in a 70-year-old man following a renal transplant.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.transproceed.2018.07.002 
+PMID: 30577298  [Indexed for MEDLINE]

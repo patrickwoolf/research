@@ -1,0 +1,363 @@
+﻿//frailty AND "chronic renal insufficiency" AND cause
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "chronic renal insufficiency"[All Fields] AND cause[All Fields]
+============================================================================================
+1. Acta Diabetol. 2018 Apr;55(4):323-330. doi: 10.1007/s00592-017-1094-7. Epub 2018 
+Jan 11.
+
+Levels of serum uric acid at admission for hypoglycaemia predict 1-year
+mortality.
+
+Bonaventura A(1), Gallo F(2), Carbone F(3), Liberale L(3)(4), Maggi D(2), Sacchi 
+G(5), Dallegri F(3)(6), Montecucco F(3)(6)(7), Cordera R(2).
+
+Author information: 
+(1)First Clinic of Internal Medicine, Department of Internal Medicine, University
+of Genoa, 6 Viale Benedetto XV, 16132, Genoa, Italy. aldobon85@gmail.com.
+(2)Diabetology Unit, Department of Internal Medicine, University of Genoa, 6
+Viale Benedetto XV, 16132, Genoa, Italy.
+(3)First Clinic of Internal Medicine, Department of Internal Medicine, University
+of Genoa, 6 Viale Benedetto XV, 16132, Genoa, Italy.
+(4)Center for Molecular Cardiology, University of Zürich, 12 Wagistrasse, 8952,
+Schlieren, Switzerland.
+(5)Emergency Department, Ospedale Policlinico San Martino, 10 Largo Benzi, 16132,
+Genoa, Italy.
+(6)Ospedale Policlinico San Martino, 10 Largo Benzi, 16132, Genoa, Italy.
+(7)Centre of Excellence for Biomedical Research (CEBR), University of Genoa, 9
+Viale Benedetto XV, 16132, Genoa, Italy.
+
+AIMS: Hypoglycaemia represents a critical burden with clinical and social
+consequences in the management of diabetes. Serum uric acid (SUA) has been
+associated with cardiovascular diseases (CVD), but no conclusive findings are
+available nowadays in patients suffering from hypoglycaemia. We investigated
+whether SUA levels at the time of hypoglycaemia could predict all-cause mortality
+after 1-year follow-up.
+METHODS: In total, 219 patients admitted to the Emergency Department (ED) of
+Ospedale Policlinico S. Martino of Genoa (Italy) have been enrolled between
+January 2011 and December 2014. The primary endpoint of the study consisted in
+determining whether SUA levels at the time of ED admission could predict the
+occurrence of death after 1 year.
+RESULTS: The majority of patients were diabetic, especially type 2. CVD and
+chronic kidney disease were prevalent comorbidities. By a cut-off value obtained 
+by the receiver operating characteristic curve analysis, a Kaplan-Meier analysis 
+demonstrated that patients with SUA levels > 5.43 mg/dL were more prone to death 
+after 1 year compared to those with lower SUA levels. The risk of death increased
+with high SUA levels both in the univariate and the multivariate models including
+estimated glomerular filtration rate, C-reactive protein, type of diabetes, and
+age-adjusted Charlson comorbidity index.
+CONCLUSIONS: SUA could be useful as a predictor of 1-year mortality in
+hypoglycaemic patients, irrespective of severe comorbidities notably increasing
+the risk of death in these frail patients.
+
+DOI: 10.1007/s00592-017-1094-7 
+PMID: 29327150  [Indexed for MEDLINE]
+
+
+2. Kidney Blood Press Res. 2017;42(3):575-586. doi: 10.1159/000480674. Epub 2017 Sep
+18.
+
+The Clinical Significance of Physical Activity in Maintenance Dialysis Patients.
+
+Kang SH(1), Do JY(1), Jeong HY(2), Lee SY(2), Kim JC(3).
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, Yeungnam University
+Hospital, Daegu, Republic of Korea.
+(2)Division of Nephrology, Department of Internal Medicine, CHA Bundang Medical
+Center, CHA University School of Medicine, Seongnam, Republic of Korea.
+(3)Division of Nephrology, Department of Internal Medicine, CHA Gumi Medical
+Center, CHA University, Gumi, Republic of Korea.
+
+BACKGROUND: The aim of the present study was to evaluate the effects of physical 
+activity on various aspects in Asian dialysis patients.
+METHODS: This was a retrospective cohort study. Study participants were recruited
+from 27 hospitals or dialysis centers in Korea (n = 1611). The participants were 
+divided into 3 groups according to the degree of regular exercise: Inactive
+group, Intermediate group, and Active group.
+RESULTS: The proportions of patients with frailty and the presence of each
+component decreased as physical activity increased. The presence and numbers of
+disabilities decreased as physical activity increased. The number of participants
+with a history of fall during the last 12 months was 149 (20.5%) in the Inactive 
+group, 88 (16.9%) in the Intermediate group, and 48 (13.2%) in the Active group. 
+Physical component scale and mental component scale scores increased as physical 
+activity increased. The survival rate for all-cause death at 500 days was 95.5%
+in the Active group, 95.2% in the Intermediate group, and 93.5% in the Inactive
+group.
+CONCLUSION: High physical activity was associated with favorable results for most
+health-related quality of life scale scores, including frailty, disability, and
+exhaustion, in Korean dialysis patients.
+
+© 2017 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000480674 
+PMID: 29017151  [Indexed for MEDLINE]
+
+
+3. Geriatr Gerontol Int. 2017 Apr;17(4):529-544. doi: 10.1111/ggi.12758. Epub 2016
+May 31.
+
+Chronic kidney disease-related physical frailty and cognitive impairment: a
+systemic review.
+
+Shen Z(1), Ruan Q(2), Yu Z(2), Sun Z(1).
+
+Author information: 
+(1)Department of Urology, Huadong Hospital, Fudan University, 221 West Yan'an
+Road, Shanghai, China.
+(2)Shanghai Institute of Geriatrics and Gerontology, Shanghai Key Laboratory of
+Clinical Geriatrics, Department of Geriatrics, Huadong Hospital, and Research
+Center of Aging and Medicine, Shanghai Medical College, Fudan University,
+Shanghai, China.
+
+AIM: The objective of this review was to assess chronic kidney disease-related
+frailty and cognitive impairment, as well as their probable causes, mechanisms
+and the interventions.
+METHODS: Studies from 1990 to 2015 were reviewed to evaluate the relationship
+between chronic kidney disease and physical frailty and cognitive impairment. Of 
+the 1694 studies from the initial search, longitudinal studies (n = 22) with the 
+keywords "Cognitive and CKD" and longitudinal or cross-sectional studies (n = 5) 
+with the keywords "Frailty and CKD" were included in final analysis.
+RESULTS: By pooling current research, we show clear evidence for a relationship
+between chronic kidney disease and frailty and cognitive impairment in major
+studies. Vascular disease is likely an important mediator, particularly for
+cognitive impairment. However, non-vascular factors also play an important role. 
+Many of the other mechanisms that contribute to impaired cognitive function and
+increased frailty in CKD remain to be elucidated. In limited studies, medication 
+therapy did not obtain the ideal effect. There are limited data on treatment
+strategies, but addressing the vascular disease risk factors earlier in life
+might decrease the subsequent burden of frailty and cognitive impairment in this 
+population. Multidimensional interventions, which address both microvascular
+health and other factors, may have substantial benefits for both the cognitive
+impairments and physical frailty in this vulnerable population.
+CONCLUSIONS: Chronic kidney disease is a potential cause of frailty and cognitive
+impairment. Vascular and non-vascular factors are the possible causes. The
+mechanism of chronic kidney disease-induced physical frailty and cognitive
+impairment suggests that multidimensional interventions may be effective
+therapeutic strategies in the early stage of chronic kidney disease. Geriatr
+Gerontol Int 2017; 17: 529-544.
+
+© 2016 Japan Geriatrics Society.
+
+DOI: 10.1111/ggi.12758 
+PMID: 27240548  [Indexed for MEDLINE]
+
+
+4. BMC Nephrol. 2015 Sep 23;16:157. doi: 10.1186/s12882-015-0150-1.
+
+Association of frailty with endothelial dysfunction and its possible impact on
+negative outcomes in Brazilian predialysis patients with chronic kidney disease.
+
+Mansur HN(1)(2), Lovisi JC(3), Colugnati FA(3), Raposo NR(3), Fernandes NM(3),
+Bastos MG(4).
+
+Author information: 
+(1)IMEPEN Foundation, Federal University of Juiz de Fora, Juiz de Fora, Brazil.
+hnmansur@gmail.com.
+(2)Academic Centre of Vitoria, Federal University of Pernambuco, Vitória de Santo
+Antão, Pernambuco, Brazil. hnmansur@gmail.com.
+(3)IMEPEN Foundation, Federal University of Juiz de Fora, Juiz de Fora, Brazil.
+(4)Federal University of Juiz de Fora, José Lourenço Kelmer Street, 1300, Juiz de
+Fora, Minas Gerais, Brazil. marcusbastos7@gmail.com.
+
+BACKGROUND: Frailty is a state of physiological vulnerability common in the
+elderly. It is more predominant in patients with Chronic Kidney Disease in
+comparison to healthy subjects, which can also be diagnosed in non-elderly
+individuals and be associated with innumerous causes such as muscle strength,
+body composition and inflammation. The association between frailty and
+endothelial function, as well as the association between frailty and the combined
+outcome of mortality multiple cause and start of renal replace therapy were
+assessed.
+METHODS: In the initial analysis, sixty-one predialysis patients with Chronic
+Kidney Disease stages were evaluated and included in this study. Due to patient
+drop-out during follow-up, fifty-seven patients were subsequently re-evaluated 12
+months later. The diagnosis of frailty was based on the Johansen et al. (J Am Soc
+Nephrol 18(11):2960-67, 2007) criteria. The groups were divided into Non-frail
+and Frail. Sociodemographic, inflammatory markers (IL-6, TNF-?, CRP-us),
+endothelial dysfunction (flow-mediated vasodilatation - FMD), body composition
+(DXA) and the 25-hidroxi-vitamin D parameters were analyzed.
+RESULTS: The average age of the patients used in the study was 64.9 ± 10.3 years 
+old. The predominance of frailty was 42.6%, of which 46% were non-elderly. After 
+some adjustments, frailty was associated with gender (OR = 11.32; IC 95% = 2.30
+to 55.67), advanced age (OR = 4.07; IC 95% = 1.02 to 16.20), obesity (OR = 6.63; 
+IC 95% = 0.82 to 11.44) and endothelial dysfunction (OR = 3.86; IC 95% = 1.00 to 
+14.88). The ratio of the incidence of frail subjects to the variable outcome was 
+2.5 (CI 95%, 1.04 to 6.50).
+CONCLUSIONS: Although an observational study does not allow one to determine the 
+casual relation between frailty and endothelial dysfunction, we conclude that
+frailty was predominant in our sample of Brazilian patients with chronic kidney
+disease on predialysis, even in elderly individuals. This was linked to either
+worse endothelial function or mortality.
+
+DOI: 10.1186/s12882-015-0150-1 
+PMCID: PMC4579818
+PMID: 26395776  [Indexed for MEDLINE]
+
+
+5. Clin Exp Nephrol. 2015 Dec;19(6):1165-78. doi: 10.1007/s10157-015-1108-0. Epub
+2015 Mar 19.
+
+Variability of laboratory parameters is associated with frailty markers and
+predicts non-cardiac mortality in hemodialysis patients.
+
+Nakazato Y(1), Kurane R(2), Hirose S(2), Watanabe A(2), Shimoyama H(2).
+
+Author information: 
+(1)Division of Nephrology, Hakuyukai Medical Corporation, Yuai Nisshin Clinic,
+2-1914-6 Nisshin-cho, Kita-ku, Saitama-City, Saitama, 331-0823, Japan.
+nkzt@hakuyukai.jp.
+(2)Division of Nephrology, Hakuyukai Medical Corporation, Yuai Nisshin Clinic,
+2-1914-6 Nisshin-cho, Kita-ku, Saitama-City, Saitama, 331-0823, Japan.
+
+BACKGROUND: The levels of many laboratory parameters are associated with the
+outcomes of dialysis patients, but the significance of their variability has not 
+been well studied.
+METHODS: A total of 384 patients receiving stable hemodialysis treatment during
+2002 were followed up for mortality until the end of 2013. The within-patient
+coefficients of variation (CV) were calculated for 13 laboratory parameters from 
+1 year of data. We defined variability as CV and analyzed the survival of the
+patients according to the baseline CV values of each parameter by proportional
+hazard modeling.
+RESULTS: During the 11-year observation period, 125 patients died. Higher CV
+levels for eight parameters, namely, blood urea nitrogen (BUN), sodium,
+hemoglobin, creatinine, total protein, albumin, potassium and phosphate, were
+significantly associated with all-cause mortality. The adjusted hazard ratios for
+a high BUN-CV (>15 %) and a high Na-CV (>1.3 %) against a lower CV were 1.92 (95 
+% CI 1.31-2.81) and 1.95 (1.36-2.80), respectively. The increased mortality risk 
+associated with each variability was attributed to excess non-cardiac deaths. The
+CV values of most parameters were correlated with each other and often exhibited 
+negative associations with age, diabetes, and mobility as well as the levels of
+hemoglobin, albumin, creatinine, Na, the protein catabolic rate, and the
+creatinine generation rate. Therefore, a high variability was generally
+associated with frailty-related adverse prognostic factors.
+CONCLUSIONS: The variability of several blood parameters had a significant impact
+on all-cause and non-cardiac mortality. The levels of the variabilities were most
+likely related to poor physical conditions of the patients.
+
+DOI: 10.1007/s10157-015-1108-0 
+PMID: 25788369  [Indexed for MEDLINE]
+
+
+6. Curr Opin Nephrol Hypertens. 2014 May;23(3):291-7. doi:
+10.1097/01.mnh.0000444821.87873.7b.
+
+Cognitive and physical function in chronic kidney disease.
+
+Weiner DE(1), Seliger SL.
+
+Author information: 
+(1)aTufts Medical Center, Boston, Massachusetts bUniversity of Maryland Medical
+Center, Baltimore VA Medical Center, Baltimore, Maryland, USA.
+
+PURPOSE OF REVIEW: Both cognitive and physical function are commonly impaired in 
+individuals with chronic kidney disease (CKD), resulting in important impacts on 
+their quality of life and overall health. This review summarizes the burden of
+cognitive and physical impairment in CKD, focusing on recent research that
+highlights a possible unifying microvascular cause among these shared comorbid
+conditions.
+RECENT FINDINGS: Multiple small studies have been published recently evaluating
+cognitive and physical functioning in people with CKD. These studies overall
+demonstrate a high burden of comorbid conditions in people with CKD, including
+microvascular disease, that may result in cognitive impairment. Additionally,
+studies demonstrate that physical function is substantially worse than expected
+in individuals with CKD, that decreased physical activity is associated with
+worse outcomes, that frailty is very common and associated with an increased risk
+of death, and that structured exercise programs have small but tangible
+short-term effects on markers of physical performance.
+SUMMARY: Impaired cognitive function and physical performance are important
+factors impacting the lives of people with CKD. Further research is necessary to 
+better treat these important comorbid conditions in people with CKD.
+
+DOI: 10.1097/01.mnh.0000444821.87873.7b 
+PMCID: PMC4052721
+PMID: 24638060  [Indexed for MEDLINE]
+
+
+7. Curr Opin Nephrol Hypertens. 2013 Nov;22(6):615-23. doi:
+10.1097/MNH.0b013e328365b43a.
+
+The association of physical activity and physical function with clinical outcomes
+in adults with chronic kidney disease.
+
+Painter P(1), Roshanravan B.
+
+Author information: 
+(1)aDepartment of Physical Therapy, University of Utah, Salt Lake City, Utah
+bKidney Research Institute, Division of Nephrology, University of Washington,
+Seattle, Washington, USA.
+
+PURPOSE OF REVIEW: Despite guidelines supporting the regular assessment of
+physical functioning and encouragement of physical activity in management of the 
+patient with chronic kidney disease (CKD), implementation has been undermined by 
+a lack of understanding of the evidence for this recommendation. The purpose of
+this review is to present a summary of emerging data from larger epidemiologic
+cohorts that report associations between low levels of physical functioning
+and/or low physical activity and clinical outcomes in patients with CKD.
+RECENT FINDINGS: Low levels of physical activity and poor physical functioning
+are strongly associated with mortality and poor clinical outcomes in adult
+patients with CKD, regardless of treatment modality. Low physical performance and
+activity limitations are more prevalent in patients with CKD, regardless of age, 
+compared to older community-dwelling adults.
+SUMMARY: The strength of the evidence presented should strongly motivate a focus 
+of treatment on assessing and improving physical activity and physical function
+as part of routine patient-centered management of persons with CKD. Physical
+activity interventions are warranted because patients with CKD, regardless of
+age, have a high prevalence of low physical functioning and frailty that is
+similar to or higher than the general population of elderly adults; physical
+activity, physical function, and performance are strongly associated with
+all-cause mortality; and exercise training and exercise counseling have been
+shown to improve measures of physical functioning.
+
+DOI: 10.1097/MNH.0b013e328365b43a 
+PMID: 24100215  [Indexed for MEDLINE]
+
+
+8. Am J Kidney Dis. 2012 Dec;60(6):912-21. doi: 10.1053/j.ajkd.2012.05.017. Epub
+2012 Jul 7.
+
+A prospective study of frailty in nephrology-referred patients with CKD.
+
+Roshanravan B(1), Khatri M, Robinson-Cohen C, Levin G, Patel KV, de Boer IH,
+Seliger S, Ruzinski J, Himmelfarb J, Kestenbaum B.
+
+Author information: 
+(1)Department of Medicine, Division of Nephrology, University of Washington
+Kidney Research Institute, 325 9th Ave, Seattle, WA 98104, USA.
+broshanr@u.washington.edu
+
+BACKGROUND: Frailty is a construct developed to characterize a state of reduced
+functional capacity in older adults. However, there are limited data describing
+the prevalence or consequences of frailty in middle-aged patients with chronic
+kidney disease (CKD).
+STUDY DESIGN: Observational study.
+SETTING & PARTICIPANTS: 336 non-dialysis-dependent patients with stages 1-4 CKD
+with estimated glomerular filtration rate (eGFR) <90 mL/min/1.73 m(2) (by the
+CKD-EPI [CKD Epidemiology Collaboration] serum creatinine-based equation) or
+evidence of microalbuminuria enrolled in the Seattle Kidney Study, a clinic-based
+cohort study. Findings were compared with community-dwelling older adults in the 
+Cardiovascular Health Study.
+OUTCOME: Prevalence and determinants of frailty in addition to its association
+with the combined outcome of all-cause mortality or renal replacement therapy.
+MEASUREMENTS: We defined frailty according to established criteria as 3 or more
+of the following characteristics: slow gait, weakness, unintentional weight loss,
+exhaustion, and low physical activity. We estimated kidney function using serum
+cystatin C concentrations (eGFR(cys)) to minimize confounding due to
+relationships of serum creatinine levels with muscle mass and frailty.
+RESULTS: The mean age of the study population was 59 years and mean eGFR(cys) was
+51 mL/min/1.73 m(2). The prevalence of frailty (14.0%) was twice that of the much
+older non-CKD reference population (P < 0.01). The most common frailty components
+were physical inactivity and exhaustion. After adjustment including diabetes,
+eGFR(cys) categories of <30 and 30-44 mL/min/1.73 m(2) were associated with a
+2.8- (95% CI, 1.3-6.3) and 2.1 (95% CI, 1.0-4.7)-fold greater prevalence of
+frailty compared with GFR(cys) ≥60 mL/min/1.73 m(2). There were 63 events during 
+a median 987 days of follow-up. After adjustment, the frailty phenotype was
+associated with an estimated 2.5 (95% CI, 1.4-4.4)-fold greater risk of death or 
+dialysis therapy.
+LIMITATIONS: Cross-sectional study design obscures inference regarding temporal
+relationships between CKD and frailty.
+CONCLUSIONS: Frailty is relatively common in middle-aged patients with CKD and is
+associated with lower eGFR(cys) and increased risk of death or dialysis therapy.
+
+Copyright © 2012 National Kidney Foundation, Inc. All rights reserved.
+
+DOI: 10.1053/j.ajkd.2012.05.017 
+PMCID: PMC3491110
+PMID: 22770927  [Indexed for MEDLINE]

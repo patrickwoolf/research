@@ -1,0 +1,27 @@
+pubmed - ("frail" OR "frailty" OR "frail phenotype" OR "frailty index") AND ("chronic kidney disease" OR "chronic renal disease" OR "chronic renal insufficiency" OR "kidney transplant" OR "renal transplant" OR "end-stage kidney disease" OR "end-stage renal disease" OR "dialysis") AND ("frail" OR "complication" OR "cause" OR "etiology" OR "aetiology")
+year,count
+2019,17
+2018,44
+2017,64
+2016,51
+2015,56
+2014,25
+2013,27
+2012,17
+2011,17
+2010,10
+2009,11
+2008,7
+2007,11
+2006,6
+2005,1
+2004,5
+2003,2
+2002,1
+2001,2
+2000,3
+1999,3
+1995,1
+1992,1
+1991,2
+

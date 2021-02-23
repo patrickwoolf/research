@@ -1,0 +1,5 @@
+\contentsline {section}{Introduction to CKD and Frailty}{1}{section*.3}% 
+\contentsline {section}{Epidemiology of frailty}{1}{section*.4}% 
+\contentsline {section}{Pathophysiology}{2}{section*.5}% 
+\contentsline {section}{Complications}{2}{section*.6}% 
+\contentsline {section}{References}{2}{section*.7}% 

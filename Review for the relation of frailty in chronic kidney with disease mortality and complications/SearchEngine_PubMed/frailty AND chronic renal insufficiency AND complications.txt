@@ -1,0 +1,1475 @@
+﻿//frailty AND "chronic renal insufficiency" AND complications
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "chronic renal insufficiency"[All Fields] AND ("complications"[Subheading] OR "complications"[All Fields])
+1. Kidney Blood Press Res. 2018;43(3):914-923. doi: 10.1159/000490470. Epub 2018 Jun
+7.
+
+Depression and Physical Frailty Have Additive Effect on the Nutritional Status
+and Clinical Outcome of Chinese Peritoneal Dialysis.
+
+Szeto CC, Chan GC, Ng JK, Chow KM, Kwan BC, Cheng PM, Kwong VW, Law MC, Leung CB,
+Li PK.
+
+BACKGROUND/AIMS: Frailty and depression both contribute to malnutrition and
+adverse clinical outcome of peritoneal dialysis (PD) patients. However, their
+interaction is incompletely defined.
+METHODS: We studied 178 adult Chinese PD patients. Physical frailty was assessed 
+by a validated in-house questionnaire; depressive symptoms was screened by the
+Geriatric Depression Scale; nutritional status was determined by subjective
+global assessment (SGA) and malnutrition inflammation score (MIS). All patients
+were followed for up to 24 months for survival and hospitalization analysis.
+RESULTS: There were 111 patients (62.4%) physically frail, amongst those 48
+(43.2%) had depressive symptoms. Only 1 patient had depressive symptoms without
+frailty. There was an additive effect of depressive symptoms and physical frailty
+on nutritional status. For the groups with no frailty, frail but no depressive
+symptoms, and frail with depressive symptoms, serum albumin decreased in a
+stepwise manner (35.8 ± 5.6, 34.9 ± 4.4, and 32.9 ± 5.3 g/L, respectively,
+p=0.025); overall SGA score was 5.75 ± 0.61, 5.41 ± 0.59, and 5.04 ± 0.77,
+respectively (p< 0.0001), and MIS was 5.12 ± 2.30, 7.13 ± 3.22, and 9.48 ± 3.97, 
+respectively (p< 0.0001). At 24 months, patient survival was 86.6%, 71.4%, and
+62.5% for patients with no frailty, frail but no depressive symptoms, and frail
+with depressive symptoms, respective (p=0.001). The median number of hospital
+stay was 8.04 (inter-quartile range [IQR] 0.91 - 19.42), 14.05 (IQR 3.57 -
+37.27), and 26.62 (IQR 10.65 - 61.18) days per year of follow up, respectively
+(p< 0.0001).
+CONCLUSION: Physical frailty and depressive symptoms are both common in Chinese
+PD patients, and they have additive adverse effect on the nutritional status and 
+clinical outcome.
+
+© 2018 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000490470 
+PMID: 29895003  [Indexed for MEDLINE]
+
+
+2. Acta Diabetol. 2018 Apr;55(4):323-330. doi: 10.1007/s00592-017-1094-7. Epub 2018 
+Jan 11.
+
+Levels of serum uric acid at admission for hypoglycaemia predict 1-year
+mortality.
+
+Bonaventura A(1), Gallo F(2), Carbone F(3), Liberale L(3)(4), Maggi D(2), Sacchi 
+G(5), Dallegri F(3)(6), Montecucco F(3)(6)(7), Cordera R(2).
+
+Author information: 
+(1)First Clinic of Internal Medicine, Department of Internal Medicine, University
+of Genoa, 6 Viale Benedetto XV, 16132, Genoa, Italy. aldobon85@gmail.com.
+(2)Diabetology Unit, Department of Internal Medicine, University of Genoa, 6
+Viale Benedetto XV, 16132, Genoa, Italy.
+(3)First Clinic of Internal Medicine, Department of Internal Medicine, University
+of Genoa, 6 Viale Benedetto XV, 16132, Genoa, Italy.
+(4)Center for Molecular Cardiology, University of Zürich, 12 Wagistrasse, 8952,
+Schlieren, Switzerland.
+(5)Emergency Department, Ospedale Policlinico San Martino, 10 Largo Benzi, 16132,
+Genoa, Italy.
+(6)Ospedale Policlinico San Martino, 10 Largo Benzi, 16132, Genoa, Italy.
+(7)Centre of Excellence for Biomedical Research (CEBR), University of Genoa, 9
+Viale Benedetto XV, 16132, Genoa, Italy.
+
+AIMS: Hypoglycaemia represents a critical burden with clinical and social
+consequences in the management of diabetes. Serum uric acid (SUA) has been
+associated with cardiovascular diseases (CVD), but no conclusive findings are
+available nowadays in patients suffering from hypoglycaemia. We investigated
+whether SUA levels at the time of hypoglycaemia could predict all-cause mortality
+after 1-year follow-up.
+METHODS: In total, 219 patients admitted to the Emergency Department (ED) of
+Ospedale Policlinico S. Martino of Genoa (Italy) have been enrolled between
+January 2011 and December 2014. The primary endpoint of the study consisted in
+determining whether SUA levels at the time of ED admission could predict the
+occurrence of death after 1 year.
+RESULTS: The majority of patients were diabetic, especially type 2. CVD and
+chronic kidney disease were prevalent comorbidities. By a cut-off value obtained 
+by the receiver operating characteristic curve analysis, a Kaplan-Meier analysis 
+demonstrated that patients with SUA levels > 5.43 mg/dL were more prone to death 
+after 1 year compared to those with lower SUA levels. The risk of death increased
+with high SUA levels both in the univariate and the multivariate models including
+estimated glomerular filtration rate, C-reactive protein, type of diabetes, and
+age-adjusted Charlson comorbidity index.
+CONCLUSIONS: SUA could be useful as a predictor of 1-year mortality in
+hypoglycaemic patients, irrespective of severe comorbidities notably increasing
+the risk of death in these frail patients.
+
+DOI: 10.1007/s00592-017-1094-7 
+PMID: 29327150  [Indexed for MEDLINE]
+
+
+3. Curr Opin Nephrol Hypertens. 2018 Mar;27(2):113-120. doi:
+10.1097/MNH.0000000000000393.
+
+Chronic kidney disease and acquired mitochondrial myopathy.
+
+Rao M(1), Jaber BL(2), Balakrishnan VS(2).
+
+Author information: 
+(1)Division of Nephrology, Department of Medicine, Tufts Medical Center.
+(2)Division of Nephrology, Department of Medicine, St. Elizabeth's Medical
+Center, Tufts University School of Medicine, Boston, Massachusetts, USA.
+
+PURPOSE OF REVIEW: Sarcopenia and muscle weakness contribute to fragility and
+limit exercise tolerance among patients with CKD. This review focuses on the role
+of reduction in mitochondrial mass and function in the myopathy associated with
+CKD, causes for these muscle mitochondrial abnormalities, and potential
+therapeutic interventions that may improve mitochondrial biogenesis and function 
+as well as skeletal muscle function and performance in patients with CKD.
+RECENT FINDINGS: Multiple abnormalities of mitochondrial structure, function, and
+composition have been shown in both experimental models and patients with CKD. A 
+significant reduction in mitochondrial respiratory function and an increase in
+mitochondrial complex 1 enzyme activity has been demonstrated in the muscle
+tissue of male Sprague-Dawley rats following 5/6 nephrectomy. These changes were 
+associated with a substantial reduction in skeletal muscle mitochondrial mass. In
+patients with CKD, in-vivo magnetic resonance and optical spectroscopy show
+significantly elevated resting skeletal muscle oxygen consumption and lower mean 
+mitochondrial coupling ratio indicating disrupted muscle mitochondrial metabolism
+and uncoupling of oxidative phosphorylation. Skeletal muscle biopsies from
+patients with advanced CKD show lower mitochondrial volume density and
+mitochondrial DNA (mtDNA) copy number than controls.
+SUMMARY: Advanced CKD is associated with decreased exercise capacity, skeletal
+muscle weakness, and muscle atrophy. Impaired mitochondrial respiratory function,
+reduced muscle mitochondrial mass, and decreased energy production in skeletal
+muscle play a critical role in this 'acquired mitochondrial myopathy' of CKD. It 
+is reasonable, therefore, to develop therapeutic interventions that enhance
+mitochondrial biogenesis and function as well as skeletal muscle function and
+performance in patients with CKD.
+
+DOI: 10.1097/MNH.0000000000000393 
+PMID: 29266014  [Indexed for MEDLINE]
+
+
+4. Curr Opin Nephrol Hypertens. 2017 Nov;26(6):537-542. doi:
+10.1097/MNH.0000000000000364.
+
+The impact of frailty on outcomes in dialysis.
+
+Sy J(1), Johansen KL.
+
+Author information: 
+(1)aDivision of Nephrology, University of California, San Francisco bDivision of 
+Nephrology, San Francisco Veterans Affairs Medical Center, San Francisco,
+California, USA.
+
+PURPOSE OF REVIEW: Frailty is highly prevalent in the dialysis population and is 
+associated with mortality. Recent studies have suggested that other dialysis
+outcomes are compromised in frail individuals. While we do not yet have a
+consensus as to the best measure of frailty, identification of these poor
+outcomes and their magnitude of association with frailty will help improve
+prognostication, allow for earlier interventions, and improve provider-to-patient
+communication.
+RECENT FINDINGS: The most widely used assessment of frailty is Fried's physical
+performance criteria. However, regardless of assessment method, frailty remains
+highly associated with mortality. More recently, frailty has been associated with
+falls, fractures, cognitive impairment, vascular access failure, and poor quality
+of life. Recent large cohort studies provide strong evidence that frailty
+assessment can provide important prognostic information for providers and
+patients both before and after initiation of dialysis. Trials aimed at improving 
+frailty are limited and show the promise of augmenting quality of life, although 
+more studies are needed to firmly establish mortality benefits.
+SUMMARY: We underscore the importance of frailty as a prognostic indicator and
+identify other recently established consequences of frailty. Widespread adoption 
+of frailty assessment remains limited and researchers continue to find ways of
+simplifying the data collection process. Timely and regular assessment of frailty
+may allow for interventions that can mitigate the onset of poor outcomes and
+identify actionable targets for dialysis providers.
+
+DOI: 10.1097/MNH.0000000000000364 
+PMID: 28901990  [Indexed for MEDLINE]
+
+
+5. Am J Physiol Renal Physiol. 2017 Oct 1;313(4):F938-F950. doi:
+10.1152/ajprenal.00256.2017. Epub 2017 Jul 12.
+
+Inflammation and premature aging in advanced chronic kidney disease.
+
+Kooman JP(1), Dekker MJ(2), Usvyat LA(3), Kotanko P(4)(5), van der Sande FM(3),
+Schalkwijk CG(2), Shiels PG(6), Stenvinkel P(7).
+
+Author information: 
+(1)Maastricht University Medical Center, Maastricht, Netherlands;
+Jeroen.kooman@mumc.nl.
+(2)Maastricht University Medical Center, Maastricht, Netherlands.
+(3)Fresenius Medical Care North America, Waltham, Massachusetts.
+(4)Renal Research Institute, New York, New York.
+(5)Icahn School of Medicine at Mount Sinai, New York, New York.
+(6)Institute of Cancer Sciences, College of Medical, Veterinary and Life
+Sciences, University of Glasgow, Glasgow, United Kingdom; and.
+(7)Divsion of Renal Medicine, Department of Clinical Science Technology and
+Intervention, Karolinska Institutet, Stockholm, Sweden.
+
+Systemic inflammation in end-stage renal disease is an established risk factor
+for mortality and a catalyst for other complications, which are related to a
+premature aging phenotype, including muscle wasting, vascular calcification, and 
+other forms of premature vascular disease, depression, osteoporosis, and frailty.
+Uremic inflammation is also mechanistically related to mechanisms involved in the
+aging process, such as telomere shortening, mitochondrial dysfunction, and
+altered nutrient sensing, which can have a direct effect on cellular and tissue
+function. In addition to uremia-specific causes, such as abnormalities in the
+phosphate-Klotho axis, there are remarkable similarities between the
+pathophysiology of uremic inflammation and so-called "inflammaging" in the
+general population. Potentially relevant, but still somewhat unexplored in this
+respect, are abnormal or misplaced protein structures, as well as abnormalities
+in tissue homeostasis, which evoke danger signals through damage-associated
+molecular patterns, as well as the senescence-associated secretory phenotype.
+Systemic inflammation, in combination with the loss of kidney function, can
+impair the resilience of the body to external and internal stressors by reduced
+functional and structural tissue reserves, and by impairing normal organ
+crosstalk, thus providing an explanation for the greatly increased risk of
+homeostatic breakdown in this population. In this review, the relationship
+between uremic inflammation and a premature aging phenotype, as well as potential
+causes and consequences, are discussed.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/ajprenal.00256.2017 
+PMID: 28701312  [Indexed for MEDLINE]
+
+
+6. Expert Rev Med Devices. 2017 Jul;14(7):505-519. doi:
+10.1080/17434440.2017.1342533. Epub 2017 Jun 28.
+
+Wearable sensors: can they benefit patients with chronic kidney disease?
+
+Wieringa FP(1)(2), Broers NJH(2), Kooman JP(3), Van Der Sande FM(3), Van Hoof
+C(1)(4).
+
+Author information: 
+(1)a imec The Netherlands - Wearable Health Solutions , Eindhoven , The
+Netherlands.
+(2)b Maastricht University , Faculty of Health, Medicine and Life Sciences ,
+Maastricht , The Netherlands.
+(3)c Maastricht UMC+ - Internal Medicine , Division of Nephrology , Maastricht , 
+The Netherlands.
+(4)d Katholieke Universiteit Leuven-ESAT , Leuven , Belgium.
+
+INTRODUCTION: This article ponders upon wearable medical measurement devices in
+relation to Chronic Kidney Disease (CKD) and its' associated comorbidities - and 
+whether these might benefit CKD-patients. We aimed to map the intersection(s) of 
+nephrology and wearable sensor technology to help technologists understand
+medical aspects, and clinicians to understand technological possibilities that
+are available (or soon will become so). Areas covered: A structured literature
+search on main comorbidities and complications CKD patients suffer from, was used
+to steer mini-reviews on wearable sensor technologies clustered around 3 themes
+being: Cardiovascular-related, diabetes-related and physical fitness/frailty.
+This review excludes wearable dialysis - although also strongly enabled by
+miniaturization - because that highly important theme deserves separate in-depth 
+reviewing. Expert commentary: Continuous progress in integrated electronics
+miniaturization enormously lowered price, size, weight and energy consumption of 
+electronic sensors, processing power, memory and wireless connectivity. These
+combined factors boost opportunities for wearable medical sensors. Such devices
+can be regarded as enablers for: Remote monitoring, influencing human behaviour
+(exercise, dietary), enhanced home care, remote consults, patient education and
+peer networks. However, to make wearable medical devices succeed, the challenge
+to fit them into health care structures will be dominant over the challenge to
+realize the bare technologies themselves.
+
+DOI: 10.1080/17434440.2017.1342533 
+PMID: 28612635  [Indexed for MEDLINE]
+
+
+7. Biomed Res Int. 2017;2017:2726369. doi: 10.1155/2017/2726369. Epub 2017 Apr 19.
+
+Cognitive Impairment in Chronic Kidney Disease: Vascular Milieu and the Potential
+Therapeutic Role of Exercise.
+
+Bronas UG(1), Puzantian H(1), Hannan M(1).
+
+Author information: 
+(1)College of Nursing, Department of Biobehavioral Health Science, University of 
+Illinois at Chicago, Chicago, IL, USA.
+
+Chronic kidney disease (CKD) is considered a model of accelerated aging. More
+specifically, CKD leads to reduced physical functioning and increased frailty,
+increased vascular dysfunction, vascular calcification and arterial stiffness,
+high levels of systemic inflammation, and oxidative stress, as well as increased 
+cognitive impairment. Increasing evidence suggests that the cognitive impairment 
+associated with CKD may be related to cerebral small vessel disease and overall
+impairment in white matter integrity. The triad of poor physical function,
+vascular dysfunction, and cognitive impairment places patients living with CKD at
+an increased risk for loss of independence, poor health-related quality of life, 
+morbidity, and mortality. The purpose of this review is to discuss the available 
+evidence of cerebrovascular-renal axis and its interconnection with early and
+accelerated cognitive impairment in patients with CKD and the plausible role of
+exercise as a therapeutic modality. Understanding the cerebrovascular-renal axis 
+pathophysiological link and its interconnection with physical function is
+important for clinicians in order to minimize the risk of loss of independence
+and improve quality of life in patients with CKD.
+
+DOI: 10.1155/2017/2726369 
+PMCID: PMC5414492
+PMID: 28503567  [Indexed for MEDLINE]
+
+
+8. Am J Kidney Dis. 2017 Jun;69(6):837-852. doi: 10.1053/j.ajkd.2017.01.051. Epub
+2017 Apr 18.
+
+Exercise and CKD: Skeletal Muscle Dysfunction and Practical Application of
+Exercise to Prevent and Treat Physical Impairments in CKD.
+
+Roshanravan B(1), Gamboa J(2), Wilund K(3).
+
+Author information: 
+(1)Division of Nephrology, Department of Medicine, University of Washington
+Kidney Research Institute, Seattle, WA. Electronic address: broshanr@uw.edu.
+(2)Vanderbilt University Medical Center, Nashville, TN.
+(3)Department of Kinesiology and Community Health, University of Illinois,
+Urbana, IL.
+
+Patients with chronic kidney disease experience substantial loss of muscle mass, 
+weakness, and poor physical performance. As kidney disease progresses, skeletal
+muscle dysfunction forms a common pathway for mobility limitation, loss of
+functional independence, and vulnerability to disease complications. Screening
+for those at high risk for mobility disability by self-reported and objective
+measures of function is an essential first step in developing an
+interdisciplinary approach to treatment that includes rehabilitative therapies
+and counseling on physical activity. Exercise has beneficial effects on systemic 
+inflammation, muscle, and physical performance in chronic kidney disease. Kidney 
+health providers need to identify patient and care delivery barriers to exercise 
+in order to effectively counsel patients on physical activity. A thorough medical
+evaluation and assessment of baseline function using self-reported and objective 
+function assessment is essential to guide an effective individualized exercise
+prescription to prevent function decline in persons with kidney disease. This
+review focuses on the impact of kidney disease on skeletal muscle dysfunction in 
+the context of the disablement process and reviews screening and treatment
+strategies that kidney health professionals can use in clinical practice to
+prevent functional decline and disability.
+
+Copyright © 2017 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.ajkd.2017.01.051 
+PMCID: PMC5441955
+PMID: 28427790  [Indexed for MEDLINE]
+
+
+9. Curr Opin Nephrol Hypertens. 2017 May;26(3):219-228. doi:
+10.1097/MNH.0000000000000318.
+
+Clinical relevance of sarcopenia in chronic kidney disease.
+
+Moorthi RN(1), Avin KG.
+
+Author information: 
+(1)aDivision of Nephrology, Department of Medicine, Indiana University School of 
+Medicine bDepartment of Physical Therapy, Indiana University, Indianapolis,
+Indiana, USA.
+
+PURPOSE OF REVIEW: In this article, we review sarcopenia in chronic kidney
+disease (CKD). We aim to present how definitions of sarcopenia from the general
+population may pertain to those with CKD, its assessment by clinicians and
+emerging therapies for sarcopenia in CKD. For this review, we limit our
+description and recommendations to patients with CKD who are not on dialysis.
+RECENT FINDINGS: Poorer parameters of lean mass, strength and physical function
+are associated with worsening patient-centered outcomes such as limiting
+mobility, falls and mortality in CKD; however, the magnitude of these
+associations are different in those with and without CKD. Sarcopenia in CKD is a 
+balance between skeletal muscle regeneration and catabolism, which are both
+altered in the uremic environment. Multiple pathways are involved in these
+derangements, which are briefly reviewed. Differences between commonly used terms
+cachexia, frailty, protein-energy wasting, dynapenia and sarcopenia are
+described. Therapeutic options in predialysis CKD are not well studied;
+therefore, we review exercise options and emerging pharmacological therapies.
+SUMMARY: Sarcopenia, now with its own International Classification of Diseases,
+10th Revision (ICD-10) code, is of importance clinically and should be accounted 
+for in research studies in patients with CKD. Multiple therapies for sarcopenia
+are in development and will hopefully be available for our patients in the
+future.
+
+DOI: 10.1097/MNH.0000000000000318 
+PMCID: PMC5860815
+PMID: 28198733  [Indexed for MEDLINE]
+
+
+10. Am J Cardiol. 2017 Feb 15;119(4):669-674. doi: 10.1016/j.amjcard.2016.10.053.
+Epub 2016 Nov 16.
+
+Effect of Chronic Kidney Disease on Mortality in Patients Who Underwent Lower
+Extremity Peripheral Vascular Intervention.
+
+Xie JX(1), Glorioso TJ(2), Dattilo PB(1), Aggarwal V(1), Ho PM(2), Barón AE(2),
+Donaldson D(2), Armstrong EJ(2), Klein A(3), Giri J(4), Tsai TT(5).
+
+Author information: 
+(1)Department of Medicine, University of Colorado School of Medicine, Aurora,
+Colorado.
+(2)Division of Cardiology, VA Eastern Colorado Health Care System, Denver,
+Colorado.
+(3)Division of Cardiology, St. Louis University School of Medicine, St. Louis,
+Missouri.
+(4)Division of Cardiology, Philadelphia VA Medical Center, Philadelphia,
+Pennsylvania.
+(5)Department of Medicine, University of Colorado School of Medicine, Aurora,
+Colorado; Division of Cardiology, VA Eastern Colorado Health Care System, Denver,
+Colorado; Institute for Health Research, Kaiser Permanente Colorado, Denver,
+Colorado. Electronic address: thomas.tsai@coloradooutcomes.org.
+
+It is known that chronic kidney disease (CKD) is associated with increased
+postoperative morbidity and mortality in patients with peripheral artery disease 
+who underwent lower extremity surgical revascularization; however, outcomes after
+peripheral vascular intervention (PVI) are less well established. This study
+sought to determine the impact of CKD on adverse outcomes in patients with
+peripheral artery disease who underwent PVI. Using data from the Veteran Affairs 
+Clinical Assessment, Reporting, and Tracking System Program, we identified a
+cohort of 755 patients who underwent lower extremity PVI from June 2005 to August
+2010 at 33 sites. The outcomes of interest were mortality, progression to
+dialysis, myocardial infarction, limb amputation, and stroke. Kaplan-Meier
+survival analysis and Cox proportional hazard frailty models assessed the
+association between CKD and adverse outcomes. Of the patients who underwent lower
+extremity PVI, 201 patients (27%) had CKD. The presence of CKD was associated
+with decreased survival (5-year survival probability of CKD compared with
+non-CKD: 49.9% [41.6% to 59.9%] vs 80.1% [76.2% to 84.1]), which persisted after 
+risk adjustment (HR 1.57; 95% confidence interval 1.13 to 2.19). In addition,
+there was a significant association between CKD and progression to dialysis (HR
+6.62; 95% confidence interval 2.25 to 19.43). In contrast, there was no
+association between CKD and re-hospitalization for myocardial infarction, limb
+amputation, or stroke. In conclusion, CKD is present in 1 of 4 patients who
+underwent PVI and is associated with increased risk of mortality and progression 
+to dialysis.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjcard.2016.10.053 
+PMID: 28027725  [Indexed for MEDLINE]
+
+
+11. Am J Nephrol. 2016;44(6):473-480. Epub 2016 Nov 1.
+
+Cognitive Impairment in Advanced Chronic Kidney Disease: The Canadian Frailty
+Observation and Interventions Trial.
+
+Foster R(1), Walker S, Brar R, Hiebert B, Komenda P, Rigatto C, Storsley L,
+Prasad B, Bohm C, Tangri N.
+
+Author information: 
+(1)Faculty of Health Sciences, University of Manitoba, Winnipeg, Canada.
+
+BACKGROUND: Chronic kidney disease (CKD) affects more than one third of older
+adults, and is a strong risk factor for vascular disease and cognitive
+impairment. Cognitive impairment can have detrimental effects on the quality of
+life through decreased treatment adherence and poor nutrition and results in
+increased costs of care and early mortality. Though widely studied in
+hemodialysis populations, little is known about cognitive impairment in patients 
+with pre-dialysis CKD.
+METHODS: Multicenter, cross-sectional, prospective cohort study including 385
+patients with CKD stages G4-G5. Cognitive function was measured with a validated 
+tool called the Montreal Cognitive Assessment (MoCA) as part of a comprehensive
+frailty assessment in the Canadian Frailty Observation and Interventions Trial.
+Cognitive impairment was defined as a MoCA score of ≤24. We determined the
+prevalence and risk factors for cognitive impairment in patients with CKD stages 
+G4-G5, not on dialysis.
+RESULTS: Two hundred and thirty seven participants (61%) with CKD stages G4-G5
+had cognitive impairment at baseline assessment. When compared to a control
+group, this population scored lower in all domains of cognition, with the most
+pronounced deficits observed in recall, attention, and visual/executive function 
+(p < 0.01 for all comparisons). Older age, recent history of falls and history of
+stroke were independently associated with cognitive impairment.
+CONCLUSIONS: Our study uncovered a high rate of unrecognized cognitive impairment
+in an advanced CKD population. This impairment is global, affecting all aspects
+of cognition and is likely vascular in nature. The longitudinal trajectory of
+cognitive function and its effect on dialysis decision-making and outcomes
+deserves further study.
+
+© 2016 S. Karger AG, Basel.
+
+DOI: 10.1159/000450837 
+PMID: 27798938  [Indexed for MEDLINE]
+
+
+12. Geriatr Gerontol Int. 2017 Oct;17(10):1527-1533. doi: 10.1111/ggi.12910. Epub
+2016 Sep 27.
+
+Relationship between chronic kidney disease with diabetes or hypertension and
+frailty in community-dwelling Japanese older adults.
+
+Lee S(1), Lee S(1), Harada K(1)(2), Bae S(1), Makizako H(1), Doi T(1),
+Tsutsumimoto K(1), Hotta R(1), Nakakubo S(1), Park H(1)(3), Suzuki T(1)(4),
+Shimada H(1).
+
+Author information: 
+(1)Department of Preventive Gerontology, Center for Gerontology and Social
+Science, National Center for Geriatrics and Gerontology, Obu, Japan.
+(2)Graduate School of Human Development and Environment, Kobe University, Japan.
+(3)Department of Health Care and Science, Dong-A University, Busan, Korea.
+(4)Institute for Aging and Development, J.F. Oberlin University, Tokyo, Japan.
+
+AIM: The aim of the present study was to evaluate the relationship between kidney
+function with concomitant diabetes or hypertension and frailty in
+community-dwelling Japanese older adults.
+METHODS: The participants were 9606 residents (community-dwelling Japanese older 
+adults) who completed baseline assessments. The estimated glomerular filtration
+rate (mL/min/1.73 m2 ) was determined according to the serum creatinine level,
+and participants were classified into four mutually exclusive categories: ≥60.0
+(normal range), 45.0-59.9, 30.0-44.9 and <30.0 mL/min/1.73 m2 . Frailty status
+was defined using five criteria as described by Fried: slow gait speed, muscle
+weakness, low physical activity, exhaustion and unintentional weight loss.
+Participants who met three, four or five criteria satisfied the definition of
+having frailty. Multivariate logistic regression was used to examine the
+relationships between estimated glomerular filtration rate and frailty.
+RESULTS: After multivariate adjustment, participants with lower kidney function
+(estimated glomerular filtration rate <30.0 mL/min/1.73 m2 ) were more frail
+(odds ratio [OR] 1.90, 95% confidence interval [CI] 1.01-3.59). In addition,
+individuals with a history of diabetes (OR 2.76, 95% CI 1.21-8.24) or
+hypertension (OR 2.53, 95% CI 1.45-5.12) showed a significantly increased risk of
+frailty in the lower kidney function group, regardless of multivariate controls. 
+Furthermore, the analyses showed an even greater increase in the risk of frailty 
+in patients with a history of both diabetes and hypertension (OR 3.67, 95% CI
+1.13-14.1) CONCLUSIONS: A lower level of kidney function was associated with a
+higher risk of frailty in community-dwelling Japanese older adults. Geriatr
+Gerontol Int 2017; 17: 1527-1533.
+
+© 2016 Japan Geriatrics Society.
+
+DOI: 10.1111/ggi.12910 
+PMID: 27670391  [Indexed for MEDLINE]
+
+
+13. Kidney Int. 2017 Jan;91(1):86-95. doi: 10.1016/j.kint.2016.07.039. Epub 2016 Sep 
+22.
+
+Ligand trap of the activin receptor type IIA inhibits osteoclast stimulation of
+bone remodeling in diabetic mice with chronic kidney disease.
+
+Sugatani T(1), Agapova OA(1), Fang Y(1), Berman AG(2), Wallace JM(2), Malluche
+HH(3), Faugere MC(3), Smith W(4), Sung V(5), Hruska KA(6).
+
+Author information: 
+(1)Department of Pediatrics and Medicine, Renal Division, Washington University, 
+St. Louis, Missouri, USA.
+(2)Department of Biomedical Engineering, Indiana University-Purdue University
+Indianapolis, Indianapolis, Indiana, USA.
+(3)Division of Nephrology, Bone and Mineral Metabolism, Department of Medicine,
+University of Kentucky, Lexington, Kentucky, USA.
+(4)Early Clinical Development, Celgene Corp., Basking Ridge, New Jersey, USA.
+(5)Translational Medicine, Celgene Corp., San Francisco, California, USA.
+(6)Department of Pediatrics and Medicine, Renal Division, Washington University, 
+St. Louis, Missouri, USA. Electronic address: Hruska_k@kids.wustl.edu.
+
+Comment in
+    Kidney Int. 2017 Jan;91(1):11-13.
+
+Dysregulation of skeletal remodeling is a component of renal osteodystrophy.
+Previously, we showed that activin receptor signaling is differentially affected 
+in various tissues in chronic kidney disease (CKD). We tested whether a ligand
+trap for the activin receptor type 2A (RAP-011) is an effective treatment of the 
+osteodystrophy of the CKD-mineral bone disorder. With a 70% reduction in the
+glomerular filtration rate, CKD was induced at 14 weeks of age in the ldlr-/-
+high fat-fed mouse model of atherosclerotic vascular calcification and diabetes. 
+Twenty mice with CKD, hyperphosphatemia, hyperparathyroidism, and elevated
+activin A were treated with RAP-011, wherease 19 mice were given vehicle twice
+weekly from week 22 until the mice were killed at 28 weeks of age. The animals
+were then evaluated by skeletal histomorphometry, micro-computed tomography,
+mechanical strength testing, and ex vivo bone cell culture. Results in the CKD
+groups were compared with those of the 16 sham-operated ldlr-/- high fat-fed
+mice. Sham-operated mice had low-turnover osteodystrophy and skeletal frailty.
+CKD stimulated bone remodeling with significant increases in osteoclast and
+osteoblast numbers and bone resorption. Compared with mice with CKD
+and sham-operated mice, RAP-011 treatment eliminated the CKD-induced increase in 
+these histomorphometric parameters and increased trabecular bone fraction.
+RAP-011 significantly increased cortical bone area and thickness. Activin
+A-enhanced osteoclastogenesis was mediated through p-Smad2 association with c-fos
+and activation of nuclear factor of activated T cells c1 (NFATc1). Thus, an
+ActRIIA ligand trap reversed CKD-stimulated bone remodeling, likely through
+inhibition of activin-A induced osteoclastogenesis.
+
+Copyright © 2016 International Society of Nephrology. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.kint.2016.07.039 
+PMCID: PMC5530394
+PMID: 27666759  [Indexed for MEDLINE]
+
+
+14. Nefrologia. 2016 Nov - Dec;36(6):609-615. doi: 10.1016/j.nefro.2016.03.020. Epub 
+2016 May 27.
+
+Frailty in elderly people with chronic kidney disease.
+
+[Article in English, Spanish]
+
+Portilla Franco ME(1), Tornero Molina F(2), Gil Gregorio P(3).
+
+Author information: 
+(1)Servicio de Geriatría, Hospital Clínico San Carlos, Madrid, España. Electronic
+address: maeportilla@gmail.com.
+(2)Servicio de Nefrología, Hospital Clínico San Carlos, Madrid, España.
+(3)Servicio de Geriatría, Hospital Clínico San Carlos, Madrid, España.
+
+In recent years, the concept of frailty as a "state of pre-disability" has been
+widely accepted by those involved in the care of the elderly. Its importance lies
+not only in its high prevalence - more than 25% in people over 85 years of age - 
+but it is also considered an independent risk factor of disability,
+institutionalisation and mortality amongst the elderly. The study of renal
+function is relevant in patients with major comorbidities. Studies have shown a
+significant association between chronic kidney disease and the development of
+adverse clinical outcomes such as heart disease, heart failure, end-stage renal
+disease, increased susceptibility to infections and greater functional
+impairment. Frailty can be reversed, which is why a study of frailty in patients 
+with chronic kidney disease is of particular interest. This article aims to
+describe the association between ageing, frailty and chronic kidney disease in
+light of the most recent and relevant scientific publications.
+
+Copyright Â© 2016 Sociedad Española de Nefrología. Published by Elsevier España, 
+S.L.U. All rights reserved.
+
+DOI: 10.1016/j.nefro.2016.03.020 
+PMID: 27242263  [Indexed for MEDLINE]
+
+
+15. Geriatr Gerontol Int. 2017 Apr;17(4):529-544. doi: 10.1111/ggi.12758. Epub 2016
+May 31.
+
+Chronic kidney disease-related physical frailty and cognitive impairment: a
+systemic review.
+
+Shen Z(1), Ruan Q(2), Yu Z(2), Sun Z(1).
+
+Author information: 
+(1)Department of Urology, Huadong Hospital, Fudan University, 221 West Yan'an
+Road, Shanghai, China.
+(2)Shanghai Institute of Geriatrics and Gerontology, Shanghai Key Laboratory of
+Clinical Geriatrics, Department of Geriatrics, Huadong Hospital, and Research
+Center of Aging and Medicine, Shanghai Medical College, Fudan University,
+Shanghai, China.
+
+AIM: The objective of this review was to assess chronic kidney disease-related
+frailty and cognitive impairment, as well as their probable causes, mechanisms
+and the interventions.
+METHODS: Studies from 1990 to 2015 were reviewed to evaluate the relationship
+between chronic kidney disease and physical frailty and cognitive impairment. Of 
+the 1694 studies from the initial search, longitudinal studies (n = 22) with the 
+keywords "Cognitive and CKD" and longitudinal or cross-sectional studies (n = 5) 
+with the keywords "Frailty and CKD" were included in final analysis.
+RESULTS: By pooling current research, we show clear evidence for a relationship
+between chronic kidney disease and frailty and cognitive impairment in major
+studies. Vascular disease is likely an important mediator, particularly for
+cognitive impairment. However, non-vascular factors also play an important role. 
+Many of the other mechanisms that contribute to impaired cognitive function and
+increased frailty in CKD remain to be elucidated. In limited studies, medication 
+therapy did not obtain the ideal effect. There are limited data on treatment
+strategies, but addressing the vascular disease risk factors earlier in life
+might decrease the subsequent burden of frailty and cognitive impairment in this 
+population. Multidimensional interventions, which address both microvascular
+health and other factors, may have substantial benefits for both the cognitive
+impairments and physical frailty in this vulnerable population.
+CONCLUSIONS: Chronic kidney disease is a potential cause of frailty and cognitive
+impairment. Vascular and non-vascular factors are the possible causes. The
+mechanism of chronic kidney disease-induced physical frailty and cognitive
+impairment suggests that multidimensional interventions may be effective
+therapeutic strategies in the early stage of chronic kidney disease. Geriatr
+Gerontol Int 2017; 17: 529-544.
+
+© 2016 Japan Geriatrics Society.
+
+DOI: 10.1111/ggi.12758 
+PMID: 27240548  [Indexed for MEDLINE]
+
+
+16. Kidney Int. 2016 Jul;90(1):53-66. doi: 10.1016/j.kint.2016.02.025. Epub 2016 May 
+6.
+
+Screening for muscle wasting and dysfunction in patients with chronic kidney
+disease.
+
+Carrero JJ(1), Johansen KL(2), Lindholm B(3), Stenvinkel P(3), Cuppari L(4),
+Avesani CM(5).
+
+Author information: 
+(1)Divisions of Renal Medicine and Baxter Novum, Karolinska Institutet,
+Stockholm, Sweden; Center for Molecular Medicine, Karolinska Institutet,
+Stockholm, Sweden. Electronic address: juan.jesus.carrero@ki.se.
+(2)Division of Nephrology, University of California, San Francisco, San
+Francisco, California, USA.
+(3)Divisions of Renal Medicine and Baxter Novum, Karolinska Institutet,
+Stockholm, Sweden.
+(4)Division of Nephrology, Federal University of São Paulo, São Paulo, Brazil.
+(5)Department of Applied Nutrition, Nutrition Institute, Rio de Janeiro State
+University, Rio de Janeiro, Brazil.
+
+Skeletal muscle mass and muscle function are negatively affected by a variety of 
+conditions inherent to chronic kidney disease (CKD) and to dialysis treatment.
+Skeletal muscle mass and function serve as indicators of the nutritional and
+clinical state of CKD patients, and low values or derangements over time are
+strong predictors of poor patient outcomes. However, muscle size and function can
+be affected by different factors, may decline at different rates, and may have
+different patient implications. Therefore, operational definitions of frailty and
+sarcopenia have emerged to encompass these 2 dimensions of muscle health, i.e.,
+size and functionality. The aim of this review is to appraise available methods
+for assessment of muscle mass and functionality, with an emphasis on their
+accuracy in the setting of CKD patients. We then discuss the selection of
+reference cutoffs for defining conditions of muscle wasting and dysfunction.
+Finally, we review definitions applied in studies addressing sarcopenia and
+frailty in CKD patients and discuss their applicability for diagnosis and
+monitoring.
+
+Copyright © 2016 International Society of Nephrology. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.kint.2016.02.025 
+PMID: 27157695  [Indexed for MEDLINE]
+
+
+17. Exp Gerontol. 2017 Jan;87(Pt B):156-159. doi: 10.1016/j.exger.2016.02.003. Epub
+2016 Feb 12.
+
+Kidney disease and aging: A reciprocal relation.
+
+Kooman JP(1), van der Sande FM(2), Leunissen KM(2).
+
+Author information: 
+(1)Department of Internal Medicine, Division of Nephrology, University Hospital
+Maastricht, The Netherlands. Electronic address: jeroen.kooman@mumc.nl.
+(2)Department of Internal Medicine, Division of Nephrology, University Hospital
+Maastricht, The Netherlands.
+
+Chronic kidney disease (CKD) and end-stage renal disease (ESRD) are
+overrepresented in elderly patients. This provides specific challenges for the
+treatment, as the start of dialysis in vulnerable elderly patients may be
+associated with a rapid decline in functional performance. However, prognosis in 
+elderly patients with ESRD is quite variable and related to the presence of
+comorbidity and geriatric impairments. The decision to start dialysis in elderly 
+patients should always be based on shared decision making, which may be aided by 
+the use of prediction models which should however not be used to withhold
+dialysis treatment. The treatment of ESRD in elderly patients should be based on 
+a multidimensional treatment plan with a role for active rehabilitation.
+Moreover, there also appears to be a reciprocal relationship between aging and
+CKD, as the presence of geriatric complications is also high in younger patients 
+with ESRD. This has led to the hypothesis of a premature aging process associated
+with CKD, resulting in different phenotypes such as premature vascular aging,
+muscle wasting, bone disease, cognitive dysfunction and frailty. Prevention and
+treatment of this phenotype is based on optimal treatment of CKD, associated
+comorbidities, and lifestyle factors by established treatments. For the future,
+interventions, which are developed to combat the aging process in general, might 
+also have relevance for the treatment of patients with CKD, but their role should
+always be investigated in adequately powered clinical trials, as results obtained
+in experimental trials may not be directly translatable to the clinical situation
+of elderly patients. In the meantime, physical exercise is a very important
+intervention, by improving both physical capacity and functional performance, as 
+well as by a direct effect on the aging process.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.exger.2016.02.003 
+PMID: 26880178  [Indexed for MEDLINE]
+
+
+18. Transplantation. 2016 Apr;100(4):727-33. doi: 10.1097/TP.0000000000001003.
+
+Frailty and Transplantation.
+
+Exterkate L(1), Slegtenhorst BR, Kelm M, Seyda M, Schuitenmaker JM, Quante M,
+Uehara H, El Khal A, Tullius SG.
+
+Author information: 
+(1)1 Division of Transplant Surgery and Transplant Surgery Research Laboratory,
+Brigham and Women's Hospital, Harvard Medical School, Boston, MA. 2 Surgical
+Research Laboratory, Department of Surgery, University Medical Center Groningen, 
+Groningen, The Netherlands. 3 Division of Transplant Surgery, Department of
+Surgery, Erasmus MC-University Medical Center, Rotterdam, The Netherlands. 4
+Institute of Transplant Immunology, Hannover Medical School, Hannover, Lower
+Saxony, Germany. 5 Department of Visceral, Transplantation, Thoracic and Vascular
+Surgery, University Hospital Leipzig, Leipzig, Germany. 6 Department of Urology, 
+Osaka Medical College, Takatsuki, Osaka, Japan.
+
+Consequences of aging are gaining clinical relevance. In transplantation, aging
+and immunosenescence impact treatment and outcomes. The impact of aging, however,
+will critically depend on distinguishing healthy, chronological aging from
+biological aging that may result into frailty. Approximately 15% of individuals
+older than 65 years are frail, and it is expected that this condition will gain
+more clinical relevance with an expected increase to greater than 20% over the
+next 5 years. Clearly, frailty impacts various general aspects of health care and
+organ transplantation in particular including patient selection, waitlist
+management and treatment after transplantation. In general, frailty has been
+characterized by a compromised physiological reserve and an augmented
+vulnerability. In comparison to healthy aging, inflammatory markers and cytokines
+are increased in frail older adults. Thus, modifications of the immune response, 
+in addition to physical limitations and changes of metabolism, are likely to
+impact outcomes after transplantation. Here, we provide a risk assessment of
+frailty at the time of transplant evaluation and review effects on outcomes and
+recovery after transplantation. Moreover, we summarize our current understanding 
+of the pathophysiology of frailty and consequences on immune responses and
+metabolism.
+
+DOI: 10.1097/TP.0000000000001003 
+PMID: 26703348  [Indexed for MEDLINE]
+
+
+19. BMC Cardiovasc Disord. 2015 Nov 4;15:143. doi: 10.1186/s12872-015-0137-7.
+
+Antithrombotic treatment in elderly patients with atrial fibrillation: a
+practical approach.
+
+Suárez Fernández C, Formiga F(3), Camafort M(4), Cepeda Rodrigo M, Díez-Manglano 
+J(6), Pose Reino A, Tiberio G(8), Mostaza JM(9); Grupo de trabajo de Riesgo
+vascular de la SEMI.
+
+Author information: 
+(1)Hospital Universitario de La Princesa, Grupo de Riesgo Vascular de la SEMI,
+Madrid, España. csuarezf@salud.madrid.org.
+(2)Servicio de Medicina Interna, Hospital Universitario de La Princesa, C/Diego
+de León 62, 28006, Madrid, Spain. csuarezf@salud.madrid.org.
+(3)Hospital Universitari de Bellvitge, Grupo de Riesgo Vascular de la SEMI,
+Hospitalet de Llobregat, Barcelona, España.
+(4)Atrial Fibrillation Unit (UFA), Internal Medicine Department, Hospital Clinic.
+University of Barcelona. Research Group in Cardiovascular Risk, Nutrition and
+Aging. Area. 'August Pi i Sunyer' Biomedical Research Institute (IDIBAPS),
+Barcelona, Spain.
+(5)Hospital Vega Baja de Orihuela, Grupo de Riesgo Vascular de la SEMI, Orihuela,
+Alicante, España.
+(6)Hospital Royo Villanova, Grupo de Riesgo Vascular de la SEMI, Zaragoza,
+España.
+(7)Complexo Hospitalario Universitario de Santiago, Grupo de Riesgo Vascular de
+la SEMI, Santiago de Compostela, España.
+(8)Hospital Virgen del Camino, Grupo de Riesgo Vascular de la SEMI, Pamplona,
+España.
+(9)Hospital Carlos III, Grupo de Riesgo Vascular de la SEMI, Madrid, España.
+
+Erratum in
+    BMC Cardiovasc Disord. 2015;15:157. Fernández, Suárez [corrected to Suárez
+Fernández, Carmen]; Rodrigo, Jose Cepeda [corrected to Cepeda Rodrigo, Jose
+María]; Reino, Pose [corrected to Pose Reino, Antonio].
+
+BACKGROUND: Atrial fibrillation (AF) in the elderly is a complex condition. It
+has a direct impact on the underuse of antithrombotic therapy reported in this
+population.
+DISCUSSION: All patients aged ≥75 years with AF have an individual yearly risk of
+stroke >4 %. However, the risk of hemorrhage is also increased. Moreover, in this
+population it is common the presence of other comorbidities, cognitive disorders,
+risk of falls and polymedication. This may lead to an underuse of anticoagulant
+therapy. Direct oral anticoagulants (DOACs) are at least as effective as
+conventional therapy, but with lesser risk of intracranial hemorrhage. The
+simplification of treatment with these drugs may be an advantage in patients with
+cognitive impairment. The great majority of elderly patients with AF should
+receive anticoagulant therapy, unless an unequivocal contraindication. DOACs may 
+be the drugs of choice in many elderly patients with AF. In this manuscript, the 
+available evidence about the management of anticoagulation in elderly patients
+with AF is reviewed. In addition, specific practical recommendations about
+different controversial issues (i.e. patients with anemia, thrombocytopenia, risk
+of gastrointestinal bleeding, renal dysfunction, cognitive impairment, risk of
+falls, polymedication, frailty, etc.) are provided.
+
+DOI: 10.1186/s12872-015-0137-7 
+PMCID: PMC4632329
+PMID: 26530138  [Indexed for MEDLINE]
+
+
+20. Int Urol Nephrol. 2015 Nov;47(11):1801-7. doi: 10.1007/s11255-015-1112-z. Epub
+2015 Sep 28.
+
+Frailty phenotype and chronic kidney disease: a review of the literature.
+
+Musso CG(1), Jauregui JR(2), Macías Núñez JF(3).
+
+Author information: 
+(1)Ageing Biology Unit, Hospital Italiano de Buenos Aires, Buenos Aires,
+Argentina. carlos.musso@hospitalitaliano.org.ar.
+(2)Ageing Biology Unit, Hospital Italiano de Buenos Aires, Buenos Aires,
+Argentina.
+(3)Nephrology Division, Hospital Universitario de Salamanca, Salamanca, Spain.
+
+Frailty is a construct originally coined by gerontologists to describe cumulative
+declines across multiple physiological systems that occur with aging and lead
+individuals to a state of diminished physiological reserve and increased
+vulnerability to stressors. Fried et al. provided a standardized definition for
+frailty, and they created the concept of frailty phenotype which incorporates
+disturbances across interrelated domains (shrinking, weakness, poor endurance and
+energy, slowness, and low physical activity level) to indentify old people who
+are at risk of disability, falls, institutionalization, hospitalization, and
+premature death. Some authors consider the presence of lean mass reduction
+(sarcopenia) as part of the frailty phenotype. The frailty status has been
+documented in 7 % of elderly population and 14 % of not requiring dialysis CKD
+adult patients. Sarcopenia increases progressively along with loss of renal
+function in CKD patients and is high in dialysis population. It has been
+documented that prevalence of frailty in hemodialysis adult patients is around 42
+% (35 % in young and 50 % in elderly), having a 2.60-fold higher risk of
+mortality and 1.43-fold higher number of hospitalization, independent of age,
+comorbidity, and disability. The Clinical Frailty Scale is the simplest and
+clinically useful and validated tool for doing a frailty phenotype, while the
+diagnosis of sarcopenia is based on muscle mass assessment by body imaging
+techniques, bioimpedance analysis, and muscle strength evaluated with a handheld 
+dynamometer. Frailty treatment can be based on different strategies, such as
+exercise, nutritional interventions, drugs, vitamins, and antioxidant agents.
+Finally, palliative care is a very important alternative for very frail and sick 
+patients. In conclusion, since the diagnosis and treatment of frailty and
+sarcopenia is crucial in geriatrics and all CKD patients, it would be very
+important to incorporate these evaluations in pre-dialysis, peritoneal dialysis, 
+hemodialysis, and kidney transplant patients in order to detect and consequently 
+treat the frailty phenotype in these groups.
+
+DOI: 10.1007/s11255-015-1112-z 
+PMID: 26411428  [Indexed for MEDLINE]
+
+
+21. Australas J Ageing. 2015 Sep;34(3):E9-12. doi: 10.1111/ajag.12231.
+
+Feasibility and construct validity of a Frailty index for patients with chronic
+kidney disease.
+
+Hubbard RE(1), Peel NM(1), Smith M(2)(3), Dawson B(3), Lambat Z(3), Bak M(3),
+Best J(4), Johnson DW(4).
+
+Author information: 
+(1)Centre for Research in Geriatric Medicine, The University of Queensland,
+Brisbane, Queensland, Australia.
+(2)Ochsner Medical School, New Orleans, Louisiana, USA.
+(3)School of Medicine, The University of Queensland, Brisbane, Queensland,
+Australia.
+(4)Department of Nephrology, The University of Queensland, Brisbane, Queensland, 
+Australia.
+
+AIM: To determine whether the frailty status of patients with chronic kidney
+disease (CKD) can be measured using a Frailty index (FI).
+METHODS: One hundred and eleven attending a nephrology clinic were approached to 
+complete a one-page questionnaire evaluating cognitive, psychological and
+functional status. Data were coded as deficits, summed and divided by the total
+number of deficits considered, to derive an FI-CKD.
+RESULTS: One hundred and ten (mean age 65.2 years) agreed to participate and
+assessments took approximately 10 minutes to complete. Mean FI-CKD was 0.25 (SD
+0.12). The FI-CKD increased with age at 3% per year, correlated with a modified
+Fried phenotype (P < 0.001) and increased significantly across CKD stages (P =
+0.04).
+CONCLUSIONS: The FI-CKD is feasible in the outpatient setting and has good
+construct validity. The greater granularity of a continuous measure has the
+potential to inform decision-making regarding appropriate interventions for
+patients at the 'frail' end of the health spectrum.
+
+© 2015 AJA Inc.
+
+DOI: 10.1111/ajag.12231 
+PMID: 26337415  [Indexed for MEDLINE]
+
+
+22. Am Heart J. 2015 Jul;170(1):141-8, 148.e1. doi: 10.1016/j.ahj.2015.03.017. Epub
+2015 Apr 1.
+
+Patients' time in therapeutic range on warfarin among US patients with atrial
+fibrillation: Results from ORBIT-AF registry.
+
+Pokorney SD(1), Simon DN(2), Thomas L(2), Fonarow GC(3), Kowey PR(4), Chang P(5),
+Singer DE(6), Ansell J(7), Blanco RG(2), Gersh B(8), Mahaffey KW(9), Hylek
+EM(10), Go AS(11), Piccini JP(1), Peterson ED(12); Outcomes Registry for Better
+Informed Treatment of Atrial Fibrillation (ORBIT-AF) Investigators.
+
+Author information: 
+(1)Duke University Medical Center, Durham, NC; Duke Clinical Research Institute, 
+Durham, NC.
+(2)Duke Clinical Research Institute, Durham, NC.
+(3)Division of Cardiology, University of California, Los Angeles, Los Angeles,
+CA.
+(4)Lankenau Institute for Medical Research, Wynnewood, PA.
+(5)Janssen Scientific Affairs, Raritan, NJ.
+(6)Harvard Medical School, Massachusetts General Hospital, Boston, MA.
+(7)Lenox Hill Hospital, New York, NY.
+(8)Mayo Clinic, Rochester, MN.
+(9)Department of Medicine, Stanford University School of Medicine, Palo Alto, CA.
+(10)Boston University School of Medicine, Boston, MA.
+(11)Kaiser Permanente, Oakland, CA.
+(12)Duke University Medical Center, Durham, NC; Duke Clinical Research Institute,
+Durham, NC. Electronic address: eric.peterson@duke.edu.
+
+BACKGROUND: Time in therapeutic range (TTR) of international normalized ratio
+(INR) of 2.0 to 3.0 is important for the safety and effectiveness of warfarin
+anticoagulation. There are few data on TTR among patients with atrial
+fibrillation (AF) in community-based clinical practice.
+METHODS: Using the US Outcomes Registry for Better Informed Treatment of Atrial
+Fibrillation (ORBIT-AF), we examined TTR (using a modified Rosendaal method)
+among 5,210 patients with AF on warfarin and treated at 155 sites. Patients were 
+grouped into quartiles based on TTR data. Multivariable logistic regression
+modeling with generalized estimating equations was used to determine patient and 
+provider factors associated with the lowest (worst) TTR.
+RESULTS: Overall, 59% of the measured INR values were between 2.0 and 3.0, with
+an overall mean and median TTR of 65% ± 20% and 68% (interquartile range [IQR]
+53%-79%). The median times below and above the therapeutic range were 17% (IQR
+8%-29%) and 10% (IQR 3%-19%), respectively. Patients with renal dysfunction,
+advanced heart failure, frailty, prior valve surgery, and higher risk for
+bleeding (ATRIA score) or stroke (CHA2DS2-VASc score) had significantly lower TTR
+(P < .0001 for all). Patients treated at anticoagulation clinics had only
+slightly higher median TTR (69%) than those not (66%) (P < .0001).
+CONCLUSIONS: Among patients with AF in US clinical practices, TTR on warfarin is 
+suboptimal, and those at highest predicted risks for stroke and bleeding were
+least likely to be in therapeutic range.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ahj.2015.03.017 
+PMID: 26093875  [Indexed for MEDLINE]
+
+
+23. Health Qual Life Outcomes. 2015 May 29;13:70. doi: 10.1186/s12955-015-0270-0.
+
+Influence of frailty on health-related quality of life in pre-dialysis patients
+with chronic kidney disease in Korea: a cross-sectional study.
+
+Lee SJ(1), Son H(2), Shin SK(3).
+
+Author information: 
+(1)Red Cross College of Nursing, Chung-Ang University, 84 Heukseok-ro,
+Dongjak-gu, Seoul, South Korea. lsj1109@cau.ac.kr.
+(2)Red Cross College of Nursing, Chung-Ang University, 84 Heukseok-ro,
+Dongjak-gu, Seoul, South Korea. hson@cau.ac.kr.
+(3)National Health Insurance Cooperation Ilsan Hospital Clinical Professor,
+Yonsei University Medical College, Seoul, South Korea.
+
+BACKGROUND: Chronic kidney disease (CKD) is a progressive and lifelong condition 
+with multiple medical comorbidities. Patients with CKD experience frailty more
+frequently and have lower health-related quality of life than do those with other
+chronic diseases. The purpose of this study was to examine the prevalence of
+frailty and investigate the contribution of frailty to quality of life in
+pre-dialysis CKD patients in Korea.
+METHODS: Using a cross-sectional survey design, data were collected at an
+outpatient CKD clinic in a general hospital in Korea. The frailty criterion was
+modified from previous studies. The Short Form-36 Health Survey version 2 was
+used to measure physical and mental component summary scores. Data were analyzed 
+using chi-square, t-tests, and hierarchical linear regression.
+RESULTS: Of the 168 CKD patients, 63 (37.5 %) were frail. Frail patients were
+significantly older and had lower physical and mental quality of life than those 
+who were non-frail. In hierarchical regression evaluating the influence of
+frailty on physical and mental quality of life, the initial model was
+significantly improved when frailty was included. Frail patients had lower
+physical and mental quality of life.
+CONCLUSIONS: Frailty affected both physical and mental quality of life in
+pre-dialysis patients with CKD. More attention should be paid to the potential
+role of early detection and prevention of frailty to improve patients' quality of
+life.
+
+DOI: 10.1186/s12955-015-0270-0 
+PMCID: PMC4460686
+PMID: 26021987  [Indexed for MEDLINE]
+
+
+24. Curr Opin Nephrol Hypertens. 2015 May;24(3):268-75. doi:
+10.1097/MNH.0000000000000120.
+
+Body composition in chronic kidney disease.
+
+Johansen KL(1), Lee C.
+
+Author information: 
+(1)Division of Nephrology, University of California, San Francisco, California,
+USA.
+
+PURPOSE OF REVIEW: To summarize the latest information on body composition among 
+patients with chronic kidney disease and its association with outcomes.
+RECENT FINDINGS: Obesity is increasing among patients with end-stage renal
+disease and is more prevalent when direct measures of adiposity are used rather
+than BMI. High BMI is not associated with better survival among patients with
+earlier chronic kidney disease or after kidney transplantation, suggesting that
+excess fat is most protective among the sickest patients. Despite the positive
+association between BMI and survival among patients with end-stage renal disease,
+visceral fat is associated with coronary artery calcification and adverse
+cardiovascular events. Muscle wasting is prominent among patients with chronic
+kidney disease, sometimes even in the setting of obesity. Obesity and muscle
+wasting are associated with worse physical functioning. Indicators of low muscle 
+size and strength are associated with higher mortality. Some interventions can
+affect body composition, but whether they affect survival has not been
+determined.
+SUMMARY: Recent studies show that a high BMI is not protective for all patients
+with chronic kidney disease and is associated with poor physical functioning and 
+frailty. Visceral adiposity is associated with adverse cardiovascular outcomes.
+Sarcopenia is common among patients with end-stage renal disease and is
+associated with worse physical performance and higher mortality.
+
+DOI: 10.1097/MNH.0000000000000120 
+PMCID: PMC4778545
+PMID: 25887900  [Indexed for MEDLINE]
+
+
+25. Curr Opin Clin Nutr Metab Care. 2015 May;18(3):254-62. doi:
+10.1097/MCO.0000000000000171.
+
+Latest consensus and update on protein-energy wasting in chronic kidney disease.
+
+Obi Y(1), Qader H, Kovesdy CP, Kalantar-Zadeh K.
+
+Author information: 
+(1)aDivision of Nephrology and Hypertension bHarold Simmons Center for Kidney
+Disease Research and Epidemiology, University of California Irvine, Orange,
+California cUniversity of Tennessee Health Science Center, Memphis, Tennessee,
+USA.
+
+PURPOSE OF REVIEW: Protein-energy wasting (PEW) is a state of metabolic and
+nutritional derangements in chronic disease states including chronic kidney
+disease (CKD). Cumulative evidence suggests that PEW, muscle wasting and cachexia
+are common and strongly associated with mortality in CKD, which is reviewed here.
+RECENT FINDINGS: The malnutrition-inflammation score (KALANTAR Score) is among
+the comprehensive and outcome-predicting nutritional scoring tools. The
+association of obesity with poor outcomes is attenuated across more advanced CKD 
+stages and eventually reverses in the form of obesity paradox. Frailty is closely
+associated with PEW, muscle wasting and cachexia. Muscle loss shows stronger
+associations with unfavorable outcomes than fat loss. Adequate energy
+supplementation combined with low-protein diet for the management of CKD may
+prevent the development of PEW and can improve adherence to low-protein diet, but
+dietary protein requirement may increase with aging and is higher under dialysis 
+therapy. Phosphorus burden may lead to poor outcomes. The target serum
+bicarbonate concentration is normal range and at least 23 mEq/l for
+nondialysis-dependent and dialysis-dependent CKD patients, respectively. A
+benefit of exercise is suggested but not yet conclusively proven.
+SUMMARY: Prevention and treatment of PEW should involve individualized and
+integrated approaches to modulate identified risk factors and contributing
+comorbidities.
+
+DOI: 10.1097/MCO.0000000000000171 
+PMCID: PMC4506466
+PMID: 25807354  [Indexed for MEDLINE]
+
+
+26. Nephron Clin Pract. 2014;127(1-4):94-100. doi: 10.1159/000363721. Epub 2014 Sep
+24.
+
+Renal functional reserve and renal recovery after acute kidney injury.
+
+Sharma A(1), Mucino MJ, Ronco C.
+
+Author information: 
+(1)International Renal Research Institute of Vicenza (IRRIV), San Bortolo
+Hospital, Vicenza, Italy.
+
+Renal functional reserve (RFR) represents the capacity of the kidney to increase 
+glomerular filtration rate (GFR) in response to certain physiological or
+pathological stimuli or conditions. Once baseline GFR is determined, RFR can be
+assessed clinically after an oral protein load or intravenous amino acid
+infusion. In clinical practice, baseline GFR displays variable levels due to diet
+or other factors. RFR is the difference between peak 'stress' GFR induced by the 
+test (p.o. or i.v.) and the baseline GFR. In clinical scenarios where
+hyperfiltration is present (high baseline GFR due to pregnancy, hypertension or
+diabetic nephropathy, in solitary kidney or kidney donors), RFR may be fully or
+partially used to achieve normal or supranormal renal function. Since commonly
+used renal function markers, such as GFR, may remain within normal ranges until
+50% of nephrons are lost or in patients with a single remnant kidney, the RFR
+test may represent a sensitive and early way to assess the functional decline in 
+the kidney. RFR assessment may become an important tool to evaluate the ability
+of the kidney to recover completely or partially after a kidney attack. In case
+of healing with a defect and progressive fibrosis, recovery may appear complete
+clinically, but a reduced RFR may be a sign of a maladaptive repair or
+subclinical loss of renal mass. Thus, a reduction in RFR may represent the
+equivalent of renal frailty or susceptibility to insults. The main aim of this
+article is to review the concept of RFR, its utility in different clinical
+scenarios, and future perspective for its use.
+
+2014 S. Karger AG, Basel.
+
+DOI: 10.1159/000363721 
+PMID: 25343829  [Indexed for MEDLINE]
+
+
+27. Minerva Med. 2014 Dec;105(6):487-95. Epub 2014 Oct 2.
+
+Is TAVI superior to surgery in high-risk patients? Insight into the concept of
+individual risk assessment.
+
+Benfari G(1), Onorati F, Rossi A, Abbasciano R, Zivelonghi C, Salsano A,
+Ribichini F, Santini F, Vassanelli F, Mazzucco A, Faggian G.
+
+Author information: 
+(1)Division of Cardiology, University of Verona Medical School, Verona, Italy -
+francesco.onorati@ospedaleuniverona.it.
+
+The prevalence of aortic valve stenosis (AS) is growing in developed countries
+because its prevalence increases with age. A growing number of elderly patients
+are currently referred to specialized centres to be evaluated for potential
+therapeutic strategies. Indeed, two techniques are nowadays able to treat
+high-risk AS patients: TAVI and surgical replacement (AVR). It is the purpose of 
+the present review to summarize current knowledge on safety and efficacy of AVR
+and TAVI in high-risk patients; to focus on some aspects of recently published
+guidelines; to emphasize the growing importance of pre-operative individual risk 
+assessment, which is considered the real crucial point for patient selection and 
+trial's comparisons. Indeed, it is worth of noting that currently adopted
+risk-scores do not show satisfactory performances. Accordingly, it becomes of
+utmost importance to investigate several baseline but still neglected patients'
+characteristics (e.g. frailty, functional status, co-morbid conditions, etc.), as
+well as their pathogenetic relationships with interventional results and
+follow-up prognosis. All these items are emphasized in the present review.
+Finally, we have tried to anticipate future scenarios in terms of both ongoing
+clinical trials and improvements of risk-scores.
+
+
+PMID: 25274462  [Indexed for MEDLINE]
+
+
+28. Adv Chronic Kidney Dis. 2014 Jan;21(1):72-80. doi: 10.1053/j.ackd.2013.07.005.
+
+Decision-making in patients with cancer and kidney disease.
+
+Scherer JS(1), Swidler MA(2).
+
+Author information: 
+(1)Department of Geriatrics and Palliative Medicine, Icahn School of Medicine at 
+Mount Sinai, New York, NY; Department of Geriatrics and Palliative Medicine and
+Renal Division, Department of Medicine, Icahn School of Medicine at Mount Sinai, 
+New York, NY; Renal Division, Department of Medicine, Montefiore Medical Center, 
+Albert Einstein College of Medicine, Bronx, NY. Electronic address:
+jennifer.scherer@mssm.edu.
+(2)Department of Geriatrics and Palliative Medicine, Icahn School of Medicine at 
+Mount Sinai, New York, NY; Department of Geriatrics and Palliative Medicine and
+Renal Division, Department of Medicine, Icahn School of Medicine at Mount Sinai, 
+New York, NY; Renal Division, Department of Medicine, Montefiore Medical Center, 
+Albert Einstein College of Medicine, Bronx, NY.
+
+Thoughtful decision-making in a patient with cancer and kidney disease requires a
+comprehensive discussion of prognosis and therapy options for both conditions
+framed by the individual's preferences and goals of care. An estimate of overall 
+prognosis is generated that includes the patient's clinical presentation and
+parameters associated with adverse outcomes, such as age, performance status,
+frailty, malnutrition, and comorbidities. Empathic communication of this
+information using a shared decision-making approach can lead to an informed
+decision that respects patient autonomy and is consistent with the patient's
+"big-picture" goals and personal values.
+
+Copyright © 2014 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.ackd.2013.07.005 
+PMID: 24359989  [Indexed for MEDLINE]
+
+
+29. BMC Nephrol. 2013 Oct 22;14:228. doi: 10.1186/1471-2369-14-228.
+
+Association of frailty and physical function in patients with non-dialysis CKD: a
+systematic review.
+
+Walker SR, Gill K, Macdonald K, Komenda P, Rigatto C, Sood MM, Bohm CJ, Storsley 
+LJ, Tangri N(1).
+
+Author information: 
+(1)Seven Oaks Hospital, Winnipeg, Manitoba, Canada. ntangri@sogh.mb.ca.
+
+BACKGROUND: Frailty is a condition characterized by a decline in physical
+function and functional capacity. Common symptoms of frailty, such as weakness
+and exhaustion, are prevalent in patients with chronic kidney disease (CKD). The 
+increased vulnerability of frail patients with coexisting CKD may place them at a
+heightened risk of encountering additional health complications. The purpose of
+this systematic review was to explore the link between frailty, CKD and clinical 
+outcomes.
+METHODS: We searched for cross sectional and prospective studies in the general
+population and in the CKD population indexed in EMBASE, Pubmed, Web of Science,
+CINAHL, Cochrane and Ageline examining the association between frailty and CKD
+and those relating frailty in patients with CKD to clinical outcomes.
+RESULTS: We screened 5,066 abstracts and retrieved 108 studies for full text
+review. We identified 7 studies associating frailty or physical function to CKD. 
+From the 7 studies, we identified only two studies that related frailty in
+patients with CKD to a clinical outcome. CKD was consistently associated with
+increasing frailty or reduced physical function [odds ratios (OR) 1.30 to 3.12]. 
+In patients with CKD, frailty was associated with a greater than two-fold higher 
+risk of dialysis and/or death [OR from 2.0 to 5.88].
+CONCLUSIONS: CKD is associated with a higher risk of frailty or diminished
+physical function. Furthermore, the presence of frailty in patients with CKD may 
+lead to a higher risk of mortality. Further research must be conducted to
+understand the mechanisms of frailty in CKD and to confirm its association with
+clinical outcomes.
+
+DOI: 10.1186/1471-2369-14-228 
+PMCID: PMC4016413
+PMID: 24148266  [Indexed for MEDLINE]
+
+
+30. BMC Nephrol. 2013 Oct 16;14:224. doi: 10.1186/1471-2369-14-224.
+
+Frailty and falls among adult patients undergoing chronic hemodialysis: a
+prospective cohort study.
+
+McAdams-DeMarco MA, Suresh S, Law A, Salter ML, Gimenez LF, Jaar BG, Walston JD, 
+Segev DL(1).
+
+Author information: 
+(1)Department of Surgery, Johns Hopkins University School of Medicine, Baltimore,
+MD, USA. dorry@jhmi.edu.
+
+BACKGROUND: Patients undergoing hemodialysis are at high risk of falls, with
+subsequent complications including fractures, loss of independence,
+hospitalization, and institutionalization. Factors associated with falls are
+poorly understood in this population. We hypothesized that insights derived from 
+studies of the elderly might apply to adults of all ages undergoing hemodialysis;
+we focused on frailty, a phenotype of physiological decline strongly associated
+with falls in the elderly.
+METHODS: In this prospective, longitudinal study of 95 patients undergoing
+hemodialysis (1/2009-3/2010), the association of frailty with future falls was
+explored using adjusted Poisson regression. Frailty was classified using the
+criteria established by Fried et al., as a combination of five components:
+shrinking, weakness, exhaustion, low activity, and slowed walking speed.
+RESULTS: Over a median 6.7-month period of longitudinal follow-up, 28.3% of study
+participants (25.9% of those under 65, 29.3% of those 65 and older) experienced a
+fall. After adjusting for age, sex, race, comorbidity, disability, number of
+medications, marital status, and education, frailty independently predicted a
+3.09-fold (95% CI: 1.38-6.90, P=0.006) higher number of falls. This relationship 
+between frailty and falls did not differ for younger and older adults (P=0.57).
+CONCLUSIONS: Frailty, a validated construct in the elderly, was a strong and
+independent predictor of falls in adults undergoing hemodialysis, regardless of
+age. Our results may aid in identifying frail hemodialysis patients who could be 
+targeted for multidimensional fall prevention strategies.
+
+DOI: 10.1186/1471-2369-14-224 
+PMCID: PMC3852906
+PMID: 24131569  [Indexed for MEDLINE]
+
+
+31. Clin Calcium. 2013 Jul;23(7):1007-12. doi: CliCa130710071012.
+
+[Bone structural properties and bone strength in CKD].
+
+[Article in Japanese]
+
+Yano S(1), Sugimoto T.
+
+Author information: 
+(1)Department of Laboratory Medicine, Shimane University Faculty of Medicine,
+Japan.
+
+Bone fracture risk in patients with chronic kidney disease (CKD) is much higher
+than that in healthy subjects. Frailty caused by neuromuscular impairment as well
+as bone fragility due to bone loss and impaired bone quality is thought to be
+involved in the elevated fracture risk in CKD. Altered material and structural
+properties might be attributed to the reduced bone strength. The structural
+properties in CKD patients are characterized in 1) cortical thinning and cortical
+porosity, and 2) irregular thickening and loss of connectivity in trabecular
+bone. Interestingly, recent findings suggest that skeletal changes in the
+structural properties may be initiated at earlier stage of CKD than we expected.
+
+DOI: CliCa130710071012 
+PMID: 23811589  [Indexed for MEDLINE]
+
+
+32. J Ren Nutr. 2013 Mar;23(2):77-90. doi: 10.1053/j.jrn.2013.01.001.
+
+Etiology of the protein-energy wasting syndrome in chronic kidney disease: a
+consensus statement from the International Society of Renal Nutrition and
+Metabolism (ISRNM).
+
+Carrero JJ(1), Stenvinkel P, Cuppari L, Ikizler TA, Kalantar-Zadeh K, Kaysen G,
+Mitch WE, Price SR, Wanner C, Wang AY, ter Wee P, Franch HA.
+
+Author information: 
+(1)Division of Renal Medicine, Department of Clinical Science, Intervention and
+Technology, Karolinska Institutet, Solna, Sweden.
+
+Protein-energy wasting (PEW), a term proposed by the International Society of
+Renal Nutrition and Metabolism (ISRNM), refers to the multiple nutritional and
+catabolic alterations that occur in chronic kidney disease (CKD) and associate
+with morbidity and mortality. To increase awareness, identify research needs, and
+provide the basis for future work to understand therapies and consequences of
+PEW, ISRNM provides this consensus statement of current knowledge on the etiology
+of PEW syndrome in CKD. Although insufficient food intake (true undernutrition)
+due to poor appetite and dietary restrictions contribute, other highly prevalent 
+factors are required for the full syndrome to develop. These include
+uremia-induced alterations such as increased energy expenditure, persistent
+inflammation, acidosis, and multiple endocrine disorders that render a state of
+hypermetabolism leading to excess catabolism of muscle and fat. In addition,
+comorbid conditions associated with CKD, poor physical activity, frailty, and the
+dialysis procedure per se further contribute to PEW.
+
+Published by Elsevier Inc.
+
+DOI: 10.1053/j.jrn.2013.01.001 
+PMID: 23428357  [Indexed for MEDLINE]
+
+
+33. J Gerontol A Biol Sci Med Sci. 2012 Dec;67(12):1379-86. doi:
+10.1093/gerona/gls173. Epub 2012 Sep 7.
+
+Epidemiology of chronic kidney disease among older adults: a focus on the oldest 
+old.
+
+Bowling CB(1), Muntner P.
+
+Author information: 
+(1)Department of Epidemiology, University of Alabama at Birmingham, 1665
+University Boulevard, Suite 230J, Birmingham, Alabama 35294, USA.
+
+The National Kidney Foundation (NKF), Kidney Disease Outcomes Quality Initiative 
+(KDOQI) Clinical Practice Guidelines for Chronic Kidney Disease: Evaluation,
+Classification, and Stratification expanded the focus of chronic kidney disease
+(CKD) management from end-stage renal disease (ESRD) to the entire spectrum of
+kidney disease including early kidney damage through the stages of kidney disease
+to kidney failure. A consequence of these guidelines is that a large number of
+older adults are being identified as having CKD, many of whom will not progress
+to ESRD. Concerns have been raised that reduced estimated glomerular filtration
+rate (eGFR) among older adults may not represent "disease" and using age-specific
+cut-points for staging CKD has been proposed. This implies that among older
+adults, CKD, as currently defined, may be benign. Several recent studies have
+shown that among people greater than or equal to 80 years old, CKD is associated 
+with an increased risk for concurrent complications of CKD (eg, anemia, acidosis)
+and adverse outcomes including mortality and cardiovascular disease (CVD).
+Further, among older adults, CKD is associated with problems not traditionally
+thought to be associated with kidney disease. These nondisease-specific outcomes 
+include functional decline, cognitive impairment, and frailty. Future research
+studies are necessary to determine the impact of concurrent complications of CKD 
+and nondisease-specific problems on mortality and functional decline, the
+longitudinal trajectories of CKD progression, and patient preferences among the
+oldest old with CKD.
+
+DOI: 10.1093/gerona/gls173 
+PMID: 22960475  [Indexed for MEDLINE]
+
+
+34. J Bras Nefrol. 2012 Jun;34(2):153-60.
+
+[Prevalence of frailty in patients in chronic kidney disease on conservative
+treatment and on dialysis].
+
+[Article in Portuguese]
+
+Mansur HN(1), Damasceno Vde O, Bastos MG.
+
+Author information: 
+(1)Universidade Salgado de Oliveira, Rua Wolfgang Amadeus Mozart 131, Cond. São
+Lucas I – São Pedro, Juiz de Fora, MG, Brazil. hnmansur@gmail.com
+
+INTRODUCTION: Frailty is a physiological vulnerability status of the patient
+which is associated with the increased number of hospitalization and death.
+OBJECTIVES: To evaluate the prevalence of frailty and its associated factors in
+patients with chronic kidney disease (CKD) on conservative treatment (CT),
+hemodialysis (HD) and peritoneal dialysis (PD).
+METHODS: Frailty was assessed in 146 patients (86 CT, 37 HD and 23 PD) and
+characterized as muscle weakness and exhaustion--by the physical aspect and
+vitality domains, respectively, evaluated in the SF-36 quality of life
+instrument; physical inactivity--if he or she answered "never" or "hardly ever"
+when asked about physical activity; and as unintentional weight loss (> 4.5 kg
+per year). Patients were divided into three groups: non-fragile (NF), pre-fragile
+(PF) and fragile (F). The demographic, clinical and laboratory data were
+extracted from patient charts.
+RESULTS: Frailty was diagnosed in 36% of patients on CT, 37.8% in HD and 47.8% in
+PD. It was characterized in 36.8% of patients aged between 20 and 40 years and
+40.3% of those between 41 and 60 years. Frailty was significantly associated with
+the use of vitamin D (r = 0.16; p = 0.03), hemoglobin (r = -0.14; p = - 0.02) and
+intact parathyroid hormone (r = 0.16; p = 0.03).
+CONCLUSIONS: Frailty is common among patients with CKD on conservative treatment 
+and dialysis, even in those who are not elderly. In the patients studied, the
+phenotype of frailty was associated with no usage of vitamin D, lower serum
+levels of hemoglobin and higher levels of parathyroid hormone.
+
+
+PMID: 22850917  [Indexed for MEDLINE]
+
+
+35. Am J Med. 2009 Jul;122(7):664-71.e2. doi: 10.1016/j.amjmed.2009.01.026.
+
+Frailty and chronic kidney disease: the Third National Health and Nutrition
+Evaluation Survey.
+
+Wilhelm-Leen ER(1), Hall YN, K Tamura M, Chertow GM.
+
+Author information: 
+(1)Stanford University School of Medicine, Palo Alto, CA 94304, USA.
+ewilhelm@stanford.edu
+
+BACKGROUND: Frailty is common in the elderly and in persons with chronic
+diseases. Few studies have examined the association of frailty with chronic
+kidney disease.
+METHODS: We used data from the Third National Health and Nutrition Examination
+Survey to estimate the prevalence of frailty among persons with chronic kidney
+disease. We created a definition of frailty based on established validated
+criteria, modified to accommodate available data. We used logistic regression to 
+determine whether and to what degree stages of chronic kidney disease were
+associated with frailty. We also examined factors that might mediate the
+association between frailty and chronic kidney disease.
+RESULTS: The overall prevalence of frailty was 2.8%. However, among persons with 
+moderate to severe chronic kidney disease (estimated glomerular filtration rate <
+45 mL/min/1.73 m2), 20.9% were frail. The odds of frailty were significantly
+increased among all stages of chronic kidney disease, even after adjustment for
+the residual effects of age, sex, race, and prevalent chronic diseases. The odds 
+of frailty associated with chronic kidney disease were only marginally attenuated
+with additional adjustment for sarcopenia, anemia, acidosis, inflammation,
+vitamin D deficiency, hypertension, and cardiovascular disease. Frailty and
+chronic kidney disease were independently associated with mortality.
+CONCLUSION: Frailty is significantly associated with all stages of chronic kidney
+disease and particularly with moderate to severe chronic kidney disease.
+Potential mechanisms underlying the chronic kidney disease and frailty connection
+remain elusive.
+
+DOI: 10.1016/j.amjmed.2009.01.026 
+PMCID: PMC4117255
+PMID: 19559169  [Indexed for MEDLINE]

@@ -1,0 +1,125 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Mathiesen%
+\ \protect \BOthers {.}}{%
+Mathiesen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+mathiesen2019survival}
+\APACinsertmetastar {%
+mathiesen2019survival}%
+\begin{APACrefauthors}%
+Mathiesen, J\BPBI S.%
+, Kroustrup, J\BPBI P.%
+, Vestergaard, P.%
+, Poulsen, P\BPBI L.%
+, Stochholm, K.%
+, Rasmussen, {\AA}\BPBI K.%
+\BDBL {}others%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Survival and long-term biochemical cure in medullary
+  thyroid carcinoma in Denmark 1997-2014: A nationwide study} {Survival and
+  long-term biochemical cure in medullary thyroid carcinoma in denmark
+  1997-2014: A nationwide study}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Thyroid}{}{ja}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+S{\'a}nchez-Garc{\'\i}a%
+\ \protect \BOthers {.}}{%
+S{\'a}nchez-Garc{\'\i}a%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+sanchez2017comparison}
+\APACinsertmetastar {%
+sanchez2017comparison}%
+\begin{APACrefauthors}%
+S{\'a}nchez-Garc{\'\i}a, S.%
+, Gallegos-Carrillo, K.%
+, Espinel-Bermudez, M\BPBI C.%
+, Doubova, S\BPBI V.%
+, S{\'a}nchez-Arenas, R.%
+, Garc{\'\i}a-Pe{\~n}a, C.%
+\BDBL {}Brise{\~n}o-Fabian, S\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Comparison of quality of life among community-dwelling
+  older adults with the frailty phenotype} {Comparison of quality of life among
+  community-dwelling older adults with the frailty phenotype}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Quality of life research}{26}{10}{2693--2703}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Streur%
+, Schafer%
+, Garcia%
+\BCBL {}\ \BBA {} Wittmann%
+}{%
+Streur%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+streur2018don}
+\APACinsertmetastar {%
+streur2018don}%
+\begin{APACrefauthors}%
+Streur, C\BPBI S.%
+, Schafer, C\BPBI L.%
+, Garcia, V\BPBI P.%
+\BCBL {}\ \BBA {} Wittmann, D\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {“I don’t know what I’m doing… I hope I’m not
+  just an idiot”: The need to train pediatric urologists to discuss sexual
+  and reproductive health care with young women with spina bifida} {“i
+  don’t know what i’m doing… i hope i’m not just an idiot”: The need
+  to train pediatric urologists to discuss sexual and reproductive health care
+  with young women with spina bifida}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The journal of sexual medicine}{15}{10}{1403--1413}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Studzinska-Sroka%
+, Galanty%
+\BCBL {}\ \BBA {} Bylka%
+}{%
+Studzinska-Sroka%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+studzinska2017atranorin}
+\APACinsertmetastar {%
+studzinska2017atranorin}%
+\begin{APACrefauthors}%
+Studzinska-Sroka, E.%
+, Galanty, A.%
+\BCBL {}\ \BBA {} Bylka, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Atranorin-an interesting lichen secondary metabolite}
+  {Atranorin-an interesting lichen secondary metabolite}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Mini reviews in medicinal
+  chemistry}{17}{17}{1633--1645}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,1960 @@
+﻿//frailty AND "kidney transplant" 
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "kidney transplant"[All Fields]
+============================================================================================
+1. Transplantation. 2019 Feb 4. doi: 10.1097/TP.0000000000002563. [Epub ahead of
+print]
+
+Dynamic Frailty Before Kidney Transplantation-Time of Measurement Matters.
+
+Chu NM(1)(2), Deng A(1), Ying H(2), Haugen CE(2), Garonzik Wang JM(2), Segev
+DL(1)(2), McAdams-DeMarco MA(1)(2).
+
+Author information: 
+(1)Department of Epidemiology, Johns Hopkins School of Public Health, Baltimore, 
+MD.
+(2)Department of Surgery, Johns Hopkins University School of Medicine, Baltimore,
+MD.
+
+BACKGROUND: Frail kidney transplant (KT) recipients have higher risk of adverse
+post-KT outcomes. Yet, there is interest in measuring frailty at KT evaluation
+and then using this information for post-KT risk stratification. Given long wait 
+times for KT, frailty may improve or worsen between evaluation and KT. Patterns, 
+predictors, and post-KT adverse outcomes associated with these changes are
+unclear.
+METHODS: 569 adult KT candidates were enrolled in a cohort study of frailty
+(11/2009-09/2017) at evaluation and followed-up at KT. Patterns of frailty
+transitions were categorized as: 1) binary state change (frail/nonfrail); 2)
+3-category state change (frail/intermediate/nonfrail); and 3) raw score change
+(-5 to 5). Adjusted Cox proportional hazard and logistic regression models were
+used to test whether patterns of frailty transitions were associated with adverse
+post-KT outcomes.
+RESULTS: Between evaluation and KT, 22.0% became more frail, while 24.4% became
+less frail. Black race (RRR=1.98, 95%CI:1.07-3.67) was associated with
+frail-to-nonfrail transition; diabetes (RRR=2.56, 95%CI:1.22-5.39) was associated
+with remaining stably frail. Candidates who became more frail between 3-category 
+states (HR=2.27, 95%CI:1.11-4.65) or frailty scores (HR=2.36, 95%CI:1.12-4.99)
+had increased risk of post-KT mortality and had higher odds of length of stay
+(LOS) ≥2 weeks (3-category: OR=2.02, 95%CI:1.20-3.40; scores: OR=1.92,
+95%CI:1.13-3.25).
+CONCLUSIONS: Almost half of KT candidates experienced change in frailty between
+evaluation and KT, and those transitions were associated with mortality and
+longer LOS. Monitoring changes in frailty from evaluation to admission may
+improve post-KT risk stratification.
+
+DOI: 10.1097/TP.0000000000002563 
+PMID: 30753177 
+
+
+2. J Am Soc Nephrol. 2019 Feb;30(2):336-345. doi: 10.1681/ASN.2018070726. Epub 2019 
+Jan 24.
+
+Frailty and Changes in Cognitive Function after Kidney Transplantation.
+
+Chu NM(1)(2), Gross AL(3)(4), Shaffer AA(3)(2), Haugen CE(2), Norman SP(5), Xue
+QL(3)(6), Sharrett AR(3), Carlson MC(3)(4), Bandeen-Roche K(7), Segev DL(3)(2),
+McAdams-DeMarco MA(1)(2).
+
+Author information: 
+(1)Departments of Epidemiology, nchu8@jhu.edu mara@jhu.edu.
+(2)Department of Surgery and.
+(3)Departments of Epidemiology.
+(4)Mental Health, and.
+(5)Division of Nephrology, Department of Internal Medicine, University of
+Michigan School of Medicine, Ann Arbor, Michigan.
+(6)Division of Geriatric Medicine and Gerontology, Johns Hopkins University
+School of Medicine, Baltimore, Maryland; and.
+(7)Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore,
+Maryland.
+
+BACKGROUND: Restoration of kidney function after kidney transplant generally
+improves cognitive function. It is unclear whether frail recipients, with higher 
+susceptibility to surgical stressors, achieve such post-transplant cognitive
+improvements or whether they experience subsequent cognitive decline as they age 
+with a functioning graft.
+METHODS: In this two-center cohort study, we assessed pretransplant frailty
+(Fried physical frailty phenotype) and cognitive function (Modified Mini-Mental
+State Examination) in adult kidney transplant recipients. To investigate
+potential short- and medium-term effects of frailty on post-transplant cognitive 
+trajectories, we measured cognitive function up to 4 years post-transplant. Using
+an adjusted mixed effects model with a random slope (time) and intercept
+(person), we characterized post-transplant cognitive trajectories by
+pretransplant frailty, accounting for nonlinear trajectories.
+RESULTS: Of 665 recipients (mean age 52.0 years) followed for a median of 1.5
+years, 15.0% were frail. After adjustment, pretransplant cognitive scores were
+significantly lower among frail patients compared with nonfrail patients (89.0
+versus 90.8 points). By 3 months post-transplant, cognitive performance improved 
+for both frail (slope =0.22 points per week) and nonfrail (slope =0.14 points per
+week) recipients. Between 1 and 4 years post-transplant, improvements plateaued
+among nonfrail recipients (slope =0.005 points per week), whereas cognitive
+function declined among frail recipients (slope =-0.04 points per week). At 4
+years post-transplant, cognitive scores were 5.8 points lower for frail
+recipients compared with nonfrail recipients.
+CONCLUSIONS: On average, both frail and nonfrail recipients experience short-term
+cognitive improvement post-transplant. However, frailty is associated with
+medium-term cognitive decline post-transplant. Interventions to prevent cognitive
+decline among frail recipients should be identified.
+
+Copyright © 2019 by the American Society of Nephrology.
+
+DOI: 10.1681/ASN.2018070726 
+PMID: 30679381 
+
+
+3. Am J Nephrol. 2019;49(2):103-110. doi: 10.1159/000496061. Epub 2019 Jan 9.
+
+Comorbidity, Frailty, and Waitlist Mortality among Kidney Transplant Candidates
+of All Ages.
+
+Pérez Fernández M(1), Martínez Miguel P(1), Ying H(2), Haugen CE(2), Chu NM(3),
+Rodríguez Puyol DM(1), Rodríguez-Mañas L(4), Norman SP(5), Walston JD(6), Segev
+DL(2)(3), McAdams-DeMarco MA(7)(8).
+
+Author information: 
+(1)Department of Nephrology, Hospital Príncipe de Asturias, Alcalá de Henares,
+Madrid, Spain.
+(2)Department of Surgery, Johns Hopkins University School of Medicine, Baltimore,
+Maryland, USA.
+(3)Department of Epidemiology, Johns Hopkins School of Public Health, Baltimore, 
+Maryland, USA.
+(4)Hospital Universitario de Getafe, Madrid, Spain.
+(5)Division of Nephrology, Department of Internal Medicine, University of
+Michigan School of Medicine, Ann Arbor, Michigan, USA.
+(6)Department of Medicine, Johns Hopkins University School of Medicine,
+Baltimore, Maryland, USA.
+(7)Department of Surgery, Johns Hopkins University School of Medicine, Baltimore,
+Maryland, USAmara@jhu.edu.
+(8)Department of Epidemiology, Johns Hopkins School of Public Health, Baltimore, 
+Maryland, USAmara@jhu.edu.
+
+BACKGROUND: Kidney transplantation (KT) candidates often present with multiple
+comorbidities. These patients also have a substantial burden of frailty, which is
+also associated with increased mortality. However, it is unknown if frailty is
+merely a surrogate for comorbidity, itself an independent domain of risk, or if
+frailty and comorbidity have differential effects. Better understanding the
+interplay between these 2 constructs will improve clinical decision making in KT 
+candidates.
+OBJECTIVE: To test whether comorbidity is equally associated with waitlist
+mortality among frail and nonfrail KT candidates and to test whether measuring
+both comorbidity burden and frailty improves mortality risk prediction.
+METHODS: We studied 2,086 candidates on the KT waitlist (November 2009 - October 
+2017) in a multicenter cohort study, in whom frailty and comorbidity were
+measured at evaluation. We quantified the association between Charlson
+comorbidity index (CCI) adapted for end-stage renal disease and waitlist
+mortality using an adjusted Cox proportional hazards model and tested whether
+this association differed between frail and nonfrail candidates.
+RESULTS: At evaluation, 18.1% of KT candidates were frail and 51% had a high
+comorbidity burden (CCI score ≥2). Candidates with a high comorbidity burden were
+at 1.38-fold (95% CI 1.01-1.89) increased risk of waitlist mortality. However,
+this association differed by frailty status (p for interaction = 0.01): among
+nonfrail candidates, a high comorbidity burden was associated with a 1.66-fold
+(95% CI 1.17-2.35) increased mortality risk; among frail candidates, here was no 
+statistically significant association (HR 0.75, 95% CI 0.44-1.29). Adding this
+interaction between comorbidity and frailty to a mortality risk estimation model 
+significantly improved prediction, increasing the c-statistic from 0.640 to 0.656
+(p < 0.001).
+CONCLUSIONS: Nonfrail candidates with a high comorbidity burden at KT evaluation 
+have an increased risk of waitlist mortality. Importantly, comorbidity is less of
+a concern in already high-risk patients who are frail.
+
+© 2019 S. Karger AG, Basel.
+
+DOI: 10.1159/000496061 
+PMID: 30625489 
+
+
+4. Stat Med. 2019 Jan 4. doi: 10.1002/sim.8076. [Epub ahead of print]
+
+Evaluating center-specific long-term outcomes through differences in mean
+survival time: Analysis of national kidney transplant data.
+
+He K(1)(2), Ashby VB(2), Schaubel DE(1)(2).
+
+Author information: 
+(1)Department of Biostatistics, School of Public Health, University of Michigan, 
+Ann Arbor, Michigan.
+(2)Kidney Epidemiology and Cost Center, School of Public Health, University of
+Michigan, Ann Arbor, Michigan.
+
+Center-specific survival outcomes of kidney transplant recipients are an
+important quality measure, with several challenges. Existing methods based on
+restricted mean lifetime tend to focus on short- and medium-term clinical
+outcomes and may fail to capture long-term effects associated with quality of
+follow-up care. In this report, we propose methods that combine a lognormal
+frailty model and piecewise exponential baseline rates to compare the mean
+survival time across centers. The proposed methods allow for the consistent
+estimation of mean survival time as opposed to restricted mean lifetime and,
+within this context, permits more accurate profiling of long-term center-specific
+outcomes. Asymptotic properties of the proposed estimators are derived, and
+finite-sample properties are examined through simulation. The proposed methods
+are then applied to national kidney transplant data. The novelty of the proposed 
+techniques arises from several angles. We utilize mean survival, in contrast to
+the most previous works that considered the restricted mean. Few previous studies
+have used the integrated survival function as a basis for center effects. Few
+provider profiling methods use a random effects model to estimate fixed center
+effects.
+
+© 2019 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/sim.8076 
+PMID: 30609113 
+
+
+5. Transplant Proc. 2018 Dec;50(10):3968-3972. doi:
+10.1016/j.transproceed.2018.07.002. Epub 2018 Jul 7.
+
+Acute Esophageal Necrosis in an Immunosuppressed Kidney Transplant Recipient: A
+Case Report.
+
+Mealiea D(1), Greenhouse D(2), Velez M(3), Moses P(3), Marroquin CE(4).
+
+Author information: 
+(1)Department of Surgery, University of Toronto, Toronto, Ontario, Canada.
+(2)Department of Cardiac Surgery, Children's Healthcare of Atlanta, Atlanta, GA.
+(3)Department of Gastroenterology, University of Vermont Medical Center,
+Burlington, VT.
+(4)Department of Transplant and Hepatobiliary Surgery and Immunology, University 
+of Vermont Medical Center, Burlington, VT. Electronic address:
+Carlos.Marroquin@uvmhealth.org.
+
+Acute esophageal necrosis (AEN) is rare and characterized endoscopically by
+distal esophageal ulceration, blackening, and necrosis. It typically arises in
+patients with multiple comorbidities who have significant systemic disease and
+frailty. Specific precipitating events are variable. Evidence suggests a
+multifactorial etiology likely involving esophageal ischemia in the setting of
+corrosive injury from gastric contents and impaired tissue repair mechanisms. In 
+the transplant setting, immunosuppression likely plays a substantial role. We
+report a case of AEN in a 70-year-old man following a renal transplant.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.transproceed.2018.07.002 
+PMID: 30577298  [Indexed for MEDLINE]
+
+
+6. Transpl Int. 2018 Nov 14. doi: 10.1111/tri.13376. [Epub ahead of print]
+
+Outcome-dependent geographic and individual variations in the access to renal
+transplantation in incident dialysed patients: a French nationwide cohort study.
+
+Pladys A(1), Morival C(2), Couchoud C(3), Jacquelinet C(3)(4), Laurain E(5),
+Merle S(6), Vigneau C(7)(8), Bayat S(1); REIN registry.
+
+Author information: 
+(1)EA 7449 REPERES, EHESP Rennes, Sorbonne Paris Cité, Rennes, France.
+(2)EHESP High School of Public Health Rennes, Sorbonne Paris Cité, Rennes,
+France.
+(3)Renal Epidemiology and Information Network (REIN), Biomedicine Agency, La
+Plaine Saint-Denis, France.
+(4)INSERM U1018, Villejuif, France.
+(5)Department of Nephrology, CHU Brabois, Nancy, France.
+(6)Martinique, Regional Observatory on Health of Martinique, Le Lamentin, France.
+(7)INSERM U1085-IRSET, University of Rennes 1, Rennes, France.
+(8)Department of Nephrology, CHU Pontchaillou, Rennes, France.
+
+This study investigated geographical variations of access to renal
+transplantation using three outcomes (access to the transplant waiting list,
+access to renal transplantation after waitlisting and access to renal
+transplantation after dialysis start). Associations of patient-related and
+regional variables with the studied outcomes were assessed using a Cox shared
+frailty model and a Fine and Gray model. At the study endpoint (December 31,
+2015), 26.3% of all 18-90-year-old patients who started dialysis in the 22
+mainland and four overseas French regions in 2012 (n = 9312) were waitlisted and 
+15.1% received a kidney transplant. The geographical disparities of access to
+renal transplantation varied according to the studied outcome. Patients from the 
+Ile-de-France region had the highest probability of being waitlisted, but were
+less likely to receive a kidney transplant. Two regional factors were associated 
+with the access to the waiting list and to renal transplantation from dialysis
+start: the incidence of preemptive kidney transplantation and of ESRD. The use of
+different outcomes to evaluate access to kidney transplantation could help
+healthcare policy-makers to select the most appropriate interventions for each
+region in order to reduce treatment disparities.
+
+© 2018 Steunstichting ESOT.
+
+DOI: 10.1111/tri.13376 
+PMID: 30427074 
+
+
+7. Nephrol Nurs J. 2018 Sep-Oct;45(5):473-480.
+
+Kidney Transplantation in Older Adult Recipients.
+
+Wright LS(1)(2)(3)(4).
+
+Author information: 
+(1)Clinical Manager of Abdominal Organ Transplant, Thomas Jefferson University
+Hospital, Philadelphia, PA.
+(2)member of the Nephrology Nursing Journal Editorial Board.
+(3)member of ANNA's Keystone Chapter.
+(4)Chair of the ANNA Research Committee.
+
+
+PMID: 30304632  [Indexed for MEDLINE]
+
+Conflict of interest statement: The author reported no actual or potential
+conflict of interest in relation to this continuing nursing education activity.
+
+
+8. Clin Transplant. 2018 Nov;32(11):e13410. doi: 10.1111/ctr.13410. Epub 2018 Oct
+28.
+
+Association between the "Timed Up and Go Test" at transplant evaluation and
+outcomes after kidney transplantation.
+
+Michelson AT(1)(2), Tsapepas DS(2)(3), Husain SA(1)(2), Brennan C(1)(2)(4),
+Chiles MC(1)(2)(4), Runge B(3), Lione J(1), Kil BH(1), Cohen DJ(1), Ratner LE(3),
+Mohan S(1)(2)(4).
+
+Author information: 
+(1)Department of Medicine, Division of Nephrology, Columbia University Medical
+Center, New York, New York.
+(2)The Columbia University Renal Epidemiology (CURE) Group, New York, New York.
+(3)Department of Surgery, Division of Transplantation, Columbia University
+Medical Center, New York, New York.
+(4)Department of Epidemiology, Columbia University Mailman School of Public
+Health, New York, New York.
+
+BACKGROUND: Studies have demonstrated the Timed Up and Go Test's (TUGT) ability
+to forecast postoperative outcomes for several surgical specialties. Evaluations 
+of the TUGT for waitlist and posttransplant outcomes have yet to be examined in
+kidney transplantation.
+OBJECTIVE: To assess the prognostic utility of the TUGT and its associations with
+waitlist and posttransplant outcomes for kidney transplant candidates.
+DESIGN AND METHODS: Single-center, prospective study of 518 patients who
+performed TUGT during their transplant evaluation between 9/1/2013-11/30/2014.
+TUGT times were evaluated as a continuous variable or 3-level discrete
+categorical variable with TUGT times categorized as long (>9 seconds), average
+(8-9 seconds), or short (5-8 seconds).
+RESULTS: Transplanted individuals had shorter TUGT times than those who remained 
+on the waitlist (8.99 vs 9.79 seconds, P < 0.001). Bivariable and multivariable
+logistic regression showed that after adjusting for age, there was no association
+between TUGT times and probability of waitlist removal (OR 0.997 [0.814-1.221]), 
+prolonged length of stay posttransplant (OR 1.113 [0.958-1.306] for deceased
+donor, OR 0.983 [0.757-1.277] for living donor), and 30-day readmissions (OR
+0.984 [0.845-1.146] for deceased donor, OR 1.254 [0.976-1.613] for living donor).
+CONCLUSIONS: The TUGT was not associated with waitlist removal or prolonged
+hospitalization for kidney transplant candidates. Alternative assessments of
+global health, such as functional status or frailty, should be considered for
+evaluation of potential kidney transplant candidates.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/ctr.13410 
+PMCID: PMC6265056 [Available on 2019-11-01]
+PMID: 30230036 
+
+
+9. Am J Nephrol. 2018;48(4):235-241. doi: 10.1159/000492338. Epub 2018 Sep 18.
+
+Early Hospital Readmission in Older and Younger Kidney Transplant Recipients.
+
+Haugen CE(1), King EA(1), Bae S(1), Bowring MG(1), Holscher CM(1), Garonzik-Wang 
+J(1), McAdams-DeMarco M(1)(2), Segev DL(1)(2).
+
+Author information: 
+(1)Department of Surgery, Johns Hopkins University School of Medicine, Baltimore,
+Maryland, USA.
+(2)Department of Epidemiology, Johns Hopkins School of Public Health, Baltimore, 
+Maryland, USA.
+
+BACKGROUND: Up to 31% of kidney transplant (KT) recipients experience early
+hospital readmission (EHR). We hypothesized that EHR among older KT recipients is
+higher than younger recipients due to increased comorbidities and higher
+prevalence of frailty.
+METHODS: We identified 22,458 older (age ≥65) and 86,372 younger (18 to < 65)
+first-time KT recipients (December 1, 1999 - December 31, 2014) using United
+States Renal Data System data. We estimated the association between patient-level
+characteristics and EHR (30 days post-KT discharge) with modified Poisson
+regression among older and younger KT recipients, separately. We estimated the
+association between graft loss and mortality and EHR using Cox proportional
+hazards.
+RESULTS: EHR was more common in older KT recipients (30.1 vs. 27.6%; p < 0.001). 
+Risk factors for EHR that differed by recipient age included female sex, African 
+American race, diabetes, smoking, dialysis vintage, donor age, and length of
+stay. Risk of graft loss associated with EHR was greater among older KT
+recipients (adjusted hazard ratio [aHR] 1.64, 95% CI 1.51-1.77, p < 0.001) than
+younger KT recipients (aHR 1.43, 95% CI 1.38-1.48, p < 0.001; interaction p <
+0.01). However, the risk of mortality associated with EHR was greater among
+younger recipients (aHR 1.52, 95% CI 1.47-1.57, p < 0.001) than that in older
+-recipients (aHR 1.40, 95% CI 1.34-1.47, p < 0.001; interaction p < 0.01).
+CONCLUSIONS: Older KT recipients are more likely to experience EHR and are at a
+higher risk of graft loss after EHR than younger recipients. Targeted
+interventions to prevent EHR and subsequent graft loss in this population should 
+be identified.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000492338 
+PMCID: PMC6212310 [Available on 2019-09-18]
+PMID: 30227406 
+
+
+10. Clin Transplant. 2018 Nov;32(11):e13406. doi: 10.1111/ctr.13406. Epub 2018 Oct
+15.
+
+A new approach to kidney wait-list management in the kidney allocation system
+era: Pilot implementation and evaluation.
+
+Cheng XS(1), Busque S(2), Lee J(3), Discipulo K(3), Hartley C(3), Tulu Z(3),
+Scandling JD(1), Tan JC(1).
+
+Author information: 
+(1)Division of Nephrology, Department of Medicine, Stanford University School of 
+Medicine, Stanford, California.
+(2)Department of Surgery, Stanford University School of Medicine, Stanford,
+California.
+(3)Stanford Hospital and Clinics, Stanford, California.
+
+Kidney transplant wait-list management is becoming increasingly complex. We
+introduced a novel wait-list management strategy at our center, the Transplant
+Readiness Assessment Clinic (TRAC), whereby patients whose Kidney Allocation
+Scores surpass a threshold are actively managed. From January 1, 2016 through
+June 30, 2017, we evaluated 195 patients through TRAC. Compared to pre-TRAC
+systems at our institution, TRAC resulted in a higher proportion of activation at
+18 months (38% vs 22%-26%, P < 0.0001), despite being enriched in patients with
+long dialysis duration. TRAC also resulted in a higher proportion of wait-list
+removal (15% vs 8%-9%, P < 0.05) although combined wait-list removal and death on
+wait-list did not differ (18% vs 16%-17%). Median time to activation was 356 days
+from TRAC evaluation. Of the transplant barriers, need for cardiovascular studies
+was the most common (31%), followed by other medical issues (23%), poor
+functional status (13%), and psychosocial issues (10%). By concentrating center
+resources on patients most likely to be transplanted after activation and
+performing active patient management close to the time of transplant, TRAC has
+the potential to significantly enhance kidney transplant success in regions with 
+long wait-times.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/ctr.13406 
+PMID: 30218580 
+
+
+11. Clin Transplant. 2018 Oct;32(10):e13391. doi: 10.1111/ctr.13391. Epub 2018 Sep
+23.
+
+Depressive symptoms, frailty, and adverse outcomes among kidney transplant
+recipients.
+
+Konel JM(1), Warsame F(1), Ying H(1), Haugen CE(1), Mountford A(1), Chu NM(2),
+Crews DC(3), Desai NM(1), Garonzik-Wang JM(1), Walston JD(4), Norman SP(5), Segev
+DL(1)(2), McAdams-DeMarco MA(1)(2).
+
+Author information: 
+(1)Department of Surgery, Johns Hopkins School of Medicine, Baltimore, Maryland.
+(2)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+Baltimore, Maryland.
+(3)Division of Nephrology, Department of Medicine, Johns Hopkins School of
+Medicine, Baltimore, Maryland.
+(4)Division of Geriatric Medicine and Gerontology, Johns Hopkins School of
+Medicine, Baltimore, Maryland.
+(5)Department of Internal Medicine, Division of Nephrology, University of
+Michigan School of Medicine, Ann Arbor, Michigan.
+
+Depressive symptoms and frailty are each independently associated with morbidity 
+and mortality in kidney transplant (KT) recipients. We hypothesized that having
+both depressive symptoms and frailty would be synergistic and worse than the
+independent effect of each. In a multicenter cohort study of 773 KT recipients,
+we measured the Fried frailty phenotype and the modified 18-question Center for
+Epidemiologic Studies-Depression Scale (CES-D). Using adjusted Poisson regression
+and survival analysis, we tested whether depressive symptoms (CES-D score > 14)
+and frailty were associated with KT length of stay (LOS), death-censored graft
+failure (DCGF), and mortality. At KT admission, 10.0% of patients exhibited
+depressive symptoms, 16.3% were frail, and 3.6% had both. Recipients with
+depressive symptoms were more likely to be frail (aOR = 3.97, 95% CI: 2.28-6.91, 
+P < 0.001). Recipients with both depressive symptoms and frailty had a 1.88 times
+(95% CI: 1.70-2.08, P < 0.001) longer LOS, 6.20-fold (95% CI:1.67-22.95,
+P < 0.01) increased risk of DCGF, and 2.62-fold (95% CI:1.03-6.70,
+P = 0.04) increased risk of mortality, compared to those who were nonfrail and
+without depressive symptoms. There was only evidence of synergistic effect of
+frailty and depressive symptoms on length of stay (P for interaction < 0.001).
+Interventions aimed at reducing pre-KT depressive symptoms and frailty should be 
+explored for their impact on post-KT outcomes.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/ctr.13391 
+PMID: 30152107 
+
+
+12. Nephrology (Carlton). 2018 Aug 27. doi: 10.1111/nep.13481. [Epub ahead of print]
+
+Hypoalbuminaemia at time of surgery is associated with an increased risk for
+overall graft loss after kidney transplantation.
+
+Anderson B(1), Khalil K(2), Evison F(3), Nath J(1), Sharif A(1)(2).
+
+Author information: 
+(1)Department of Nephrology and Transplantation, Queen Elizabeth Hospital,
+Edgbaston, Birmingham, UK.
+(2)University of Birmingham, Birmingham, UK.
+(3)Department of Health Informatics, Queen Elizabeth Hospital, Edgbaston,
+Birmingham, UK.
+
+AIM: The aim of this retrospective cohort study was to investigate whether
+pre-operative hypoalbuminaemia (<35 g/L) is associated with adverse outcomes post
+kidney transplantation.
+METHODS: Our retrospective, single-centre analysis included all patients who
+received their kidney transplant between 2007 and 2017, with documented admission
+albumin levels prior to surgery. Survival analyses were undertaken to explore the
+relationship of pre-transplant hypoalbuminaemia versus other baseline variables
+upon post-transplant outcomes.
+RESULTS: We analysed 1,131 kidney allograft recipients transplanted at our center
+(2007-2017), with median follow up 746 days (IQR 133-1,750 days). Kidney
+transplant recipients with pre-operative hypoalbuminaemia were more likely older,
+female, recipients of deceased-donor kidneys and to have longer cold ischaemic
+times. Recipients with pre-operative hypoalbuminaemia had longer hospital
+admissions post-operatively but no difference in delayed graft function rates.
+There was no difference in 1-year creatinine but recipients with hypoalbuminaemia
+had reduced risk for cellular rejection. We observed significantly worse patient 
+survival (83.2% versus 90.7%, p<0.001) and overall graft survival (72.5% versus
+82.0%, p<0.001) for recipients with hypoalbuminaemia versus normal albumin levels
+respectively but no difference in death-censored graft survival. In a Cox
+regression model, adjusted for baseline pre-operative variables, hypoalbuminaemia
+was independently associated with an increased risk for overall graft loss after 
+kidney transplantation (hazard ratio 1.468, 95% CI 1.087-1.982, p=0.012).
+CONCLUSIONS: Pre-operative hypoalbuminaemia is an independent risk factor for
+overall graft loss after kidney transplantation. Further work is warranted to
+investigate the underlying pathophysiology to determine what supportive measures 
+can be undertaken to attenuate adverse post-transplant outcomes. This article is 
+protected by copyright. All rights reserved.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/nep.13481 
+PMID: 30152018 
+
+
+13. Am J Transplant. 2019 Feb;19(2):457-465. doi: 10.1111/ajt.14994. Epub 2018 Aug
+16.
+
+Limited health literacy and adverse outcomes among kidney transplant candidates.
+
+Warsame F(1), Haugen CE(1), Ying H(1), Garonzik-Wang JM(1), Desai NM(1), Hall
+RK(2), Kambhampati R(3), Crews DC(3), Purnell TS(1)(4), Segev DL(1)(4),
+McAdams-DeMarco MA(1)(4).
+
+Author information: 
+(1)Department of Surgery, Johns Hopkins University School of Medicine, Baltimore,
+MD, USA.
+(2)Division of Nephrology, Department of Medicine, Duke University School of
+Medicine, Durham, NC, USA.
+(3)Division of Nephrology, Department of Medicine, Johns Hopkins University
+School of Medicine, Baltimore, MD, USA.
+(4)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+Baltimore, MD, USA.
+
+More than one-third of US adults have limited health literacy, putting them at
+risk of adverse clinical outcomes. We evaluated the prevalence of limited health 
+literacy among 1578 adult kidney transplant (KT) candidates (May 2014-November
+2017) and examined its association with listing for transplant and waitlist
+mortality in this pilot study. Limited health literacy was assessed at KT
+evaluation by using a standard cutoff score ≤5 on the Brief Health Literacy
+Screen (score range 0-12, lower scores indicate worse health literacy). We used
+logistic regression and adjusted Cox proportional hazards models to identify risk
+factors for limited health literacy and to quantify its association with listing 
+and waitlist mortality. We found that 8.9% of candidates had limited health
+literacy; risk factors included less than college education (adjusted odds ratio 
+[aOR] = 2.87, 95% confidence interval [CI]:1.86-4.43), frailty (aOR = 1.85, 95%
+CI:1.22-2.80), comorbidity (Charlson comorbidity index [1-point increase]
+aOR = 1.12, 95% CI: 1.04-1.20), and cognitive impairment (aOR = 3.45, 95% CI:
+2.20-5.41) after adjusting for age, sex, race, and income. Candidates with
+limited health literacy had a 30% (adjusted hazard ratio = 0.70, 95% CI:
+0.54-0.91) decreased likelihood of listing and a 2.42-fold (95% CI: 1.16- to
+5.05-fold) increased risk of waitlist mortality. Limited health literacy may be a
+salient mechanism in access to KT; programs to aid candidates with limited health
+literacy may improve outcomes and reduce disparities.
+
+© 2018 The American Society of Transplantation and the American Society of
+Transplant Surgeons.
+
+DOI: 10.1111/ajt.14994 
+PMCID: PMC6312744 [Available on 2020-02-01]
+PMID: 29962069 
+
+
+14. Prog Transplant. 2018 Sep;28(3):299-300. doi: 10.1177/1526924818781577. Epub 2018
+Jun 13.
+
+Feasibility and Functional Testing for Frailty in Chronic Kidney Disease.
+
+Sieverdes JC(1), Rao V(2), Taber DJ(2), Noltemeyer Z(1), McGillicuddy JW(2),
+Bergamin M(3), Thangavel S(4), Baliga PK(2).
+
+Author information: 
+(1)1 College of Nursing, Medical University of South Carolina, Charleston, SC,
+USA.
+(2)2 College of Medicine, Medical University of South Carolina, Charleston, SC,
+USA.
+(3)3 Department of Medicine, University of Padova, Padua, Italy.
+(4)4 Department of Internal Medicine, University of Illinois College of Medicine,
+Urbana, IL, USA.
+
+DOI: 10.1177/1526924818781577 
+PMID: 29898640 
+
+
+15. J Am Soc Nephrol. 2018 Jun;29(6):1752-1759. doi: 10.1681/ASN.2018010064. Epub
+2018 Apr 23.
+
+Incidence, Risk Factors, and Sequelae of Post-kidney Transplant Delirium.
+
+Haugen CE(1), Mountford A(1), Warsame F(1), Berkowitz R(1), Bae S(1)(2), Thomas
+AG(#)(1), Brown CH 4th(3), Brennan DC(4), Neufeld KJ(5), Carlson MC(6)(7), Segev 
+DL(1)(2), McAdams-DeMarco M(8)(2).
+
+Author information: 
+(1)Departments of Surgery.
+(2)Departments of Epidemiology and.
+(3)Anesthesiology and Critical Care Medicine.
+(4)Medicine, and.
+(5)Psychiatry and Behavioral Sciences, Johns Hopkins University School of
+Medicine, Baltimore, Maryland.
+(6)Mental Health, Johns Hopkins School of Public Health, Baltimore, Maryland;
+and.
+(7)Johns Hopkins University Center on Aging and Health, Baltimore, Maryland.
+(8)Departments of Surgery, mara@jhu.edu.
+(#)Contributed equally
+
+Background Frail kidney transplant (KT) recipients may be particularly vulnerable
+to surgical stressors, resulting in delirium and subsequent adverse outcomes. We 
+sought to identify the incidence, risk factors, and sequelae of post-KT
+delirium.Methods We studied 125,304 adult KT recipients (1999-2014) to estimate
+delirium incidence in national registry claims. Additionally, we used a validated
+chart abstraction algorithm to identify post-KT delirium in 893 adult recipients 
+(2009-2017) from a cohort study of frailty. Delirium sequelae were identified
+using adjusted logistic regression (length of stay ≥2 weeks and institutional
+discharge [skilled nursing or rehabilitation facility]) and adjusted Cox
+regression (death-censored graft loss and mortality).Results Only 0.8% of KT
+recipients had a delirium claim. In the cohort study, delirium incidence
+increased with age (18-49 years old: 2.0%; 50-64 years old: 4.6%; 65-75 years
+old: 9.2%; and ≥75 years old: 13.8%) and frailty (9.0% versus 3.9%); 20.0% of
+frail recipients aged ≥75 years old experienced delirium. Frailty was
+independently associated with delirium (odds ratio [OR], 2.05; 95% confidence
+interval [95% CI], 1.02 to 4.13; P=0.04), but premorbid global cognitive function
+was not. Recipients with delirium had increased risks of ≥2-week length of stay
+(OR, 5.42; 95% CI, 2.76 to 10.66; P<0.001), institutional discharge (OR, 22.41;
+95% CI, 7.85 to 63.98; P<0.001), graft loss (hazard ratio [HR], 2.73; 95% CI,
+1.14 to 6.53; P=0.03), and mortality (HR, 3.12; 95% CI, 1.76 to 5.54;
+P<0.001).Conclusions Post-KT delirium is a strong risk factor for subsequent
+adverse outcomes, yet it is a clinical entity that is often missed.
+
+Copyright © 2018 by the American Society of Nephrology.
+
+DOI: 10.1681/ASN.2018010064 
+PMCID: PMC6054339 [Available on 2019-06-01]
+PMID: 29685884 
+
+
+16. Transplantation. 2018 Oct;102(10):1740-1746. doi: 10.1097/TP.0000000000002213.
+
+Frailty, Inflammatory Markers, and Waitlist Mortality Among Patients With
+End-stage Renal Disease in a Prospective Cohort Study.
+
+McAdams-DeMarco MA(1)(2), Ying H(1), Thomas AG(1), Warsame F(1), Shaffer
+AA(1)(2), Haugen CE(1), Garonzik-Wang JM(1), Desai NM(1), Varadhan R(3), Walston 
+J(4), Norman SP(5), Segev DL(1)(2).
+
+Author information: 
+(1)Department of Surgery, Johns Hopkins University School of Medicine, Baltimore,
+MD.
+(2)Department of Epidemiology, Johns Hopkins School of Public Health, Baltimore, 
+MD.
+(3)Department of Oncology, Sidney Kimmel Comprehensive Cancer Center, Baltimore, 
+MD.
+(4)Department of Medicine, Johns Hopkins University School of Medicine,
+Baltimore, MD.
+(5)Division of Nephrology, Department of Internal Medicine, University of
+Michigan School of Medicine, Ann Arbor, MI.
+
+BACKGROUND: Among community-dwelling older adults, frailty is associated with
+heightened markers of inflammation and subsequent mortality. Although frailty is 
+common among end-stage renal disease (ESRD) patients, the role of frailty and
+markers of inflammation in this population remains unclear. We quantified these
+associations in patients on the kidney transplant waitlist and tested whether
+frailty and/or markers of inflammation improve waitlist mortality risk
+prediction.
+METHODS: We studied 1975 ESRD patients on the kidney transplant waitlist
+(November 1, 2009, to February 28, 2017) in a multi-center cohort study of
+frailty. Serum inflammatory markers (interleukin-6 [IL-6], soluble tumor necrosis
+factor-α receptor-1 [sTNFR1], and C-reactive protein [CRP]) were analyzed in 605 
+of these participants; we calculated the inflammatory index score using IL-6 and 
+sTNFR1. We compared the C-statistic of an established registry-based prediction
+model for waitlist mortality adding frailty and/or inflammatory markers (1 SD
+change in log IL-6, sTNFR1, CRP, or inflammatory index).
+RESULTS: The registry-based model had moderate predictive ability (c-statistic = 
+0.655). Frailty was associated with increased mortality (2.19; 95% confidence
+interval [CI], 1.26-3.79) but did not improve risk prediction (c-statistic =
+0.646; P = 0.65). Like frailty, IL-6 (2.13; 95% CI, 1.41-3.22), sTNFR1 (1.70; 95%
+CI, 1.12-2.59), CRP (1.68; 95% CI, 1.06-2.67), and the inflammatory index (2.09; 
+95% CI, 1.38-3.16) were associated with increased mortality risk; unlike frailty,
+adding IL-6 (c-statistic = 0.777; P = 0.02), CRP (c-statistic = 0.728; P = 0.02),
+or inflammatory index (c-statistic = 0.777; P = 0.02) substantially improved
+mortality risk prediction.
+CONCLUSIONS: Frailty and markers of inflammation were associated with increased
+waitlist mortality risk, but only markers of inflammation significantly improved 
+ESRD risk prediction. These findings help clarify the accelerated aging
+physiology of ESRD and highlight easy-to-measure markers of increased waitlist
+mortality risk.
+
+DOI: 10.1097/TP.0000000000002213 
+PMCID: PMC6153033 [Available on 2019-10-01]
+PMID: 29677074 
+
+
+17. Respir Med. 2018 Apr;137:89-94. doi: 10.1016/j.rmed.2018.02.022. Epub 2018 Mar 6.
+
+Bacterial pneumonia in kidney transplant recipients.
+
+Wilmes D(1), Coche E(2), Rodriguez-Villalobos H(3), Kanaan N(4).
+
+Author information: 
+(1)Division of Internal Medicine, Cliniques universitaires Saint-Luc, Université 
+catholique de Louvain, Brussels, Belgium.
+(2)Division of Radiology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium.
+(3)Division of Microbiology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium.
+(4)Division of Nephrology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium. Electronic address:
+nada.kanaan@uclouvain.be.
+
+Bacterial pathogens are the most frequent cause of pneumonia after
+transplantation. Early after transplantation, recipients are at higher risk for
+nosocomial infections. The most commonly encountered pathogens during this period
+are gram-negative bacilli (Klebsiella pneumoniae, Escherichia coli, Pseudomonas
+aeruginosa …), but gram-positive coccus such as Staphylococcus aureus or
+Streptococcus pneumoniae and anaerobic bacteria can also be found. Empirical
+antibiotic therapy should be guided by previous colonisation of the recipient and
+bacterial resistance pattern in the hospital. Six months after transplantation,
+pneumonias are mostly due to community-acquired bacteria (S. pneumonia, H.
+influenza, Mycoplasma, Chlamydia and others). Opportunistic pathogens take
+advantage of the state of immunosuppression which is usually highest from one to 
+six months after transplantation. During this period, but also occurring many
+years later in the setting of a chronically depressed immune system, bacterial
+pathogens with low intrinsic virulence can cause pneumonia. The diagnosis of
+pneumonia caused by opportunistic pathogens can be challenging. The delay in
+diagnosis preventing the early instauration of adequate treatment in kidney
+transplant recipients with a depressed immune system, frequently coupled with
+co-morbid conditions and a state of frailty, will affect prognosis and outcome,
+increasing morbidity and mortality. This review will focus on the most common
+opportunistic bacterial pathogens causing pneumonia in kidney transplant
+recipients: Legionella, Nocardia, Mycobacterium tuberculosis/nontuberculous, and 
+Rhodococcus. Recognition of their specificities in the setting of
+immunosuppression will allow early diagnosis, crucial for initiation of effective
+therapy and successful outcome. Interactions with immunosuppressive therapy
+should be considered as well as reducing immunosuppression if necessary.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rmed.2018.02.022 
+PMID: 29605219  [Indexed for MEDLINE]
+
+
+18. J Clin Med Res. 2018 Feb;10(2):82-87. doi: 10.14740/jocmr3203w. Epub 2017 Dec 30.
+
+Frailty Testing Pilot Study: Pros and Pitfalls.
+
+Adlam T(1), Ulrich E(1), Kent M(2), Malinzak L(2).
+
+Author information: 
+(1)Wayne State University School of Medicine, Detroit, MI, USA.
+(2)Department of Transplant, Henry Ford Hospital, Detroit, MI, USA.
+
+Background: Frailty can be defined as an inflammatory state with a loss of
+physiologic reserve in multiple systems that manifests as a decreased ability to 
+respond to stressors that ultimately leads to an increased risk of adverse
+outcomes. The aim of this study was to determine the ease of frailty testing in a
+pre-kidney transplant clinic and the resources required to do so. A secondary
+goal was to better understand the utility of frailty testing when evaluating
+potential kidney transplant recipients.
+Methods: Frailty testing was conducted at a pre-kidney transplant clinic in three
+phases using Fried's frailty phenotype (shrinking, exhaustion, low physical
+activity, slowness, and grip strength).
+Results: A total of 132 frailty tests were completed on 128 patients. Frail
+patients had significantly higher rates of shrinking (26% vs. 8.5%, P < 0.05),
+exhaustion (82.6% vs. 27.6%, P < 0.05), low physical activity (78.2% vs. 19.0%, P
+< 0.05), slow walking (60.8% vs. 15.2%, P < 0.05), and grip strength (73.9% vs.
+25.7%, P < 0.05). When comparing the listing of frail and non-frail patients for 
+transplant, a significantly lower proportion of frail patients were listed
+compared to non-frail patients (30.4% vs. 57.6%, P < 0.05). Frailty testing was
+most complete when an examiner dedicated to frailty testing performed the
+testing.
+Conclusions: Frailty testing is feasible to complete in a pre-transplant clinic
+with an appropriate investment in personnel and resources.
+
+DOI: 10.14740/jocmr3203w 
+PMCID: PMC5755647
+PMID: 29317953 
+
+
+19. Am J Kidney Dis. 2018 Feb;71(2):182-190. doi: 10.1053/j.ajkd.2017.08.014. Epub
+2017 Nov 8.
+
+Association of Citizenship Status With Kidney Transplantation in Medicaid
+Patients.
+
+Shen JI(1), Hercz D(2), Barba LM(3), Wilhalme H(2), Lum EL(4), Huang E(4), Reddy 
+U(5), Salas L(6), Vangala S(2), Norris KC(7).
+
+Author information: 
+(1)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA; Department of Medicine,
+David Geffen School of Medicine at UCLA, Los Angeles, CA. Electronic address:
+jshen@labiomed.org.
+(2)Department of Medicine Statistics Core, David Geffen School of Medicine at
+UCLA, Los Angeles, CA.
+(3)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA; Department of Medicine,
+David Geffen School of Medicine at UCLA, Los Angeles, CA.
+(4)Division of Nephrology, David Geffen School of Medicine at UCLA, Los Angeles, 
+CA.
+(5)Division of Nephrology and Hypertension, University of California Irvine,
+Orange, CA.
+(6)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, CA.
+(7)Division of General Internal Medicine and Health Services Research, David
+Geffen School of Medicine at UCLA, Los Angeles, CA.
+
+BACKGROUND: Although individuals classified as nonresident aliens, including
+undocumented immigrants, are entitled to receive emergency dialysis in the United
+States regardless of their ability to pay, most states do not provide them with
+subsidized care for maintenance dialysis or kidney transplantation. We explored
+whether nonresident aliens have similar outcomes to US citizens after receiving
+kidney transplants covered by Medicaid, a joint federal and state health
+insurance program.
+STUDY DESIGN: Retrospective observational cohort study.
+SETTING & PARTICIPANTS: All adult Medicaid patients in the US Renal Data System
+who received their first kidney transplant from 1990 to 2011.
+PREDICTOR: Citizenship status, categorized as US citizen, nonresident alien, or
+permanent resident.
+OUTCOME: All-cause transplant loss.
+MEASUREMENTS: HRs and 95% CIs estimated by applying Cox proportional hazards
+frailty models with transplantation center as a random effect.
+RESULTS: Of 10,495 patients, 8,660 (82%) were US citizens, 1,489 (14%) were
+permanent residents, and 346 (3%) were nonresident aliens, whom we assumed were
+undocumented immigrants. Nonresident aliens were younger, healthier, receiving
+dialysis longer, and more likely to have had a living donor. 71% underwent
+transplantation in California, and 61% underwent transplantation after 2005.
+Nonresident aliens had a lower unadjusted risk for transplant loss compared with 
+US citizens (HR, 0.48; 95% CI, 0.35-0.65). Results were attenuated but still
+significant when adjusted for demographics, comorbid conditions, dialysis, and
+transplant-related factors (HR, 0.67; 95% CI, 0.46-0.94).
+LIMITATIONS: Citizenship status was self-reported, possible residual confounding.
+CONCLUSIONS: Our study suggests that the select group of insured nonresident
+aliens who undergo transplantation with Medicaid do just as well as US citizens
+with Medicaid. Policymakers should consider expanding coverage for kidney
+transplantation in nonresident aliens, including undocumented immigrants, given
+the associated high-quality outcomes in these patients.
+
+Copyright © 2017 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.ajkd.2017.08.014 
+PMCID: PMC5794566
+PMID: 29128413 
+
+
+20. Am J Transplant. 2017 Dec;17(12):3159-3171. doi: 10.1111/ajt.14459. Epub 2017 Sep
+15.
+
+Long-term outcome of renal transplantation from octogenarian donors: A
+multicenter controlled study.
+
+Ruggenenti P(1)(2), Silvestre C(3), Boschiero L(4), Rota G(5), Furian L(3), Perna
+A(2), Rossini G(6), Remuzzi G(1)(2)(7), Rigotti P(3).
+
+Author information: 
+(1)IRCCS - Istituto di Ricerche Farmacologiche Mario Negri, Clinical Research
+Center for Rare Diseases Aldo e Cele Daccò, Bergamo, Italy.
+(2)Nephrology and Dialysis Unit, Azienda Socio Sanitaria Territoriale (ASST) Papa
+Giovanni XXIII, Bergamo, Italy.
+(3)Kidney and Pancreas Transplant Unit, University Hospital of Padua, Padua,
+Italy.
+(4)Kidney Transplantation Unit, Department of Surgery, Azienda
+Ospedaliero-Universitaria (AOUI) di Verona, Verona, Italy.
+(5)Kidney Transplantation Center, Unit of Pediatric Surgery, Azienda Socio
+Sanitaria Territoriale (ASST) Papa Giovanni XXIII, Bergamo, Italy.
+(6)Organ and Tissue Transplant Immunology Unit, Foundation IRCCS "Ca' Granda
+Ospedale Maggiore Policlinico", Milan, Italy.
+(7)Department of Biomedical and Clinical Sciences, University of Milan, Milan,
+Italy.
+
+To assess whether biopsy-guided selection of kidneys from very old brain-dead
+donors enables more successful transplantations, the authors of this multicenter,
+observational study compared graft survival between 37 recipients of 1 or 2
+histologically evaluated kidneys from donors older than 80 years and 198
+reference-recipients of non-histologically evaluated single grafts from donors
+aged 60 years and younger (transplantation period: 2006-2013 at 3 Italian
+centers). During a median (interquartile range) of 25 (13-42) months, 2
+recipients (5.4%) and 10 reference-recipients (5.1%) required dialysis (crude and
+donor age- and sex-adjusted hazard ratio [95% confidence interval] 1.55
+[0.34-7.12], P = .576 and 1.41 [0.10-19.54], P = .798, respectively). Shared
+frailty analyses confirmed similar outcomes in a 1:2 propensity score study
+comparing recipients with 74 reference-recipients matched by center, year, donor,
+and recipient sex and age. Serum creatinine was similar across groups during
+84-month follow-up. Recipients had remarkably shorter waiting times than did
+reference-recipients and matched reference-recipients (7.5 [4.0-19.5] vs 36
+[19-56] and 40 [24-56] months, respectively, P < .0001 for both comparisons).
+Mean (± SD) kidney donor risk index was 2.57 ± 0.32 in recipients vs 1.09 ± 0.24 
+and 1.14 ± 0.24 in reference-recipients and matched reference-recipients
+(P < .0001 for both comparisons). Adverse events were similar across groups.
+Biopsy-guided allocation of kidneys from octogenarian donors permits further
+expansion of the donor organ pool and faster access to a kidney transplant,
+without increasing the risk of premature graft failure.
+
+© 2017 The American Society of Transplantation and the American Society of
+Transplant Surgeons.
+
+DOI: 10.1111/ajt.14459 
+PMID: 28792681  [Indexed for MEDLINE]
+
+
+21. Am J Transplant. 2018 Jan;18(1):189-196. doi: 10.1111/ajt.14430. Epub 2017 Aug
+30.
+
+Pre-Kidney Transplant Lower Extremity Impairment and Post-Kidney Transplant
+Mortality.
+
+Nastasi AJ(1)(2), McAdams-DeMarco MA(1)(2), Schrack J(1), Ying H(2), Olorundare
+I(2), Warsame F(2), Mountford A(2), Haugen CE(2), González Fernández M(3), Norman
+SP(4), Segev DL(1)(2).
+
+Author information: 
+(1)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+Baltimore, MD.
+(2)Department of Surgery, Johns Hopkins School of Medicine, Baltimore, MD.
+(3)Department of Physical Medicine and Rehabilitation, Johns Hopkins University
+School of Medicine, Baltimore, MD.
+(4)Department of Internal Medicine, Division of Nephrology, University of
+Michigan School of Medicine, Ann Arbor, MI.
+
+Prediction models for post-kidney transplantation mortality have had limited
+success (C-statistics ≤0.70). Adding objective measures of potentially modifiable
+factors may improve prediction and, consequently, kidney transplant (KT) survival
+through intervention. The Short Physical Performance Battery (SPPB) is an easily 
+administered objective test of lower extremity function consisting of three parts
+(balance, walking speed, chair stands), each with scores of 0-4, for a composite 
+score of 0-12, with higher scores indicating better function. SPPB performance
+and frailty (Fried frailty phenotype) were assessed at admission for KT in a
+prospective cohort of 719 KT recipients at Johns Hopkins Hospital (8/2009 to
+6/2016) and University of Michigan (2/2013 to 12/2016). The independent
+associations between SPPB impairment (SPPB composite score ≤10) and composite
+score with post-KT mortality were tested using adjusted competing risks models
+treating graft failure as a competing risk. The 5-year posttransplantation
+mortality for impaired recipients was 20.6% compared to 4.5% for unimpaired
+recipients (p < 0.001). Impaired recipients had a 2.30-fold (adjusted hazard
+ratio [aHR] 2.30, 95% confidence interval [CI] 1.12-4.74, p = 0.02) increased
+risk of postkidney transplantation mortality compared to unimpaired recipients.
+Each one-point decrease in SPPB score was independently associated with a
+1.19-fold (95% CI 1.09-1.30, p < 0.001) higher risk of post-KT mortality.
+SPPB-derived lower extremity function is a potentially highly useful and
+modifiable objective measure for pre-KT risk prediction.
+
+© 2017 The American Society of Transplantation and the American Society of
+Transplant Surgeons.
+
+DOI: 10.1111/ajt.14430 
+PMCID: PMC5739948
+PMID: 28710900 
+
+
+22. Biometrics. 2018 Mar;74(1):289-299. doi: 10.1111/biom.12739. Epub 2017 Jul 6.
+
+Evaluating center performance in the competing risks setting: Application to
+outcomes of wait-listed end-stage renal disease patients.
+
+Dharmarajan SH(1), Schaubel DE(1), Saran R(2).
+
+Author information: 
+(1)Department of Biostatistics, University of Michigan, Ann Arbor, Michigan,
+U.S.A.
+(2)Department of Internal Medicine, University of Michigan, Ann Arbor, Michigan, 
+U.S.A.
+
+It is often of interest to compare centers or healthcare providers on quality of 
+care delivered. We consider the setting where evaluation of center performance on
+multiple competing events is of interest. We propose estimating center effects
+through cause-specific proportional hazards frailty models that allow correlation
+among a center's cause-specific effects. Estimation of our model proceeds via
+penalized partial likelihood and is implemented in R. To evaluate center
+performance, we also propose a directly standardized excess cumulative incidence 
+(ECI) measure. Therefore, based on our proposed methods, practitioners can
+evaluate centers either through the cause-specific hazards or the cumulative
+incidence functions. We demonstrate, through simulations, the advantages of the
+proposed methods to detect outlying centers, by comparing the proposed methods
+and existing methods which assume uncorrelated random center effects. In
+addition, we develop a Correlation Score Test to test the null hypothesis that
+the competing event processes within a center are correlated. Using data from the
+Scientific Registry of Transplant Recipients, we apply our method to evaluate the
+performance of Organ Procurement Organizations on two competing risks: (i)
+receipt of a kidney transplant and (ii) death on the wait-list.
+
+© 2017, The International Biometric Society.
+
+DOI: 10.1111/biom.12739 
+PMID: 28682445 
+
+
+23. Clin Transplant. 2017 Aug;31(8). doi: 10.1111/ctr.13020. Epub 2017 Jul 10.
+
+Prehabilitation for kidney transplant candidates: Is it time?
+
+Cheng XS(1), Myers JN(2)(3), Chertow GM(1), Rabkin R(1)(3), Chan KN(2), Chen
+Y(3), Tan JC(1).
+
+Author information: 
+(1)Division of Nephrology, Department of Medicine, Stanford University, Palo
+Alto, CA, USA.
+(2)Division of Cardiology, Veterans Affairs Palo Alto Health Care System, Palo
+Alto, CA, USA.
+(3)Research Service, Veterans Administration Health Care System, Palo Alto, CA,
+USA.
+
+Many patients become frail with diminished cardiorespiratory fitness while
+awaiting kidney transplantation. Frailty and poor fitness powerfully predict
+mortality, transplant graft survival, and healthcare utilization after kidney
+transplantation. Efforts to intervene with post-transplant physical therapy have 
+been met with limited success, in large part due to high study dropout. We
+reviewed the literature on chronic kidney disease and exercise to propose a
+clinical framework for physical therapy interventions to improve fitness,
+scheduled for before the transplant. This framework may lead to better patient
+retention and compliance, and thus demonstrate better efficacy in mitigating the 
+effects of frailty and poor fitness after kidney transplantation.
+
+© 2017 The Authors. Clinical Transplantation published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/ctr.13020 
+PMID: 28564126  [Indexed for MEDLINE]
+
+
+24. Clin J Am Soc Nephrol. 2017 Mar 7;12(3):443-453. doi: 10.2215/CJN.05890616. Epub 
+2017 Jan 31.
+
+Perspectives of Older Kidney Transplant Recipients on Kidney Transplantation.
+
+Pinter J(1)(2)(3), Hanson CS(1)(2), Chapman JR(4), Wong G(1)(2)(4), Craig
+JC(1)(2), Schell JO(5), Tong A(6)(2).
+
+Author information: 
+(1)Sydney School of Public Health, The University of Sydney, Sydney, New South
+Wales, Australia.
+(2)Centre for Kidney Research, The Children's Hospital at Westmead, Westmead, New
+South Wales, Australia.
+(3)Department of Medicine, Division of Nephrology, Würzburg University Clinic,
+Würzburg, Germany.
+(4)Centre for Transplant and Renal Research, Westmead Hospital, Westmead, New
+South Wales, Australia; and.
+(5)Section of Palliative Care and Medical Ethics, Renal-Electrolyte Division,
+University of Pittsburgh, Pittsburgh, Pennsylvania.
+(6)Sydney School of Public Health, The University of Sydney, Sydney, New South
+Wales, Australia; allison.tong@sydney.edu.au.
+
+BACKGROUND AND OBJECTIVES: Older kidney transplant recipients are susceptible to 
+cognitive impairment, frailty, comorbidities, immunosuppression-related
+complications, and chronic graft failure, however, there has been limited focus
+on their concerns and expectations related to transplantation. This study aims to
+describe the perspectives of older kidney transplant recipients about their
+experience of kidney transplantation, self-management, and treatment goals to
+inform strategies and interventions that address their specific needs.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: Face-to-face semistructured
+interviews were conducted with 30 kidney transplant recipients aged 65-80 years
+from five renal units in Australia. Transcripts were analyzed thematically.
+RESULTS: Six themes were identified: restoring vitality of youth (with subthemes 
+of revived mindset for resilience, embracing enjoyment in life, drive for
+self-actualization); persisting through prolonged recovery (yielding to aging,
+accepting functional limitations, pushing the limit, enduring treatment
+responsibilities); imposing sicknesses (combatting devastating comorbidities,
+painful restrictions, emerging disillusionment, anxieties about accumulating side
+effects, consuming treatment burden); prioritizing graft survival (privileged
+with a miracle, negotiating risks for longevity, enacting a moral duty,
+preserving the last opportunity); confronting health deterioration (vulnerability
+and helplessness, narrowing focus to immediate concerns, uncertainty of
+survival); and value of existence (purpose through autonomy, refusing the burden 
+of futile treatment, staying alive by all means).
+CONCLUSIONS: Older kidney transplant recipients felt able to enjoy life and
+strived to live at their newly re-established potential and capability, which
+motivated them to protect their graft. However, some felt constrained by slow
+recuperation and overwhelmed by unexpected comorbidities, medication-related side
+effects, and health decline. Our findings suggest the need to prepare and support
+older recipients for self-management responsibilities, clarify their expectations
+of post-transplant risks and outcomes, and provide assistance through prolonged
+recovery after kidney transplantation.
+
+Copyright © 2017 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.05890616 
+PMCID: PMC5338704
+PMID: 28143863  [Indexed for MEDLINE]
+
+
+25. World J Transplant. 2016 Dec 24;6(4):650-657. doi: 10.5500/wjt.v6.i4.650.
+
+Older candidates for kidney transplantation: Who to refer and what to expect?
+
+Concepcion BP(1), Forbes RC(1), Schaefer HM(1).
+
+Author information: 
+(1)Beatrice P Concepcion, Heidi M Schaefer, Department of Medicine, Division of
+Nephrology and Hypertension, Vanderbilt University Medical Center, Nashville, TN 
+37232, United States.
+
+The number of older end-stage renal disease patients being referred for kidney
+transplantation continues to increase. This rise is occurring alongside the
+continually increasing prevalence of older end-stage renal disease patients.
+Although older kidney transplant recipients have decreased patient and graft
+survival compared to younger patients, transplantation in this patient population
+is pursued due to the survival advantage that it confers over remaining on the
+deceased donor waiting list. The upper limit of age and the extent of comorbidity
+and frailty at which transplantation ceases to be advantageous is not known.
+Transplant physicians are therefore faced with the challenge of determining who
+among older patients are appropriate candidates for kidney transplantation. This 
+is usually achieved by means of an organ systems-based medical evaluation with
+particular focus given to cardiovascular health. More recently, global measures
+of health such as functional status and frailty are increasingly being recognized
+as potential tools in risk stratifying kidney transplant candidates. For those
+candidates who are deemed eligible, living donor transplantation should be
+pursued. This may mean accepting a kidney from an older living donor. In the
+absence of any living donor, the choice to accept lesser quality kidneys should
+be made while taking into account the organ shortage and expected waiting times
+on the deceased donor list. Appropriate counseling of patients should be a
+cornerstone in the evaluation process and includes a discussion regarding
+expected outcomes, expected waiting times in the setting of the new Kidney
+Allocation System, benefits of living donor transplantation and the acceptance of
+lesser quality kidneys.
+
+DOI: 10.5500/wjt.v6.i4.650 
+PMCID: PMC5175222
+PMID: 28058214 
+
+Conflict of interest statement: Conflict-of-interest statement: The authors have 
+no potential conflicts of interest.
+
+
+26. Transplantation. 2017 Sep;101(9):2126-2132. doi: 10.1097/TP.0000000000001546.
+
+Individual Frailty Components and Mortality in Kidney Transplant Recipients.
+
+McAdams-DeMarco MA(1), Ying H, Olorundare I, King EA, Haugen C, Buta B, Gross AL,
+Kalyani R, Desai NM, Dagher NN, Lonze BE, Montgomery RA, Bandeen-Roche K, Walston
+JD, Segev DL.
+
+Author information: 
+(1)1 Department of Surgery, Johns Hopkins University School of Medicine,
+Baltimore, MD. 2 Department of Epidemiology, Johns Hopkins School of Public
+Health, Baltimore, MD. 3 Department of Medicine, Johns Hopkins University School 
+of Medicine, Baltimore, MD. 4 Department of Biostatistics, Johns Hopkins School
+of Public Health, Baltimore, MD.
+
+BACKGROUND: Frailty increases early hospital readmission and mortality risk among
+kidney transplantation (KT) recipients. Although frailty represents a high-risk
+state for this population, the correlates of frailty, the patterns of the 5
+frailty components, and the risk associated with these patterns are unclear.
+METHODS: Six hundred sixty-three KT recipients were enrolled in a cohort study of
+frailty in transplantation (12/2008-8/2015). Frailty, activities of daily living 
+(ADL)/instrumental ADL (IADL) disability, Centers for Epidemiologic Studies
+Depression Scale depression, education, and health-related quality of life
+(HRQOL) were measured. We used multinomial regression to identify frailty
+correlates. We identified which patterns of the 5 components were associated with
+mortality using adjusted Cox proportional hazards models.
+RESULTS: Frailty prevalence was 19.5%. Older recipients (adjusted prevalence
+ratio [PR], 2.22; 95% confidence interval [CI], 1.21-4.07) were more likely to be
+frail. The only other factors that were independently associated with frailty
+were IADL disability (PR, 3.22; 95% CI, 1.72-6.06), depressive symptoms (PR,
+11.31; 95% CI, 4.02-31.82), less than a high school education (PR, 3.10; 95% CI, 
+1.30-7.36), and low HRQOL (fair/poor: PR, 3.71; 95% CI, 1.48-9.31). The most
+common pattern was poor grip strength, low physical activity, and slowed walk
+speed (19.4%). Only 2 patterns of the 5 components emerged as having an
+association with post-KT mortality. KT recipients with exhaustion and slowed
+walking speed (hazards ratio = 2.43; 95% CI, 1.17-5.03) and poor grip strength,
+exhaustion, and slowed walking speed (hazard ratio, 2.61; 95% CI, 1.14-5.97) were
+at increased mortality risk.
+CONCLUSIONS: Age was the only conventional factor associated with frailty among
+KT recipients; however, factors rarely measured as part of clinical practice,
+namely, HRQOL, IADL disability, and depressive symptoms, were significant
+correlates of frailty. Redefining the frailty phenotype may be needed to improve 
+risk stratification for KT recipients.
+
+DOI: 10.1097/TP.0000000000001546 
+PMCID: PMC5405005
+PMID: 27779573  [Indexed for MEDLINE]
+
+
+27. Am J Transplant. 2017 Apr;17(4):1031-1041. doi: 10.1111/ajt.14061. Epub 2016 Oct 
+24.
+
+First-Year Waitlist Hospitalization and Subsequent Waitlist and Transplant
+Outcome.
+
+Lynch RJ(1), Zhang R(2), Patzer RE(1)(3), Larsen CP(1), Adams AB(1).
+
+Author information: 
+(1)Division of Transplantation, Department of Surgery, Emory University School of
+Medicine, Atlanta, GA.
+(2)Department of Biostatistics, Rollins School of Public Health, Emory
+University, Atlanta, GA.
+(3)Department of Epidemiology, Rollins School of Public Health, Emory University,
+Atlanta, GA.
+
+Frailty is associated with inferior survival and increased resource requirements 
+among kidney transplant candidates, but assessments are time-intensive and costly
+and require direct patient interaction. Waitlist hospitalization may be a proxy
+for patient fitness and could help those at risk of poor outcomes. We examined
+United States Renal Data System data from 51 111 adult end-stage renal disease
+patients with continuous Medicare coverage who were waitlisted for transplant
+from January 2000 to December 2011. Heavily admitted patients had higher
+subsequent resource requirements, increased waitlist mortality and decreased
+likelihood of transplant (death after listing: 1-7 days: hazard ratio [HR] 1.24, 
+95% confidence interval [CI] 1.20-1.28; 8-14 days: HR 1.49, 95% CI 1.42-1.56; ≥15
+days: HR 2.07, 95% CI 1.99-2.15; vs. 0 days). Graft and recipient survival was
+inferior, with higher admissions, although survival benefit was preserved. A
+model including waitlist admissions alone performed better (C statistic 0.76, 95%
+CI 0.74-0.80) in predicting postlisting mortality than estimated posttransplant
+survival (C statistic 0.69, 95% CI 0.67-0.73). Although those with a heavy burden
+of admissions may still benefit from kidney transplant, less utility is derived
+from allografts placed in this population. Current kidney allocation policy,
+which is based in part on longevity matching, could be significantly improved by 
+consideration of hospitalization records of transplant candidates.
+
+© 2016 The American Society of Transplantation and the American Society of
+Transplant Surgeons.
+
+DOI: 10.1111/ajt.14061 
+PMID: 27664797  [Indexed for MEDLINE]
+
+
+28. J Adv Nurs. 2017 Mar;73(3):716-734. doi: 10.1111/jan.13179. Epub 2016 Nov 23.
+
+ExplorinG frailty and mild cognitive impairmEnt in kidney tRansplantation to
+predict biomedicAl, psychosocial and health cost outcomeS (GERAS): protocol of a 
+nationwide prospective cohort study.
+
+Mauthner O(1), Claes V(1), Walston J(2), Engberg S(1)(3), Binet I(4), Dickenmann 
+M(5), Golshayan D(6), Hadaya K(7), Huynh-Do U(8), Calciolari S(9), De Geest
+S(1)(10); GERAS study consortium; For the Psychosocial Interest Group; Swiss
+Transplant Cohort Study (STCS).
+
+Collaborators: Berben L, Burkhalter H, Denhaerynck K, Helmy R, Kirsch M, Leppla
+L, Struker M, Boehler A, Gerull S, Koller MT, Boely E, Catana E, Simcox A, Seiler
+A, Klaghofer R, Künzler-Heule P, Beckmann S, Achermann R, Amico P, Aubert JD,
+Baumann P, Beldi G, Benden C, Berger C, Bochud PY, Boely E, Bucher H, Bühler L,
+Carell T, Catana E, Chalandon Y, de Rougemont O, Duchosal M, Fehr T,
+Ferrari-Lacraz S, Garzoni C, Soccal PG, Giostra E, Halter J, Heim D, Hess C,
+Hillinger S, Hirsch HH, Hofbauer G, Immer F, Klaghofer R, Koller M, Laesser B,
+Lehmann R, Lovis C, Manuel O, Marti HP, Martin PY, Martinolli L, Meylan P,
+Mohacsi P, Morard I, Morel P, Mueller U, Mueller NJ, Mueller-McKenna H, Müller A,
+Müller T, Müllhaupt B, Nadal D, Pascual M, Passweg J, Ziegler CP, Rick J, Roosnek
+E, Rosselet A, Rothlin S, Ruschitzka F, Schanz U, Schaub S, Schnyder A, Seiler C,
+Stampf S, Steiger J, Stirnimann G, Toso C, Van Delden C, Venetz JP, Villard J,
+Wick M, Wilhelm M, Yerly P.
+
+Author information: 
+(1)Institute of Nursing Science, University of Basel, Switzerland.
+(2)Center on Aging and Health, Johns Hopkins University, Baltimore, Maryland,
+USA.
+(3)School of Nursing, University of Pittsburgh, Pennsylvania, USA.
+(4)Clinic of Nephrology and Transplantation Medicine, Cantonal Hospital St
+Gallen, Switzerland.
+(5)Department for Transplantation-Immunology and Nephrology, University Hospital 
+Basel, Switzerland.
+(6)Transplantation Centre and Transplantation Immunopathology Laboratory,
+University Hospital Lausanne, Switzerland.
+(7)Department of Nephrology, University Hospital Geneva, Switzerland.
+(8)University Clinic for Nephrology, Hypertension and Clinical Pharmacology,
+University Hospital Bern, Switzerland.
+(9)Institute of Economics, University of Lugano, Switzerland.
+(10)Academic Center for Nursing and Midwifery, KU Leuven, Belgium.
+
+AIM: To present the rationale, design and methodology of the GERAS project, which
+examines whether assessment of frailty and mild cognitive impairment could
+enhance risk prediction for biomedical, psychosocial outcomes and foster
+efficient resource allocation in kidney transplantation.
+BACKGROUND: For the burgeoning cohort of older patients considered for kidney
+transplantation, evidence gaps regarding frailty and mild cognitive impairment
+limit clinical decision-making and medical management. As known risk factors for 
+'hard' clinical outcomes in chronic illness, both require further study in
+transplantation. Integrating these and other bio-psychosocial factors into a
+comprehensive pre-transplant patient assessment will provide insights regarding
+economic implications and may improve risk prediction.
+DESIGN: A nation-wide multi-centre prospective cohort study nested in the Swiss
+Transplant Cohort Study.
+METHODS: Our nationally representative convenience sample includes 250 adult
+kidney transplant recipients. Data sources include the Swiss Transplant Cohort
+Study and primary data collected at time of transplantation, 6 months, 1 and
+2 years post-transplant via established measures (the Montreal Cognitive
+Assessment, Psychosocial Questionnaire, Fried Frailty Instrument and a blood
+analysis), investigator-developed instruments and datasets compiled by hospitals'
+management control units, sickness funds, the Swiss Federal Statistical Office
+and the European Renal Association. Descriptive, competing risk survival and
+mixed effects analyses will be performed. Research Ethics Committee approval was 
+obtained in January 2016.
+DISCUSSION: This pioneering project jointly examines frailty and mild cognitive
+impairment from bio-psychosocial and health economic perspectives. Results may
+significantly inform risk prediction, care tailoring and resource optimization to
+improve health outcomes in the ageing kidney transplant cohort.
+
+© 2016 John Wiley & Sons Ltd.
+
+DOI: 10.1111/jan.13179 
+PMID: 27731953  [Indexed for MEDLINE]
+
+
+29. Ann Epidemiol. 2016 Nov;26(11):773-779. doi: 10.1016/j.annepidem.2016.08.010.
+Epub 2016 Aug 31.
+
+Measuring senescence rates of patients with end-stage renal disease while
+accounting for population heterogeneity: an analysis of data from the ERA-EDTA
+Registry.
+
+Koopman JJ(1), Kramer A(2), van Heemst D(3), Åsberg A(4), Beuscart JB(5),
+Buturović-Ponikvar J(6), Collart F(7), Couchoud CG(8), Finne P(9), Heaf JG(10),
+Massy ZA(11), De Meester JM(12), Palsson R(13), Steenkamp R(14), Traynor JP(15), 
+Jager KJ(2), Putter H(16).
+
+Author information: 
+(1)Section of Gerontology and Geriatrics, Department of Internal Medicine, Leiden
+University Medical Center, Leiden, The Netherlands. Electronic address:
+j.j.e.koopman@lumc.nl.
+(2)ERA-EDTA Registry, Department of Medical Informatics, Academic Medical Center,
+University of Amsterdam, Amsterdam, The Netherlands.
+(3)Section of Gerontology and Geriatrics, Department of Internal Medicine, Leiden
+University Medical Center, Leiden, The Netherlands.
+(4)Norwegian Renal Registry, Department of Transplant Medicine, Oslo University
+Hospital-Rikshospitalet, Oslo, Norway.
+(5)University of Lille, EA2694, Santé publique: épidémiologie et qualité des
+soins, Lille, France; CHU Lille, Geriatric Department, Lille, France.
+(6)Department of Nephrology, Ljubljana University Medical Center, Ljubljana,
+Slovenia; Medical Faculty, University of Ljubljana, Ljubljana, Slovenia.
+(7)Department of Nephrology and Dialysis, Brugmann University Hospital, Brussels,
+Belgium.
+(8)Renal Epidemiology and Information Network (REIN) Registry, French Biomedical 
+Agency, Saint-Denis-la-Plaine, France.
+(9)Finnish Registry for Kidney Diseases, Helsinki, Finland; Department of
+Nephrology, Helsinki University Central Hospital, Helsinki, Finland.
+(10)Department of Medicine, Zealand University Hospital, Roskilde, Denmark.
+(11)Division of Nephrology, Ambroise Paré University Hospital, University of
+Paris Ouest-Versailles-St-Quentin-en-Yvelines, Paris, France; Institut National
+de la Santé et de la Recherche Médicale (INSERM) U1018, Research Centre in
+Epidemiology and Population Health (CESP), Villejuif, France.
+(12)Department of Nephrology, Dialysis, and Hypertension, AZ Nikolaas,
+Sint-Niklaas, Belgium.
+(13)Division of Nephrology, Landspitali-The National University Hospital of
+Iceland, Reykjavik, Iceland; Faculty of Medicine, School of Health Sciences,
+University of Iceland, Reykjavik, Iceland.
+(14)UK Renal Registry, Southmead Hospital, Bristol, UK.
+(15)The Scottish Renal Registry, Information Services Division Scotland, Glasgow,
+UK.
+(16)Department of Medical Statistics and Bioinformatics, Leiden University
+Medical Center, Leiden, The Netherlands.
+
+PURPOSE: Although a population's senescence rate is classically measured as the
+increase in mortality rate with age on a logarithmic scale, it may be more
+accurately measured as the increase on a linear scale. Patients on dialysis, who 
+suffer from accelerated senescence, exhibit a smaller increase in their mortality
+rate on a logarithmic scale, but a larger increase on a linear scale than
+patients with a functioning kidney transplant. However, this comparison may be
+biased by population heterogeneity.
+METHODS: Follow-up data on 323,308 patients on dialysis and 91,679 patients with 
+a functioning kidney transplant were derived from the ERA-EDTA Registry. We
+measured the increases in their mortality rates using Gompertz frailty models
+that allow individual variation in this increase.
+RESULTS: According to these models, the senescence rate measured as the increase 
+in mortality rate on a logarithmic scale was smaller in patients on dialysis,
+while the senescence rate measured as the increase on a linear scale was larger
+in patients on dialysis than patients with a functioning kidney transplant.
+CONCLUSIONS: Also when accounting for population heterogeneity, a population's
+senescence rate is more accurately measured as the increase in mortality rate on 
+a linear scale than a logarithmic scale.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.annepidem.2016.08.010 
+PMID: 27665405  [Indexed for MEDLINE]
+
+
+30. Ann Surg. 2017 Dec;266(6):1084-1090. doi: 10.1097/SLA.0000000000002025.
+
+Frailty, Length of Stay, and Mortality in Kidney Transplant Recipients: A
+National Registry and Prospective Cohort Study.
+
+McAdams-DeMarco MA(1), King EA, Luo X, Haugen C, DiBrito S, Shaffer A, Kucirka
+LM, Desai NM, Dagher NN, Lonze BE, Montgomery RA, Walston J, Segev DL.
+
+Author information: 
+(1)*Department of Surgery, Johns Hopkins University School of Medicine,
+Baltimore, MD †Department of Epidemiology, Johns Hopkins Bloomberg School of
+Public Health, Baltimore, MD ‡Division of Geriatric Medicine and Gerontology,
+Johns Hopkins University School of Medicine, Baltimore, MD.
+
+OBJECTIVE: To test whether frailty, a novel measure of physiologic reserve, is
+associated with longer kidney transplant (KT) length of stay (LOS), and modifies 
+the association between LOS and mortality.
+BACKGROUND: Better understanding of LOS is necessary for informed consent and
+discharge planning. Mortality resulting from longer LOS has important regulatory 
+implications for hospital and transplant programs. Which recipients are at risk
+of prolonged LOS and its effect on mortality are unclear. Frailty is a novel
+preoperative predictor of poor KT outcomes including delayed graft function,
+early hospital readmission, immunosuppression intolerance, and mortality.
+METHODS: We used registry-augmented hybrid methods, a novel approach to risk
+adjustment, to adjust for LOS risk factors from the Scientific Registry of
+Transplant Recipients (n = 74,859) and tested whether (1) frailty, measured
+immediately before KT in a novel cohort (n = 589), was associated with LOS (LOS: 
+negative binomial regression; LOS ≥2 weeks: logistic regression) and (2) whether 
+frailty modified the association between LOS and mortality (interaction term
+analysis).
+RESULTS: Frailty was independently associated with longer LOS [relative risk =
+1.15, 95% confidence interval (CI): 1.03-1.29; P = 0.01] and LOS ≥2 weeks (odds
+ratio = 1.57, 95% CI: 1.06-2.33; P = 0.03) after accounting for registry-based
+risk factors, including delayed graft function. Frailty also attenuated the
+association between LOS and mortality (nonfrail hazard rate = 1.55 95% CI:
+1.30-1.86; P < 0.001; frail hazard rate = 0.97, 95% CI: 0.79-1.19, P = 0.80; P
+for interaction = 0.001).
+CONCLUSIONS: Frail KT recipients are more likely to experience a longer LOS.
+Longer LOS among nonfrail recipients may be a marker of increased mortality risk.
+Frailty is a measure of physiologic reserve that may be an important clinical
+marker of longer surgical LOS.
+
+DOI: 10.1097/SLA.0000000000002025 
+PMCID: PMC5360544
+PMID: 27655240  [Indexed for MEDLINE]
+
+
+31. Nephrol Dial Transplant. 2016 Sep;31(9):1531-40. doi: 10.1093/ndt/gfv463. Epub
+2016 Feb 4.
+
+'I feel stronger and younger all the time'-perspectives of elderly kidney
+transplant recipients: thematic synthesis of qualitative research.
+
+Pinter J(1), Hanson CS(1), Craig JC(1), Chapman JR(2), Budde K(3), Halleck F(3), 
+Tong A(1).
+
+Author information: 
+(1)Sydney School of Public Health, University of Sydney, Sydney, NSW 2006,
+Australia Centre for Kidney Research, Children's Hospital at Westmead, Westmead, 
+NSW, Australia.
+(2)Centre for Transplant and Renal Research, Westmead Hospital, Westmead, NSW,
+Australia.
+(3)Department of Nephrology, Charité-Universitätsmedizin Berlin, Berlin, Germany.
+
+BACKGROUND: Kidney transplantation offers improved survival and quality of life
+to an increasing number of elderly patients with end-stage kidney disease.
+However, elderly kidney transplant recipients may face unique challenges due to a
+higher burden of comorbidity, greater cumulative risk of
+immunosuppression-related complications and increasing frailty. We aimed to
+describe the perspectives of elderly kidney transplant recipients.
+METHODS: Electronic databases were searched to April 2015. Qualitative studies
+were eligible if they reported views from elderly kidney transplant recipients
+(≥60 years). Thematic synthesis was used to analyse the findings.
+RESULTS: Twenty-one studies involving >116 recipients were included. We
+identified seven themes. 'Regaining strength and vitality' meant valuing the
+physical and psychosocial improvements in daily functioning and life
+participation. 'Extending life' was the willingness to accept any organ,
+including extended criteria kidneys, to prolong survival. 'Debt of gratitude'
+entailed conscious appreciation toward their donor while knowing they were unable
+to repay their sacrifice. 'Moral responsibility to maintain health' motivated
+adherence to medication and lifestyle recommendations out of an ethical duty to
+protect their gift for graft survival. 'Unabating and worsening forgetfulness'
+hindered self-management. 'Disillusionment with side effects and complications'
+reflected disappointment and exasperation with the unintended consequences of
+medications. 'Finality of treatment option' was an acute awareness that the
+current transplant may be their last.
+CONCLUSIONS: Kidney transplantation was perceived to slow and even reverse the
+experience of aging among elderly recipients, especially compared with dialysis. 
+However, some were frustrated over persistent limitations after transplant,
+struggled with the burden of medication side effects and worried about a possible
+return to dialysis if the transplant failed. Clarifying patient expectations of
+transplantation, providing support to alleviate the debilitating impacts of
+immunosuppression and addressing fears about deteriorating health and graft
+failure may improve satisfaction and outcomes in elderly kidney transplant
+recipients.
+
+© The Author 2016. Published by Oxford University Press on behalf of ERA-EDTA.
+All rights reserved.
+
+DOI: 10.1093/ndt/gfv463 
+PMID: 27333617  [Indexed for MEDLINE]
+
+
+32. Stat Methods Med Res. 2018 Mar;27(3):832-845. doi: 10.1177/0962280216643563. Epub
+2016 May 2.
+
+Dynamic prediction of recurrent events data by landmarking with application to a 
+follow-up study of patients after kidney transplant.
+
+Musoro JZ(1), Struijk GH(2), Geskus RB(1), Ten Berge I(2), Zwinderman AH(1).
+
+Author information: 
+(1)1 Department of Clinical Epidemiology, Biostatistics and Bioinformatic
+Academic Medical Center, University of Amsterdam, Amsterdam, the Netherlands.
+(2)2 Renal Transplant Unit, Academic Medical Center, University of Amsterdam,
+Amsterdam, the Netherlands.
+
+This paper extends dynamic prediction by landmarking to recurrent event data. The
+motivating data comprised post-kidney transplantation records of repeated
+infections and repeated measurements of multiple markers. At each landmark time
+point ts, a Cox proportional hazards model with a frailty term was fitted using
+data of individuals who were at risk at landmark s. This model included the
+time-updated marker values at ts as time-fixed covariates. Based on a stacked
+data set that merged all landmark data sets, we considered supermodels that allow
+parameters to depend on the landmarks in a smooth fashion. We described and
+evaluated four ways to parameterize the supermodels for recurrent event data.
+With both the study data and simulated data sets, we compared supermodels that
+were fitted on stacked data sets that consisted of either overlapping or
+non-overlapping landmark periods. We observed that for recurrent event data, the 
+supermodels may yield biased estimates when overlapping landmark periods are used
+for stacking. Using the best supermodel amongst the ones considered, we
+dynamically estimated the probability to remain infection free between ts and a
+prediction horizon thor, conditional on the information available at ts.
+
+DOI: 10.1177/0962280216643563 
+PMID: 27142981 
+
+
+33. Rev Invest Clin. 2016 Mar-Apr;68(2):68-74.
+
+Aging Kidney Transplantation.
+
+Musso CG(1)(2), Giordani MC(1), Imperiali N(1).
+
+Author information: 
+(1)Nephrology Division, Hospital Italiano de Buenos Aires, Buenos Aires,
+Argentina.
+(2)Ageing Biology Unit, Hospital Italiano de Buenos Aires, Buenos Aires,
+Argentina.
+
+There are several immunological and non-immunological factors related to renal
+graft deterioration, and histological lesions such as interstitial fibrosis and
+tubular atrophy overlap with those observed in aging kidneys. Consequently, it
+has been proposed that kidney transplant senescence could contribute to graft
+loss. The process of cell senescence displays characteristics such as an
+increased expression of specific aging suppressor genes, shortened telomeres,
+mitochondrial changes, increased expression of negative regulators of the cell
+cycle, and immunological senescence. Additionally, tubular frailty characterizes 
+the aged kidney, making it more susceptible to ischemia, reperfusion, toxic
+injury, and consequently, to inflammation. Moreover, renal tissue injury
+predisposes the older graft not only to progressive deterioration due to
+glomerular hyperfiltration, but also triggers acute rejection due to increased
+immunogenicity. In conclusion, renal graft senescence is a complex process, and
+its better understanding will help the nephrologist in its management in order to
+achieve a longer graft survival.
+
+
+PMID: 27103042  [Indexed for MEDLINE]
+
+
+34. Curr Opin Organ Transplant. 2016 Apr;21(2):188-93. doi:
+10.1097/MOT.0000000000000295.
+
+Prehabilitation in our most frail surgical patients: are wearable fitness devices
+the next frontier?
+
+Rumer KK(1), Saraswathula A, Melcher ML.
+
+Author information: 
+(1)aDepartment of Surgery, Stanford University bStanford School of Medicine, Palo
+Alto, California, USA.
+
+PURPOSE OF REVIEW: Frailty is the concept of accumulating physiologic declines
+that make people less able to deal with stressors, including surgery.
+Prehabilitation is intervention to enhance functional capacity before surgery.
+Frailty and prehabilitation among transplant populations and the role of wearable
+fitness tracking devices (WFTs) in delivering fitness-based interventions will be
+discussed.
+RECENT FINDINGS: Frailty is associated with increased complications, longer
+length of hospital stay and increased mortality after surgery. Frail kidney
+transplant patients have increased delayed graft function, mortality and early
+hospital readmission. Frail lung or liver transplant patients are more likely to 
+delist or die on the waitlist. Prehabilitation can mitigate frailty and has
+resulted in decreased length of hospital stay and fewer postsurgical
+complications among a variety of surgical populations. Increasingly, WFTs are
+used to monitor patient activity and improve patient health. Interventions using 
+WFTs have resulted in improved activity, weight loss and blood pressure.
+SUMMARY: Frailty is a measurable parameter that identifies patients at risk for
+worse health outcomes and can be mitigated through intervention. Prehabilitation 
+to reduce frailty has been shown to improve postsurgical outcomes in a variety of
+populations. WFTs are being integrated in healthcare delivery for monitoring and 
+changing health behavior with promising results.
+
+DOI: 10.1097/MOT.0000000000000295 
+PMID: 26859220  [Indexed for MEDLINE]
+
+
+35. Adv Chronic Kidney Dis. 2016 Jan;23(1):44-50. doi: 10.1053/j.ackd.2015.11.002.
+
+Kidney Transplantation Among the Elderly: Challenges and Opportunities to Improve
+Outcomes.
+
+Singh P(1), Ng YH(1), Unruh M(2).
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, University of New
+Mexico.
+(2)Division of Nephrology, Department of Internal Medicine, University of New
+Mexico. Electronic address: mlunruh@salud.unm.edu.
+
+Elderly patients (>65 years old) represent the fastest growing population among
+the ESRD patients and those awaiting kidney transplantation. There is ample
+evidence to suggest that kidney transplant in the elderly population offers the
+best chance of survival and improves health-related quality of life compared to
+remaining on dialysis. Although all these emerging facts are encouraging, this
+population brings with them complex medical problems including frailty, cognitive
+impairment, and multiple comorbidities. These issues can be barriers to
+transplantation and threaten the well-being of the patients after
+transplantation. Furthermore, aging results in changes to the immune system and
+affects the pharmacokinetics of immunosuppressants. All these changes can
+increase risk of complications such as infections and malignancy. Because death
+with a functioning graft is a common cause of graft loss, the new kidney
+allocation system has been implemented in an attempt to maximize allograft
+utilization and minimize unrealized graft years. This may result in longer
+wait-times for the elderly. In this review, we will highlight the barriers to
+kidney transplant, characterize transplant-related issues in the elderly, and
+propose alternative strategies under the new allocation system.
+
+Published by Elsevier Inc.
+
+DOI: 10.1053/j.ackd.2015.11.002 
+PMID: 26709062  [Indexed for MEDLINE]
+
+
+36. Int Urol Nephrol. 2015 Nov;47(11):1801-7. doi: 10.1007/s11255-015-1112-z. Epub
+2015 Sep 28.
+
+Frailty phenotype and chronic kidney disease: a review of the literature.
+
+Musso CG(1), Jauregui JR(2), Macías Núñez JF(3).
+
+Author information: 
+(1)Ageing Biology Unit, Hospital Italiano de Buenos Aires, Buenos Aires,
+Argentina. carlos.musso@hospitalitaliano.org.ar.
+(2)Ageing Biology Unit, Hospital Italiano de Buenos Aires, Buenos Aires,
+Argentina.
+(3)Nephrology Division, Hospital Universitario de Salamanca, Salamanca, Spain.
+
+Frailty is a construct originally coined by gerontologists to describe cumulative
+declines across multiple physiological systems that occur with aging and lead
+individuals to a state of diminished physiological reserve and increased
+vulnerability to stressors. Fried et al. provided a standardized definition for
+frailty, and they created the concept of frailty phenotype which incorporates
+disturbances across interrelated domains (shrinking, weakness, poor endurance and
+energy, slowness, and low physical activity level) to indentify old people who
+are at risk of disability, falls, institutionalization, hospitalization, and
+premature death. Some authors consider the presence of lean mass reduction
+(sarcopenia) as part of the frailty phenotype. The frailty status has been
+documented in 7 % of elderly population and 14 % of not requiring dialysis CKD
+adult patients. Sarcopenia increases progressively along with loss of renal
+function in CKD patients and is high in dialysis population. It has been
+documented that prevalence of frailty in hemodialysis adult patients is around 42
+% (35 % in young and 50 % in elderly), having a 2.60-fold higher risk of
+mortality and 1.43-fold higher number of hospitalization, independent of age,
+comorbidity, and disability. The Clinical Frailty Scale is the simplest and
+clinically useful and validated tool for doing a frailty phenotype, while the
+diagnosis of sarcopenia is based on muscle mass assessment by body imaging
+techniques, bioimpedance analysis, and muscle strength evaluated with a handheld 
+dynamometer. Frailty treatment can be based on different strategies, such as
+exercise, nutritional interventions, drugs, vitamins, and antioxidant agents.
+Finally, palliative care is a very important alternative for very frail and sick 
+patients. In conclusion, since the diagnosis and treatment of frailty and
+sarcopenia is crucial in geriatrics and all CKD patients, it would be very
+important to incorporate these evaluations in pre-dialysis, peritoneal dialysis, 
+hemodialysis, and kidney transplant patients in order to detect and consequently 
+treat the frailty phenotype in these groups.
+
+DOI: 10.1007/s11255-015-1112-z 
+PMID: 26411428  [Indexed for MEDLINE]
+
+
+37. J Urol. 2015 Aug;194(2):483. doi: 10.1016/j.juro.2015.03.016. Epub 2015 Mar 18.
+
+Re: Frailty and Mortality in Kidney Transplant Recipients.
+
+Goldfarb DA.
+
+Comment on
+    Am J Transplant. 2015 Jan;15(1):149-54.
+
+DOI: 10.1016/j.juro.2015.03.016 
+PMID: 26195402  [Indexed for MEDLINE]
+
+
+38. Am J Transplant. 2015 Jul;15(7):1976-81. doi: 10.1111/ajt.13244. Epub 2015 Apr
+13.
+
+Radioimmunotherapy ((90) Y-Ibritumomab Tiuxetan) for Posttransplant
+Lymphoproliferative Disorders After Prior Exposure to Rituximab.
+
+Rossignol J(1), Terriou L(1), Robu D(1), Willekens C(1), Hivert B(1), Pascal
+L(1), Guieze R(1), Trappe R(2), Baillet C(3), Huglo D(3), Morschhauser F(1).
+
+Author information: 
+(1)Service des Maladies du Sang, CHRU de Lille, Lille, France.
+(2)Division of Hematology and Oncology, Department of Medicine, Ev.
+Diakonie-Krankenhaus, Bremen, Germany.
+(3)Service de médecine nucléaire, CHRU de Lille, Lille, France.
+
+Posttransplantation lymphoproliferative disorders (PTLDs) are life-threatening
+complications after solid organ and hematopoietic stem cell transplantation. Only
+half of CD20-positive PTLDs respond to rituximab monotherapy, and outcomes remain
+poor for patients with relapsed/refractory disease, especially those who do not
+qualify for an anthracycline containing regimen due to frailty or comorbidities. 
+Radioimmunotherapy (RIT) might be an option in this particular setting. We report
+a panel of eight patients with rituximab refractory/relapsed CD20-positive PTLDs 
+including three ineligible for subsequent CHOP-like chemotherapy who received
+(90) Y-Ibritumomab tiuxetan as a single agent (n = 7) or combined to chemotherapy
+(n = 1). Five out of eight patients were kidney transplant recipients, while 2/8 
+had a liver transplant and 1/8 had a heart transplant. Patients received a median
+of two previous therapies. Overall response rate was 62.5%. Importantly, all
+responders achieved complete response. At a median follow-up of 37 months [5;
+84], complete response was ongoing in four patients. Toxicity was predominantly
+hematological and easily manageable. No graft rejection was noticed concomitantly
+or following RIT administration despite immunosuppression reduction after
+diagnosis of PTLDs. This report emphasizes the potential efficiency of salvage
+RIT for early rituximab refractory PTLDs without any unexpected toxicity.
+
+© Copyright 2015 The American Society of Transplantation and the American Society
+of Transplant Surgeons.
+
+DOI: 10.1111/ajt.13244 
+PMID: 25868706  [Indexed for MEDLINE]
+
+
+39. Int Urol Nephrol. 2015 Apr;47(4):647-54. doi: 10.1007/s11255-014-0886-8. Epub
+2014 Dec 5.
+
+Therapeutic alternatives and palliative care for advanced renal disease in the
+very elderly: a review of the literature.
+
+Musso CG(1), Trigka K, Dousdampanis P, Jauregui J.
+
+Author information: 
+(1)Ageing Biology Unit, Hospital Italiano de Buenos Aires, Buenos Aires,
+Argentina, carlos.musso@hospitalitaliano.org.ar.
+
+The overall number of very elderly patients (>79 years of age) requiring renal
+replacement therapy is rising in the Western societies, with a choice for
+managing advanced chronic renal disease among hemodialysis, peritoneal dialysis, 
+kidney transplant, conservative, or palliative care. The selection of the most
+adequate alternatives should be tailored to meet individual needs, considering
+variables such as patient's choice, clinical status, and social context, analyzed
+from a geriatric perspective, aiming not only to prolong patient's life
+expectancy, but also to improve the patient's quality of life. Frailty and
+sarcopenia are highly prevalent comorbidities found in very elderly population,
+particularly in the end-stage chronic renal disease population. Both
+comorbidities have a strong negative impact on health general status, and
+specific treatment should be provided in conjunction with the selected management
+for renal replacement, except when a palliative care has been implemented.
+Moreover, the detected degree of frailty in a renal patient can have an important
+influence on the decision about which modality of renal replacement treatment
+will be selected. All these alternatives and considerations are discussed in the 
+present review article.
+
+DOI: 10.1007/s11255-014-0886-8 
+PMID: 25475195  [Indexed for MEDLINE]
+
+
+40. Transplantation. 2015 Apr;99(4):805-10. doi: 10.1097/TP.0000000000000444.
+
+Frailty, mycophenolate reduction, and graft loss in kidney transplant recipients.
+
+McAdams-DeMarco MA(1), Law A, Tan J, Delp C, King EA, Orandi B, Salter M,
+Alachkar N, Desai N, Grams M, Walston J, Segev DL.
+
+Author information: 
+(1)1 Department of Surgery, Johns Hopkins University School of Medicine,
+Baltimore, MD. 2 Department of Epidemiology, Johns Hopkins Bloomberg School of
+Public Health, Baltimore, MD. 3 Division of Nephrology, Johns Hopkins University 
+School of Medicine, Baltimore, MD. 4 Division of Geriatric Medicine and
+Gerontology, Johns Hopkins University School of Medicine, Baltimore, MD.
+
+BACKGROUND: Mycophenolate mofetil (MMF) side effects often prompt dose reduction 
+or discontinuation, and this MMF dose reduction (MDR) can lead to rejection and
+possibly graft loss. Unfortunately, little is known about what factors might
+cause or contribute to MDR. Frailty, a measure of physiologic reserve, is
+emerging as an important, novel domain of risk in kidney transplantation
+recipients. We hypothesized that frailty, an inflammatory phenotype, might be
+associated with MDR.
+METHODS: We measured frailty (shrinking, weakness, exhaustion, low physical
+activity, and slowed walking speed), other patient and donor characteristics,
+longitudinal MMF doses, and graft loss in 525 kidney transplantation recipients. 
+Time-to-MDR was quantified using an adjusted Cox proportional hazards model.
+RESULTS: By 2 years after transplantation, 54% of frail recipients and 45% of
+nonfrail recipients experienced MDR; by 4 years, incidence was 67% and 51%. Frail
+recipients were 1.29 times (95% confidence interval [95% CI], 1.01-1.66; P =
+0.04) more likely to experience MDR, as were deceased donor recipients (adjusted 
+hazard ratio [aHR], 1.92; 95% CI, 1.44-2.54, P < 0.001) and older adults (age ≥
+65 vs <65; aHR, 1.47; 95% CI, 1.10-1.96, P = 0.01). Mycophenolate mofetil dose
+reduction was independently associated with a substantially increased risk of
+death-censored graft loss (aHR, 5.24; 95% CI, 1.97-13.98, P = 0.001).
+CONCLUSION: A better understanding of risk factors for MMF intolerance might help
+in planning alternate strategies to maintain adequate immunosuppression and
+prolong allograft survival.
+
+DOI: 10.1097/TP.0000000000000444 
+PMCID: PMC4382409
+PMID: 25393156  [Indexed for MEDLINE]
+
+
+41. Am J Transplant. 2015 Jan;15(1):149-54. doi: 10.1111/ajt.12992. Epub 2014 Oct 30.
+
+Frailty and mortality in kidney transplant recipients.
+
+McAdams-DeMarco MA(1), Law A, King E, Orandi B, Salter M, Gupta N, Chow E,
+Alachkar N, Desai N, Varadhan R, Walston J, Segev DL.
+
+Author information: 
+(1)Department of Surgery, Johns Hopkins University School of Medicine, Baltimore,
+MD; Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, MD.
+
+Comment in
+    J Urol. 2015 Aug;194(2):483.
+
+We have previously described strong associations between frailty, a measure of
+physiologic reserve initially described and validated in geriatrics, and early
+hospital readmission as well as delayed graft function. The goal of this study
+was to estimate its association with postkidney transplantation (post-KT)
+mortality. Frailty was prospectively measured in 537 KT recipients at the time of
+transplantation between November 2008 and August 2013. Cox proportional hazards
+models were adjusted for confounders using a novel approach to substantially
+improve model efficiency and generalizability in single-center studies. We
+precisely estimated the confounder coefficients using the large sample size of
+the Scientific Registry of Transplantation Recipients (n = 37 858) and introduced
+these into the single-center model, which then estimated the adjusted frailty
+coefficient. At 5 years, the survivals were 91.5%, 86.0% and 77.5% for nonfrail, 
+intermediately frail and frail KT recipients, respectively. Frailty was
+independently associated with a 2.17-fold (95% CI: 1.01-4.65, p = 0.047) higher
+risk of death. In conclusion, regardless of age, frailty is a strong, independent
+risk factor for post-KT mortality, even after carefully adjusting for many
+confounders using a novel, efficient statistical approach.
+
+© Copyright 2014 The American Society of Transplantation and the American Society
+of Transplant Surgeons.
+
+DOI: 10.1111/ajt.12992 
+PMCID: PMC4332809
+PMID: 25359393  [Indexed for MEDLINE]
+
+
+42. Biom J. 2015 Mar;57(2):185-200. doi: 10.1002/bimj.201300167. Epub 2014 Oct 15.
+
+A joint model for repeated events of different types and multiple longitudinal
+outcomes with application to a follow-up study of patients after kidney
+transplant.
+
+Musoro JZ(1), Geskus RB, Zwinderman AH.
+
+Author information: 
+(1)Department of Clinical Epidemiology, Biostatistics and Bioinformatics Academic
+Medical Center, University of Amsterdam, Amsterdam, The Netherlands.
+
+This paper presents an extension of the joint modeling strategy for the case of
+multiple longitudinal outcomes and repeated infections of different types over
+time, motivated by postkidney transplantation data. Our model comprises two parts
+linked by shared latent terms. On the one hand is a multivariate mixed linear
+model with random effects, where a low-rank thin-plate spline function is
+incorporated to collect the nonlinear behavior of the different profiles over
+time. On the other hand is an infection-specific Cox model, where the dependence 
+between different types of infections and the related times of infection is
+through a random effect associated with each infection type to catch the within
+dependence and a shared frailty parameter to capture the dependence between
+infection types. We implemented the parameterization used in joint models which
+uses the fitted longitudinal measurements as time-dependent covariates in a
+relative risk model. Our proposed model was implemented in OpenBUGS using the
+MCMC approach.
+
+© 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/bimj.201300167 
+PMID: 25316383  [Indexed for MEDLINE]
+
+
+43. Home Healthc Nurse. 2012 Jun;30(6):328-30. doi: 10.1097/NHH.0b013e3182575465.
+
+Simple “frailty” test predicts kidney transplant outcome:gauge of physical
+reserve not just for elderly.
+
+[No authors listed]
+
+DOI: 10.1097/NHH.0b013e3182575465 
+PMID: 22647984  [Indexed for MEDLINE]
+
+
+44. Arch Surg. 2012 Feb;147(2):190-3. doi: 10.1001/archsurg.2011.1229.
+
+Frailty and delayed graft function in kidney transplant recipients.
+
+Garonzik-Wang JM(1), Govindan P, Grinnan JW, Liu M, Ali HM, Chakraborty A, Jain
+V, Ros RL, James NT, Kucirka LM, Hall EC, Berger JC, Montgomery RA, Desai NM,
+Dagher NN, Sonnenday CJ, Englesbe MJ, Makary MA, Walston JD, Segev DL.
+
+Author information: 
+(1)Department of Surgery, Johns Hopkins School of Medicine, Baltimore, MD 21205, 
+USA.
+
+The ability to predict outcomes following a kidney transplant is limited by the
+complex physiologic decline of kidney failure, a latent factor that is difficult 
+to capture using conventional comorbidity assessment. The frailty phenotype is a 
+recently described inflammatory state of increased vulnerability to stressors
+resulting from decreased physiologic reserve and dysregulation of multiple
+physiologic systems. We hypothesized that frailty would be associated with
+delayed graft function, based on putative associations between inflammatory
+cytokines and graft dysfunction. We prospectively measured frailty in 183 kidney 
+transplant recipients between December 2008 and April 2010. Independent
+associations between frailty and delayed graft function were analyzed using
+modified Poisson regression. Preoperative frailty was independently associated
+with a 1.94-fold increased risk for delayed graft function (95% CI, 1.13-3.36; P 
+= .02). The assessment of frailty may provide further insights into the
+pathophysiology of allograft dysfunction and may improve our ability to
+preoperatively risk-stratify kidney transplant recipients.
+
+DOI: 10.1001/archsurg.2011.1229 
+PMID: 22351919  [Indexed for MEDLINE]
+
+
+45. Lifetime Data Anal. 2009 Sep;15(3):343-56. doi: 10.1007/s10985-009-9112-x. Epub
+2009 Jan 31.
+
+Laplace's approximation for relative risk frailty models.
+
+Feng S(1), Nie L, Wolfe RA.
+
+Author information: 
+(1)Genentech, Inc., South San Francisco, CA 94080, USA. shibaof@gene.com
+
+Relative risk frailty models are used extensively in analyzing clustered and/or
+recurrent time-to-event data. In this paper, Laplace's approximation for
+integrals is applied to marginal distributions of data arising from parametric
+relative risk frailty models. Under regularity conditions, the approximate
+maximum likelihood estimators (MLE) are consistent with a rate of convergence
+that depends on both the number of subjects and number of members per subject. We
+compare the approximate MLE against alternative estimators using limited
+simulation and demonstrate the utility of Laplace's approximation approach by
+analyzing U.S. patient waiting time to deceased kidney transplant data.
+
+DOI: 10.1007/s10985-009-9112-x 
+PMID: 19184420  [Indexed for MEDLINE]
+
+
+46. Lifetime Data Anal. 1995;1(4):347-59.
+
+Fitting Weibull duration models with random effects.
+
+Morris C(1), Christiansen C.
+
+Author information: 
+(1)Department of Statistics, Harvard University, Cambridge, MA 02138, USA.
+morris@stat.harvard.edu
+
+Duration time models often should include correlated failure times, due to
+clustered data. These random effects hierarchical models sometimes are called
+"frailty models" when used for survival analyses. The data analyzed here involve 
+such correlations because patient level outcomes (the times until graft failure
+following kidney transplantation) are observed, but patients are clustered in
+different transplant centers. We describe fitting such models by combining two
+kinds of software, one for parametric survival regression models, and the other
+for doing Poisson regression in a hierarchical setting. The latter is implemented
+by using PRIMM (Poisson Regression and Interactive Multilevel Modeling) methods
+and software (Christiansen & Morris, 1994a). An illustrative example for
+profiling data is included with k = 11 kidney transplant centers and N = 412
+patients.
+
+
+PMID: 9385109  [Indexed for MEDLINE]
