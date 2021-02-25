@@ -1,7 +1,12 @@
 medline: 527 (whole)
 not CKD: 160 -> 527-160=367
 gender differences not discussed: 188 -> 367-188=179
+
 no fulltext: 128 -> 179-128=51
 medline: 136 (full text)
 not CKD: 40 -> 136-40=96
 gender diffeerences not discussed: 45 -> 96-45=51
+
+medline: 50 (keywords in abstract & full text)
+not CKD: 5,8,23,28,33
+gender differences not discussed: 11,14,15,18,20,24,25,26,30,34,36,38
