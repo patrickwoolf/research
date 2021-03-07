@@ -21,4 +21,4 @@ gender differences not discussed (or no diff): 41
 no full text: 4
 -> include 64
 
---> total 82 (64+25=89 -> duplicates=7)
+--> total 76 (64+25=89 -> duplicates=13)
