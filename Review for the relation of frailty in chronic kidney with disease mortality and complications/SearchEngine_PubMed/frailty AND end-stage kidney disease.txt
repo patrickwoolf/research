@@ -1,0 +1,770 @@
+﻿//frailty AND "end-stage kidney disease" 
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "end-stage kidney disease"[All Fields]
+//
+1. Nephron. 2018 Dec 14:1-9. doi: 10.1159/000494223. [Epub ahead of print]
+
+Diagnostic Accuracy of Frailty Screening Methods in Advanced Chronic Kidney
+Disease.
+
+Nixon AC(1)(2)(3), Bampouras TM(4)(5), Pendleton N(6), Mitra S(7)(8), Dhaygude
+AP(9).
+
+Author information: 
+(1)Department of Renal Medicine, Lancashire Teaching Hospitals NHS Foundation
+Trust, Preston, United Kingdomandrew.nixon@lthtr.nhs.uk.
+(2)Centre for Health Research and Innovation, National Institute of Health
+Research Lancashire Clinical Research Facility, Lancashire Teaching Hospitals NHS
+Foundation Trust, Preston, United Kingdomandrew.nixon@lthtr.nhs.uk.
+(3)Division of Cardiovascular Sciences, University of Manchester, Manchester,
+United Kingdomandrew.nixon@lthtr.nhs.uk.
+(4)Active Ageing Research Group, University of Cumbria, Lancaster, United
+Kingdom.
+(5)Faculty of Health and Medicine, Lancaster University, Lancaster, United
+Kingdom.
+(6)Division of Neuroscience and Experimental Psychology, University of
+Manchester, Manchester, United Kingdom.
+(7)Manchester Academy of Health Sciences Centre, University of Manchester,
+Manchester, United Kingdom.
+(8)Devices for Dignity, National Institute of Health Research MedTech and
+In-vitro Diagnostics Co-operative, Manchester, United Kingdom.
+(9)Department of Renal Medicine, Lancashire Teaching Hospitals NHS Foundation
+Trust, Preston, United Kingdom.
+
+BACKGROUND/AIMS: Frail patients with chronic kidney disease (CKD) have an
+increased hospitalisation and mortality rate. However, many popular frailty
+screening methods have not been validated in patients with CKD. This study
+evaluates the diagnostic accuracy of several frailty screening methods in
+patients with CKD G4-5 and those established on haemodialysis (G5D).
+METHODS: Ninety participants with CKD G4-5D were recruited from Nephrology
+Outpatient Clinics and 2 Haemodialysis Units between December 2016 and December
+2017. Frailty was diagnosed using the Fried Frailty Phenotype. The following
+frailty screening tests were evaluated: Clinical Frailty Scale, PRISMA-7, CKD
+Frailty Index, CKD FI-LAB, walking speed, hand grip strength and Short Physical
+Performance Battery.
+RESULTS: The mean age of participants was 69 years (SD ±13). One-third of
+participants were dialysis-dependent. Nineteen (21%) patients were categorised as
+frail, 42 (47%) as pre-frail and 29 (32%) as robust. Overall, walking speed was
+the most discriminative measure (AUC 0.97 [95% CI 0.93-1.00], sensitivity 0.84
+[95% CI 0.62-0.94], specificity 0.96 [95% CI 0.88-0.99]). The Clinical Frailty
+Scale had the best performance of the non-physical assessment frailty screening
+methods (AUC 0.90 [95% CI 0.84-0.97], sensitivity 0.79 [95% CI 0.57-0.91],
+specificity 0.87 [95% CI 0.78-0.93]).
+CONCLUSIONS: Walking speed can be used to accurately screen for frailty in CKD
+populations. If it is not practical to perform a physical assessment to screen
+for frailty, the Clinical Frailty Scale is a useful alternative.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000494223 
+PMID: 30554199 
+
+
+2. Nephron. 2019;141(1):41-48. doi: 10.1159/000494222. Epub 2018 Nov 1.
+
+Geriatric Assessment in Elderly Patients with End-Stage Kidney Disease.
+
+Goto NA(1)(2), van Loon IN(3)(4), Morpey MI(5), Verhaar MC(4), Willems HC(6),
+Emmelot-Vonk MH(7), Bots ML(8), Boereboom FTJ(3)(9), Hamaker ME(10).
+
+Author information: 
+(1)Dianet Dialysis Center, Utrecht, The Netherlandsn.a.goto@umcutrecht.nl.
+(2)Department of Geriatrics, University Medical Center Utrecht, Utrecht, The
+Netherlandsn.a.goto@umcutrecht.nl.
+(3)Dianet Dialysis Center, Utrecht, The Netherlands.
+(4)Department of Nephrology and Hypertension, University Medical Center Utrecht, 
+Utrecht University, Utrecht, The Netherlands.
+(5)Department of Internal Medicine, Albert Schweitzer Hospital, Dordrecht, The
+Netherlands.
+(6)Department of Geriatrics, Academic Medical Center Amsterdam, Amsterdam, The
+Netherlands.
+(7)Department of Geriatrics, University Medical Center Utrecht, Utrecht, The
+Netherlands.
+(8)Julius center for Health Sciences and Primary Care, University Medical Center 
+Utrecht, Utrecht, The Netherlands.
+(9)Department of Internal Medicine, Diakonessenhuis Utrecht, Utrecht, The
+Netherlands.
+(10)Department of Geriatrics, Diakonessenhuis Utrecht, Utrecht, The Netherlands.
+
+BACKGROUND/AIMS: Decision-making in elderly patients considering dialysis is
+highly complex. With the increasing number of elderly with end-stage kidney
+disease (ESKD), it may be important to assess geriatric impairments in this
+population. The aim of the Geriatric assessment in OLder patients starting
+Dialysis (GOLD) study was to assess the prevalence of geriatric impairments and
+frailty in the elderly ESKD population by means of a geriatric assessment (GA),
+which is a comprehensive tool for overall health assessment.
+METHODS: This study included 285 patients ≥65 years: 196 patients at the time of 
+dialysis initiation and 89 patients who chose maximal conservative management
+(MCM). The GA assessed cognition, mood, nutritional status, (instrumental)
+activities of daily living (ADL), mobility, comorbidity burden, quality of life
+and overall frailty.
+RESULTS: The mean age of the participants was 78 years and 36% were women. Of the
+incident dialysis patients, 77% started haemodialysis and 23% started peritoneal 
+dialysis. Geriatric impairments were highly prevalent in both dialysis and MCM
+patients. Most frequently impaired geriatric domains in the dialysis group were
+functional performance (ADL 29%, instrumental ADL (iADL) 79%), cognition (67%)
+and comorbidity (41%). According to the GA, 77% in the dialysis group and 88% in 
+the MCM group had 2 or more geriatric impairments. In the MCM group, functional
+impairment (ADL 45%, iADL 85%) was highly prevalent.
+CONCLUSIONS: Geriatric impairments are highly prevalent in the elderly ESKD
+population. Since impairments can be missed when not searched for in regular
+(pre)dialysis care, the first step of improving nephrologic care is awareness of 
+the extensiveness of geriatric impairment.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000494222 
+PMID: 30384369 
+
+
+3. Med J Aust. 2018 Sep 17;209(6):275-279.
+
+When to initiate dialysis for end-stage kidney disease: evidence and challenges.
+
+Chen T(1), Lee VW(2), Harris DC(2).
+
+Author information: 
+(1)University of Sydney, Sydney, NSW titi.chen@sydney.edu.au.
+(2)University of Sydney, Sydney, NSW.
+
+The decision about when to start dialysis for end-stage kidney disease (ESKD) is 
+complex and is influenced by many factors. ESKD-related symptoms and signs are
+the most common indications for dialysis initiation. Creatinine-based formulae to
+estimate glomerular filtration rate (GFR) are inaccurate in patients with ESKD
+and, thus, the decision to start dialysis should not be based solely on estimated
+GFR (eGFR). Early dialysis initiation (ie, at an eGFR > 10 mL/min/1.73
+m<sup>2</sup>) is not associated with a morbidity and mortality benefit, as shown
+in the Initiating Dialysis Early and Late (IDEAL) study. This observation has
+been incorporated into the latest guidelines, which place greater emphasis on the
+assessment of patients' symptoms and signs rather than eGFR. It is suggested that
+in asymptomatic patients with stage 5 chronic kidney disease, dialysis may be
+safely delayed until the eGFR is at least as low as 5-7 mL/min/1.73 m<sup>2</sup>
+if there is careful clinical follow-up and adequate patient education. The
+decision on when to start dialysis is even more challenging in older patients.
+Due to their comorbidities and frailty, dialysis initiation may be associated
+with worse outcomes and quality of life. Therefore, the decision to start
+dialysis in these patients should be carefully weighed against its risks, and
+conservative care should be considered in appropriate cases. To optimise the
+decision-making process for dialysis initiation, patients need to be referred to 
+a nephrologist in a timely fashion to allow adequate pre-dialysis care and
+planning. Dialysis initiation and its timing should be a shared decision between 
+physician, patients and family members, and should be tailored to the individual 
+patient's needs.
+
+
+PMID: 30208820 
+
+
+4. Clin J Am Soc Nephrol. 2018 Aug 7;13(8):1172-1179. doi: 10.2215/CJN.00590118.
+Epub 2018 Jul 19.
+
+End of Life, Withdrawal, and Palliative Care Utilization among Patients Receiving
+Maintenance Hemodialysis Therapy.
+
+Chen JC(1), Thorsteinsdottir B(2)(3), Vaughan LE(4), Feely MA(1)(5), Albright
+RC(6), Onuigbo M(7), Norby SM(6), Gossett CL(6), D'Uscio MM(6), Williams AW(6),
+Dillon JJ(6), Hickson LJ(8)(9).
+
+Author information: 
+(1)Department of Medicine and.
+(2)Primary Care Internal Medicine.
+(3)Biomedical Ethics Program.
+(4)Division of Biomedical Statistics and Informatics.
+(5)Center of Palliative Medicine, and.
+(6)Divisions of Nephrology and Hypertension, and.
+(7)Division of Nephrology, Mayo Clinic, Eau Claire, Wisconsin.
+(8)Divisions of Nephrology and Hypertension, and hickson.latonya@mayo.edu.
+(9)Geriatric Medicine and Gerontology, Mayo Clinic, Rochester, Minnesota; and.
+
+BACKGROUND AND OBJECTIVES: Withdrawal from maintenance hemodialysis before death 
+has become more common because of high disease and treatment burden. The study
+objective was to identify patient factors and examine the terminal course
+associated with hemodialysis withdrawal, and assess patterns of palliative care
+involvement before death among patients on maintenance hemodialysis.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: We designed an observational
+cohort study of adult patients on incident hemodialysis in a midwestern United
+States tertiary center, from January 2001 to November 2013, with death events
+through to November 2015. Logistic regression models evaluated associations
+between patient characteristics and withdrawal status and palliative care service
+utilization.
+RESULTS: Among 1226 patients, 536 died and 262 (49% of 536) withdrew. A random
+sample (10%; 52 out of 536) review of Death Notification Forms revealed 73%
+sensitivity for withdrawal. Risk factors for withdrawal before death included
+older age, white race, palliative care consultation within 6 months,
+hospitalization within 30 days, cerebrovascular disease, and no coronary artery
+disease. Most withdrawal decisions were made by patients (60%) or a family member
+(33%; surrogates). The majority withdrew either because of acute medical
+complications (51%) or failure to thrive/frailty (22%). After withdrawal, median 
+time to death was 7 days (interquartile range, 4-11). In-hospital deaths were
+less common in the withdrawal group (34% versus 46% nonwithdrawal, P=0.003). A
+third (34%; 90 out of 262) of those that withdrew received palliative care
+services. Palliative care consultation in the withdrawal group was associated
+with longer hemodialysis duration (odds ratio, 1.19 per year; 95% confidence
+interval, 1.10 to 1.3; P<0.001), hospitalization within 30 days of death (odds
+ratio, 5.78; 95% confidence interval, 2.62 to 12.73; P<0.001), and death in
+hospital (odds ratio, 1.92; 95% confidence interval, 1.13 to 3.27; P=0.02).
+CONCLUSIONS: In this single-center study, the rate of hemodialysis withdrawals
+were twice the frequency previously described. Acute medical complications and
+frailty appeared to be driving factors. However, palliative care services were
+used in only a minority of patients.
+
+Copyright © 2018 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.00590118 
+PMCID: PMC6086702 [Available on 2019-08-07]
+PMID: 30026285 
+
+
+5. J Ren Care. 2017 Sep;43(3):163-174. doi: 10.1111/jorc.12205. Epub 2017 May 23.
+
+Biomarkers associated with mortality in patients undergoing dialysis.
+
+Rebollo Rubio A(1), Morales Asencio JM(2), Pons Raventos ME(3).
+
+Author information: 
+(1)Nephrology Service, Carlos Haya Regional University Hospital, Malaga, Spain.
+(2)Faculty of Health Sciences, University of Malaga, Malaga, Spain.
+(3)Fresenius Medical Care Services Andalusia, Antequera Clinic, Andalusia,
+Alabama, USA.
+
+BACKGROUND: Survival for patients commencing renal replacement therapy is around 
+90% in the first year and 83% at two years after starting dialysis. The factors
+that appear to predict mortality are comorbidity and frailty associated with
+kidney disease, glomerular filtration rate, age and biochemical factors.
+OBJECTIVES: To analyse the condition of patients starting renal replacement
+therapy, based on biomarkers commonly used in clinical practice and their
+association with mortality, measured 6 and 12 months after initiating replacement
+therapy.
+METHODS: A one-year prospective follow-up study with 189 patients.
+Sociodemographic variables, aetiology of renal disease, comorbidities, prior
+nephrology service monitoring, prior renal transplantation and biochemical
+parameters at the time of initiating replacement therapy were analysed.
+RESULTS: The overall percentage of death during the one-year follow-up was 6.87%,
+with 64% of deaths occurring during the first six months. The only variable
+independently associated with mortality was low albumin levels.
+CONCLUSION: Although most patients in this centre are monitored by a nephrologist
+prior to starting replacement therapy, many nevertheless fail to achieve the
+biochemical targets recommended. One such parameter is albumin, which proved at
+the start of replacement therapy to be an independent predictor of mortality.
+Findings of this study show the need to intervene on certain biochemical
+parameters during the pre-dialysis stage and at the start of dialysis, in order
+to improve survival in this group of patients.
+
+© 2017 European Dialysis and Transplant Nurses Association/European Renal Care
+Association.
+
+DOI: 10.1111/jorc.12205 
+PMID: 28544527  [Indexed for MEDLINE]
+
+
+6. BMC Nephrol. 2017 May 22;18(1):166. doi: 10.1186/s12882-017-0574-x.
+
+Periodontitis and early mortality among adults treated with hemodialysis: a
+multinational propensity-matched cohort study.
+
+Ruospo M(1)(2), Palmer SC(3), Wong G(4), Craig JC(4), Petruzzi M(5), De
+Benedittis M(5), Ford P(6), Johnson DW(6)(7), Tonelli M(8), Natale P(1),
+Saglimbene V(1)(4), Pellegrini F(9), Celia E(1), Gelfman R(1), Leal MR(1), Torok 
+M(1), Stroumza P(1), Bednarek-Skublewska A(1)(10), Dulawa J(1)(11), Frantzen
+L(1), Del Castillo D(1), Schon S(1), Bernat AG(1), Hegbrant J(1), Wollheim C(1), 
+Gargano L(1), Bots CP(12), Strippoli GF(13)(14)(15)(16); ORALD Investigators.
+
+Author information: 
+(1)Diaverum Medical Scientific Office, Lund, Sweden.
+(2)Amedeo Avogadro University of Eastern Piedmont, Novara, Italy.
+(3)University of Otago Christchurch, Christchurch, New Zealand.
+(4)University of Sydney, Sydney, Australia.
+(5)Department of Emergency and Organ Transplantation, University of Bari, Piazza 
+Giulio Cesare, 70124, Bari, Italy.
+(6)University of Queensland, Brisbane, Australia.
+(7)Translational Research Institute, Brisbane, Australia.
+(8)University of Calgary, Calgary, Canada.
+(9)Global Medical Biogen Idec, Cambridge, MA, USA.
+(10)Medical University of Lublin, Lublin, Poland.
+(11)SHS, Medical University of Silesia, Katowice, Poland.
+(12)Academic Centre for Dentistry Amsterdam (ACTA), Amsterdam, The Netherlands.
+(13)Diaverum Medical Scientific Office, Lund, Sweden. gfmstrippoli@gmail.com.
+(14)University of Sydney, Sydney, Australia. gfmstrippoli@gmail.com.
+(15)Department of Emergency and Organ Transplantation, University of Bari, Piazza
+Giulio Cesare, 70124, Bari, Italy. gfmstrippoli@gmail.com.
+(16)Diaverum Academy, Lund, Sweden. gfmstrippoli@gmail.com.
+
+BACKGROUND: Periodontitis is associated with cardiovascular mortality in the
+general population and adults with chronic diseases. However, it is unclear
+whether periodontitis predicts survival in the setting of kidney failure.
+METHODS: ORAL-D was a propensity matched analysis in 3338 dentate adults with
+end-stage kidney disease treated in a hemodialysis network in Europe and South
+America designed to examine the association between periodontitis and all-cause
+and cardiovascular-related mortality in people on long-term hemodialysis.
+Participants were matched 1:1 on their propensity score for moderate to severe
+periodontitis assessed using the World Health Organization Community Periodontal 
+Index. A random-effects Cox proportional hazards model was fitted with shared
+frailty to account for clustering of mortality risk within countries.
+RESULTS: Among the 3338 dentate participants, 1355 (40.6%) had moderate to severe
+periodontitis at baseline. After using propensity score methods to generate a
+matched cohort of participants with periodontitis similar to those with none or
+mild periodontal disease, moderate to severe periodontitis was associated with a 
+lower risk of all-cause (9.1 versus 13.0 per 100 person years, hazard ratio 0.74,
+95% confidence interval 0.61 to 0.90) and cardiovascular (4.3 versus 6.9 per 100 
+person years, hazard ratio 0.67, 0.51 to 0.88) mortality. These associations were
+not changed substantially when participants were limited to those with 12 or more
+natural teeth and when accounting for competing causes of cardiovascular death.
+CONCLUSION: In contrast to the general population, periodontitis does not appear 
+to be associated with an increased risk of early death in adults treated with
+hemodialysis.
+
+DOI: 10.1186/s12882-017-0574-x 
+PMCID: PMC5440912
+PMID: 28532432  [Indexed for MEDLINE]
+
+
+7. Nephrol Dial Transplant. 2016 Sep;31(9):1531-40. doi: 10.1093/ndt/gfv463. Epub
+2016 Feb 4.
+
+'I feel stronger and younger all the time'-perspectives of elderly kidney
+transplant recipients: thematic synthesis of qualitative research.
+
+Pinter J(1), Hanson CS(1), Craig JC(1), Chapman JR(2), Budde K(3), Halleck F(3), 
+Tong A(1).
+
+Author information: 
+(1)Sydney School of Public Health, University of Sydney, Sydney, NSW 2006,
+Australia Centre for Kidney Research, Children's Hospital at Westmead, Westmead, 
+NSW, Australia.
+(2)Centre for Transplant and Renal Research, Westmead Hospital, Westmead, NSW,
+Australia.
+(3)Department of Nephrology, Charité-Universitätsmedizin Berlin, Berlin, Germany.
+
+BACKGROUND: Kidney transplantation offers improved survival and quality of life
+to an increasing number of elderly patients with end-stage kidney disease.
+However, elderly kidney transplant recipients may face unique challenges due to a
+higher burden of comorbidity, greater cumulative risk of
+immunosuppression-related complications and increasing frailty. We aimed to
+describe the perspectives of elderly kidney transplant recipients.
+METHODS: Electronic databases were searched to April 2015. Qualitative studies
+were eligible if they reported views from elderly kidney transplant recipients
+(≥60 years). Thematic synthesis was used to analyse the findings.
+RESULTS: Twenty-one studies involving >116 recipients were included. We
+identified seven themes. 'Regaining strength and vitality' meant valuing the
+physical and psychosocial improvements in daily functioning and life
+participation. 'Extending life' was the willingness to accept any organ,
+including extended criteria kidneys, to prolong survival. 'Debt of gratitude'
+entailed conscious appreciation toward their donor while knowing they were unable
+to repay their sacrifice. 'Moral responsibility to maintain health' motivated
+adherence to medication and lifestyle recommendations out of an ethical duty to
+protect their gift for graft survival. 'Unabating and worsening forgetfulness'
+hindered self-management. 'Disillusionment with side effects and complications'
+reflected disappointment and exasperation with the unintended consequences of
+medications. 'Finality of treatment option' was an acute awareness that the
+current transplant may be their last.
+CONCLUSIONS: Kidney transplantation was perceived to slow and even reverse the
+experience of aging among elderly recipients, especially compared with dialysis. 
+However, some were frustrated over persistent limitations after transplant,
+struggled with the burden of medication side effects and worried about a possible
+return to dialysis if the transplant failed. Clarifying patient expectations of
+transplantation, providing support to alleviate the debilitating impacts of
+immunosuppression and addressing fears about deteriorating health and graft
+failure may improve satisfaction and outcomes in elderly kidney transplant
+recipients.
+
+© The Author 2016. Published by Oxford University Press on behalf of ERA-EDTA.
+All rights reserved.
+
+DOI: 10.1093/ndt/gfv463 
+PMID: 27333617  [Indexed for MEDLINE]
+
+
+8. Clin J Am Soc Nephrol. 2016 Mar 7;11(3):431-41. doi: 10.2215/CJN.06290615. Epub
+2016 Jan 4.
+
+Trends in Survival and Renal Recovery in Patients with Multiple Myeloma or
+Light-Chain Amyloidosis on Chronic Dialysis.
+
+Decourt A(1), Gondouin B(1), Delaroziere JC(2), Brunet P(1), Sallée M(1), Burtey 
+S(1), Dussol B(1), Ivanov V(3), Costello R(3), Couchoud C(4), Jourde-Chiche N(5).
+
+Author information: 
+(1)Departments of *Nephrology.
+(2)Public Health, and.
+(3)Immuno-Hematology, Assistance Publique-Hôpitaux de Marseille, Conception
+Hospital, Aix-Marseille University, Marseille, France; and.
+(4)French Biomedical Agency, Renal Epidemiology and Information Network Registry,
+St. Denis, France.
+(5)Departments of *Nephrology, noemie.jourde@ap-hm.fr.
+
+BACKGROUND AND OBJECTIVES: Monoclonal gammopathies (MGs) with renal involvement
+can lead to ESRD caused by myeloma cast nephropathy (MCN), immunoglobulin light
+chain amyloidosis (ALA), or light-chain deposition disease (LCDD). Few studies
+have focused on the prognosis of patients with MG on chronic dialysis. We
+evaluated the outcomes of patients with MG incident on chronic dialysis in
+France.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: All incident patients registered
+in the Renal Epidemiology and Information Network Registry between 2002 and 2011 
+with ESRD caused by ALA, LCDD, or MCN were included. Patient's survival, censored
+for renal transplantation, renal recovery, and loss to follow-up, as well as
+renal outcomes were analyzed and compared with a control group. Risk factors and 
+causes of death were analyzed.
+RESULTS: We included 1459 patients, comprising 265 (18%) patients with ALA, 334
+(23%) patients with LCDD, and 861 (59%) patients with MCN. Median age was 72
+years, and 56% were men. Median follow-up was 13.1 months. Renal recovery was
+observed in 9.1% of patients and more frequent after 2006. Kidney transplantation
+was rare in this population (2.3%). Among 1272 patients who remained on dialysis,
+67% died. Median survival on dialysis was 18.3 months. Main causes of death were 
+malignancies (34.4%), cardiovascular diseases (18%), infections (13.3%), and
+cachexia (5.2%). Independent risk factors of death were age (hazard ratio [HR],
+1.03 per year increase; 95% confidence interval [95% CI], 1.02 to 1.03), frailty 
+(HR, 1.93; 95% CI, 1.58 to 2.36), congestive heart failure (HR, 1.54; 95% CI,
+1.23 to 1.93), and dialysis initiation on a central catheter (HR, 1.40; 95% CI,
+1.11 to 1.75). Factors associated with a lower risk of death were year of
+dialysis initiation (HR, 0.95 per year increase; 95% CI, 0.91 to 0.99) and high
+BP (HR, 0.80; 95% CI, 0.67 to 0.97).
+CONCLUSIONS: Survival of patients with ALA, LCDD, or MCN on chronic dialysis is
+poor but has improved over time. Progressive malignancy is the main cause of
+death in this population. Renal recovery has increased since 2006.
+
+Copyright © 2016 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.06290615 
+PMCID: PMC4791812
+PMID: 26728585  [Indexed for MEDLINE]
+
+
+9. Adv Chronic Kidney Dis. 2016 Jan;23(1):36-43. doi: 10.1053/j.ackd.2015.08.005.
+
+End-Stage Kidney Disease in the Elderly: Approach to Dialysis Initiation,
+Choosing Modality, and Predicting Outcomes.
+
+Berger JR(1), Jaikaransingh V(1), Hedayati SS(2).
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, University of Texas
+Southwestern Medical Center, Dallas, TX; and Renal Section, Medical Service,
+Veterans Affairs North Texas Health Care System, Dallas, TX.
+(2)Division of Nephrology, Department of Internal Medicine, University of Texas
+Southwestern Medical Center, Dallas, TX; and Renal Section, Medical Service,
+Veterans Affairs North Texas Health Care System, Dallas, TX. Electronic address: 
+susan.hedayati@utsouthwestern.edu.
+
+The number of patients with end-stage kidney disease 65 years and older is
+growing, and this growth is expected to continue. The presence of medical
+comorbidities, limited life expectancy, frailty, and poor functional status in
+these patients poses substantial challenges in clinical decision-making and
+provision of optimal care. Frailty is more common in elderly patients with CKD
+than without and is associated with poor outcomes. Several prognostic tools were 
+developed to estimate the rate of CKD progression among elderly, and risk of
+mortality after dialysis initiation. Risk factors for CKD progression among
+elderly include low estimated glomerular filtration rate, high baseline
+proteinuria, acute kidney injury, low serum albumin, and presence of congestive
+heart failure. The decision to initiate dialysis in the elderly should take into 
+consideration life expectancy, risks and benefits of each dialysis modality,
+quality of life, and patient and caregiver preferences. This article discusses
+common issues in the elderly with end-stage kidney disease, with particular
+emphasis on the impact of frailty and functional status, choice of dialysis
+modality and vascular access, and prognosis after dialysis initiation, to assist 
+the nephrologist in making decisions regarding optimal care for this complex
+group of patients.
+
+Published by Elsevier Inc.
+
+DOI: 10.1053/j.ackd.2015.08.005 
+PMID: 26709061  [Indexed for MEDLINE]
+
+
+10. Am J Kidney Dis. 2015 Oct;66(4):666-76. doi: 10.1053/j.ajkd.2015.04.051. Epub
+2015 Jun 25.
+
+Dental Health and Mortality in People With End-Stage Kidney Disease Treated With 
+Hemodialysis: A Multinational Cohort Study.
+
+Palmer SC(1), Ruospo M(2), Wong G(3), Craig JC(3), Petruzzi M(4), De Benedittis
+M(5), Ford P(6), Johnson DW(7), Tonelli M(8), Natale P(9), Saglimbene V(9),
+Pellegrini F(10), Celia E(9), Gelfman R(9), Leal MR(9), Torok M(9), Stroumza
+P(9), Bednarek-Skublewska A(11), Dulawa J(12), Frantzen L(9), Ferrari JN(9), Del 
+Castillo D(9), Bernat AG(9), Hegbrant J(9), Wollheim C(9), Gargano L(9), Bots
+CP(13), Strippoli GF(14); ORAL-D Study Investigators.
+
+Collaborators: Raña S, Serrano M, Claros S, Arias M, Petracci L, Arana M, De Rosa
+P, Gutierrez A, Simon M, Vergara V, Tosi M, Cernadas M, Vilamajó I, Gravac D,
+Paulón M, Penayo L, Carrizo G, Ghiani M, Perez G, Da Cruz O, Galarce D, Gravielle
+M, Vescovo E, Paparone R, Mato Mira C, Mojico E, Hermida O, Florio D, Yucoswky M,
+Labonia W, Rubio D, Di Napoli G, Fernandez A, Altman H, Rodriguez J, Serrano S,
+Valle G, Lobos M, Acosta V, Corpacci G, Jofre M, Gianoni L, Chiesura G, Capdevila
+M, Montenegro J, Bequi J, Dayer J, Gómez A, Calderón C, Abrego E, Cechín C,
+García J, Corral J, Natiello M, Coronel A, Muñiz M, Muñiz V, Bonelli A, Sanchez
+F, Maestre S, Olivera S, Camargo M, Avalos V, Geandet E, Canteli M, Escobar A,
+Sena E, Tirado S, Peñalba A, Neme G, Cisneros M, Oliszewski R, Nascar V, Daud M, 
+Mansilla S, Paredes Álvarez A, Gamín L, Arijón M, Coombes M, Zapata M, Boriceanu 
+C, Frantzen-Trendel S, Albert K, Csaszar I, Kiss E, Kosa D, Orosz A, Redl J,
+Kovacs L, Varga E, Szabo M, Magyar K, Kriza G, Zajko E, Bereczki A, Csikos J,
+Kuti A, Mike A, Steiner K, Nemeth E, Tolnai K, Toth A, Vinczene J, Szummer S,
+Tanyi E, Toth R, Szilvia M, Dambrosio N, Paparella G, Sambati M, Donatelli C,
+Pedone F, Cagnazzo VA, Antinoro R, Torsello F, Saturno C, Giannoccaro G, Maldera 
+S, Boccia E, Mantuano M, Di Toro Mammarella R, Meconizzi M, Steri PF, Riccardi C,
+Flammini A, Moscardelli L, Murgo M, San Filippo N, Pagano S, Marino G, Montalto
+G, Cantarella S, Salamone B, Randazzo G, Rallo D, Maniscalco A, Fici M, Lupo A,
+Pellegrino P, Fichera R, D'Angelo A, Falsitta N, Bochenska-Nowacka E, Jaroszynski
+A, Drabik J, Birecka M, Daniewska D, Drobisz M, Doskocz K, Wyrwicz G,
+Inchaustegui L, Outerelo C, Sousa Mendes D, Mendes A, Lopes J, Barbas J, Madeira 
+C, Fortes A, Vizinho R, Cortesão A, Almeida E, Bernat A, De la Torre B, Lopez A, 
+Martín J, Cuesta G, Rodriguez RM, Ros F, Garcia M, Orero E, Ros E, Caetano A,
+MacGregor K, Santos M, Silva Pinheiro S, Martins L, Leitão D, Izidoro C, Bava G, 
+Bora A, Gorena H, Calderón T, Dupuy R, Alonso N, Siciliano V, Frantzen-Trendel S,
+Nagy K, Bajusz Ö, Pinke I, Decsi G, Gyergyoi L, Jobba Z, Zalai Z, Zsedenyi Á,
+Kiss G, Pinter M, Kereszturi M, Petruzzi M, De Benedittis M, Szkutnik J,
+Sieczkarek J, Capelo A, Garcia Gallart M, Mendieta C.
+
+Author information: 
+(1)University of Otago, Christchurch, New Zealand.
+(2)Diaverum Medical Scientific Office, Lund, Sweden; Amedeo Avogadro University
+of Eastern Piedmont, Novara, Italy.
+(3)University of Sydney, Sydney, Australia.
+(4)University of Bari, Bari, Italy.
+(5)Universita' del Piemonte Orientale, Vercelli, Italy.
+(6)University of Queensland, Brisbane, Australia.
+(7)University of Queensland, Brisbane, Australia; Translational Research
+Institute, Brisbane, Australia.
+(8)University of Calgary, Calgary, Canada.
+(9)Diaverum Medical Scientific Office, Lund, Sweden.
+(10)Global Medical Biogen Idec, Cambridge, MA.
+(11)Diaverum Medical Scientific Office, Lund, Sweden; Medical University of
+Lublin, Lublin.
+(12)Diaverum Medical Scientific Office, Lund, Sweden; Medical University of
+Silesia, Silesia, Poland.
+(13)Academic Centre for Dentistry Amsterdam (ACTA), Oral Biochemistry, Amsterdam,
+the Netherlands.
+(14)Diaverum Medical Scientific Office, Lund, Sweden; University of Sydney,
+Sydney, Australia; University of Bari, Bari, Italy; Diaverum Academy, Lund,
+Sweden. Electronic address: gfmstrippoli@gmail.com.
+
+BACKGROUND: Dental disease is more extensive in adults with chronic kidney
+disease, but whether dental health and behaviors are associated with survival in 
+the setting of hemodialysis is unknown.
+STUDY DESIGN: Prospective multinational cohort.
+SETTING & PARTICIPANTS: 4,205 adults treated with long-term hemodialysis, 2010 to
+2012 (Oral Diseases in Hemodialysis [ORAL-D] Study).
+PREDICTORS: Dental health as assessed by a standardized dental examination using 
+World Health Organization guidelines and personal oral care, including
+edentulousness; decayed, missing, and filled teeth index; teeth brushing and
+flossing; and dental health consultation.
+OUTCOMES: All-cause and cardiovascular mortality at 12 months after dental
+assessment.
+MEASUREMENTS: Multivariable-adjusted Cox proportional hazards regression models
+fitted with shared frailty to account for clustering of mortality risk within
+countries.
+RESULTS: During a mean follow-up of 22.1 months, 942 deaths occurred, including
+477 cardiovascular deaths. Edentulousness (adjusted HR, 1.29; 95% CI, 1.10-1.51) 
+and decayed, missing, or filled teeth score ≥ 14 (adjusted HR, 1.70; 95% CI,
+1.33-2.17) were associated with early all-cause mortality, while dental flossing,
+using mouthwash, brushing teeth daily, spending at least 2 minutes on oral
+hygiene daily, changing a toothbrush at least every 3 months, and visiting a
+dentist within the past 6 months (adjusted HRs of 0.52 [95% CI, 0.32-0.85], 0.79 
+[95% CI, 0.64-0.97], 0.76 [95% CI, 0.58-0.99], 0.84 [95% CI, 0.71-0.99], 0.79
+[95% CI, 0.65-0.95], and 0.79 [95% CI, 0.65-0.96], respectively) were associated 
+with better survival. Results for cardiovascular mortality were similar.
+LIMITATIONS: Convenience sample of clinics.
+CONCLUSIONS: In adults treated with hemodialysis, poorer dental health was
+associated with early death, whereas preventive dental health practices were
+associated with longer survival.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.ajkd.2015.04.051 
+PMID: 26120038  [Indexed for MEDLINE]
+
+
+11. Chronic Kidney Disease (Partial Update): Early Identification and Management of
+Chronic Kidney Disease in Adults in Primary and Secondary Care.
+
+National Clinical Guideline Centre (UK).
+London: National Institute for Health and Care Excellence (UK); 2014 Jul.
+National Institute for Health and Care Excellence: Clinical Guidelines .
+
+The Renal National Service Framework (NSF), and the subsequent NICE Clinical
+Practice Guideline for early identification and management of adults with chronic
+kidney disease (CKD) in primary and secondary care (CG73), served to emphasise
+the change in focus in renal medicine from treatment of established kidney
+disease to earlier identification and prevention of kidney disease. CKD describes
+abnormal kidney function and/or structure. It is common, frequently unrecognised 
+and often coexists with other conditions (for example, cardiovascular disease and
+diabetes). Moderate to severe CKD also carries an increased risk of other
+significant adverse outcomes such acute kidney injury, falls, frailty and
+mortality. The risk of developing CKD increases with increasing age, and some
+conditions that coexist with CKD become more severe and increasingly prevalent as
+kidney dysfunction advances. CKD can progress to end-stage kidney disease
+(ESKD)in a small but significant percentage of people. CKD is usually
+asymptomatic but it is detectable, and tests for detecting CKD are both simple
+and freely available. There is evidence that treatment can prevent or delay the
+progression of CKD, reduce or prevent the development of complications and reduce
+the risk of cardiovascular disease. However, because of a lack of specific
+symptoms, CKD frequently remains undetected and unrecognised. As a consequence
+people with CKD are often not diagnosed, or diagnosed late when CKD is at an
+advanced stage. Late diagnosis is associated with increased morbidity, mortality 
+and healthcare associated costs.
+
+PMID: 25340245 
+
+
+12. Clin Interv Aging. 2014 Jan 15;9:191-9. doi: 10.2147/CIA.S39763. eCollection
+2014.
+
+Current and emerging treatment options for the elderly patient with chronic
+kidney disease.
+
+Fassett RG(1).
+
+Author information: 
+(1)The University of Queensland, School of Human Movement Studies, Brisbane,
+Queensland, Australia.
+
+The objective of this article is to review the current and emerging treatments of
+CKD prior to dialysis in the elderly. Worldwide, there are increasing numbers of 
+people who are aged over 65 years. In parallel, there are increasing numbers of
+elderly patients presenting with chronic kidney disease (CKD), particularly in
+the more advanced stages. The elderly have quite different health care needs
+related to their associated comorbidity, frailty, social isolation, poor
+functional status, and cognitive decline. Clinical trials assessing treatments
+for CKD have usually excluded patients older than 70-75 years; therefore, it is
+difficult to translate current therapies recommended for younger patients with
+CKD across to the elderly. Many elderly people with CKD progress to end-stage
+kidney disease and face the dilemma of whether to undertake dialysis or accept a 
+conservative approach supported by palliative care. This places pressure on the
+patient, their family, and on health care resources. The clinical trajectory of
+elderly CKD patients has in the past been unclear, but recent evidence suggests
+that many patients over 75 years of age with multiple comorbidities have greatly 
+reduced life expectancies and quality of life, even if they choose dialysis
+treatment. Offering a conservative pathway supported by palliative care is a
+reasonable option for some patients under these circumstances. The elderly person
+who chooses to have dialysis will frequently have different requirements than
+younger patients. Kidney transplantation can still result in improved life
+expectancy and quality of life in the elderly, in carefully selected people.
+There is a genuine need for the inclusion of the elderly in CKD clinical trials
+in the future so we can produce evidence-based therapies for this group. In
+addition, new therapies to treat and slow CKD progression are needed for all age 
+groups.
+
+DOI: 10.2147/CIA.S39763 
+PMCID: PMC3896291
+PMID: 24477220  [Indexed for MEDLINE]
+
+
+13. Am J Kidney Dis. 2014 Jun;63(6):913-27. doi: 10.1053/j.ajkd.2013.11.017. Epub
+2014 Jan 7.
+
+Thematic synthesis of qualitative studies on patient and caregiver perspectives
+on end-of-life care in CKD.
+
+Tong A(1), Cheung KL(2), Nair SS(3), Kurella Tamura M(4), Craig JC(5),
+Winkelmayer WC(3).
+
+Author information: 
+(1)Sydney School of Public Health, University of Sydney, Sydney, NSW, Australia; 
+Centre for Kidney Research, The Children's Hospital at Westmead, Westmead, NSW,
+Australia. Electronic address: allison.tong@sydney.edu.au.
+(2)Division of Nephrology, University of Vermont College of Medicine, Burlington,
+VT.
+(3)Division of Nephrology, Stanford University, Palo Alto, CA.
+(4)Division of Nephrology, Stanford University, Palo Alto, CA; Geriatric Research
+and Education Clinical Center, VA Palo Alto Health Care System, Palo Alto, CA.
+(5)Sydney School of Public Health, University of Sydney, Sydney, NSW, Australia; 
+Centre for Kidney Research, The Children's Hospital at Westmead, Westmead, NSW,
+Australia.
+
+BACKGROUND: Although dialysis prolongs life for patients with end-stage kidney
+disease, 20% of deaths in this population are preceded by dialysis therapy
+withdrawal. Recently, there has been more focus on conservative (nondialytic)
+care as a legitimate option, particularly for elderly patients. This study aims
+to describe patients' and caregivers' perspectives on conservative treatment and 
+end-of-life care in chronic kidney disease (CKD).
+STUDY DESIGN: Systematic review and thematic synthesis of qualitative studies.
+SETTING & POPULATION: Patients with CKD and caregivers.
+SEARCH STRATEGY & SOURCES: MEDLINE, Embase, PsycINFO, CINAHL, and reference lists
+were searched to May 2013.
+ANALYTICAL APPROACH: Thematic synthesis was used to analyze the findings.
+RESULTS: 26 studies involving more than 711 patients (non-dialysis dependent
+[n=41], hemodialysis [n=544], peritoneal dialysis [n=9]; unspecified dialysis
+modality [n=31], conservative management [n=86]) and 178 caregivers were
+included. We identified 5 themes: invasive suffering (bodily deterioration, loss 
+of freedom and independence, unyielding fatigue and pain, resignation, treatment 
+burden and harm, financial strain), personal vulnerability (imminence of death,
+misunderstanding and judgment, autonomy and dignity, medical abandonment, trust
+and safety), relational responsibility (being a burden, demonstrating loyalty,
+protecting others from grief), negotiating existential tensions (accepting
+natural course of life, disrupted aging, worthlessness, living on borrowed time, 
+respecting sanctity of life, life satisfaction, preserving self-identity), and
+preparedness (decisional clarity, informational power, spirituality and hope).
+LIMITATIONS: Non-English articles were excluded; therefore, the transferability
+of findings to other populations is unclear.
+CONCLUSIONS: Some patients with CKD experience physical and psychosocial frailty 
+and feel ambivalent about prolonging life. Some caregivers believe in providing
+relief from suffering, but are uncertain about making decisions regarding
+dialysis therapy initiation and discontinuation. We suggest that CKD management
+should encompass palliative care strategies that promote emotional resilience,
+sense of well-being, and self-value. Also, respectful and attentive communication
+may empower patients to convey their values and preferences about their own care.
+
+Copyright © 2014 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.ajkd.2013.11.017 
+PMID: 24411716  [Indexed for MEDLINE]
+
+
+14. J Am Soc Nephrol. 2013 Feb;24(3):337-51. doi: 10.1681/ASN.2012010047. Epub 2012
+Dec 20.
+
+Frailty and protein-energy wasting in elderly patients with end stage kidney
+disease.
+
+Kim JC(1), Kalantar-Zadeh K, Kopple JD.
+
+Author information: 
+(1)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, California 90502, USA.
+
+Older people constitute an increasingly greater proportion of patients with
+advanced CKD, including those patients undergoing maintenance dialysis treatment.
+Frailty is a biologic syndrome of decreased reserve and resistance to stressors
+that results from cumulative declines across multiple physiologic systems and
+causes vulnerability to adverse outcomes. Frailty is common in elderly CKD
+patients, and it may be associated with protein-energy wasting (PEW), sarcopenia,
+dynapenia, and other complications of CKD. Causes of frailty with or without PEW 
+in the elderly with CKD can be classified into three categories: causes primarily
+caused by aging per se, advanced CKD per se, or a combination of both conditions.
+Frailty and PEW in elderly CKD patients are associated with impaired physical
+performance, disability, poorer quality of life, and reduced survival. Prevention
+and treatment of these conditions in the elderly CKD patients often require a
+multifaceted approach. Here, we examine the causes and consequences of these
+conditions and examine the interplay between frailty and PEW in elderly CKD
+patients.
+
+DOI: 10.1681/ASN.2012010047 
+PMID: 23264684  [Indexed for MEDLINE]
+
+
+15. Expert Rev Pharmacoecon Outcomes Res. 2010 Dec;10(6):661-6. doi:
+10.1586/erp.10.78.
+
+Can quality of life be improved for the increasing numbers of older patients with
+end-stage kidney disease?
+
+Brown EA(1).
+
+Author information: 
+(1)Imperial College Kidney and Transplant Institute, Renal Department,
+Hammersmith Hospital, Du Cane Road, London W120HS, UK. e.a.brown@imperial.ac.uk
+
+Quality of life is particularly important for older patients with end-stage
+kidney disease, particularly when likely survival is short because of the burden 
+of comorbidities. The features of old age and frailty make it difficult to cope
+with both hemodialysis and peritoneal dialysis. Evidence exists that quality of
+life is better on peritoneal dialysis compared with hemodialysis, yet the
+majority of older patients are placed on hemodialysis. Older patients should
+therefore receive appropriate education to enable choice of the appropriate
+dialysis modality for their lifestyle. The development of assisted peritoneal
+dialysis will enable those who cannot perform their own dialysis to have their
+treatment at home. Delaying dialysis to a time when it is actually needed and
+discussing the option of conservative care will also improve the quality of the
+end-of-life phase for patients with multiple comorbidities and with a poor
+overall prognosis.
+
+DOI: 10.1586/erp.10.78 
+PMID: 21155699  [Indexed for MEDLINE]

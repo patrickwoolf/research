@@ -1,0 +1,40 @@
+﻿//frailty AND "kidney transplant" AND complication 
+1. Am J Transplant. 2015 Jul;15(7):1976-81. doi: 10.1111/ajt.13244. Epub 2015 Apr
+13.
+
+Radioimmunotherapy ((90) Y-Ibritumomab Tiuxetan) for Posttransplant
+Lymphoproliferative Disorders After Prior Exposure to Rituximab.
+
+Rossignol J(1), Terriou L(1), Robu D(1), Willekens C(1), Hivert B(1), Pascal
+L(1), Guieze R(1), Trappe R(2), Baillet C(3), Huglo D(3), Morschhauser F(1).
+
+Author information: 
+(1)Service des Maladies du Sang, CHRU de Lille, Lille, France.
+(2)Division of Hematology and Oncology, Department of Medicine, Ev.
+Diakonie-Krankenhaus, Bremen, Germany.
+(3)Service de médecine nucléaire, CHRU de Lille, Lille, France.
+
+Posttransplantation lymphoproliferative disorders (PTLDs) are life-threatening
+complications after solid organ and hematopoietic stem cell transplantation. Only
+half of CD20-positive PTLDs respond to rituximab monotherapy, and outcomes remain
+poor for patients with relapsed/refractory disease, especially those who do not
+qualify for an anthracycline containing regimen due to frailty or comorbidities. 
+Radioimmunotherapy (RIT) might be an option in this particular setting. We report
+a panel of eight patients with rituximab refractory/relapsed CD20-positive PTLDs 
+including three ineligible for subsequent CHOP-like chemotherapy who received
+(90) Y-Ibritumomab tiuxetan as a single agent (n = 7) or combined to chemotherapy
+(n = 1). Five out of eight patients were kidney transplant recipients, while 2/8 
+had a liver transplant and 1/8 had a heart transplant. Patients received a median
+of two previous therapies. Overall response rate was 62.5%. Importantly, all
+responders achieved complete response. At a median follow-up of 37 months [5;
+84], complete response was ongoing in four patients. Toxicity was predominantly
+hematological and easily manageable. No graft rejection was noticed concomitantly
+or following RIT administration despite immunosuppression reduction after
+diagnosis of PTLDs. This report emphasizes the potential efficiency of salvage
+RIT for early rituximab refractory PTLDs without any unexpected toxicity.
+
+© Copyright 2015 The American Society of Transplantation and the American Society
+of Transplant Surgeons.
+
+DOI: 10.1111/ajt.13244 
+PMID: 25868706  [Indexed for MEDLINE]

@@ -1,0 +1,181 @@
+﻿//frailty AND "end-stage kidney disease" AND complications 
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "end-stage kidney disease"[All Fields] AND ("complications"[Subheading] OR "complications"[All Fields])
+//
+1. Clin J Am Soc Nephrol. 2018 Aug 7;13(8):1172-1179. doi: 10.2215/CJN.00590118.
+Epub 2018 Jul 19.
+
+End of Life, Withdrawal, and Palliative Care Utilization among Patients Receiving
+Maintenance Hemodialysis Therapy.
+
+Chen JC(1), Thorsteinsdottir B(2)(3), Vaughan LE(4), Feely MA(1)(5), Albright
+RC(6), Onuigbo M(7), Norby SM(6), Gossett CL(6), D'Uscio MM(6), Williams AW(6),
+Dillon JJ(6), Hickson LJ(8)(9).
+
+Author information: 
+(1)Department of Medicine and.
+(2)Primary Care Internal Medicine.
+(3)Biomedical Ethics Program.
+(4)Division of Biomedical Statistics and Informatics.
+(5)Center of Palliative Medicine, and.
+(6)Divisions of Nephrology and Hypertension, and.
+(7)Division of Nephrology, Mayo Clinic, Eau Claire, Wisconsin.
+(8)Divisions of Nephrology and Hypertension, and hickson.latonya@mayo.edu.
+(9)Geriatric Medicine and Gerontology, Mayo Clinic, Rochester, Minnesota; and.
+
+BACKGROUND AND OBJECTIVES: Withdrawal from maintenance hemodialysis before death 
+has become more common because of high disease and treatment burden. The study
+objective was to identify patient factors and examine the terminal course
+associated with hemodialysis withdrawal, and assess patterns of palliative care
+involvement before death among patients on maintenance hemodialysis.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: We designed an observational
+cohort study of adult patients on incident hemodialysis in a midwestern United
+States tertiary center, from January 2001 to November 2013, with death events
+through to November 2015. Logistic regression models evaluated associations
+between patient characteristics and withdrawal status and palliative care service
+utilization.
+RESULTS: Among 1226 patients, 536 died and 262 (49% of 536) withdrew. A random
+sample (10%; 52 out of 536) review of Death Notification Forms revealed 73%
+sensitivity for withdrawal. Risk factors for withdrawal before death included
+older age, white race, palliative care consultation within 6 months,
+hospitalization within 30 days, cerebrovascular disease, and no coronary artery
+disease. Most withdrawal decisions were made by patients (60%) or a family member
+(33%; surrogates). The majority withdrew either because of acute medical
+complications (51%) or failure to thrive/frailty (22%). After withdrawal, median 
+time to death was 7 days (interquartile range, 4-11). In-hospital deaths were
+less common in the withdrawal group (34% versus 46% nonwithdrawal, P=0.003). A
+third (34%; 90 out of 262) of those that withdrew received palliative care
+services. Palliative care consultation in the withdrawal group was associated
+with longer hemodialysis duration (odds ratio, 1.19 per year; 95% confidence
+interval, 1.10 to 1.3; P<0.001), hospitalization within 30 days of death (odds
+ratio, 5.78; 95% confidence interval, 2.62 to 12.73; P<0.001), and death in
+hospital (odds ratio, 1.92; 95% confidence interval, 1.13 to 3.27; P=0.02).
+CONCLUSIONS: In this single-center study, the rate of hemodialysis withdrawals
+were twice the frequency previously described. Acute medical complications and
+frailty appeared to be driving factors. However, palliative care services were
+used in only a minority of patients.
+
+Copyright © 2018 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.00590118 
+PMCID: PMC6086702 [Available on 2019-08-07]
+PMID: 30026285 
+
+
+2. Nephrol Dial Transplant. 2016 Sep;31(9):1531-40. doi: 10.1093/ndt/gfv463. Epub
+2016 Feb 4.
+
+'I feel stronger and younger all the time'-perspectives of elderly kidney
+transplant recipients: thematic synthesis of qualitative research.
+
+Pinter J(1), Hanson CS(1), Craig JC(1), Chapman JR(2), Budde K(3), Halleck F(3), 
+Tong A(1).
+
+Author information: 
+(1)Sydney School of Public Health, University of Sydney, Sydney, NSW 2006,
+Australia Centre for Kidney Research, Children's Hospital at Westmead, Westmead, 
+NSW, Australia.
+(2)Centre for Transplant and Renal Research, Westmead Hospital, Westmead, NSW,
+Australia.
+(3)Department of Nephrology, Charité-Universitätsmedizin Berlin, Berlin, Germany.
+
+BACKGROUND: Kidney transplantation offers improved survival and quality of life
+to an increasing number of elderly patients with end-stage kidney disease.
+However, elderly kidney transplant recipients may face unique challenges due to a
+higher burden of comorbidity, greater cumulative risk of
+immunosuppression-related complications and increasing frailty. We aimed to
+describe the perspectives of elderly kidney transplant recipients.
+METHODS: Electronic databases were searched to April 2015. Qualitative studies
+were eligible if they reported views from elderly kidney transplant recipients
+(≥60 years). Thematic synthesis was used to analyse the findings.
+RESULTS: Twenty-one studies involving >116 recipients were included. We
+identified seven themes. 'Regaining strength and vitality' meant valuing the
+physical and psychosocial improvements in daily functioning and life
+participation. 'Extending life' was the willingness to accept any organ,
+including extended criteria kidneys, to prolong survival. 'Debt of gratitude'
+entailed conscious appreciation toward their donor while knowing they were unable
+to repay their sacrifice. 'Moral responsibility to maintain health' motivated
+adherence to medication and lifestyle recommendations out of an ethical duty to
+protect their gift for graft survival. 'Unabating and worsening forgetfulness'
+hindered self-management. 'Disillusionment with side effects and complications'
+reflected disappointment and exasperation with the unintended consequences of
+medications. 'Finality of treatment option' was an acute awareness that the
+current transplant may be their last.
+CONCLUSIONS: Kidney transplantation was perceived to slow and even reverse the
+experience of aging among elderly recipients, especially compared with dialysis. 
+However, some were frustrated over persistent limitations after transplant,
+struggled with the burden of medication side effects and worried about a possible
+return to dialysis if the transplant failed. Clarifying patient expectations of
+transplantation, providing support to alleviate the debilitating impacts of
+immunosuppression and addressing fears about deteriorating health and graft
+failure may improve satisfaction and outcomes in elderly kidney transplant
+recipients.
+
+© The Author 2016. Published by Oxford University Press on behalf of ERA-EDTA.
+All rights reserved.
+
+DOI: 10.1093/ndt/gfv463 
+PMID: 27333617  [Indexed for MEDLINE]
+
+
+3. Chronic Kidney Disease (Partial Update): Early Identification and Management of
+Chronic Kidney Disease in Adults in Primary and Secondary Care.
+
+National Clinical Guideline Centre (UK).
+London: National Institute for Health and Care Excellence (UK); 2014 Jul.
+National Institute for Health and Care Excellence: Clinical Guidelines .
+
+The Renal National Service Framework (NSF), and the subsequent NICE Clinical
+Practice Guideline for early identification and management of adults with chronic
+kidney disease (CKD) in primary and secondary care (CG73), served to emphasise
+the change in focus in renal medicine from treatment of established kidney
+disease to earlier identification and prevention of kidney disease. CKD describes
+abnormal kidney function and/or structure. It is common, frequently unrecognised 
+and often coexists with other conditions (for example, cardiovascular disease and
+diabetes). Moderate to severe CKD also carries an increased risk of other
+significant adverse outcomes such acute kidney injury, falls, frailty and
+mortality. The risk of developing CKD increases with increasing age, and some
+conditions that coexist with CKD become more severe and increasingly prevalent as
+kidney dysfunction advances. CKD can progress to end-stage kidney disease
+(ESKD)in a small but significant percentage of people. CKD is usually
+asymptomatic but it is detectable, and tests for detecting CKD are both simple
+and freely available. There is evidence that treatment can prevent or delay the
+progression of CKD, reduce or prevent the development of complications and reduce
+the risk of cardiovascular disease. However, because of a lack of specific
+symptoms, CKD frequently remains undetected and unrecognised. As a consequence
+people with CKD are often not diagnosed, or diagnosed late when CKD is at an
+advanced stage. Late diagnosis is associated with increased morbidity, mortality 
+and healthcare associated costs.
+
+PMID: 25340245 
+
+
+4. J Am Soc Nephrol. 2013 Feb;24(3):337-51. doi: 10.1681/ASN.2012010047. Epub 2012
+Dec 20.
+
+Frailty and protein-energy wasting in elderly patients with end stage kidney
+disease.
+
+Kim JC(1), Kalantar-Zadeh K, Kopple JD.
+
+Author information: 
+(1)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, California 90502, USA.
+
+Older people constitute an increasingly greater proportion of patients with
+advanced CKD, including those patients undergoing maintenance dialysis treatment.
+Frailty is a biologic syndrome of decreased reserve and resistance to stressors
+that results from cumulative declines across multiple physiologic systems and
+causes vulnerability to adverse outcomes. Frailty is common in elderly CKD
+patients, and it may be associated with protein-energy wasting (PEW), sarcopenia,
+dynapenia, and other complications of CKD. Causes of frailty with or without PEW 
+in the elderly with CKD can be classified into three categories: causes primarily
+caused by aging per se, advanced CKD per se, or a combination of both conditions.
+Frailty and PEW in elderly CKD patients are associated with impaired physical
+performance, disability, poorer quality of life, and reduced survival. Prevention
+and treatment of these conditions in the elderly CKD patients often require a
+multifaceted approach. Here, we examine the causes and consequences of these
+conditions and examine the interplay between frailty and PEW in elderly CKD
+patients.
+
+DOI: 10.1681/ASN.2012010047 
+PMID: 23264684  [Indexed for MEDLINE]

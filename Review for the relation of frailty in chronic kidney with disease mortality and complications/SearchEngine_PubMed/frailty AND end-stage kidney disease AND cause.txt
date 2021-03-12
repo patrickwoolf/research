@@ -1,0 +1,219 @@
+﻿//frailty AND "end-stage kidney disease" AND cause 
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "end-stage kidney disease"[All Fields] AND cause[All Fields]
+//
+1. BMC Nephrol. 2017 May 22;18(1):166. doi: 10.1186/s12882-017-0574-x.
+
+Periodontitis and early mortality among adults treated with hemodialysis: a
+multinational propensity-matched cohort study.
+
+Ruospo M(1)(2), Palmer SC(3), Wong G(4), Craig JC(4), Petruzzi M(5), De
+Benedittis M(5), Ford P(6), Johnson DW(6)(7), Tonelli M(8), Natale P(1),
+Saglimbene V(1)(4), Pellegrini F(9), Celia E(1), Gelfman R(1), Leal MR(1), Torok 
+M(1), Stroumza P(1), Bednarek-Skublewska A(1)(10), Dulawa J(1)(11), Frantzen
+L(1), Del Castillo D(1), Schon S(1), Bernat AG(1), Hegbrant J(1), Wollheim C(1), 
+Gargano L(1), Bots CP(12), Strippoli GF(13)(14)(15)(16); ORALD Investigators.
+
+Author information: 
+(1)Diaverum Medical Scientific Office, Lund, Sweden.
+(2)Amedeo Avogadro University of Eastern Piedmont, Novara, Italy.
+(3)University of Otago Christchurch, Christchurch, New Zealand.
+(4)University of Sydney, Sydney, Australia.
+(5)Department of Emergency and Organ Transplantation, University of Bari, Piazza 
+Giulio Cesare, 70124, Bari, Italy.
+(6)University of Queensland, Brisbane, Australia.
+(7)Translational Research Institute, Brisbane, Australia.
+(8)University of Calgary, Calgary, Canada.
+(9)Global Medical Biogen Idec, Cambridge, MA, USA.
+(10)Medical University of Lublin, Lublin, Poland.
+(11)SHS, Medical University of Silesia, Katowice, Poland.
+(12)Academic Centre for Dentistry Amsterdam (ACTA), Amsterdam, The Netherlands.
+(13)Diaverum Medical Scientific Office, Lund, Sweden. gfmstrippoli@gmail.com.
+(14)University of Sydney, Sydney, Australia. gfmstrippoli@gmail.com.
+(15)Department of Emergency and Organ Transplantation, University of Bari, Piazza
+Giulio Cesare, 70124, Bari, Italy. gfmstrippoli@gmail.com.
+(16)Diaverum Academy, Lund, Sweden. gfmstrippoli@gmail.com.
+
+BACKGROUND: Periodontitis is associated with cardiovascular mortality in the
+general population and adults with chronic diseases. However, it is unclear
+whether periodontitis predicts survival in the setting of kidney failure.
+METHODS: ORAL-D was a propensity matched analysis in 3338 dentate adults with
+end-stage kidney disease treated in a hemodialysis network in Europe and South
+America designed to examine the association between periodontitis and all-cause
+and cardiovascular-related mortality in people on long-term hemodialysis.
+Participants were matched 1:1 on their propensity score for moderate to severe
+periodontitis assessed using the World Health Organization Community Periodontal 
+Index. A random-effects Cox proportional hazards model was fitted with shared
+frailty to account for clustering of mortality risk within countries.
+RESULTS: Among the 3338 dentate participants, 1355 (40.6%) had moderate to severe
+periodontitis at baseline. After using propensity score methods to generate a
+matched cohort of participants with periodontitis similar to those with none or
+mild periodontal disease, moderate to severe periodontitis was associated with a 
+lower risk of all-cause (9.1 versus 13.0 per 100 person years, hazard ratio 0.74,
+95% confidence interval 0.61 to 0.90) and cardiovascular (4.3 versus 6.9 per 100 
+person years, hazard ratio 0.67, 0.51 to 0.88) mortality. These associations were
+not changed substantially when participants were limited to those with 12 or more
+natural teeth and when accounting for competing causes of cardiovascular death.
+CONCLUSION: In contrast to the general population, periodontitis does not appear 
+to be associated with an increased risk of early death in adults treated with
+hemodialysis.
+
+DOI: 10.1186/s12882-017-0574-x 
+PMCID: PMC5440912
+PMID: 28532432  [Indexed for MEDLINE]
+
+
+2. Clin J Am Soc Nephrol. 2016 Mar 7;11(3):431-41. doi: 10.2215/CJN.06290615. Epub
+2016 Jan 4.
+
+Trends in Survival and Renal Recovery in Patients with Multiple Myeloma or
+Light-Chain Amyloidosis on Chronic Dialysis.
+
+Decourt A(1), Gondouin B(1), Delaroziere JC(2), Brunet P(1), Sallée M(1), Burtey 
+S(1), Dussol B(1), Ivanov V(3), Costello R(3), Couchoud C(4), Jourde-Chiche N(5).
+
+Author information: 
+(1)Departments of *Nephrology.
+(2)Public Health, and.
+(3)Immuno-Hematology, Assistance Publique-Hôpitaux de Marseille, Conception
+Hospital, Aix-Marseille University, Marseille, France; and.
+(4)French Biomedical Agency, Renal Epidemiology and Information Network Registry,
+St. Denis, France.
+(5)Departments of *Nephrology, noemie.jourde@ap-hm.fr.
+
+BACKGROUND AND OBJECTIVES: Monoclonal gammopathies (MGs) with renal involvement
+can lead to ESRD caused by myeloma cast nephropathy (MCN), immunoglobulin light
+chain amyloidosis (ALA), or light-chain deposition disease (LCDD). Few studies
+have focused on the prognosis of patients with MG on chronic dialysis. We
+evaluated the outcomes of patients with MG incident on chronic dialysis in
+France.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: All incident patients registered
+in the Renal Epidemiology and Information Network Registry between 2002 and 2011 
+with ESRD caused by ALA, LCDD, or MCN were included. Patient's survival, censored
+for renal transplantation, renal recovery, and loss to follow-up, as well as
+renal outcomes were analyzed and compared with a control group. Risk factors and 
+causes of death were analyzed.
+RESULTS: We included 1459 patients, comprising 265 (18%) patients with ALA, 334
+(23%) patients with LCDD, and 861 (59%) patients with MCN. Median age was 72
+years, and 56% were men. Median follow-up was 13.1 months. Renal recovery was
+observed in 9.1% of patients and more frequent after 2006. Kidney transplantation
+was rare in this population (2.3%). Among 1272 patients who remained on dialysis,
+67% died. Median survival on dialysis was 18.3 months. Main causes of death were 
+malignancies (34.4%), cardiovascular diseases (18%), infections (13.3%), and
+cachexia (5.2%). Independent risk factors of death were age (hazard ratio [HR],
+1.03 per year increase; 95% confidence interval [95% CI], 1.02 to 1.03), frailty 
+(HR, 1.93; 95% CI, 1.58 to 2.36), congestive heart failure (HR, 1.54; 95% CI,
+1.23 to 1.93), and dialysis initiation on a central catheter (HR, 1.40; 95% CI,
+1.11 to 1.75). Factors associated with a lower risk of death were year of
+dialysis initiation (HR, 0.95 per year increase; 95% CI, 0.91 to 0.99) and high
+BP (HR, 0.80; 95% CI, 0.67 to 0.97).
+CONCLUSIONS: Survival of patients with ALA, LCDD, or MCN on chronic dialysis is
+poor but has improved over time. Progressive malignancy is the main cause of
+death in this population. Renal recovery has increased since 2006.
+
+Copyright © 2016 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.06290615 
+PMCID: PMC4791812
+PMID: 26728585  [Indexed for MEDLINE]
+
+
+3. Am J Kidney Dis. 2015 Oct;66(4):666-76. doi: 10.1053/j.ajkd.2015.04.051. Epub
+2015 Jun 25.
+
+Dental Health and Mortality in People With End-Stage Kidney Disease Treated With 
+Hemodialysis: A Multinational Cohort Study.
+
+Palmer SC(1), Ruospo M(2), Wong G(3), Craig JC(3), Petruzzi M(4), De Benedittis
+M(5), Ford P(6), Johnson DW(7), Tonelli M(8), Natale P(9), Saglimbene V(9),
+Pellegrini F(10), Celia E(9), Gelfman R(9), Leal MR(9), Torok M(9), Stroumza
+P(9), Bednarek-Skublewska A(11), Dulawa J(12), Frantzen L(9), Ferrari JN(9), Del 
+Castillo D(9), Bernat AG(9), Hegbrant J(9), Wollheim C(9), Gargano L(9), Bots
+CP(13), Strippoli GF(14); ORAL-D Study Investigators.
+
+Collaborators: Raña S, Serrano M, Claros S, Arias M, Petracci L, Arana M, De Rosa
+P, Gutierrez A, Simon M, Vergara V, Tosi M, Cernadas M, Vilamajó I, Gravac D,
+Paulón M, Penayo L, Carrizo G, Ghiani M, Perez G, Da Cruz O, Galarce D, Gravielle
+M, Vescovo E, Paparone R, Mato Mira C, Mojico E, Hermida O, Florio D, Yucoswky M,
+Labonia W, Rubio D, Di Napoli G, Fernandez A, Altman H, Rodriguez J, Serrano S,
+Valle G, Lobos M, Acosta V, Corpacci G, Jofre M, Gianoni L, Chiesura G, Capdevila
+M, Montenegro J, Bequi J, Dayer J, Gómez A, Calderón C, Abrego E, Cechín C,
+García J, Corral J, Natiello M, Coronel A, Muñiz M, Muñiz V, Bonelli A, Sanchez
+F, Maestre S, Olivera S, Camargo M, Avalos V, Geandet E, Canteli M, Escobar A,
+Sena E, Tirado S, Peñalba A, Neme G, Cisneros M, Oliszewski R, Nascar V, Daud M, 
+Mansilla S, Paredes Álvarez A, Gamín L, Arijón M, Coombes M, Zapata M, Boriceanu 
+C, Frantzen-Trendel S, Albert K, Csaszar I, Kiss E, Kosa D, Orosz A, Redl J,
+Kovacs L, Varga E, Szabo M, Magyar K, Kriza G, Zajko E, Bereczki A, Csikos J,
+Kuti A, Mike A, Steiner K, Nemeth E, Tolnai K, Toth A, Vinczene J, Szummer S,
+Tanyi E, Toth R, Szilvia M, Dambrosio N, Paparella G, Sambati M, Donatelli C,
+Pedone F, Cagnazzo VA, Antinoro R, Torsello F, Saturno C, Giannoccaro G, Maldera 
+S, Boccia E, Mantuano M, Di Toro Mammarella R, Meconizzi M, Steri PF, Riccardi C,
+Flammini A, Moscardelli L, Murgo M, San Filippo N, Pagano S, Marino G, Montalto
+G, Cantarella S, Salamone B, Randazzo G, Rallo D, Maniscalco A, Fici M, Lupo A,
+Pellegrino P, Fichera R, D'Angelo A, Falsitta N, Bochenska-Nowacka E, Jaroszynski
+A, Drabik J, Birecka M, Daniewska D, Drobisz M, Doskocz K, Wyrwicz G,
+Inchaustegui L, Outerelo C, Sousa Mendes D, Mendes A, Lopes J, Barbas J, Madeira 
+C, Fortes A, Vizinho R, Cortesão A, Almeida E, Bernat A, De la Torre B, Lopez A, 
+Martín J, Cuesta G, Rodriguez RM, Ros F, Garcia M, Orero E, Ros E, Caetano A,
+MacGregor K, Santos M, Silva Pinheiro S, Martins L, Leitão D, Izidoro C, Bava G, 
+Bora A, Gorena H, Calderón T, Dupuy R, Alonso N, Siciliano V, Frantzen-Trendel S,
+Nagy K, Bajusz Ö, Pinke I, Decsi G, Gyergyoi L, Jobba Z, Zalai Z, Zsedenyi Á,
+Kiss G, Pinter M, Kereszturi M, Petruzzi M, De Benedittis M, Szkutnik J,
+Sieczkarek J, Capelo A, Garcia Gallart M, Mendieta C.
+
+Author information: 
+(1)University of Otago, Christchurch, New Zealand.
+(2)Diaverum Medical Scientific Office, Lund, Sweden; Amedeo Avogadro University
+of Eastern Piedmont, Novara, Italy.
+(3)University of Sydney, Sydney, Australia.
+(4)University of Bari, Bari, Italy.
+(5)Universita' del Piemonte Orientale, Vercelli, Italy.
+(6)University of Queensland, Brisbane, Australia.
+(7)University of Queensland, Brisbane, Australia; Translational Research
+Institute, Brisbane, Australia.
+(8)University of Calgary, Calgary, Canada.
+(9)Diaverum Medical Scientific Office, Lund, Sweden.
+(10)Global Medical Biogen Idec, Cambridge, MA.
+(11)Diaverum Medical Scientific Office, Lund, Sweden; Medical University of
+Lublin, Lublin.
+(12)Diaverum Medical Scientific Office, Lund, Sweden; Medical University of
+Silesia, Silesia, Poland.
+(13)Academic Centre for Dentistry Amsterdam (ACTA), Oral Biochemistry, Amsterdam,
+the Netherlands.
+(14)Diaverum Medical Scientific Office, Lund, Sweden; University of Sydney,
+Sydney, Australia; University of Bari, Bari, Italy; Diaverum Academy, Lund,
+Sweden. Electronic address: gfmstrippoli@gmail.com.
+
+BACKGROUND: Dental disease is more extensive in adults with chronic kidney
+disease, but whether dental health and behaviors are associated with survival in 
+the setting of hemodialysis is unknown.
+STUDY DESIGN: Prospective multinational cohort.
+SETTING & PARTICIPANTS: 4,205 adults treated with long-term hemodialysis, 2010 to
+2012 (Oral Diseases in Hemodialysis [ORAL-D] Study).
+PREDICTORS: Dental health as assessed by a standardized dental examination using 
+World Health Organization guidelines and personal oral care, including
+edentulousness; decayed, missing, and filled teeth index; teeth brushing and
+flossing; and dental health consultation.
+OUTCOMES: All-cause and cardiovascular mortality at 12 months after dental
+assessment.
+MEASUREMENTS: Multivariable-adjusted Cox proportional hazards regression models
+fitted with shared frailty to account for clustering of mortality risk within
+countries.
+RESULTS: During a mean follow-up of 22.1 months, 942 deaths occurred, including
+477 cardiovascular deaths. Edentulousness (adjusted HR, 1.29; 95% CI, 1.10-1.51) 
+and decayed, missing, or filled teeth score ≥ 14 (adjusted HR, 1.70; 95% CI,
+1.33-2.17) were associated with early all-cause mortality, while dental flossing,
+using mouthwash, brushing teeth daily, spending at least 2 minutes on oral
+hygiene daily, changing a toothbrush at least every 3 months, and visiting a
+dentist within the past 6 months (adjusted HRs of 0.52 [95% CI, 0.32-0.85], 0.79 
+[95% CI, 0.64-0.97], 0.76 [95% CI, 0.58-0.99], 0.84 [95% CI, 0.71-0.99], 0.79
+[95% CI, 0.65-0.95], and 0.79 [95% CI, 0.65-0.96], respectively) were associated 
+with better survival. Results for cardiovascular mortality were similar.
+LIMITATIONS: Convenience sample of clinics.
+CONCLUSIONS: In adults treated with hemodialysis, poorer dental health was
+associated with early death, whereas preventive dental health practices were
+associated with longer survival.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.ajkd.2015.04.051 
+PMID: 26120038  [Indexed for MEDLINE]

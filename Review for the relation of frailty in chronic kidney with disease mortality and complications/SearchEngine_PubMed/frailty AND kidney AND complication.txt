@@ -1,0 +1,385 @@
+﻿//frailty AND "kidney" AND complication
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "kidney"[All Fields] AND complication[All Fields]
+//
+1. Transpl Int. 2019 Jan;32(1):66-74. doi: 10.1111/tri.13330. Epub 2018 Aug 28.
+
+Frailty has a significant influence on postoperative complications after kidney
+transplantation-a prospective study on short-term outcomes.
+
+Schopmeyer L(1), El Moumni M(1), Nieuwenhuijs-Moeke GJ(2), Berger SP(3), Bakker
+SJL(3), Pol RA(1).
+
+Author information: 
+(1)Division of Transplantation Surgery, Department of Surgery, University Medical
+Center Groningen, University of Groningen, Groningen, The Netherlands.
+(2)Department of Anesthesiology, University Medical Center Groningen, University 
+of Groningen, Groningen, The Netherlands.
+(3)Department of Nephrology, University Medical Center Groningen, University of
+Groningen, Groningen, The Netherlands.
+
+Currently, there are no tools to predict postsurgery outcome after kidney
+transplantation. This study assesses whether frailty influence 30-day
+postoperative complications after kidney transplantation. One-hundred and fifty
+kidney transplantations were prospectively included. Frailty was assessed using a
+frailty indicator, consisting of 15 questions, covering most domains of
+functioning. Postoperative complications were measured by the Comprehensive
+Complication Index (CCI). Using a linear regression model, 30-day postoperative
+complications and frailty correlation were adjusted for confounders, including
+sex, age, ASA Score, Charlson Comorbidity Index, hypertension, BMI, smoking,
+dialysis, duration of dialysis, type of transplantation, and retransplantation.
+The mean frailty score was 2.07(±1.6) and 23 patients were classified as frail
+(GFI ≥4). The mean CCI-score was 18(±15.6), the mean CCI-score for "frail"
+patients 30.1(±17.2) compared to 15.5 (±14.2) for "non-frail" patients (N = 116).
+In a regression analysis, a significant relationship between CCI-score and
+frailty (β = 13.3; 95% CI 5.7-20.9; P = 0.0007) and transplantation type (β =
+4.9; 95% CI: 0.72-9.16; P = 0.02) was found, independent of confounders. In
+conclusion, frailty and type of transplantation are independent factors
+associated with an increased risk of postoperative complications.
+
+© 2018 The Authors. Transplant International published by John Wiley & Sons Ltd
+on behalf of Steunstichting ESOT.
+
+DOI: 10.1111/tri.13330 
+PMID: 30099780  [Indexed for MEDLINE]
+
+
+2. PLoS One. 2018 May 10;13(5):e0196877. doi: 10.1371/journal.pone.0196877.
+eCollection 2018.
+
+Transcatheter aortic valve implantation for aortic stenosis in high surgical risk
+patients: A systematic review and meta-analysis.
+
+Liu Z(1), Kidney E(2), Bem D(2), Bramley G(2), Bayliss S(2), de Belder MA(3),
+Cummins C(2), Duarte R(4).
+
+Author information: 
+(1)Nuffield Department of Population Health, University of Oxford, Oxford, United
+Kingdom.
+(2)Institute of Applied Health Research, University of Birmingham, Birmingham,
+United Kingdom.
+(3)The James Cook University Hospital, Middlesbrough, United Kingdom.
+(4)Liverpool Reviews and Implementation Group, University of Liverpool,
+Liverpool, United Kingdom.
+
+BACKGROUND: Symptomatic aortic stenosis has a poor prognosis. Many patients are
+considered inoperable or at high surgical risk for surgical aortic valve
+replacement (SAVR), reflecting their age, comorbidities and frailty. The clinical
+effectiveness and safety of TAVI have not been reviewed systematically for these 
+high levels of surgical risk. This systematic review compares mortality and other
+important clinical outcomes up to 5 years post treatment following TAVI or other 
+treatment in these risk groups.
+METHODS: A systematic review protocol was registered on the PROSPERO database
+(CRD42016048396). The Cochrane Library, Centre for Reviews and Dissemination
+Databases, MEDLINE, EMBASE, and ZETOC were searched from January 2002 to August
+2016. Clinical trials or matched studies comparing TAVI with other treatments for
+AS in patients surgically inoperable or operable at a high risk were included.
+Data extraction and quality assessment were conducted by two reviewers. Data were
+pooled using random-effects meta-analysis. The main outcomes were all-cause
+mortality, efficacy and major complications.
+RESULTS: Three good quality randomised controlled trials (RCTs) were included.
+Patients' mean age ranged from 83-85 years, around half were female and New York 
+Heart Association (NYHA) functional class III or IV ranged from 83.8% to 94.2%
+with frequent comorbidities. In 358 surgically inoperable patients from one RCT, 
+TAVI was superior to medical therapy for all-cause mortality at 1 year (hazard
+ratio (HR) 0.58, 95% confidence interval (CI) 0.36-0.92), 2 years (HR 0.50, 95%
+CI 0.39-0.65), 3 years (HR 0.53, 95% CI 0.41to 0.68) and 5 years (HR 0.50, 95% CI
+0.39-0.65), and NYHA class III or IV at 2 years (TAVI 16.8% (16/95), medical
+therapy 57.5% (23/40), p<0.001), quality of life and re-hospitalisation. TAVI had
+higher risks of major bleeding up to 1 year, of stroke up to 3 years (at one year
+11.2% versus 5.5%, p = .06; HR at 2 years 2.79, 95% CI 1.25-6.22; HR at 3 years
+2.81; 95% CI 1.26-6.26) and of major vascular complication at 3 years (HR 8.27,
+95% CI 2.92-23.44). Using the GRADE tool, this evidence was considered to be of
+moderate quality. In a meta-analysis including 1,494 high risk surgically
+operable patients from two non-inferiority RCTs TAVI showed no significant
+differences from SAVR in all-cause mortality at two years (HR 1.03, 95% CI
+0.82-1.29) and up to 5 years (HR 0.83, 95% CI 0.83-1.12). There were no
+statistically significant differences in major vascular complications and
+myocardial infarction at any time point, discrepant results for major bleeding on
+variable definitions and no differences in stroke rate at any time point. Using
+the GRADE tool, this evidence was considered of low quality.
+CONCLUSIONS: Symptomatic aortic stenosis can be lethal without intervention but
+surgical resection is contraindicated for some patients and high risk for others.
+We found that all-cause mortality up to 5 years of follow-up did not differ
+significantly between TAVI and SAVR in patients surgically operable at a high
+risk, but favoured TAVI over medical therapy in patients surgically inoperable.
+TAVI is a viable life-extending treatment option in these surgical high risk
+groups.
+
+DOI: 10.1371/journal.pone.0196877 
+PMCID: PMC5944928
+PMID: 29746546  [Indexed for MEDLINE]
+
+
+3. J Clin Exp Hepatol. 2017 Dec;7(4):340-357. doi: 10.1016/j.jceh.2017.11.001. Epub 
+2017 Nov 8.
+
+Nutrition and Muscle in Cirrhosis.
+
+Anand AC(1).
+
+Author information: 
+(1)Indraprastha Apollo Hospital, New Delhi, India.
+
+As the cirrhosis progresses, development of complication like ascites, hepatic
+encephalopathy, variceal bleeding, kidney dysfunction, and hepatocellular
+carcinoma signify increasing risk of short term mortality. Malnutrition and
+muscle wasting (sarcopenia) is yet other complications that negatively impact
+survival, quality of life, and response to stressors, such as infection and
+surgery in patients with cirrhosis. Conventionally, these are not routinely
+looked for, because nutritional assessment can be a difficult especially if there
+is associated fluid retention and/or obesity. Patients with cirrhosis may have a 
+combination of loss of skeletal muscle and gain of adipose tissue, culminating in
+the condition of "sarcopenic obesity." Sarcopenia in cirrhotic patients has been 
+associated with increased mortality, sepsis complications, hyperammonemia, overt 
+hepatic encephalopathy, and increased length of stay after liver transplantation.
+Assessment of muscles with cross-sectional imaging studies has become an
+attractive index of nutritional status evaluation in cirrhosis, as sarcopenia,
+the major component of malnutrition, is primarily responsible for the adverse
+clinical consequences seen in patients with liver disease. Cirrhosis is a state
+of accelerated starvation, with increased gluconeogenesis that requires amino
+acid diversion from other metabolic functions. Protein homeostasis is disturbed
+in cirrhosis due to several factors such as hyperammonemia, hormonal, and
+cytokine abnormalities, physical inactivity and direct effects of ethanol and its
+metabolites. New approaches to manage sarcopenia are being evolved. Branched
+chain amino acid supplementation, Myostatin inhibitors, and mitochondrial
+protective agents are currently in various stages of evaluation in preclinical
+studies to prevent and reverse sarcopenia, in cirrhosis.
+
+DOI: 10.1016/j.jceh.2017.11.001 
+PMCID: PMC5719462
+PMID: 29234200 
+
+
+4. J Frailty Aging. 2017;6(2):103-106. doi: 10.14283/jfa.2017.14.
+
+Frailty in End-Stage Renal Disease Patients under Dialysis and Its Association
+with Clinical and Biochemical Markers.
+
+Poveda V(1), Filgueiras M, Miranda V, Santos-Silva A, Paúl C, Costa E.
+
+Author information: 
+(1)Elísio Costa, Laboratório de Bioquímica, Departamento de Ciências Biológicas, 
+Universidade do Porto, Rua de Jorge Viterbo Ferreira, 228, 4050-313 Porto,
+Portugal, Email: emcosta@ff.up.pt.
+
+Frailty is a common complication in elderly patients with end-stage renal disease
+(ESRD) under dialysis, which is a strong risk factor for low quality of life,
+morbidity, and mortality. In this work, we aimed to evaluate the prevalence of
+frailty in a group of Portuguese ESRD patients, and its association with
+socio-demographic, clinical and biochemical markers. We performed a
+cross-sectional study with 83 ESRD patients (44 males and 39 females, 64.3
+[±14.6] years old) on regular dialysis. The classification of the ESRD patients
+as robust, pre-frail and frail was performed using the FRAIL questionnaire.
+Social support, data about sociodemographic and comorbidities, and
+haematological, iron status, dialysis adequacy, nutritional and inflammatory
+markers were also evaluated. Our results confirmed that frailty is a highly
+prevalent condition in ESRD patients, particularly in female patients. An
+association between FRAIL score and increased depressive symptoms, presence of
+hypertension and decrease nutritional status was also found.
+
+DOI: 10.14283/jfa.2017.14 
+PMID: 28555712  [Indexed for MEDLINE]
+
+Conflict of interest statement: none
+
+
+5. World Neurosurg. 2016 Nov;95:548-555.e4. doi: 10.1016/j.wneu.2016.08.029. Epub
+2016 Aug 18.
+
+Development of a Metastatic Spinal Tumor Frailty Index (MSTFI) Using a Nationwide
+Database and Its Association with Inpatient Morbidity, Mortality, and Length of
+Stay After Spine Surgery.
+
+De la Garza Ramos R(1), Goodwin CR(1), Jain A(2), Abu-Bonsrah N(1), Fisher CG(3),
+Bettegowda C(1), Sciubba DM(4).
+
+Author information: 
+(1)Department of Neurosurgery, Johns Hopkins University School of Medicine,
+Baltimore, Maryland, USA.
+(2)Department of Orthopaedic Surgery, Johns Hopkins University School of
+Medicine, Baltimore, Maryland, USA.
+(3)Divison of Spine, Department of Orthopaedics, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+(4)Department of Neurosurgery, Johns Hopkins University School of Medicine,
+Baltimore, Maryland, USA. Electronic address: dsciubb1@jhmi.edu.
+
+OBJECTIVE: The aim of this study was to develop a perioperative metastatic spinal
+tumor frailty index (MSTFI) that could predict morbidity, mortality, and length
+of stay.
+METHODS: A large inpatient hospitalization database was searched from 2002 to
+2011 to identify 4583 patients with spinal metastasis from breast (21.1%), lung
+(34.1%), thyroid (3.8%), renal (19.9%), and prostate (21.1%) cancer who underwent
+surgery. A multiple logistic regression model identified 9 independent parameters
+that were used to construct the MSTFI: anemia, chronic lung disease,
+coagulopathy, electrolyte abnormalities, pulmonary circulation disorders, renal
+failure, malnutrition, emergent/urgent admission, and anterior/combined surgical 
+approach. Patients with 0 points were categorized as "not frail," 1 as "mildly
+frail," 2 as "moderately frail," and ≥3 as "severely frail."
+RESULTS: The overall perioperative complication rate was 19.3% and in-patient
+mortality was 3.0%. Compared with patients with no frailty, patients with
+moderate frailty (odds ratio [OR] 5.15; 95% confidence interval [95% CI]
+2.44-10.86), and severe frailty (OR 5.74; 95% CI 2.69-12.24) had significantly
+increased odds of inpatient mortality (all P < 0.001). Similarly, patients with
+mild frailty (OR 1.88; 95% CI 1.33-2.66), moderate frailty (OR 3.83; 95% CI
+2.71-5.41), and severe frailty (OR 6.97; 95% CI 4.98-9.74) had significantly
+increased odds of developing a major in-hospital complication (all P < 0.001).
+Length of stay also increased significantly by MSTFI (P < 0.001).
+CONCLUSIONS: In surgically treated patients with spinal metastasis, certain
+perioperative parameters may significantly predict the risk of major in-hospital 
+complications and mortality.
+
+Copyright © 2016. Published by Elsevier Inc.
+
+DOI: 10.1016/j.wneu.2016.08.029 
+PMID: 27544340  [Indexed for MEDLINE]
+
+
+6. Am J Transplant. 2015 Jul;15(7):1976-81. doi: 10.1111/ajt.13244. Epub 2015 Apr
+13.
+
+Radioimmunotherapy ((90) Y-Ibritumomab Tiuxetan) for Posttransplant
+Lymphoproliferative Disorders After Prior Exposure to Rituximab.
+
+Rossignol J(1), Terriou L(1), Robu D(1), Willekens C(1), Hivert B(1), Pascal
+L(1), Guieze R(1), Trappe R(2), Baillet C(3), Huglo D(3), Morschhauser F(1).
+
+Author information: 
+(1)Service des Maladies du Sang, CHRU de Lille, Lille, France.
+(2)Division of Hematology and Oncology, Department of Medicine, Ev.
+Diakonie-Krankenhaus, Bremen, Germany.
+(3)Service de médecine nucléaire, CHRU de Lille, Lille, France.
+
+Posttransplantation lymphoproliferative disorders (PTLDs) are life-threatening
+complications after solid organ and hematopoietic stem cell transplantation. Only
+half of CD20-positive PTLDs respond to rituximab monotherapy, and outcomes remain
+poor for patients with relapsed/refractory disease, especially those who do not
+qualify for an anthracycline containing regimen due to frailty or comorbidities. 
+Radioimmunotherapy (RIT) might be an option in this particular setting. We report
+a panel of eight patients with rituximab refractory/relapsed CD20-positive PTLDs 
+including three ineligible for subsequent CHOP-like chemotherapy who received
+(90) Y-Ibritumomab tiuxetan as a single agent (n = 7) or combined to chemotherapy
+(n = 1). Five out of eight patients were kidney transplant recipients, while 2/8 
+had a liver transplant and 1/8 had a heart transplant. Patients received a median
+of two previous therapies. Overall response rate was 62.5%. Importantly, all
+responders achieved complete response. At a median follow-up of 37 months [5;
+84], complete response was ongoing in four patients. Toxicity was predominantly
+hematological and easily manageable. No graft rejection was noticed concomitantly
+or following RIT administration despite immunosuppression reduction after
+diagnosis of PTLDs. This report emphasizes the potential efficiency of salvage
+RIT for early rituximab refractory PTLDs without any unexpected toxicity.
+
+© Copyright 2015 The American Society of Transplantation and the American Society
+of Transplant Surgeons.
+
+DOI: 10.1111/ajt.13244 
+PMID: 25868706  [Indexed for MEDLINE]
+
+
+7. Best Pract Res Clin Anaesthesiol. 2011 Sep;25(3):319-27. doi:
+10.1016/j.bpa.2011.05.003.
+
+Postoperative mortality and complications.
+
+Story DA(1).
+
+Author information: 
+(1)Department of Anaesthesia, Austin Health, Victoria, Australia.
+David.Story@austin.org.au
+
+Recent publications not only underline the risks of age and disease during
+surgery but also help us quantify the risks with greater precision. Importantly, 
+patient factors often have a stronger association with postoperative mortality
+than surgical factors. Important factors preoperatively are: age, American
+Society of Anaesthesiologist (ASA) physical status, emergency surgery, and plasma
+albumin concentration. There is emerging work on quantifying frailty as a further
+risk factor for perioperative complication and mortality as well as need for
+higher level of care after discharge from hospital. Important postoperative
+complications include sepsis and kidney injury. Preventing, detecting and
+managing complications and mortality is the greatest challenge facing those
+caring for surgical patients, including anaesthetists. Evidence for the long term
+effects of perioperative complications adds further importance to minimizing
+perioperative complications. Newer approaches in patient care, particularly
+co-management during the postoperative phase by different specialities are
+emerging. Managing high-risk patients should also be enhanced with greater
+surveillance and more rapid and appropriate response; ensuring we do not fail to 
+rescue our patients.
+
+2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bpa.2011.05.003 
+PMID: 21925399  [Indexed for MEDLINE]
+
+
+8. Curr Opin Nephrol Hypertens. 2010 Mar;19(2):153-9. doi:
+10.1097/MNH.0b013e328335f939.
+
+Health-related quality of life outcomes in chronic kidney disease.
+
+Soni RK(1), Weisbord SD, Unruh ML.
+
+Author information: 
+(1)Department of Medicine, University of Pittsburgh Medical Center, Pittsburgh,
+Pennsylvania 15213, USA.
+
+PURPOSE OF REVIEW: Patients with chronic kidney disease (CKD) endure compromised 
+health-related quality of life (HRQOL). Although the link between HRQOL and
+increased mortality in patients with end-stage renal disease (ESRD) is well
+documented, less is known about the relationship between CKD and HRQOL. This
+article reviews the recent evidence on HRQOL, its correlates and proposed
+intervention strategies to improve HRQOL in CKD.
+RECENT FINDINGS: A growing body of literature indicates that various comorbid
+conditions related to CKD play a substantial role in impaired HRQOL in CKD.
+Hypertension, both a cause and complication of CKD, negatively affects HRQOL due 
+to associated comorbidities, side effects from antihypertensive medications and
+awareness of the diagnosis. Anemia has been associated with HRQOL, but concerns
+about the safety of erythropoietin-stimulating agents (ESAs) have led to more
+conservative anemia treatment. Frailty, symptom burden and depression are also
+major contributory factors to HRQOL in CKD.
+SUMMARY: Certain determinants of HRQOL in CKD, namely anemia and depression, are 
+treatable. Early identification and correction may improve overall well being of 
+patients. Clinical trials are required to demonstrate whether treatment
+interventions benefit HRQOL in this high-risk population. Furthermore, whether
+integration of HRQOL assessment into routine clinical practice will improve HRQOL
+outcomes remains to be determined.
+
+DOI: 10.1097/MNH.0b013e328335f939 
+PMCID: PMC2900393
+PMID: 20051850  [Indexed for MEDLINE]
+
+
+9. Int J Clin Pract. 2008 Sep;62(9):1447-51. doi: 10.1111/j.1742-1241.2008.01830.x. 
+Epub 2008 Jul 16.
+
+Frailty, health-related quality of life and mental well-being in older adults
+with cardiometabolic risk factors.
+
+Kanauchi M(1), Kubo A, Kanauchi K, Saito Y.
+
+Author information: 
+(1)First Department of Internal Medicine, Nara Medical University, Kashihara,
+Japan. kanauchi@nmu-gw.naramed-u.ac.jp
+
+OBJECTIVE: Frailty is an emergent health-related problem in older adults. The aim
+of this study was to examine the health-related quality of life (HRQOL) and the
+effect of frailty in elderly patients with cardiometabolic risk factors.
+METHODS: One-hundred and one patients 65 years or older responded to an HRQOL
+assessment using the World Health Organization Quality of Life (WHOQOL)-26
+questionnaire. Frailty was assessed using two indices: the Hebrew Rehabilitation 
+Center for Aged (HRCA) vulnerability index and the Vulnerable Elders Survey (VES)
+index. In addition, these patients completed self-rating questionnaires assessing
+mental well-being [the 28-item version of the General Health Questionnaire
+(GHQ-28)] and depression (Geriatric Depression Scale).
+RESULTS: Based on the combination of HRCA and VES indices, 24 subjects (23.7%)
+met the criteria of frail. Persons > or = 75 years old and those with depressive 
+mood or lower creatinine clearance had significantly lower WHOQOL-26 scores than 
+their counterparts. Diabetes and macrovascular complications did not associate
+with the WHOQOL-26 scores. Compared with non-frail patients, the frail scored
+lower on the WHOQOL-26 questionnaire after adjusting for age, kidney dysfunction 
+and depressive mood. Frail patients also reported significantly higher the GHQ-28
+scores compared with non-frail patients.
+CONCLUSIONS: Frail older adults had a significant lower HRQOL, as well as lower
+mental well-being, independent of age, diabetes, macrovascular complication,
+kidney dysfunction and depressed mood.
+
+DOI: 10.1111/j.1742-1241.2008.01830.x 
+PMID: 18643932  [Indexed for MEDLINE]

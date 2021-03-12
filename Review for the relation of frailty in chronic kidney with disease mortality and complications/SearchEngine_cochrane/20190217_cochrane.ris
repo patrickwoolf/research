@@ -1,0 +1,768 @@
+Record #1 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01091427
+A1  -  McGrath, LJ
+A1  -  Ellis, AR
+A1  -  Brookhart, MA
+T1  -  Controlling Time-Dependent Confounding by Health Status and Frailty: restriction Versus Statistical Adjustment
+JA  -  American journal of epidemiology
+PY  -  2015
+VL  -  182
+IS  -  1
+SP  -  17‐25
+C3  -  EMBASE 605160517
+M3  -  Journal: Article
+KW  -  *frail elderly
+KW  -  *health status
+KW  -  Adult
+KW  -  Aged
+KW  -  Article
+KW  -  Clinical effectiveness
+KW  -  Cohort analysis
+KW  -  Controlled clinical trial
+KW  -  Controlled study
+KW  -  End stage renal disease/th [Therapy]
+KW  -  Female
+KW  -  Hemodialysis patient
+KW  -  Human
+KW  -  Influenza vaccination
+KW  -  Influenza vaccine/dt [Drug Therapy]
+KW  -  Major clinical study
+KW  -  Male
+KW  -  Observational study
+KW  -  Recombinant erythropoietin
+KW  -  Sample size
+KW  -  Seasonal influenza/dt [Drug Therapy]
+KW  -  Seasonal influenza/pc [Prevention]
+KW  -  Vitamin D
+DO  -  10.1093/aje/kwu485
+N2  -  Nonexperimental studies of preventive interventions are often biased because of the healthy‐user effect and, in frail populations, because of confounding by functional status. Bias is evident when estimating influenza vaccine effectiveness, even after adjustment for claims‐based indicators of illness. We explored bias reduction methods while estimating vaccine effectiveness in a cohort of adult hemodialysis patients. Using the United States Renal Data System and linked data from a commercial dialysis provider, we estimated vaccine effectiveness using a Cox proportional hazards marginal structural model of all‐cause mortality before and during 3 influenza seasons in 2005/2006 through 2007/2008. To improve confounding control, we added frailty indicators to the model, measured time‐varying confounders at different time intervals, and restricted the sample in multiple ways. Crude and baseline‐adjusted marginal structural models remained strongly biased. Restricting to a healthier population removed some unmeasured confounding; however, this reduced the sample size, resulting in wide confidence intervals. We estimated an influenza vaccine effectiveness of 9% (hazard ratio = 0.91, 95% confidence interval: 0.72, 1.15) when bias was minimized through cohort restriction. In this study, the healthy‐user bias could not be controlled through statistical adjustment; however, sample restriction reduced much of the bias.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01091427/full
+ER  -  
+
+
+Record #2 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01560577
+A1  -  NCT02990663,
+T1  -  The Effect of Antihypertensive Medication Timing on Morbidity and Mortality
+JA  -  Https://clinicaltrials.gov/show/nct02990663
+PY  -  2016
+KW  -  Antihypertensive Agents
+N2  -  THE OPPORTUNITY BEDTIME PRESCRIBING MIGHT PROVIDE: Blood pressure normally exhibits a circadian rhythm with relatively lower pressures during sleep.(Ref 1) Lack of this sleep time "dip" correlates strongly with adverse cardiovascular events and BP correlates most strongly with such events when measured at night (i.e. during sleep).(Ref 2‐5) Motivated by such observations, Spanish researchers studied the effect of taking BP medication at BEDTIME (when the effect on nighttime BP would be greatest) versus conventional morning use, when most BP medications are taken. The results of this study (the MAPEC trial) were striking.(Ref 6) Over a median 5.6 years follow‐up, adverse cardiovascular events occurred in 187 of 1084 subjects taking BP medication in the morning but only 68 of 1072 subjects who took their BP medication at bedtime (relative risk 0.39, 95%CI [0.29‐0.51], p < 0.001). This 61% reduction in adverse events was similar for all individual components of the primary outcome (including death from all causes, stroke, MI, new angina pectoris, CHF and retinal artery occlusions). If true, a switch to bedtime prescribing would have more impact on the health of hypertensive patients than whether high BP is treated at all. However extraordinary claims require extraordinary evidence ‐ independent replication of such surprising findings is needed for widespread practice change to occur. BEDMED: The BedMed trial is a pragmatic primary care trial intended to verify whether bedtime antihypertensive use, as compared to conventional morning use, reduces major adverse cardiovascular events. It is designed as an adaptive randomized registry trial within community primary care and draws both trial outcomes and baseline covariates from provincial administrative claims data (vital statistics, hospital separations, physician services, prescription dispenses, laboratory data). Covariates for the primary analysis will include age, sex, physical frailty (continuous, as determined by the Tilburg Frailty Indicator Physical Components sub‐score), cognitive impairment (continuous, as determined by the Short Blessed Test score), current smoking status, hospitalization in the 6 months prior to enrolment, ≥3 baseline BP meds (resistant hypertension), presence/absence of specific diagnoses (diabetes, CHF, stroke/TIA, coronary artery disease, sleep apnea), BMI > 30, ≥ 4 additional non‐BP lowering medications (polypharmacy), kidney disease (a claims data renal insufficiency diagnosis or eGFR less than 40), or end‐stage kidney disease on dialysis. Subgroup analysis based on the presence or absence of each of these covariates will be carried out (using an age threshold of ≥ 70 yrs, a Tilburg physical frailty threshold of ≥ 3, and a Short Blessed cognitive impairment threshold of ≥ 7). BedMed is government funded/facilitated, event driven (with the trial breaking upon 406 primary outcome events), will have over 300 volunteer primary care providers recruiting, is expected to enrol 8,750 consenting community patients with hypertension, and relies heavily on a collaboration between the volunteer family physicians of the Pragmatic Trials Collaborative (www.PragmaticTrials.ca) who will recruit for the trial and the Alberta SPOR Support Unit's Data Platform ‐ which will facilitate accessing and analyzing the relevant administrative databases (http://www.aihealthsolutions.ca/initiatives‐partnerships/spor/). DIURETIC SUB‐STUDY: The "adaptive" element of the BedMed trial design refers to an interim examination of bedtime diuretic tolerance. Although it is commonly believed that diuretics can't be taken at bedtime without inducing unwanted nocturia, the sparse evidence in the literature suggests this may not be the case.(Ref 7,8) Rather than excluding patients whose only medication is a diuretic the investigators will instead initially include such patients and evaluate bedtime diuretic tolerance early on in the trial to determine whether or not such patients should continue to be enrolled. Specifically, upon allocating to bedtime dosing 203 patients whose only BP medication is an AM diuretic (excluding diuretic / non‐diuretic combination pills) the investigators will analyze 6‐week compliance to bedtime allocation for all participants with a single morning BP medication (of all types). If diuretic compliance is worse, the "adaptive" trial design will exclude enrolment of additional patients whose only BP medication is a diuretic. The BedMed investigators will report on bedtime diuretic tolerance separate from (and in advance of) the main BedMed analysis. INTERIM SAFETY ANALYSIS: An independent data safety monitoring board (DSMB) organized and chaired by Jim Wright (Cochrane Hypertension Review Group Coordinating Editor) will review all data upon reaching 200 events (estimated to occur ~20 months in). If p is ≤ 0.001 for benefit (the Haybittle‐Peto boundary ‐ recommended to reduce the chance of stopping too early and magnifying benefit), or if p is ≤ 0.05 for harm, the DSMB will apply clinical judgement and make recommendations to the steering committee on whether the trial should break early.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01560577/full
+ER  -  
+
+
+Record #3 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01172992
+A1  -  Lee, S
+A1  -  Kim, JC
+T1  -  Frailty as an independent predictor for hospitalization-free survival even in relatively healthy patients receiving chronic dialysis
+JA  -  Nephrology dialysis transplantation.
+PY  -  2015
+VL  -  30
+SP  -  iii316
+C3  -  EMBASE 72207135
+M3  -  Journal: Conference Abstract
+KW  -  *dialysis
+KW  -  *edetic acid
+KW  -  *hospitalization
+KW  -  *human
+KW  -  *normal human
+KW  -  *patient
+KW  -  *survival
+KW  -  Blood chemistry
+KW  -  Body mass
+KW  -  Body weight
+KW  -  Chronic kidney disease
+KW  -  Confidence interval
+KW  -  Death
+KW  -  Devices
+KW  -  Diabetes mellitus
+KW  -  Disability
+KW  -  Education
+KW  -  Female
+KW  -  Follow up
+KW  -  Hazard ratio
+KW  -  Hemodialysis
+KW  -  Hemodialysis patient
+KW  -  Informed consent
+KW  -  Male
+KW  -  Medical record
+KW  -  Multivariate logistic regression analysis
+KW  -  Peritoneal dialysis
+KW  -  Phenotype
+KW  -  Physical inactivity
+KW  -  Population
+KW  -  Prevalence
+KW  -  Proportional hazards model
+KW  -  Questionnaire
+KW  -  Risk
+KW  -  Unemployment
+KW  -  Univariate analysis
+KW  -  Vascular access
+KW  -  Weight reduction
+DO  -  10.1093/ndt/gfv183.36
+N2  -  Introduction and Aims: Frailty is a distinct clinical syndrome beyond just being old and ultimately results in increased risk for disability, hospitalization, and death. Interestingly, it has been reported that frailty is more common and appears even in early stage of chronic kidney disease (CKD) and much younger population of this group compared to the general population. We investigated the prevalence, correlates of frailty and the association of frailty with hospitalization‐free survival among clinically stable patients undergoing maintenance hemodialysis (MHD) and chronic peritoneal dialysis (CPD). Methods: Between July 2012 and December 2012, we recruited study subjects according to the inclusion criteria as follows: (1) age of 20 years or older, (2) at least 6 months or longer on dialysis, (3) no hospitalization for the last 3 months, except for vascular access problem in case of MHD patients, (4) ambulatory patients with or without assistive device, (5) cognitive enough to answer the questionnaires without help from others, and (6) gave informed consent without proxy and finally followed 1,658 patients ( MHD =1,255 and CPD = 403) until August 2014. We adopted frailty phenotype composed of the following components; 1) unintentional weight loss more than 4.5 Kg or 5% of the previous body weight for the last 1 year, 2) physical inactivity, 3) RAND‐36 physical function (PF) scale <75 and vitality scale <55 as surrogates for weakness/slowness and exhaustion, respectively. Low PF scale was scored as 2 points and other components as 1 point for each. Those with 0, 1‐2 and 3 or more points were considered as non‐frail, pre‐frail and frail, respectively. Demographic data were obtained by review of medical records. Blood chemistry data used were the values averaged over the three consecutive routine checkup. Results: The 1,658 participants evaluated were 55.9 +/‐12.9 years of age (mean +/‐ SD) on dialysis for 5.2+/‐4.5 years; 55.7% were male and 39.4% were diabetes. Frail subjects were 577 (34.8 %) and 757 (45.7%) were pre‐frail. Multivariate logistic regression analysis showed that female sex, unemployed status, older age, higher body mass index, lower education level, lower TIBC and comorbid conditions were independently associated with frailty. During the 86 weeks follow‐up period, 608 patients were hospitalized. The proportion with hospitalizations was 24.4% for non‐frail, 33.0% for pre‐frail and 48.4% for frail (P< 0.001). On univariate analysis, pre‐frail and frail patients were as 1.4 (95% confidence interval [CI] 1.07 to 1.78) and 2.4 (95% CI 1.86 to 3.07) times as more likely to be hospitalized, respectively. Frail phenotype remained significantly associated with hospitalization (adjusted hazard ratio 1.80; 95% CI 1.4 to 2.3) in multivariate Cox proportional hazards models. Conclusions: Frailty phenotype was very common and significant predictor of hospitalization‐free survival even in a relatively healthy patients receiving chronic dialysis. More studies are necessary for preventing or attenuating frailty in the chronic dialysis patients.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01172992/full
+ER  -  
+
+
+Record #4 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01172811
+A1  -  Castro, C
+A1  -  Gonzalez, N
+A1  -  Oliveira, M
+T1  -  Changing diabetic dialysis patients physical functioning with exercise training
+JA  -  Nephrology dialysis transplantation.
+PY  -  2015
+VL  -  30
+SP  -  iii527‐iii528
+C3  -  EMBASE 72207776
+M3  -  Journal: Conference Abstract
+KW  -  *diabetes mellitus
+KW  -  *edetic acid
+KW  -  *exercise
+KW  -  *hemodialysis patient
+KW  -  *human
+KW  -  Accident
+KW  -  Adult
+KW  -  Aerobic exercise
+KW  -  Aged
+KW  -  American
+KW  -  Arm
+KW  -  Bicycle ergometer
+KW  -  Charlson Comorbidity Index
+KW  -  College
+KW  -  Diabetic patient
+KW  -  Dialysis
+KW  -  Disabled person
+KW  -  End stage renal disease
+KW  -  Endurance
+KW  -  Female
+KW  -  Functional disease
+KW  -  Hemodialysis
+KW  -  Leg
+KW  -  Male
+KW  -  Medical society
+KW  -  Morbidity
+KW  -  Mortality
+KW  -  Muscle exercise
+KW  -  Muscle strength
+KW  -  Patient
+KW  -  Performance
+KW  -  Physical activity
+KW  -  Physical performance
+KW  -  Resistance training
+KW  -  Risk
+KW  -  Sand
+KW  -  Sports medicine
+KW  -  Statistical significance
+KW  -  Treadmill
+KW  -  Vascular access
+DO  -  10.1093/ndt/gfv194.14
+N2  -  Introduction and Aims: Diabetic patients with end‐stage renal disease admitted to dialysis are increasing dramatically and are at a greater risk for cardiovascular events. The importance of physical activity has been widely adressed, specifically regarding chronic conditions. The American Heart Association and American College of Sports Medicine published a set of recommendations applying to older adults and chronic conditions. The aim of this study was to assess if an exercise program would be feasible in a group of elderly, frail and diabetic patients on maintenance hemodialysis and if their exercise capacity could be improved. Methods: All 45 diabetic patients from our Unit were given the possibility to exercise, irrespective of degree of functional impairment. Nineteen patients were recruited (6 men, 13 women). 15 patients (5 men), mean age 72+/‐10 years, mean dialysis time 13 +/‐27 months, mean Charlson's Comorbidity Index of 4 (54 % patients), completed 16 weeks of supervised aerobic and resistance training, 3 times a week. Aerobic exercise training was performed with cycle‐ergometers or treadmills for 20 minutes, before dialysis sessions. Resistance training was performed during the second hour of dialysis, using elastic resistance bands for legs and dumbells for arms, for 20 minutes, with the vascular access arm being exercised before dialysis. Results: Patients' showed enhanced results for all tests of physical performance compared with baseline. The STS‐5 (Sit‐to‐stand‐to sit 5) was 14,5+/‐15,9 seconds at baseline (range: 10,7 ‐ 74) and 11,1+/‐4,9 seconds at 16weeks (range 7,7 ‐ 24,7); STS‐60 (Sit‐to‐sand‐to‐sit 60) was 22,0+/‐6,3 times at baseline (Min 4; Max 26,3) and 24,3+/‐6,5 at 16 weeks (range 12 ‐ 38); 6MWT was 265+/‐108,9meters at baseline (range: 115 ‐ 439) and 315+/‐133m at 16 weeks (range: 152 ‐ 615). All values were of statistical significance with p<0,01. The mean value at baseline for 6MWT was 265meters, which is below the cut‐off value for increased risk of morbidity and mortality. Conclusions: None of the patients experienced any accident or complications due to the exercise program. Exercise training is safe and efficacious even for elderly, frail, disabled and diabetic patients on hemodialysis. All physical performance tests showed increased values when compared with baseline. The STS‐60, a surrogate measure of muscle endurance, increased by approximately 10%, The STS‐5, a surrogate measure of muscle power, increased by 24% and 6MWT, a surrogate measure of endurance and power, increased by 18%.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01172811/full
+ER  -  
+
+
+Record #5 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01208335
+A1  -  Pulignano, G
+A1  -  Del Sindaco, D
+A1  -  Tinti, MD
+A1  -  Tolone, S
+A1  -  Minardi, G
+A1  -  Lax, A
+A1  -  Uguccioni, M
+T1  -  Atrial fibrillation management in older heart failure patients: a complex clinical problem
+JA  -  Heart international
+PY  -  2016
+VL  -  11
+IS  -  1
+SP  -  e41‐e49
+C3  -  EMBASE 612289937
+M3  -  Journal: Review
+KW  -  *antivitamin K
+KW  -  *atrial fibrillation
+KW  -  *atrial fibrillation/di [Diagnosis]
+KW  -  *atrial fibrillation/dm [Disease Management]
+KW  -  *atrial fibrillation/dt [Drug Therapy]
+KW  -  *atrial fibrillation/et [Etiology]
+KW  -  *cognitive defect
+KW  -  *heart failure
+KW  -  *heart failure/di [Diagnosis]
+KW  -  *longitudinal study
+KW  -  Aged
+KW  -  Anticoagulant agent/dt [Drug Therapy]
+KW  -  Anticoagulant agent/po [Oral Drug Administration]
+KW  -  Antivitamin K/dt [Drug Therapy]
+KW  -  Antivitamin K/po [Oral Drug Administration]
+KW  -  Atrial fibrillation/dt [Drug Therapy]
+KW  -  CHADS2 score
+KW  -  Cerebrovascular accident
+KW  -  Chronic kidney disease
+KW  -  Clinical feature
+KW  -  Clinical practice
+KW  -  Clinical trial
+KW  -  Controlled clinical trial
+KW  -  Controlled study
+KW  -  Diastolic blood pressure
+KW  -  Disease association
+KW  -  Frail elderly
+KW  -  Heart atrium contraction
+KW  -  Heart left ventricle filling pressure
+KW  -  High risk population
+KW  -  Human
+KW  -  International normalized ratio
+KW  -  Kidney function
+KW  -  Medline
+KW  -  Mini Mental State Examination
+KW  -  Multicenter study
+KW  -  Pathogenesis
+KW  -  Pharmacokinetics
+KW  -  Polypharmacy
+KW  -  Prevalence
+KW  -  Renin angiotensin aldosterone system
+KW  -  Review
+KW  -  Safety
+KW  -  Screening
+KW  -  Systematic review
+KW  -  Systolic blood pressure
+KW  -  Thromboembolism/co [Complication]
+KW  -  Thromboembolism/pc [Prevention]
+DO  -  10.5301/heartint.5000230
+N2  -  Background: Atrial fibrillation (AF) and heart failure (HF), two problems of growing prevalence as a consequence of the ageing population, are associated with high morbidity, mortality, and healthcare costs. AF and HF also share common risk factors and pathophysiologic processes such as hypertension, diabetes mellitus, ischemic heart disease, and valvular heart disease often occur together. Although elderly patients with both HF and AF are affected by worse symptoms and poorer prognosis, there is a paucity of data on appropriate management of these patients. Methods: PubMed was searched for studies on AF and older patients using the terms atrial fibrillation, elderly, heart failure, cognitive impairment, frailty, stroke, and anticoagulants. Results: The clinical picture of HF patients with AF is complex and heterogeneous with a higher prevalence of frailty, cognitive impairment, and disability. Because of the association of mental and physical impairment to nonadministration of oral anticoagulants (OACs), screening for these simple variables in clinical practice may allow better strategies for intervention in this high‐risk population. Since novel direct OACs (NOACs) have a more favorable risk‐benefit profile, they may be preferable to vitamin K antagonists (VKAs) in many frail elderly patients, especially those at higher risk of falls. Moreover, NOACs are simple to administer and monitor and may be associated with better adherence and safety in patients with cognitive deficits and mobility impairments. Conclusions: Large multicenter longitudinal studies are needed to examine the effects of VKAs and NOACs on long‐term cognitive function and frailty; future studies should include geriatric conditions. Copyright © 2016 The Authors.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01208335/full
+ER  -  
+
+
+Record #6 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01577310
+A1  -  NCT03071107,
+T1  -  Frailty Intervention Trial in End-Stage Patients on Dialysis
+JA  -  Https://clinicaltrials.gov/show/nct03071107
+PY  -  2017
+KW  -  Malnutrition
+N2  -  The proposed investigation for this study aims to; 1) understand the prevalence and outcomes associated with frailty among haemodialysis patients; 2) ascertain the best frailty assessment tool for haemodialysis patients, and; 3) design a clinical study to explore the feasibility of facilitating, recruiting and executing a multi‐disciplinary clinical and psychological intervention to improve frailty status among haemodialysis patients. Work package 1: Firstly, there is a need to understand the prevalence and spectrum of frailty in a UK haemodialysis cohort and what impact frailty has for haemodialysis patients. To investigate this, the investigators will approach every patient on haemodialysis within the local catchment of haemodialysis units and, after informed consent, clinically phenotype their frailty status (pre‐ and post‐haemodialysis for calculation of variability). The frailty phenotyping will encompass a number of frailty assessments (including the Edmonton Frail Scale, Clinical Frailty Scale from Rookwood score and Fried Frailty scale) to identify the ideal frailty assessment tool. All patients in this observational cohort study will be prospectively monitored for clinical/biochemical outcomes using an informatics‐based approach for up to 60 months. Work package 2: Building upon the work conducted in work package 1, work package 2 will aim to recruit 50 patients clinically phenotyped with pre‐frailty from work package 1 into a feasibility study exploring a multi‐disciplinary intervention to improve frailty status. Eligible patients, after informed consent, will be randomised into active or passive intervention. The active intervention will involve a dietitian and physiotherapist who have been trained and accredited with cognitive behavior intervention, utilising established behavioral intervention frameworks, to deliver a multi‐disciplinary clinical intervention targeting multiple components of frailty. The FITNESS project will therefore answer some important unanswered questions regarding frailty among the haemodialysis population and help in the design of a large multi‐disciplinary intervention study if deemed feasible.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01577310/full
+ER  -  
+
+
+Record #7 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01469437
+A1  -  Lai, J
+A1  -  Covinsky, K
+A1  -  Lizaola, B
+A1  -  Hayssen, H
+A1  -  Terrault, N
+A1  -  Feng, S
+T1  -  Gender differences in frailty and functional impairment among liver transplant candidates
+JA  -  American journal of transplantation. Conference: 2014 world transplant congress. United states
+PY  -  2014
+VL  -  14
+IS  -  Supplement 3
+SP  -  772
+C3  -  EMBASE 621105508
+M3  -  Conference Abstract
+KW  -  *frailty
+KW  -  *functional disease
+KW  -  *liver graft
+KW  -  *sex difference
+KW  -  Adult
+KW  -  Ascites
+KW  -  Bilirubin
+KW  -  Body mass
+KW  -  Brain disease
+KW  -  Conference abstract
+KW  -  Controlled clinical trial
+KW  -  Controlled study
+KW  -  Creatinine
+KW  -  Daily life activity
+KW  -  Death
+KW  -  Dialysis
+KW  -  Female
+KW  -  Follow up
+KW  -  Functional status
+KW  -  Gait
+KW  -  Human
+KW  -  Hypertension
+KW  -  Kruskal Wallis test
+KW  -  Major clinical study
+KW  -  Male
+KW  -  Model For End Stage Liver Disease Score
+KW  -  Mortality
+KW  -  Outpatient
+KW  -  Risk assessment
+KW  -  Validity
+KW  -  Velocity
+DO  -  10.1111/ajt.12892
+N2  -  Background and Methods: We aimed to compare functional status in men and women on the liver transplant (LT) wait‐list. Consecutive adult outpatients (n=340) listed for LT at one center (96% recruitment rate) underwent 4 frailty/functional impairment assessments at a single time point: Fried Frailty, gait speed, Activities of Daily Living (ADL), and Instrumental ADL (IADL) scales. Chi‐square and Kruskal‐wallis tests compared differences by gender. Using competing risks models, we assessed the association between the Fried Frailty Instrument and wait‐list mortality (death/delisting for being too sick for LT) given its validity and prognostic utility in other non‐elderly populations. Results: Of 340 LT candidates, 33% were women. Men and women were similar by median follow up (11 vs 10mo), age (60 vs 60yr), body mass index (29 vs 28), %ascites (34 vs 36), %encephalopathy (17 vs 19) [p>0.05], but differed by %HCC (31 vs 18), %hypertension (48 vs 36), bilirubin (2.2 vs 2.6 mg/dL), creatinine (1.0 vs 0.9 mg/dL), %on dialysis (3 vs 7), MELD [15 (IQR 12‐18) vs 15 (13‐19)] [p<0.05 for each]. Women displayed higher rates of functional impairment (Table). Wait‐list mortality occurred in 20% frail and 10% not frail candidates (p=0.046). Death/delisting occurred in 9% of non‐frail women, 9% of frail women, 11% of non‐frail men, but 27% of frail men (p=0.03). Compared to non‐frail women, frail men had a 3.4 fold increased risk of wait‐list mortality (Figure). Conclusions: Among LT candidates, women display higher rates of functional impairment than men. Frailty is a stronger predictor of wait‐list mortality in men, independent of MELD score. (Figure Presented).
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01469437/full
+ER  -  
+
+
+Record #8 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01503581
+A1  -  NCT01602718,
+T1  -  Physical Activity and Functioning in Home Dialysis Patients
+JA  -  Https://clinicaltrials.gov/show/nct01602718
+PY  -  2012
+N2  -  Aim 1: To determine levels of physical functioning, physical activity, incidence of frailty and inflammation status in prevalent home dialysis patients in the University of Utah Home Dialysis program and compare them to in‐center hemodialysis patients who are matched for age, gender, comorbidities and dialysis vintage. Hypothesis 1: Patients on home therapies will have higher physical functioning, be more active and fewer will be frail compared to matched patients treated with in‐center hemodialysis. Aim 2: To determine the patterns of change in physical functioning and physical activity over the first 18 months of initiating dialysis therapy. Hypothesis 2: Physical functioning and physical activity will be maintained in patients initiating home dialysis therapy, whereas, those initiating in‐center dialysis will deteriorate in physical functioning and physical activity. Aim 3: To determine the effects of counseling and encouragement of physical activity in prevalent home dialysis patients on physical functioning, physical activity. Hypothesis 3: Compared to usual care, patients who are counseled and encouraged to participate in independent home walking exercise will improve physical functioning and health‐related quality of life. Aim 4: To determine the association of inflammation with physical functioning in home dialysis patients and with changes in physical activity. Hypothesis 4: Lower physical functioning is associated with inflammation and increased physical activity will improve physical functioning and reduce the associated inflammation.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01503581/full
+ER  -  
+
+
+Record #9 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01342549
+A1  -  Thourani, VH
+A1  -  Forcillo, J
+A1  -  Beohar, N
+A1  -  Doshi, D
+A1  -  Parvataneni, R
+A1  -  Ayele, GM
+A1  -  Kirtane, AJ
+A1  -  Babaliaros, V
+A1  -  Kodali, S
+A1  -  Devireddy, C
+A1  -  et al.
+T1  -  Impact of Preoperative Chronic Kidney Disease in 2,531 High-Risk and Inoperable Patients Undergoing Transcatheter Aortic Valve Replacement in the PARTNER Trial
+JA  -  Annals of thoracic surgery
+PY  -  2016
+VL  -  102
+IS  -  4
+SP  -  1172‐1180
+C3  -  PUBMED 27592092
+M3  -  Comparative Study; Journal Article; Randomized Controlled Trial
+KW  -  Aged
+KW  -  Aged, 80 and over
+KW  -  Aortic Valve Stenosis [diagnostic imaging, *mortality, *surgery]
+KW  -  Cause of Death
+KW  -  Critical Illness
+KW  -  Follow‐Up Studies
+KW  -  Humans
+KW  -  Kaplan‐Meier Estimate
+KW  -  Kidney Failure, Chronic [*complications, diagnosis, therapy]
+KW  -  Proportional Hazards Models
+KW  -  Renal Dialysis [methods]
+KW  -  Risk Assessment
+KW  -  Survival Analysis
+KW  -  Time Factors
+KW  -  Transcatheter Aortic Valve Replacement [*methods, mortality]
+KW  -  Treatment Outcome
+DO  -  10.1016/j.athoracsur.2016.07.001
+N2  -  BACKGROUND: Although preoperative renal dysfunction (RD) is associated with increased mortality and morbidity after surgical aortic valve replacement, its impact on clinical outcomes after transcatheter aortic valve replacement (TAVR) is less defined. METHODS: TAVR patients in the PARTNER (Placement of Aortic Transcatheter Valves) trial with a calculable glomerular filtration rate (GFR) using the Modification of Diet in Renal Disease equation were included. Patients were divided into three groups: GFR >60 mL/min (none/mild RD), GFR 31 to 60 mL/min (moderate RD), and GFR ≤30 mL/min (severe RD). Operative characteristics and clinical outcomes were analyzed. Cox regression models were used to determine multivariable predictors of 1‐year all‐cause mortality. RESULTS: A total of 2,531 inoperable or high surgical risk patients from the PARTNER trial and continued access registries had a calculable GFR level: 767 (30%) had normal renal function or mild RD, 1,473 (58%) had moderate RD, and 291 (12%) presented with severe RD. The mean Society of Thoracic Surgeons Predicted Risk of Mortality for the cohort was 11.5%, and it was highest in those with severe RD (13.8%). Patients with severe RD were more often women with a higher prevalence of diabetes. Patients with severe RD had the highest incidence of 30‐day and 1‐year all‐cause mortality and rehospitalization. The 30‐day rate of death from any cause was 10.7% in the severe RD group versus 6.0% in the moderate and mild RD groups (p = 0.01). The 1‐year rate of death from any cause was 34.4% in the severe RD group versus 21.5% in the moderate RD and 20.8% in the none/mild RD groups (adjusted hazard ratio [HR] 2.24, p < 0.0001 for severe versus none/mild; adjusted HR 1.14, p = 0.24 for severe versus moderate). Other significant predictors of 1‐year all‐cause mortality included lower body mass index, frailty, the transapical approach, a lower ejection fraction, oxygen‐dependent chronic obstructive pulmonary disease, liver disease, and male sex. CONCLUSIONS: Preoperative severe RD is a significant predictor for 1‐year mortality in TAVR patients. Careful risk stratification by the heart team is required in patients with severe preprocedural RD.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01342549/full
+ER  -  
+
+
+Record #10 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-00842098
+A1  -  van Diepen, AT
+A1  -  Tomlinson, GA
+A1  -  Jassal, SV
+T1  -  The association between exit site infection and subsequent peritonitis among peritoneal dialysis patients
+JA  -  Clinical journal of the American Society of Nephrology
+PY  -  2012
+VL  -  7
+IS  -  8
+SP  -  1266‐1271
+C3  -  PUBMED 22745277
+M3  -  Journal Article; Multicenter Study; Randomized Controlled Trial; Research Support, Non‐U.S. Gov't
+KW  -  Administration, Topical
+KW  -  Adult
+KW  -  Aged
+KW  -  Aged, 80 and over
+KW  -  Antibiotic Prophylaxis
+KW  -  Anti‐Bacterial Agents [administration & dosage]
+KW  -  Bacitracin [administration & dosage]
+KW  -  Catheters, Indwelling [*adverse effects]
+KW  -  Catheter‐Related Infections [diagnosis, *microbiology, prevention & control]
+KW  -  Drug Combinations
+KW  -  Female
+KW  -  Gramicidin [administration & dosage]
+KW  -  Humans
+KW  -  Male
+KW  -  Middle Aged
+KW  -  Mupirocin [administration & dosage]
+KW  -  Ointments
+KW  -  Ontario
+KW  -  Peritoneal Dialysis [*adverse effects, instrumentation]
+KW  -  Peritonitis [diagnosis, *microbiology, prevention & control]
+KW  -  Polymyxin B [administration & dosage]
+KW  -  Proportional Hazards Models
+KW  -  Prospective Studies
+KW  -  Risk Assessment
+KW  -  Risk Factors
+KW  -  Time Factors
+KW  -  Young Adult
+DO  -  10.2215/CJN.00980112
+N2  -  BACKGROUND AND OBJECTIVES: Peritonitis is the most common infectious complication seen in peritoneal dialysis (PD). Traditionally, exit site infection (ESI) has been thought to predispose PD patients to peritonitis, although the risks have not been quantified. This study aimed to quantify the risk of PD peritonitis after ESI. DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: Data from 203 clinically stable PD patients >18 years of age who were followed as part of a randomized controlled trial over 18 months were used to estimate the risk of developing peritonitis within 30 days of an ESI compared with individuals who did not have a recent ESI. Sensitivity analyses were performed at 15, 45, and 60 days. RESULTS: Patients were mostly male (64.5%) and Caucasian, with a mean age of 60.5 ± 14.4 years. There were 44 ESIs and 87 peritonitis episodes during the 18‐month study. Seven patients had an ESI followed by peritonitis within 30 days. Using a frailty model, patients who had an ESI had a significantly higher risk of developing peritonitis within 30 days, even if the ESI was appropriately treated. This risk was maximal early on and diminished with time, with hazard ratios (95% confidence interval) of 11.1 at 15 days (HR=11.1, 95% CI=4.9‐25.1), 5.3 at 45 days (2.5‐11.3), and 4.9 at 60 days (2.4‐9.9). In 2.3% of patients, subsequent peritonitis was caused by the same organism as the previous ESI. CONCLUSIONS: A strong association between a treated ESI and subsequent PD peritonitis was present up to 60 days after initial diagnosis.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-00842098/full
+ER  -  
+
+
+Record #11 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01000230
+A1  -  Boxer, RS
+A1  -  Dolansky, MA
+A1  -  Bodnar, CA
+A1  -  Singer, ME
+A1  -  Albert, JM
+A1  -  Gravenstein, S
+T1  -  A randomized trial of heart failure disease management in skilled nursing facilities: design and rationale
+JA  -  Journal of the american medical directors association
+PY  -  2013
+VL  -  14
+IS  -  9
+SP  -  710.e5 ‐11
+C3  -  PUBMED 23871475
+M3  -  Journal Article; Randomized Controlled Trial
+KW  -  Aged
+KW  -  Disease Management
+KW  -  Female
+KW  -  Health Status Indicators
+KW  -  Heart Failure [*therapy]
+KW  -  Humans
+KW  -  Male
+KW  -  Ohio
+KW  -  Patient Discharge [statistics & numerical data]
+KW  -  Patient Readmission [statistics & numerical data]
+KW  -  Self Care
+KW  -  Skilled Nursing Facilities
+KW  -  Surveys and Questionnaires
+KW  -  Treatment Outcome
+DO  -  10.1016/j.jamda.2013.05.023
+N2  -  BACKGROUND: Heart failure (HF) disease management can improve health outcomes for older community dwelling patients with heart failure. HF disease management has not been studied in skilled nursing facilities, a major site of transitional care for older adults. METHODS AND ANTICIPATED RESULTS: The objective of this trial is to investigate if a HF‐ disease management program (HF‐DMP) in skilled nursing facilities (SNF)s will decrease all‐cause rehospitalizations for the first 60 days post‐SNF admission. The trial is a randomized cluster trial to be conducted in 12 for‐profit SNF in the greater Cleveland area. The study population is inclusive of patients with HF regardless of ejection fraction but excludes those patients on dialysis and with a life expectancy of 6 months or less. The HF‐DMP includes 7 elements considered standard of care for patients with HF documentation of left ventricular function, tracking of weight and symptoms, medication titration, discharge instructions, 7‐day follow‐up appointment post‐SNF discharge, and patient education. The HF‐DMP is conducted by a research nurse tasked with adhering to each element of the program and regularly audited to maintain fidelity of the program. Additional outcomes include health status, self‐care management, and discharge destination. CONCLUSIONS: The SNF‐Connect Trial is the first trial of its kind to assess if a HF‐DMP will improve outcomes for patients in SNFs. This trial will provide evidence on the effectiveness of HF‐DMP to improve outcomes for older frail HF patients undergoing postacute rehabilitation.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01000230/full
+ER  -  
+
+
+Record #12 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01172745
+A1  -  Vlachopanos, G
+A1  -  Kassimatis, T
+A1  -  Zerva, A
+A1  -  Kokkona, A
+A1  -  Stavroulaki, E
+A1  -  Zacharogiannis, C
+A1  -  Agrafiotis, A
+T1  -  Excessive morbidity and mortality of hip fractures in chronic hemodialysis: a single center experience
+JA  -  Nephrology dialysis transplantation.
+PY  -  2015
+VL  -  30
+SP  -  iii600
+C3  -  EMBASE 72207999
+M3  -  Journal: Conference Abstract
+KW  -  *edetic acid
+KW  -  *hemodialysis
+KW  -  *hip fracture
+KW  -  *morbidity
+KW  -  *mortality
+KW  -  Adverse outcome
+KW  -  Anemia
+KW  -  Architecture
+KW  -  Bone
+KW  -  Cohort analysis
+KW  -  Death
+KW  -  Demography
+KW  -  Epidemiology
+KW  -  Health
+KW  -  Health care
+KW  -  Hemodialysis patient
+KW  -  Hemoglobin
+KW  -  Hospital readmission
+KW  -  Hospitalization
+KW  -  Human
+KW  -  Kidney function
+KW  -  Laboratory
+KW  -  McNemar test
+KW  -  Patient
+KW  -  Population
+KW  -  Prevention
+KW  -  Student t test
+KW  -  Surgery
+DO  -  10.1093/ndt/gfv199.39
+N2  -  Introduction and Aims: Abnormal bone architecture contributes to high incidence of hip fractures in chronic hemodialysis (HD) patients. Their clinical epidemiology is incompletely described.We conducted a retrospective cohort study to assess the implications of hospitalization with hip fracture in HD patients compared to the non‐CKD population. Methods: Thirty three chronic HD patients admitted with hip fracture over 5 years were age‐ and sex‐matched on a 1:1 ratio with controls that had hip fracture and normal renal function. Demographic characteristics, deaths and readmissions at 6 months, hospitalization length, time to operation and laboratory results were recorded from electronic health files. Data were compared between the two groups using paired t‐test for continuous variables and McNemar's test for categorical variables. Results: The composite end‐point of death and/or readmission at 6 months was higher in HD patients (12.1% versus 6.2%, p<0.001). Furthermore, mean time to operation was more delayed due to comorbidities (4.7 versus 2.9 days, p=0.04). HD patients had more frequently anemia at presentation (hemoglobin below 10 mg/dl, 32.1% versus 12.5%, p=0.003). Finally, they were more likely to be considered too frail for surgery and were not operated (21.2% versus 6.2%, p<0.001). Conclusions: Hip fractures are associated with increased morbidity and mortality and represent an important healthcare burden for chronic HD patients. Future research is needed to identify definite predictors of adverse outcomes and to implement prevention strategies.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01172745/full
+ER  -  
+
+
+Record #13 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01172726
+A1  -  Palmer, S
+A1  -  Ruospo, M
+A1  -  Wong, G
+A1  -  Craig, JC
+A1  -  Petruzzi, M
+A1  -  De Benedittis, M
+A1  -  Ford, P
+A1  -  Johnson, D
+A1  -  Tonelli, M
+A1  -  Natale, P
+A1  -  et al.
+T1  -  Periodontitis and early mortality in adults with kidney failure treated with hemodialysis: a multi national observational study
+JA  -  Nephrology dialysis transplantation.
+PY  -  2015
+VL  -  30
+SP  -  iii625
+C3  -  EMBASE 72208074
+M3  -  Journal: Conference Abstract
+KW  -  *adult
+KW  -  *edetic acid
+KW  -  *hemodialysis
+KW  -  *kidney failure
+KW  -  *mortality
+KW  -  *observational study
+KW  -  *periodontitis
+KW  -  Argentina
+KW  -  Cardiovascular mortality
+KW  -  Chronic disease
+KW  -  Cohort analysis
+KW  -  Community
+KW  -  Confidence interval
+KW  -  Death
+KW  -  Europe
+KW  -  Follow up
+KW  -  France
+KW  -  Hazard
+KW  -  Health care organization
+KW  -  Human
+KW  -  Hungary
+KW  -  Italy
+KW  -  Model
+KW  -  Periodontal disease
+KW  -  Periodontics
+KW  -  Poland
+KW  -  Population
+KW  -  Portugal
+KW  -  Proportional hazards model
+KW  -  Risk
+KW  -  Spain
+KW  -  Tooth
+DO  -  10.1093/ndt/gfv200.67
+N2  -  Introduction and Aims: Periodontitis is associated with cardiovascular mortality in the general population and adults with chronic diseases, however prognostic data for periodontitis in the setting of kidney failure are sparse. The aim of the study was to evaluate whether periodontitis was prognostic for all‐cause and cardiovascular‐related death in adults with kidney failure. Methods: ORALD is a multinational cohort study in adults with kidney failure treated with haemodialysis in Europe (France, Hungary, Italy, Poland, Portugal and Spain) and Argentina. Periodontitis was measured at baseline according to theWorld Health Organization Community Periodontal Index. The outcomes were all‐cause and cardiovascular mortality. Analyses were conducted using a fixed‐effect Cox proportional hazards analysis and additionally using a random effects model fitted using shared frailty to account for clustering within countries. Results: Periodontitis was evaluable in 3338 dentate participants of which 1355 (40.6%) had moderate to severe periodontitis. During 6150 person‐years of follow‐up, 650 deaths occurred of which 325 were cardiovascular. In multivariable analyses, moderate to severe periodontitis was associated with a lower hazard of all‐cause (HR 0.76, 95% confidence interval 0.64 to 0.90) and cardiovascular (0.69, 0.54 to 0.87) mortality. There was evidence of decreasing mortality risks with more severe periodontal disease (P<0.001 for trend). However, when analyses accounted for clustering of participants within countries, the associations between periodontitis and all‐cause (0.92, 0.75 to 1.11) and cardiovascular (0.83, 0.63 to 1.09) mortality were not significant. Similar results were observed in analyses restricted to participants with 12 or more teeth and when competing risks for cardiovascular death were considered. Conclusions: Unlike in the general population, there is limited evidence that periodontitis is independently associated with increased all‐cause or cardiovascular mortality in adults with kidney failure.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01172726/full
+ER  -  
+
+
+Record #14 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01561071
+A1  -  NCT03012256,
+T1  -  The DIVERT-CARE (Collaboration Action Research & Evaluation) Trial
+JA  -  Https://clinicaltrials.gov/show/nct03012256
+PY  -  2017
+KW  -  Heart Failure
+N2  -  BACKGROUND Context: Public home care services are delivered to at least 6% of Canadians age 65‐74, 15% age 75‐84 and 32% age 85 or older. These clients are medically complex, access care across settings, have very high emergency department utilization rates, and have relatively poor access to effective chronic disease management. Their frequent emergency department use is not aligned with chronic disease management or geriatric care principles. Effective chronic disease management models employ multiple components delivered by a coordinated multidisciplinary team. According to the 'chronic disease management model', home care plays a complementary function to medical practitioners. Clinical and self‐care support as well as case management are among the most effective components in chronic disease management. Self‐care education and support has been shown to improve health outcomes across chronic diseases. Sustained follow‐up by nurses or other non‐medical staff is also effective. Canadian home care providers, historically focused on the delivery of personal support services, have started to develop supportive chronic disease management capacity (e.g. specialist nurse monitoring). However, most trials exclude frail seniors and are not specific to home care, which leaves little evidence to inform chronic disease management practices. Previous Work: Effective chronic disease management in home care has been limited by insufficient targeting of clients at most need or most likely to benefit. The investigators developed and validated a prognostic case‐finding tool for home care known as the Detection of Indicators and Vulnerabilities of Emergency Room Trips (DIVERT) Scale that has been recommended for home care. It can be derived in real time from the Resident Assessment Instrument‐Home Care (RAI‐HC) standardized home care assessment used in 9 Canadian provinces as well as Estonia, Finland, Hong Kong, Iceland, Ireland, Italy, Japan, the Netherlands, New Zealand, Singapore, Spain, Switzerland, and some U.S. states. Cardio‐respiratory symptoms and conditions are prominent predictive elements of the DIVERT Scale. Based on evidence‐based guidelines developed ‐ in part ‐ by the investigator team, the investigators piloted the combined use of the DIVERT Scale with a multi‐component cardio‐respiratory management model. The pilot pragmatic cluster randomized trial included over 200 clients across six home care caseloads. The pilot was recognized on the 2015 Ontario Minister's Medal Honour Role for Excellence in Health Quality. OBJECTIVES The main objective is to evaluate the effectiveness and preliminary cost‐effectiveness of a targeted, person‐centered cardio‐respiratory management model. Research questions: 1. Among home care clients experiencing cardio‐respiratory symptoms (objectively targeted using the DIVERT Scale), can a guideline‐based, feasible, multi‐component/complex, cardio‐respiratory management model, compared to regular care, reduce/postpone unplanned emergency department (ED) visits, improve patient activation, reduce cardio‐respiratory symptoms, reduce unplanned hospital use, or improve health‐related quality of life for clients, over a 6‐month follow‐up period from baseline? 2. If effective, is there evidence for cost‐effectiveness? METHODS Intervention: From evidence‐based guidelines developed ‐ in part ‐ by this team, extensive client profiling, and input of clients/families as well as health professionals, the investigators developed a person‐centred, multi‐component cardio‐respiratory management model containing the following components: scheduled nurse‐led self‐management support (based on a training program, and tool‐kit), advanced care and goal planning, clinical pharmacist medication reconciliation, team case rounds, SBAR (the Situation, Background, Assessment and Recommendation) communication protocol with primary care, and a standardized transition package. Each component has a specific objective within the model, however the manner in which it is delivered may be adapted. The approach is based on evidence of effective implementations in other fields, and includes all elements for 'person‐centred care'. Design: The investigators will conduct a pragmatic, cluster‐randomized trial that leverages secondary electronic patient records. Sixty (60) geographic areas (home care caseloads) will be randomized using a 1:2 (intervention: control) ratio. Population: Approximately 1,800 long‐stay home care clients living in a non‐institutional setting from 60 distinct geographic home care caseloads in Canada. Inclusion criteria: clients who are in the DIVERT Scale target groups (9,10, 14, 15) will be included (i.e. at least one cardio‐respiratory symptom (chest pain, dyspnea, dizziness, irregular pulse) and at least one cardiac condition (congestive heart failure or coronary artery disease)). The investigators will utilize the DIVERT Scale as an objective measure of eligibility. Clients who are receiving palliative care (i.e., prognosis of less than six months to live, K8e from Resident Assessment Instrument‐Home Care (RAI‐HC)) or dialysis (P2g from RAI‐HC) at baseline assessment will be excluded. Recruitment: Eligible clients will be identified by each case manager during regular home care enrollment and reassessment using the RAI‐HC assessment (standard practice) for between 6 to 8 months. Eligible clients will be automatically included into the intervention or 'regular care' control on an intent‐to‐treat basis. Each home care provider's process for attaining consent to intervention will apply. Study informed consent will not be sought given that the cardio‐respiratory management model is considered best practice care and is offered ‐ whole or in part ‐ at the full clinical discretion of the home care provider as per existing practice. The cardio‐respiratory management is accepted ‐ whole or in part ‐ at the full clinical discretion of the clients as per existing practice. Trial investigators have no part in the intervention pilot data collection, individual care decision‐making, or records management during the study period beyond providing guidance and access to resources. All trial data will be extracted from secondary data and anonymized prior to transmission by home care provider staff. Outcomes and Follow‐up: Primary Outcomes: ‐ Time to first unplanned emergency department visit within 6 months of baseline ‐ Presence of cardio‐respiratory symptoms over 6‐month follow‐up ‐ Cost of all home care services within 6 months of baseline Secondary Outcomes: ‐ Change in patient activation (based on 13 item patient activation measure) over 6‐month follow‐up ‐ Change in health‐related quality of life (based on Minimum Data Set Health Status Index) over 6‐month follow‐up ‐ Number of unplanned emergency department visits per days at risk (alive, not institutionalized) within 6 months of baseline ‐ Number of unplanned inpatient (medical) hospital days per days at risk (alive, not institutionalized) within 6 months of baseline A 6‐month follow‐up will be used to reflect the time at greatest risk among home care clients. Sample calculations/Assumptions: Primary outcome: Time to first unplanned emergency department visit within 6 months of baseline (alive, not institutionalized). Ability to detect a hazard ratio of 0.75. Mean size of a home care caseload: 120 clients Mean prevalence of DIVERT target group in each caseload: 30% Expected recruitment over 6 months per caseload: 30 Mean cluster size: 30 Allocation: 1:2 (intervention: control) Simulations using retrospective secondary data sources were undertaken to explore the power of a hypothetical DIVERT‐CARE trial conducted in the Hamilton‐Niagara‐Haldimand‐Brant (HNHB) health region of Ontario from December 2014 to June 2015. The simulations found that 60 HNHB home care caseloads randomized at a 1:2 intervention to control ratio could expect to enroll 1,809 patients across seven months. The simulation linked patients to their actual emergency department utilization records, and extended the time to first ED visit figures for patients in 20 randomly selected intervention caseloads to achieve a hazard ratio of 0.75, a figure chosen to be more conservative than the pilot study but still clinically significant. The overall event rate was 35.5% in the intervention group and 44.8% in the control. The median time to first visit was 88 days in the intervention group and 75 days in the control. The power of the simulated DIVERT trial was 94.12% with a two‐sided alpha of 0.05. Simulations with a hazard ratio of 0.80 yielded a power of 79.96% The intracluster correlation coefficient (ICC) was estimated to be 0.005. Main Analyses: The primary hypothesis will be assessed through a multilevel discrete‐time proportional hazards model. The dependent variable will be days until first emergency department visit, censored at date of home care discharge for any reason. Caseload and partner site will be included as nested random effects. The hazard ratio, 95% confidence interval, and p‐value will be reported for the treatment group effect and covariates when applicable. A two‐sided alpha level of 0.05 will be used to judge statistical significance. The economic evaluation will examine total care costs, controlling for length of stay, between treatment groups to compare incremental costs to incremental effects (i.e. cost per ED visit averted). The secondary hypotheses will be evaluated by a multilevel general linear model. Six‐month change in health‐related quality of life, number of symptoms, patient activation, and number of emergency department visits will be the respective dependent variables. Caseload and home care provider site will be included as nested random effects. The unit change in each measure, 95% confidence interval, and p‐value will be reported for the treatment group effect and covariates when applicable. A two‐sided alpha level of 0.05 will be used to judge statistical significance. Main Secondary Datasets: RAI‐HC: The Resident Assessment Instrument Home Care (RAI‐HC) is a standardized comprehensive assessment containing approximately 200 items, has been found to document major domains of health reliably. The Canadian Institute for Health Information (CIHI) collects and reports this data from publically funded home care programs. CIHI conducts its own quality assurance procedures to ensure accuracy and completeness. CIHI also provides a document describing the interpretation of all included variables for the RAI‐HC dataset. The Client Health and Related Information System: The Client Health and Related Information System (CHRIS) is an online patient management system for Community Care Access Centre (CCAC) use. It includes patient assessments, documents, provider and vendor contracts, billing of services information, and medical supplies and equipment rental costs. CHRIS continues to maintain the quality and integrity of its data independently. Cost data from sites outside of Ontario will be estimated as per the services rendered. National Ambulatory Care Reporting System: The National Ambulatory Care Reporting System (NACRS) contains data from all hospital‐based and community‐based ambulatory care. It is collected and maintained by CIHI, which conducts its own quality assurance procedures to ensure accuracy and completeness. CIHI also provides a document describing the interpretation of all included variables for this dataset. Discharge Abstract Database: The Discharge Abstract Database (DAD) captures administrative, clinical and demographic information on hospital discharges (including deaths, sign‐outs and transfers). It is collected and maintained by CIHI, which conducts its own quality assurance procedures to ensure accuracy and completeness. CIHI also provides a document describing the interpretation of all included variables for this dataset.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01561071/full
+ER  -  
+
+
+Record #15 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01211441
+A1  -  Mantovani, A
+A1  -  Grani, G
+A1  -  Chioma, L
+A1  -  Vancieri, G
+A1  -  Giordani, I
+A1  -  Rendina, R
+A1  -  Rinaldi, ME
+A1  -  Andreadi, A
+A1  -  Coccaro, C
+A1  -  Boccardo, C
+A1  -  et al.
+T1  -  Severe hypoglycemia in patients with known diabetes requiring emergency department care: a report from an Italian multicenter study
+JA  -  Journal of clinical and translational endocrinology
+PY  -  2016
+VL  -  5
+SP  -  46‐52
+C3  -  EMBASE 611800191
+M3  -  Journal: Article
+KW  -  *diabetes mellitus
+KW  -  *emergency care
+KW  -  *emergency ward
+KW  -  *hypoglycemia
+KW  -  *insulin dependent diabetes mellitus/dt [Drug Therapy]
+KW  -  *non insulin dependent diabetes mellitus/dt [Drug Therapy]
+KW  -  Age
+KW  -  Aged
+KW  -  Article
+KW  -  Attention
+KW  -  Blood glucose monitoring
+KW  -  Chronic kidney disease
+KW  -  Chronic obstructive lung disease
+KW  -  Clinical trial
+KW  -  Comorbidity
+KW  -  Confidence interval
+KW  -  Controlled clinical trial
+KW  -  Controlled study
+KW  -  Death
+KW  -  Dementia
+KW  -  Drug therapy
+KW  -  Female
+KW  -  Glibenclamide
+KW  -  Glibenclamide/cb [Drug Combination]
+KW  -  Glibenclamide/dt [Drug Therapy]
+KW  -  Gliclazide
+KW  -  Gliclazide/dt [Drug Therapy]
+KW  -  Glimepiride
+KW  -  Glimepiride/dt [Drug Therapy]
+KW  -  Glucose blood level
+KW  -  Glucose/ec [Endogenous Compound]
+KW  -  Health care personnel
+KW  -  Heart arrhythmia
+KW  -  Hospital admission
+KW  -  Hospital mortality
+KW  -  Hospitalization
+KW  -  Human
+KW  -  Human tissue
+KW  -  Insulin
+KW  -  Insulin dependent diabetes mellitus/dt [Drug Therapy]
+KW  -  Insulin pump
+KW  -  Insulin/cb [Drug Combination]
+KW  -  Insulin/dt [Drug Therapy]
+KW  -  Ischemic heart disease
+KW  -  Length of stay
+KW  -  Liver cirrhosis
+KW  -  Major clinical study
+KW  -  Male
+KW  -  Malignant neoplastic disease
+KW  -  Metformin/cb [Drug Combination]
+KW  -  Metformin/dt [Drug Therapy]
+KW  -  Mortality
+KW  -  Multicenter study
+KW  -  Non insulin dependent diabetes mellitus/dt [Drug Therapy]
+KW  -  Observational study
+KW  -  Odds ratio
+KW  -  Oral antidiabetic agent/cb [Drug Combination]
+KW  -  Oral antidiabetic agent/dt [Drug Therapy]
+KW  -  Prediction
+KW  -  Priority journal
+KW  -  Repaglinide
+KW  -  Repaglinide/dt [Drug Therapy]
+KW  -  Retrospective study
+KW  -  Risk factor
+KW  -  University
+DO  -  10.1016/j.jcte.2016.08.004
+N2  -  Aims To describe the characteristics and associated risk factors of patients with established diabetes who required Emergency Department (ED) care for severe hypoglycemia. Methods We performed an observational retrospective study to identify all cases of severe hypoglycemia among attendees at the EDs of three Italian University hospitals from January 2010 to December 2014. Results Overall, 520 patients with established diabetes were identified. Mean out‐of‐hospital blood glucose concentrations at the time of the hypoglycemic event were 2.2+/‐1.3mmol/L. Most of these patients were frail and had multiple comorbidities. They were treated with oral hypoglycemic drugs (43.6%), insulin (42.8%), or both (13.6%). Among the oral hypoglycemic drugs, glibenclamide (54.5%) and repaglinide (25.7%) were the two most frequently used drugs, followed by glimepiride (11.3%) and gliclazide (7.5%). Hospitalization rates and in‐hospital deaths occurred in 35.4% and in 2.3% of patients, respectively. Cirrhosis (odds ratio [OR] 6.76, 95% confidence interval [CI] 1.24‐36.8, p<0.05), chronic kidney disease (OR 2.42, 95% CI 1.11‐8.69, p<0.05) and center (Sapienza University OR 3.70, 95% CI 1.57‐8.69, p<0.05) were the strongest predictors of increased rates of hospital admission. Conclusions Severe hypoglycemia is a remarkable burden for patients with established diabetes and increases the risk of adverse clinical outcomes (in‐hospital death and hospitalization), mainly in elderly and frail patients. This study further reinforces the notion that careful attention should be taken by health care providers when they prescribe drug therapy in elderly patients with serious comorbidities. Copyright © 2016 The Author(s)
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01211441/full
+ER  -  
+
+
+Record #16 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-01591326
+A1  -  NCT01550107,
+T1  -  Allopurinol in Functional Impairment (ALFIE) Trial: 'Improving Muscle Strength'
+JA  -  Https://clinicaltrials.gov/show/nct01550107
+PY  -  2012
+KW  -  Allopurinol
+KW  -  Sarcopenia
+N2  -  Sarcopenia is defined as the presence of low muscle mass and either decreased muscle strength or function. It is increasingly becoming a significant cause of frailty, loss of independence and physical disability in ageing western populations. Recent experimental evidence has revealed that skeletal muscle is particularly susceptible to damaging molecules that result in oxidative stress and that oxidative stress plays a prominent role in the development and progression of sarcopenia. The investigators have previously shown that the xanthine oxidase inhibitor allopurinol is able to abolish vascular oxidative stress and improve endothelial function in cohorts such as optimally treated chronic heart failure and chronic kidney disease. Recently, the investigators have also shown that allopurinol improves exercise tolerance and time to ST‐depression in optimally treated coronary artery disease, suggesting that allopurinol could also exert its effects through ATP and/or oxygen sparing mechanisms. Therefore, we propose a randomised double blind placebo‐controlled parallel group trial of allopurinol in patients with primary sarcopenia using MR‐spectroscopy and Flow Mediated Dilatation to investigate the possible mechanisms that underlie this exciting possibility
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01591326/full
+ER  -  
+
+
+Record #17 of 17
+Provider: John Wiley & Sons, Ltd.
+Content: text/plain; charset="UTF-8"
+
+TY  -  JOUR
+AN  -  CN-00571942
+A1  -  Fontseré, N
+A1  -  Bonal, J
+A1  -  Navarro, M
+A1  -  Riba, J
+A1  -  Fraile, M
+A1  -  Torres, F
+A1  -  Romero, R
+T1  -  A comparison of prediction equations for estimating glomerular filtration rate in adult patients with chronic kidney disease stages 4-5. Effect of nutritional status and age
+JA  -  Nephron. Clinical practice
+PY  -  2006
+VL  -  104
+IS  -  4
+CC  -  Complementary Medicine
+SP  -  c160‐8
+C3  -  PUBMED 16943683
+M3  -  Comparative Study; Controlled Clinical Trial; Journal Article
+KW  -  Adult
+KW  -  Aged
+KW  -  Aged, 80 and over
+KW  -  Algorithms
+KW  -  Diagnosis, Computer‐Assisted [*methods]
+KW  -  Female
+KW  -  Glomerular Filtration Rate
+KW  -  Humans
+KW  -  Kidney Failure, Chronic [*diagnosis]
+KW  -  Male
+KW  -  Middle Aged
+KW  -  Reproducibility of Results
+KW  -  Sensitivity and Specificity
+DO  -  10.1159/000095476
+N2  -  BACKGROUND: The accuracy of prediction equations has not been validated in adult patients with chronic kidney disease (CKD) stages 4‐5 in extreme situations of nutritional status and age. OBJECTIVE AND METHODS: The significance of nutritional status, calculated with the creatinine production (CP) formula, and age (< or =64 years and >64 years) in the application of different prediction equations‐‐modification of diet in renal disease (MDRD), simplified MDRD (sMDRD), Cockcroft‐Gault (CG)‐‐and the mean of urea and creatinine clearance (Cr‐Ur) compared with the isotopic glomerular filtration rate (GFR) estimation calculated by 51Cr‐EDTA was studied in 87 Caucasian adults with CKD stages 4‐5 (GFR: 30‐8 ml/min/1.73 m2). The Bland‐Altman method and Lin's concordance coefficient (Rc) were used to study accuracy (bias) and precision. RESULTS: The GFR calculated with 51Cr‐EDTA in the study group was 22.2 +/‐ 6.9 ml/min/1.73 m2 (range: 8‐30). CG and sMDRD were the best prediction equations with bias of ‐1.1 and ‐3.8 ml/min/1.73 m2 and Rc of 0.52‐0.50. In this situation, the mean Cr‐Ur proved the most inaccurate equation compared with the isotopic technique with bias of ‐5.4 ml/min/1.73 m2 and Rc of 0.32. In the analysis of patients with higher CP (> 0.90; n = 44), CG and sMDRD obtained the best bias of 1.2 and ‐2.7 ml/min/1.73 m2 and Rc of 0.54‐0.53. In patients aged < or =64 (n = 44), these equations obtained a bias of 1.1 and ‐3.6 ml/min/1.73 m2 and Rc 0.50‐0.49. Both in lower CP (< or =0.90; n = 43) and older age (>64 years; n = 43), all the equations underestimated the value obtained with isotopic GFR. In these situations, the results obtained with CG had a bias of ‐2.2 and ‐3.6 ml/min/1.73 m2 (Rc 0.29‐0.56) and with sMDRD ‐4.0 and ‐4.1 ml/min/1.73 m2 (Rc 0.39‐0.51). In these circumstances, Cr‐Ur was the most inaccurate equation, obtaining a bias of ‐10.1 and ‐13.2 ml/min/1.73 m2 (Rc 0.14‐0.16). CONCLUSIONS: In the group with higher CP and age < or =64 years, results of the presented data yielded no evidence for superiority of the MDRD equation over CG formula in patients with advanced renal failure. On the basis of our results, we do not recommend the use of the Cr‐Ur adjusted to 1.73 m(2) of body surface area, which was the most imprecise equation. Application of all the equations proved inaccurate in lower CP patients with or without advanced age, implying the premature start of substitution renal treatment. In these circumstances, ambulatory GFR determination by isotopic techniques would be indicated.
+UR  -  https://www.cochranelibrary.com/central/doi/10.1002/central/CN-00571942/full
+ER  -  
+
+

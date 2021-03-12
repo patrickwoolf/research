@@ -1,0 +1,665 @@
+﻿//(frail AND (frail OR phenotype OR index)) AND "chronic kidney disease" AND cause
+//(frail[All Fields] AND (frail[All Fields] OR ("phenotype"[MeSH Terms] OR "phenotype"[All Fields]) OR ("abstracting and indexing as topic"[MeSH Terms] OR ("abstracting"[All Fields] AND "indexing"[All Fields] AND "topic"[All Fields]) OR "abstracting and indexing as topic"[All Fields] OR "index"[All Fields]))) AND "chronic kidney disease"[All Fields] AND cause[All Fields]
+//
+1. Geriatr Gerontol Int. 2018 Dec;18(12):1597-1602. doi: 10.1111/ggi.13534. Epub
+2018 Oct 11.
+
+Diabetic nephropathy is associated with frailty in patients with chronic
+hemodialysis.
+
+Kakio Y(1), Uchida HA(1)(2), Takeuchi H(1)(3), Okuyama Y(1), Okuyama M(4),
+Umebayashi R(1), Wada K(5), Sugiyama H(1)(6), Sugimoto K(7), Rakugi H(7),
+Kasahara S(4), Wada J(1).
+
+Author information: 
+(1)Department of Nephrology, Rheumatology, Endocrinology and Metabolism, Okayama 
+University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences,
+Okayama, Japan.
+(2)Department of Chronic Kidney Disease and Cardiovascular Disease, Okayama
+University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences,
+Okayama, Japan.
+(3)Department of Internal Medicine, Innoshima General Hospital, Hiroshima, Japan.
+(4)Department of Cardiovascular Surgery, Okayama University Graduate School of
+Medicine, Dentistry and Pharmaceutical Sciences, Okayama, Japan.
+(5)Division of Nephrology and Dialysis, Department of Internal Medicine, Nippon
+Kokan Fukuyama Hospital, Hiroshima, Japan.
+(6)Department of Human Resource Development of Dialysis Therapy for Kidney
+Disease, Okayama University Graduate School of Medicine, Dentistry and
+Pharmaceutical Sciences, Okayama, Japan.
+(7)Department of Geriatric and General Medicine, Osaka University Graduate School
+of Medicine, Osaka, Japan.
+
+AIM: Since 1998, the leading cause of chronic hemodialysis in Japan has been
+diabetic nephropathy. Diabetes mellitus is known to be a risk factor for frailty,
+but it still remains unknown whether diabetic nephropathy is associated with
+frailty in chronic dialysis patients. The authors carried out the present study
+to reveal the association between frailty and diabetic nephropathy in chronic
+hemodialysis patients.
+METHODS: A total of 355 patients who were on hemodialysis were recruited.
+Participants were divided into two groups of either patients who suffered
+diabetic nephropathy with end-stage renal disease (DN group, n = 150) or not
+(Non-DN group, n = 205). The authors investigated the difference of the
+prevalence of frailty between the two groups. Furthermore, the authors examined
+the risk factors for frailty.
+RESULTS: The prevalence of frailty in the DN group was significantly higher than 
+that in the Non-DN group (28.0% vs 16.5%, P = 0.0161). To evaluate the
+association between frailty and its risk factors, we compared frail patients
+(n = 71) and non-frail patients (n = 262). After adjusting their
+interrelationships by using multivariate logistic regression analysis, diabetic
+nephropathy was determined as a significant risk factor for frailty.
+CONCLUSIONS: The authors found the close association between frailty and diabetic
+nephropathy in chronic hemodialysis patients. Geriatr Gerontol Int 2018; 18:
+1597-1602.
+
+© 2018 Japan Geriatrics Society.
+
+DOI: 10.1111/ggi.13534 
+PMID: 30311338 
+
+
+2. Can J Diabetes. 2018 Jun 20. pii: S1499-2671(18)30001-7. doi:
+10.1016/j.jcjd.2018.06.001. [Epub ahead of print]
+
+Frailty, Health-Related Quality of Life, Cognition, Depression, Vitamin D and
+Health-Care Utilization in an Ambulatory Adult Population with Type 1 or Type 2
+Diabetes Mellitus and Chronic Kidney Disease: A Cross-Sectional Analysis.
+
+Adame Perez SI(1), Senior PA(2), Field CJ(1), Jindal K(3), Mager DR(4).
+
+Author information: 
+(1)Department of Agricultural, Food and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada.
+(2)Department of Endocrinology, University of Alberta, Edmonton, Alberta, Canada.
+(3)Northern Alberta Renal Program, Alberta Health Services and Department of
+Nephrology, University of Alberta, Edmonton, Alberta, Canada.
+(4)Department of Agricultural, Food and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada. Electronic address: mager@ualberta.ca.
+
+OBJECTIVES: Frailty can cause increased vulnerability to adverse health outcomes,
+such as falls, fractures, depression and reduced health-related quality of life
+(HRQoL). This cross-sectional study compared the differences in body composition,
+HRQoL, mental health and cognitive and vitamin D (vitD) status with health-care
+utilization by frail and nonfrail adults with diabetes mellitus (type 1 and type 
+2) and with chronic kidney disease (stages 1 through 5).
+METHODS: We studied adults with type 1 and type 2 diabetes and chronic kidney
+disease stages 1 through 5 who were participating in a longitudinal follow-up
+study (41 to 83 years of age; n=41). Body composition (dual-energy x-ray
+absorptiometry); vitD status (serum 25[OH]D3); frailty (Edmonton Frail Scale);
+depression (Major Depression Inventory); HRQoL (Short Form Health Survey-36); and
+cognitive status (Mini Mental State exam) were measured using validated tools.
+Participants who were on dialysis and had body weights >136 kg, and coinciding
+comorbidities known to influence vitD metabolism were excluded.
+RESULTS: Frailty occurred in 17% of participants (n=7). Frail participants had
+lower lean body mass, lower HRQoL scores (individual and composite scores), more 
+depression (p=<0.05) and higher numbers of health visits (total, inpatient and
+emergency) compared with nonfrail participants (p<0.05). No differences in
+health-care visit types or vitD status were noted between frail and nonfrail
+participants (p>0.05).
+CONCLUSIONS: Frailty in an ambulatory population of adults with chronic kidney
+disease and diabetes is associated with low lean body mass, low HRQoL, greater
+depression and higher numbers of health-care visits.
+
+Copyright © 2018 Diabetes Canada. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jcjd.2018.06.001 
+PMID: 30139571 
+
+
+3. Acta Diabetol. 2018 Apr;55(4):323-330. doi: 10.1007/s00592-017-1094-7. Epub 2018 
+Jan 11.
+
+Levels of serum uric acid at admission for hypoglycaemia predict 1-year
+mortality.
+
+Bonaventura A(1), Gallo F(2), Carbone F(3), Liberale L(3)(4), Maggi D(2), Sacchi 
+G(5), Dallegri F(3)(6), Montecucco F(3)(6)(7), Cordera R(2).
+
+Author information: 
+(1)First Clinic of Internal Medicine, Department of Internal Medicine, University
+of Genoa, 6 Viale Benedetto XV, 16132, Genoa, Italy. aldobon85@gmail.com.
+(2)Diabetology Unit, Department of Internal Medicine, University of Genoa, 6
+Viale Benedetto XV, 16132, Genoa, Italy.
+(3)First Clinic of Internal Medicine, Department of Internal Medicine, University
+of Genoa, 6 Viale Benedetto XV, 16132, Genoa, Italy.
+(4)Center for Molecular Cardiology, University of Zürich, 12 Wagistrasse, 8952,
+Schlieren, Switzerland.
+(5)Emergency Department, Ospedale Policlinico San Martino, 10 Largo Benzi, 16132,
+Genoa, Italy.
+(6)Ospedale Policlinico San Martino, 10 Largo Benzi, 16132, Genoa, Italy.
+(7)Centre of Excellence for Biomedical Research (CEBR), University of Genoa, 9
+Viale Benedetto XV, 16132, Genoa, Italy.
+
+AIMS: Hypoglycaemia represents a critical burden with clinical and social
+consequences in the management of diabetes. Serum uric acid (SUA) has been
+associated with cardiovascular diseases (CVD), but no conclusive findings are
+available nowadays in patients suffering from hypoglycaemia. We investigated
+whether SUA levels at the time of hypoglycaemia could predict all-cause mortality
+after 1-year follow-up.
+METHODS: In total, 219 patients admitted to the Emergency Department (ED) of
+Ospedale Policlinico S. Martino of Genoa (Italy) have been enrolled between
+January 2011 and December 2014. The primary endpoint of the study consisted in
+determining whether SUA levels at the time of ED admission could predict the
+occurrence of death after 1 year.
+RESULTS: The majority of patients were diabetic, especially type 2. CVD and
+chronic kidney disease were prevalent comorbidities. By a cut-off value obtained 
+by the receiver operating characteristic curve analysis, a Kaplan-Meier analysis 
+demonstrated that patients with SUA levels > 5.43 mg/dL were more prone to death 
+after 1 year compared to those with lower SUA levels. The risk of death increased
+with high SUA levels both in the univariate and the multivariate models including
+estimated glomerular filtration rate, C-reactive protein, type of diabetes, and
+age-adjusted Charlson comorbidity index.
+CONCLUSIONS: SUA could be useful as a predictor of 1-year mortality in
+hypoglycaemic patients, irrespective of severe comorbidities notably increasing
+the risk of death in these frail patients.
+
+DOI: 10.1007/s00592-017-1094-7 
+PMID: 29327150  [Indexed for MEDLINE]
+
+
+4. BMJ. 2017 Sep 20;358:j4208. doi: 10.1136/bmj.j4208.
+
+Development and validation of QMortality risk prediction algorithm to estimate
+short term risk of death and assess frailty: cohort study.
+
+Hippisley-Cox J(1), Coupland C(2).
+
+Author information: 
+(1)Division of Primary Care, University Park, University of Nottingham,
+Nottingham NG2 7RD, UK Julia.hippisley-cox@nottingham.ac.uk.
+(2)Division of Primary Care, University Park, University of Nottingham,
+Nottingham NG2 7RD, UK.
+
+Comment in
+    BMJ. 2017 Sep 27;358:j4478.
+
+Objectives To derive and validate a risk prediction equation to estimate the
+short term risk of death, and to develop a classification method for frailty
+based on risk of death and risk of unplanned hospital
+admission.Design Prospective open cohort study.Participants Routinely collected
+data from 1436 general practices contributing data to QResearch in England
+between 2012 and 2016. 1079 practices were used to develop the scores and a
+separate set of 357 practices to validate the scores. 1.47 million patients aged 
+65-100 years were in the derivation cohort and 0.50 million patients in the
+validation cohort.Methods Cox proportional hazards models in the derivation
+cohort were used to derive separate risk equations in men and women for
+evaluation of the risk of death at one year. Risk factors considered were age,
+sex, ethnicity, deprivation, smoking status, alcohol intake, body mass index,
+medical conditions, specific drugs, social factors, and results of recent
+investigations. Measures of calibration and discrimination were determined in the
+validation cohort for men and women separately and for each age and ethnic group.
+The new mortality equation was used in conjunction with the existing QAdmissions 
+equation (which predicts risk of unplanned hospital admission) to classify
+patients into frailty groups.Main outcome measure The primary outcome was all
+cause mortality.Results During follow-up 180 132 deaths were identified in the
+derivation cohort arising from 4.39 million person years of observation. The
+final model included terms for age, body mass index, Townsend score, ethnic
+group, smoking status, alcohol intake, unplanned hospital admissions in the past 
+12 months, atrial fibrillation, antipsychotics, cancer, asthma or chronic
+obstructive pulmonary disease, living in a care home, congestive heart failure,
+corticosteroids, cardiovascular disease, dementia, epilepsy, learning disability,
+leg ulcer, chronic liver disease or pancreatitis, Parkinson's disease, poor
+mobility, rheumatoid arthritis, chronic kidney disease, type 1 diabetes, type 2
+diabetes, venous thromboembolism, anaemia, abnormal liver function test result,
+high platelet count, visited doctor in the past year with either appetite loss,
+unexpected weight loss, or breathlessness. The model had good calibration and
+high levels of explained variation and discrimination. In women, the equation
+explained 55.6% of the variation in time to death (R2), and had very good
+discrimination-the D statistic was 2.29, and Harrell's C statistic value was
+0.85. The corresponding values for men were 53.1%, 2.18, and 0.84. By combining
+predicted risks of mortality and unplanned hospital admissions, 2.7% of patients 
+(n=13 665) were classified as severely frail, 9.4% (n=46 770) as moderately
+frail, 43.1% (n=215 253) as mildly frail, and 44.8% (n=223 790) as
+fit.Conclusions We have developed new equations to predict the short term risk of
+death in men and women aged 65 or more, taking account of demographic, social,
+and clinical variables. The equations had good performance on a separate
+validation cohort. The QMortality equations can be used in conjunction with the
+QAdmissions equations, to classify patients into four frailty groups (known as
+QFrailty categories) to enable patients to be identified for further assessment
+or interventions.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.j4208 
+PMCID: PMC5606253
+PMID: 28931509  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Both authors have completed 
+the uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on
+request from the corresponding author) and declare: JHC is codirector of
+QResearch, a not-for-profit organisation, which is a joint partnership between
+the University of Nottingham and Egton Medical Information Systems (leading
+commercial supplier of IT for 55% of general practices in the UK). JHC is also a 
+paid director of ClinRisk, which produces open and closed source software to
+ensure the reliable and updatable implementation of clinical risk equations
+within clinical computer systems to help improve patient care. CC is a paid
+consultant statistician for ClinRisk. This work and any views expressed within it
+are solely those of the authors and not of any affiliated bodies or
+organisations.
+
+
+5. Eur J Intern Med. 2017 Jul;42:16-23. doi: 10.1016/j.ejim.2017.04.018. Epub 2017
+May 18.
+
+Clinical management of iron deficiency anemia in adults: Systemic review on
+advances in diagnosis and treatment.
+
+De Franceschi L(1), Iolascon A(2), Taher A(3), Cappellini MD(4).
+
+Author information: 
+(1)Department of Medicine, Section of Internal Medicine, University of Verona,
+Policlinico GB Rossi, AOUI, Verona, Italy.
+(2)Dipartimento di Medicina Molecolare e Biotecnologie Mediche, Universita'
+Federico II, Napoli, Italy; CEINGE, Advances Biotechnology, Napoli, Italy.
+(3)Department of Internal Medicine, American University of Beirut Medical Center,
+Beirut, Lebanon.
+(4)Department of Internal Medicine, Universita' di Milano, Ca Granda Foundation, 
+IRCCS, Milano, Italy. Electronic address: maria.cappellini@unimi.it.
+
+Comment in
+    Eur J Intern Med. 2018 Feb;48:e38.
+    Eur J Intern Med. 2018 Feb;48:e39.
+
+Global burden disease studies point out that one of the top cause-specific
+anemias is iron deficiency (ID). Recent advances in knowledge of iron homeostasis
+have shown that fragile patients are a new target population in which the
+correction of ID might impact their morbidity, mortality and quality of life. We 
+did a systematic review using specific search strategy, carried out the review of
+PubMed database, Cochrane Database of systemic reviews and international
+guidelines on diagnosis and clinical management of ID from 2010 to 2016. The
+International guidelines were limited to those with peer-review process and
+published in journal present in citation index database. The eligible studies
+show that serum ferritin and transferrin saturation are the key tests in early
+decision-making process to identify iron deficiency anemia (IDA). The clinician
+has to carefully consider fragile and high-risk subset of patients such as elders
+or individuals with chronic diseases (i.e chronic kidney disease, inflammatory
+bowel disease, chronic heart failure). Treatment is based on iron
+supplementation. Infusion route should be preferentially considered in frail
+patients especially in the view of new iron available formulations. The available
+evidences indicate that (i) recurrent IDA should always be investigated,
+considering uncommon causes; (ii) IDA might worse the performance and the
+clinical outcome of fragile and high-risk patients and require an intensive
+treatment.
+
+Copyright © 2017 European Federation of Internal Medicine. Published by Elsevier 
+B.V. All rights reserved.
+
+DOI: 10.1016/j.ejim.2017.04.018 
+PMID: 28528999  [Indexed for MEDLINE]
+
+
+6. Panminerva Med. 2017 Jun;59(2):166-172. doi: 10.23736/S0031-0808.17.03293-1. Epub
+2017 Jan 13.
+
+Use of ACE inhibition and blood pressure management in deferring dialysis
+initiation.
+
+Del Vecchio L(1), Teatini U(2), Locatelli F(3).
+
+Author information: 
+(1)Department of Nephrology and Dialysis, A. Manzoni Hospital, ASST Lecco, Lecco,
+Italy.
+(2)Department of Nephrology and Dialysis, ASST Rhodense, Garbagnate Milanese,
+Milan, Italy.
+(3)Department of Nephrology and Dialysis, A. Manzoni Hospital, ASST Lecco, Lecco,
+Italy - f.locatelli@asst-lecco.it.
+
+Elevated blood pressure is one of the most significant risk factor for the
+development of chronic kidney disease (CKD); its treatment is a milestone in CKD 
+management. While it is accepted that a stricter blood pressure control is
+indicated in patients with proteinuria or microalbuminuria, the exact degree of
+blood pressure reduction to be obtained in CKD patients is still under debate.
+Following more recent interpretation of old trials, a BP target for <140/90 mmHg 
+is suggested for non-proteinuric CKD patients. In those with
+microalbuminuria/proteinuria, the ideal blood pressure target should be ≤130/80
+mmHg. Recently, the SPRINT trial put new emphasis on a stricter blood pressure
+control, mainly from the cardiovascular point of view. The blockers of the
+renin-angiotensin system (RAS) are recommended as first line treatment in all CKD
+hypertensive patients with micro or macroalbuminuria either diabetics or not.
+However, their nephroprotective efficacy is less relevant in non-proteinuric
+patients. The dual RAS blockade was proposed as an additional option. Despite a
+greater antiproteinuric effect, some large trials in patients at high
+cardiovascular risk did not demonstrate significant advantage on hard endpoint.
+Its use is now contraindicated in diabetic CKD patients. Given that RAS blockers 
+can cause acute derangements in kidney function and hyperkalemia, caution is
+needed with their use, especially in frail and old patients with cardiovascular
+disease or in the presence of advanced CKD.
+
+DOI: 10.23736/S0031-0808.17.03293-1 
+PMID: 28090762  [Indexed for MEDLINE]
+
+
+7. Nephrol Dial Transplant. 2016 Nov;31(11):1796-1802. Epub 2015 Sep 28.
+
+Should chronic metabolic acidosis be treated in older people with chronic kidney 
+disease?
+
+Witham MD(1), Lamb EJ(2).
+
+Author information: 
+(1)Ageing and Health, School of Medicine, University of Dundee, Dundee, UK.
+(2)Clinical Biochemistry, Department of Laboratory Medicine, East Kent Hospitals 
+University NHS Foundation Trust, Canterbury, Kent, UK.
+
+Metabolic acidosis is common in advanced chronic kidney disease and has been
+associated with a range of physiological derangements of importance to the health
+of older people. These include associations with skeletal muscle weakness,
+cardiovascular risk factors, and bone and mineral disorders that may lead to
+fragility fractures. Although metabolic acidosis is associated with accelerated
+decline in kidney function, end-stage renal failure is a much less common outcome
+in older, frail patients than cardiovascular death. Correction of metabolic
+acidosis using bicarbonate therapy is commonly employed, but the existing
+evidence is insufficient to know whether such therapy is of net benefit to older 
+people. Bicarbonate is bulky and awkward to take, may impose additional sodium
+load with effects on fluid retention and blood pressure, and may cause
+gastrointestinal side effects. Trial data to date suggest potential benefits of
+bicarbonate therapy on progression of renal disease and nutrition, but trials
+have not as yet been published examining the effect of bicarbonate therapy across
+a range of domains relevant to the health of older people. Fortunately, a number 
+of trials are now underway that should allow us to ascertain whether bicarbonate 
+therapy can improve physical function, quality of life, and vascular, bone and
+kidney health in older people, and hence decide whether any benefits seen
+outweigh adverse effects and additional treatment burden in this vulnerable group
+of patients.
+
+© The Author 2015. Published by Oxford University Press on behalf of ERA-EDTA.
+All rights reserved.
+
+DOI: 10.1093/ndt/gfv344 
+PMID: 26420895  [Indexed for MEDLINE]
+
+
+8. BMC Nephrol. 2015 Sep 23;16:157. doi: 10.1186/s12882-015-0150-1.
+
+Association of frailty with endothelial dysfunction and its possible impact on
+negative outcomes in Brazilian predialysis patients with chronic kidney disease.
+
+Mansur HN(1)(2), Lovisi JC(3), Colugnati FA(3), Raposo NR(3), Fernandes NM(3),
+Bastos MG(4).
+
+Author information: 
+(1)IMEPEN Foundation, Federal University of Juiz de Fora, Juiz de Fora, Brazil.
+hnmansur@gmail.com.
+(2)Academic Centre of Vitoria, Federal University of Pernambuco, Vitória de Santo
+Antão, Pernambuco, Brazil. hnmansur@gmail.com.
+(3)IMEPEN Foundation, Federal University of Juiz de Fora, Juiz de Fora, Brazil.
+(4)Federal University of Juiz de Fora, José Lourenço Kelmer Street, 1300, Juiz de
+Fora, Minas Gerais, Brazil. marcusbastos7@gmail.com.
+
+BACKGROUND: Frailty is a state of physiological vulnerability common in the
+elderly. It is more predominant in patients with Chronic Kidney Disease in
+comparison to healthy subjects, which can also be diagnosed in non-elderly
+individuals and be associated with innumerous causes such as muscle strength,
+body composition and inflammation. The association between frailty and
+endothelial function, as well as the association between frailty and the combined
+outcome of mortality multiple cause and start of renal replace therapy were
+assessed.
+METHODS: In the initial analysis, sixty-one predialysis patients with Chronic
+Kidney Disease stages were evaluated and included in this study. Due to patient
+drop-out during follow-up, fifty-seven patients were subsequently re-evaluated 12
+months later. The diagnosis of frailty was based on the Johansen et al. (J Am Soc
+Nephrol 18(11):2960-67, 2007) criteria. The groups were divided into Non-frail
+and Frail. Sociodemographic, inflammatory markers (IL-6, TNF-?, CRP-us),
+endothelial dysfunction (flow-mediated vasodilatation - FMD), body composition
+(DXA) and the 25-hidroxi-vitamin D parameters were analyzed.
+RESULTS: The average age of the patients used in the study was 64.9 ± 10.3 years 
+old. The predominance of frailty was 42.6%, of which 46% were non-elderly. After 
+some adjustments, frailty was associated with gender (OR = 11.32; IC 95% = 2.30
+to 55.67), advanced age (OR = 4.07; IC 95% = 1.02 to 16.20), obesity (OR = 6.63; 
+IC 95% = 0.82 to 11.44) and endothelial dysfunction (OR = 3.86; IC 95% = 1.00 to 
+14.88). The ratio of the incidence of frail subjects to the variable outcome was 
+2.5 (CI 95%, 1.04 to 6.50).
+CONCLUSIONS: Although an observational study does not allow one to determine the 
+casual relation between frailty and endothelial dysfunction, we conclude that
+frailty was predominant in our sample of Brazilian patients with chronic kidney
+disease on predialysis, even in elderly individuals. This was linked to either
+worse endothelial function or mortality.
+
+DOI: 10.1186/s12882-015-0150-1 
+PMCID: PMC4579818
+PMID: 26395776  [Indexed for MEDLINE]
+
+
+9. Kidney Blood Press Res. 2014;39(2-3):180-8. doi: 10.1159/000355795. Epub 2014 Jul
+29.
+
+The rehabilitation role in chronic kidney and end stage renal disease.
+
+Intiso D(1).
+
+Author information: 
+(1)Rehabilitation Medicine and Neuro-Rehabilitation Unit, Scientific Institute,
+Hospital 'Casa Sollievo della Sofferenza', San Giovanni Rotondo (Foggia), Italy.
+
+Chronic kidney disease (CKD) worldwide is rising markedly becoming a priority
+public health problem. The progression of CKD cause functional limitation and
+severe disability with poor quality of life. The aim of present review was to
+highlight the effect of rehabilitation in CKD and ESRD subjects. The
+rehabilitative process is unique in treating disabled people according to a
+holistic approach with the aim of supporting a person's independent living and
+autonomy. CKD are associated with an increased risk of functional impairment,
+independent of age, gender, and co-morbidities. Clinicians should counsel
+patients with CKD including frail elder people to increase physical activity
+levels and target that regular physical activity including aerobic or endurance
+exercises training benefits health. In old subjects with CKD and multiple
+functional impairments, the traditional disease based model should be changed to 
+individualized patient-centered approach that prioritizes patient preferences.
+Patients receiving haemodialysis have a considerably lower exercise tolerance,
+functional capacity, and more muscle wasting than healthy subjects or patients
+with less severe CKD. Exercise training or comprehensive multi-dimensional
+strategy and goal-oriented intervention should be also provided in ESRD older
+subjects. Structured prevention programs based on reducing the risk factors for
+CKD and rehabilitative strategies could reduce disability occurrence.
+
+© 2014 S. Karger AG, Basel.
+
+DOI: 10.1159/000355795 
+PMID: 25118006  [Indexed for MEDLINE]
+
+
+10. Geriatr Gerontol Int. 2013 Jul;13(3):519-27. doi: 10.1111/ggi.12017. Epub 2012
+Dec 17.
+
+Anemia in elderly patients: new insight into an old disorder.
+
+Andrès E(1), Serraj K, Federici L, Vogel T, Kaltenbach G.
+
+Author information: 
+(1)Department of Internal Medicine, Diabetes and Metabolic Disorders, University 
+Hospital of Strasbourg, Strasbourg, France. emmanuel.andres@chru-strasbourg.fr
+
+Anemia is an important healthcare concern among the elderly. In these patients,
+the anemia is often mild, with a hemoglobin level >10 g/dL. It is usually well
+tolerated, but might be responsible for several proteiform and/or atypical
+presenting complaints. In the elderly, anemia is usually of multifactorial
+origin, including chronic inflammation, chronic kidney disease, nutrient
+deficiencies and iron deficiency (approximately two-thirds of all cases). The
+remaining cases are unexplained (unknown etiology). In the elderly, the classic
+diagnosis of anemia, which is based on the mean corpuscular volume associated
+with a low hemoglobin level, might not be accurate. A predefined standardized
+diagnostic procedure should be followed. In the common case of frail elderly
+patients, all investigations should be carefully considered and invasive
+examinations undertaken where justified (risk-benefit balance). Nevertheless,
+most cases of anemia require further investigation and the underlying cause
+should be identified and treated whenever possible.
+
+© 2012 Japan Geriatrics Society.
+
+DOI: 10.1111/ggi.12017 
+PMID: 23253055  [Indexed for MEDLINE]
+
+
+11. Am J Kidney Dis. 2012 Dec;60(6):912-21. doi: 10.1053/j.ajkd.2012.05.017. Epub
+2012 Jul 7.
+
+A prospective study of frailty in nephrology-referred patients with CKD.
+
+Roshanravan B(1), Khatri M, Robinson-Cohen C, Levin G, Patel KV, de Boer IH,
+Seliger S, Ruzinski J, Himmelfarb J, Kestenbaum B.
+
+Author information: 
+(1)Department of Medicine, Division of Nephrology, University of Washington
+Kidney Research Institute, 325 9th Ave, Seattle, WA 98104, USA.
+broshanr@u.washington.edu
+
+BACKGROUND: Frailty is a construct developed to characterize a state of reduced
+functional capacity in older adults. However, there are limited data describing
+the prevalence or consequences of frailty in middle-aged patients with chronic
+kidney disease (CKD).
+STUDY DESIGN: Observational study.
+SETTING & PARTICIPANTS: 336 non-dialysis-dependent patients with stages 1-4 CKD
+with estimated glomerular filtration rate (eGFR) <90 mL/min/1.73 m(2) (by the
+CKD-EPI [CKD Epidemiology Collaboration] serum creatinine-based equation) or
+evidence of microalbuminuria enrolled in the Seattle Kidney Study, a clinic-based
+cohort study. Findings were compared with community-dwelling older adults in the 
+Cardiovascular Health Study.
+OUTCOME: Prevalence and determinants of frailty in addition to its association
+with the combined outcome of all-cause mortality or renal replacement therapy.
+MEASUREMENTS: We defined frailty according to established criteria as 3 or more
+of the following characteristics: slow gait, weakness, unintentional weight loss,
+exhaustion, and low physical activity. We estimated kidney function using serum
+cystatin C concentrations (eGFR(cys)) to minimize confounding due to
+relationships of serum creatinine levels with muscle mass and frailty.
+RESULTS: The mean age of the study population was 59 years and mean eGFR(cys) was
+51 mL/min/1.73 m(2). The prevalence of frailty (14.0%) was twice that of the much
+older non-CKD reference population (P < 0.01). The most common frailty components
+were physical inactivity and exhaustion. After adjustment including diabetes,
+eGFR(cys) categories of <30 and 30-44 mL/min/1.73 m(2) were associated with a
+2.8- (95% CI, 1.3-6.3) and 2.1 (95% CI, 1.0-4.7)-fold greater prevalence of
+frailty compared with GFR(cys) ≥60 mL/min/1.73 m(2). There were 63 events during 
+a median 987 days of follow-up. After adjustment, the frailty phenotype was
+associated with an estimated 2.5 (95% CI, 1.4-4.4)-fold greater risk of death or 
+dialysis therapy.
+LIMITATIONS: Cross-sectional study design obscures inference regarding temporal
+relationships between CKD and frailty.
+CONCLUSIONS: Frailty is relatively common in middle-aged patients with CKD and is
+associated with lower eGFR(cys) and increased risk of death or dialysis therapy.
+
+Copyright © 2012 National Kidney Foundation, Inc. All rights reserved.
+
+DOI: 10.1053/j.ajkd.2012.05.017 
+PMCID: PMC3491110
+PMID: 22770927  [Indexed for MEDLINE]
+
+
+12. Semin Dial. 2010 May-Jun;23(3):317-23. doi: 10.1111/j.1525-139X.2010.00736.x.
+
+Thyroid hormone abnormalities and frailty in elderly patients with chronic kidney
+disease: a hypothesis.
+
+Abdel-Rahman EM(1), Mansour W, Holley JL.
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, University of
+Virginia, Charlottesville, Virginia 22908, USA. ea6n@virginia.edu
+
+Thyroid hormones play a crucial role in the metabolic activities of adults,
+affecting almost every organ system. All types of thyroid diseases are
+encountered in the elderly. As symptoms and signs of thyroid diseases may overlap
+with what is considered to be "normal aging," the presence of a thyroid disorder 
+may go undiagnosed in the elderly. This potential problem is further compounded
+in elderly patients with chronic kidney disease (CKD), where the presence of an
+underlying hormonal problem such as hypothyroidism may be erroneously attributed 
+to multiple comorbidities, the aging process, or the kidney disease. Frailty is
+being recognized as a contributing factor to the poor outcomes (hospitalization
+and high mortality) in elderly patients with CKD. Predisposing factors leading to
+frailty in elderly with CKD such as increased inflammatory markers, anemia, low
+testosterone, sarcopenia, and depression are associated with thyroid hormonal
+abnormalities. These associations are remarkable and raise the question of
+whether routine monitoring and screening for thyroid hormone changes in elderly
+CKD patients might be helpful in identifying reversible causes of frailty. In
+this review, we will focus on the associations between thyroid hormone
+abnormalities and the predisposing factors of frailty in elderly patients with
+CKD. If a cause-effect relationship of thyroid hormone abnormalities and factors 
+predisposing to frailty in CKD patients is established, identification and
+treatment of thyroid abnormalities in this population would assume increased
+importance.
+
+DOI: 10.1111/j.1525-139X.2010.00736.x 
+PMID: 20636925  [Indexed for MEDLINE]
+
+
+13. Aging Male. 2007 Sep;10(3):113-37.
+
+Chronic kidney disease (CKD) in the elderly -- a geriatrician's perspective.
+
+Munikrishnappa D(1).
+
+Author information: 
+(1)Department of Internal Medicine, Division of Geriatric Medicine, Saint Louis
+University School of Medicine, Saint Louis, Missouri 63104, USA. dev28@yahoo.com
+
+Chronic kidney disease (CKD) is becoming increasingly prevalent among many
+different populations all over the world, including the US and Europe. Its
+multitude of complications with devastating outcomes leads to a significantly
+higher risk for cardio-vascular and all-cause mortality in an individual.
+However, it is clear now that early detection of CKD might not only delay some of
+the complications but also prevent them. Therefore, various important public
+health organizations all over the world have turned their focus and attention to 
+CKD and its risk factors, early detection and early intervention. Nevertheless,
+the general goals in preventing the increase in CKD and its complications are far
+from being completely achieved. Why is this so? What is the magnitude and
+complexity of the problem? How is it affecting the population - are there
+differences in its affection by age, gender or frail elderly versus the robust?
+Are we modifying the risk factors appropriately and aggressively? Are there
+subtle differences in managing the risk factors in those on dialysis versus the
+non-dialysis CKD patients? Is it important to treat anaemia of CKD aggressively, 
+will it make a difference in the disease progression, its complications or to
+quality of life? What do these unfortunate individuals commonly succumb to? What 
+do we advise patients who refuse dialysis or those who desire dialysis or
+transplant? Are there useful non-dialytic treatment recommendations for those who
+refuse dialysis? What is the role of the physicians caring for the elderly with
+CKD? When should the primary care givers refer a CKD patient to a nephrologist?
+The key to eventually controlling incident and prevalent CKD and improve quality 
+of life of affected individuals, lies in not only knowing these and many other
+vital aspects, but also in applying such knowledge compulsively in day-to-day
+practice by each and every one us. As CKD is increasingly a disease of the
+elderly with men being affected more, this review details fairly comprehensively 
+the vital aspects of CKD, especially from a primary care geriatrician's practical
+standpoint.
+
+DOI: 10.1080/13685530701419096 
+PMID: 17701657  [Indexed for MEDLINE]
+
+
+14. Drugs Aging. 2006;23(7):579-86.
+
+Therapeutic failure-related hospitalisations in the frail elderly.
+
+Kaiser RM(1), Schmader KE, Pieper CF, Lindblad CI, Ruby CM, Hanlon JT.
+
+Author information: 
+(1)Miller School of Medicine, Division of Gerontology and Geriatric Medicine and 
+Geriatrics Institute, University of Miami, Miami, Florida, USA.
+
+BACKGROUND AND OBJECTIVE: Although therapeutic failure may be a common cause of
+drug-related morbidity in older adults, few studies have focused on this problem.
+The study objective was to determine the frequency and types of, and the factors 
+associated with, therapeutic failure leading to hospitalisation in frail, elderly
+patients, using a new instrument named the Therapeutic Failure Questionnaire
+(TFQ).
+METHODS: The sample included 106 frail, hospitalised elderly patients enrolled in
+a 1-year-long health service intervention trial at 11 Veterans Affairs Medical
+Centres. The TFQ was developed by a team of clinical geriatricians and tested for
+reliability by two clinical pharmacists and a geriatrician on a sample of 32
+patients. To establish validity, a geriatrician retrospectively reviewed the
+computerised medication records and clinical charts for these patients and
+applied the TFQ to determine probable therapeutic failures at the time of
+hospital admission.
+RESULTS: Inter- and intra-rater reliability for the TFQ were very good (kappa =
+0.82 for both). Overall, 11% of patients had one or more probable therapeutic
+failures (TFQ scores between 4 and 7) leading to hospitalisation. Cardiopulmonary
+disease was a common 'indicator' of therapeutic failure and was often the result 
+of non-adherence. The only factor associated with therapeutic failure occurrence 
+was severe chronic kidney disease (crude odds ratio 5.87; 95% CI 1.20, 28.69; p =
+0.01).
+CONCLUSIONS: The TFQ was able to identify several cases of probable therapeutic
+failure leading to hospitalisation in frail, elderly patients. Non-adherence to
+effective therapies for chronic serious cardiopulmonary disease was a common
+cause of therapeutic failure and represents a target for interventions to reduce 
+hospitalisation. Further research on the occurrence, risk factors for and types
+of therapeutic failure is needed in a larger cohort of older non-veterans.
+
+DOI: 10.2165/00002512-200623070-00004 
+PMID: 16930086  [Indexed for MEDLINE]

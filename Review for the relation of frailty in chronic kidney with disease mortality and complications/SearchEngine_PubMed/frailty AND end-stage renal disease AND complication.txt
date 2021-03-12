@@ -1,0 +1,129 @@
+﻿//frailty AND "end-stage renal disease" AND complication
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "end-stage renal disease"[All Fields] AND complication[All Fields]
+///1. J Frailty Aging. 2017;6(2):103-106. doi: 10.14283/jfa.2017.14.
+
+Frailty in End-Stage Renal Disease Patients under Dialysis and Its Association
+with Clinical and Biochemical Markers.
+
+Poveda V(1), Filgueiras M, Miranda V, Santos-Silva A, Paúl C, Costa E.
+
+Author information: 
+(1)Elísio Costa, Laboratório de Bioquímica, Departamento de Ciências Biológicas, 
+Universidade do Porto, Rua de Jorge Viterbo Ferreira, 228, 4050-313 Porto,
+Portugal, Email: emcosta@ff.up.pt.
+
+Frailty is a common complication in elderly patients with end-stage renal disease
+(ESRD) under dialysis, which is a strong risk factor for low quality of life,
+morbidity, and mortality. In this work, we aimed to evaluate the prevalence of
+frailty in a group of Portuguese ESRD patients, and its association with
+socio-demographic, clinical and biochemical markers. We performed a
+cross-sectional study with 83 ESRD patients (44 males and 39 females, 64.3
+[±14.6] years old) on regular dialysis. The classification of the ESRD patients
+as robust, pre-frail and frail was performed using the FRAIL questionnaire.
+Social support, data about sociodemographic and comorbidities, and
+haematological, iron status, dialysis adequacy, nutritional and inflammatory
+markers were also evaluated. Our results confirmed that frailty is a highly
+prevalent condition in ESRD patients, particularly in female patients. An
+association between FRAIL score and increased depressive symptoms, presence of
+hypertension and decrease nutritional status was also found.
+
+DOI: 10.14283/jfa.2017.14 
+PMID: 28555712  [Indexed for MEDLINE]
+
+Conflict of interest statement: none
+
+
+2. Ann Vasc Surg. 2016 Aug;35:19-29. doi: 10.1016/j.avsg.2016.01.052. Epub 2016 Jun 
+2.
+
+Preoperative Frailty Increases Risk of Nonhome Discharge after Elective Vascular 
+Surgery in Home-Dwelling Patients.
+
+Arya S(1), Long CA(2), Brahmbhatt R(2), Shafii S(2), Brewster LP(3), Veeraswamy
+R(2), Johnson TM 2nd(4), Johanning JM(5).
+
+Author information: 
+(1)Division of Vascular Surgery, Department of Surgery, Emory University School
+of Medicine, Atlanta, GA; Surgical Service Line, Atlanta VA Medical Center,
+Decatur, GA. Electronic address: shipra.arya@emory.edu.
+(2)Division of Vascular Surgery, Department of Surgery, Emory University School
+of Medicine, Atlanta, GA.
+(3)Division of Vascular Surgery, Department of Surgery, Emory University School
+of Medicine, Atlanta, GA; Surgical Service Line, Atlanta VA Medical Center,
+Decatur, GA.
+(4)Division of General Medicine and Geriatrics, Department of Medicine, Emory
+University School of Medicine.
+(5)Division of Vascular Surgery, Department of Surgery, University of Nebraska
+Medical Center, Omaha, NE.
+
+BACKGROUND: Patient-centered quality outcomes such as disposition after surgery
+are increasingly being scrutinized. Preoperative factors predictive of nonhome
+discharge (DC) may identify at-risk patients for targeted interventions. This
+study examines the association among preoperative risk factors, frailty, and
+nonhome DC after elective vascular surgery procedures in patients living at home.
+METHODS: The 2011-2012 National Surgical Quality Improvement Project database was
+queried to identify all home-dwelling patients who underwent elective vascular
+procedures (endovascular and open aortic aneurysm repair, suprainguinal and
+infrainguinal bypasses, peripheral endovascular interventions, carotid
+endarterectomy, and stent). Preoperative frailty was measured using the modified 
+frailty index (mFI; derived from Canadian Study of Health and Aging). Univariate 
+and multivariate logistic regression analysis was performed to examine the
+association of frailty and nonhome DC.
+RESULTS: Of 15,843 home-dwelling patients, 1,177 patients (7.4%) did not return
+home postoperatively. Frailty (mFI > 0.25) conferred a significantly increased
+2-fold risk of nonhome DC disposition for each procedure type. Frailty, female
+gender, open procedures, increasing age, end-stage renal disease, and occurrence 
+of any postoperative complication were associated with increased risk of nonhome 
+DC. On multivariate logistic regression analysis, frailty increased the odds of
+nonhome DC by 60% (odds ratio 1.6, 95% confidence interval 1.4-1.8) after
+adjusting for other covariates. In the presence of complications, the risk of
+nonhome DC was 27.5% in frail versus 16.5% in nonfrail patients (P < 0.001). In
+the absence of complications, although absolute risk was lower, frail patients
+were nearly twice as likely to not return home (frail 5.5% vs. nonfrail 2.75%,
+P < 0.001).
+CONCLUSIONS: Frail home-dwelling patients undergoing elective vascular procedures
+are at high risk of not returning home after surgery. Preoperative frailty
+assessment appears to hold potential for counseling regarding postsurgery
+disposition and DC planning.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.avsg.2016.01.052 
+PMID: 27263810  [Indexed for MEDLINE]
+
+
+3. Curr Opin Nephrol Hypertens. 2010 Mar;19(2):153-9. doi:
+10.1097/MNH.0b013e328335f939.
+
+Health-related quality of life outcomes in chronic kidney disease.
+
+Soni RK(1), Weisbord SD, Unruh ML.
+
+Author information: 
+(1)Department of Medicine, University of Pittsburgh Medical Center, Pittsburgh,
+Pennsylvania 15213, USA.
+
+PURPOSE OF REVIEW: Patients with chronic kidney disease (CKD) endure compromised 
+health-related quality of life (HRQOL). Although the link between HRQOL and
+increased mortality in patients with end-stage renal disease (ESRD) is well
+documented, less is known about the relationship between CKD and HRQOL. This
+article reviews the recent evidence on HRQOL, its correlates and proposed
+intervention strategies to improve HRQOL in CKD.
+RECENT FINDINGS: A growing body of literature indicates that various comorbid
+conditions related to CKD play a substantial role in impaired HRQOL in CKD.
+Hypertension, both a cause and complication of CKD, negatively affects HRQOL due 
+to associated comorbidities, side effects from antihypertensive medications and
+awareness of the diagnosis. Anemia has been associated with HRQOL, but concerns
+about the safety of erythropoietin-stimulating agents (ESAs) have led to more
+conservative anemia treatment. Frailty, symptom burden and depression are also
+major contributory factors to HRQOL in CKD.
+SUMMARY: Certain determinants of HRQOL in CKD, namely anemia and depression, are 
+treatable. Early identification and correction may improve overall well being of 
+patients. Clinical trials are required to demonstrate whether treatment
+interventions benefit HRQOL in this high-risk population. Furthermore, whether
+integration of HRQOL assessment into routine clinical practice will improve HRQOL
+outcomes remains to be determined.
+
+DOI: 10.1097/MNH.0b013e328335f939 
+PMCID: PMC2900393
+PMID: 20051850  [Indexed for MEDLINE]

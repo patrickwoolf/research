@@ -1,0 +1,24 @@
+medline: 527 (whole)
+not CKD: 160 -> 527-160=367 (by separate keyword search)
+gender differences not discussed: 188 -> 367-188=179 (by separate keyword search)
+no fulltext: 128 -> 179-128=51
+
+medline: 136 (full text)
+not CKD: 40 -> 136-40=96 (by separate keyword search)
+gender diffeerences not discussed: 45 -> 96-45=51 (by separate keyword search)
+
+medline: 50 (keywords in abstract & full text)
+not CKD: 6
+gender differences not discussed: 19
+-> include 25
+
+pubmed (abstract & fulltext): 621
+
+pubmed (keywords in title/abstract & abstract & fulltext): 113
+not CKD: 12
+no calcification: 2
+gender differences not discussed (or no diff): 41
+no full text: 4
+-> include 64
+
+--> total 76 (64+25=89 -> duplicates=13)

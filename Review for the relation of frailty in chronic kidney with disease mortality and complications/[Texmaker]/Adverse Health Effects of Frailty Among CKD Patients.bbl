@@ -1,0 +1,106 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Cheawchanwattana%
+, Chunlertrith%
+, Saisunantararom%
+\BCBL {}\ \BBA {} Johns%
+}{%
+Cheawchanwattana%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Cheawchanwattana2014}
+\APACinsertmetastar {%
+Cheawchanwattana2014}%
+\begin{APACrefauthors}%
+Cheawchanwattana, A.%
+, Chunlertrith, D.%
+, Saisunantararom, W.%
+\BCBL {}\ \BBA {} Johns, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Does the Spiritual Well-Being of Chronic Hemodialysis
+  Patients Differ from that of Pre-dialysis Chronic Kidney Disease Patients?}}
+  {{Does the Spiritual Well-Being of Chronic Hemodialysis Patients Differ from
+  that of Pre-dialysis Chronic Kidney Disease Patients?}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Religions}{6}{1}{14--23}.
+\newblock
+\begin{APACrefURL} \url{http://www.mdpi.com/2077-1444/6/1/14/} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3390/rel6010014} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McAdams-DeMarco%
+\ \protect \BOthers {.}}{%
+McAdams-DeMarco%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+McAdams-DeMarco2018}
+\APACinsertmetastar {%
+McAdams-DeMarco2018}%
+\begin{APACrefauthors}%
+McAdams-DeMarco, M\BPBI A.%
+, Olorundare, I\BPBI O.%
+, Ying, H.%
+, Warsame, F.%
+, Haugen, C\BPBI E.%
+, Hall, R.%
+\BDBL {}Segev, D\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Frailty and Postkidney Transplant Health-Related
+  Quality of Life}} {{Frailty and Postkidney Transplant Health-Related Quality
+  of Life}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transplantation}{102}{2}{291--299}.
+\newblock
+\begin{APACrefDOI} \doi{10.1097/TP.0000000000001943} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+S.%
+\ \protect \BOthers {.}}{%
+S.%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+S.2017}
+\APACinsertmetastar {%
+S.2017}%
+\begin{APACrefauthors}%
+S., S\BHBI G.%
+, K., G\BHBI C.%
+, M.C., E\BHBI B.%
+, S.V., D.%
+, R., S\BHBI A.%
+, C., G\BHBI P.%
+\BDBL {}S.C., B\BHBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Comparison of quality of life among community-dwelling
+  older adults with the frailty phenotype}} {{Comparison of quality of life
+  among community-dwelling older adults with the frailty phenotype}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Quality of Life Research}{26}{10}{2693--2703}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.embase.com/search/results?subaction=viewrecord{\&}from=export{\&}id=L617119356{\%}0Ahttp://dx.doi.org/10.1007/s11136-017-1630-5}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11136-017-1630-5} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,480 @@
+﻿//frailty AND "kidney transplant" AND complications 
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "kidney transplant"[All Fields] AND ("complications"[Subheading] OR "complications"[All Fields])
+==============================================================================================
+1. Respir Med. 2018 Apr;137:89-94. doi: 10.1016/j.rmed.2018.02.022. Epub 2018 Mar 6.
+
+Bacterial pneumonia in kidney transplant recipients.
+
+Wilmes D(1), Coche E(2), Rodriguez-Villalobos H(3), Kanaan N(4).
+
+Author information: 
+(1)Division of Internal Medicine, Cliniques universitaires Saint-Luc, Université 
+catholique de Louvain, Brussels, Belgium.
+(2)Division of Radiology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium.
+(3)Division of Microbiology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium.
+(4)Division of Nephrology, Cliniques universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium. Electronic address:
+nada.kanaan@uclouvain.be.
+
+Bacterial pathogens are the most frequent cause of pneumonia after
+transplantation. Early after transplantation, recipients are at higher risk for
+nosocomial infections. The most commonly encountered pathogens during this period
+are gram-negative bacilli (Klebsiella pneumoniae, Escherichia coli, Pseudomonas
+aeruginosa …), but gram-positive coccus such as Staphylococcus aureus or
+Streptococcus pneumoniae and anaerobic bacteria can also be found. Empirical
+antibiotic therapy should be guided by previous colonisation of the recipient and
+bacterial resistance pattern in the hospital. Six months after transplantation,
+pneumonias are mostly due to community-acquired bacteria (S. pneumonia, H.
+influenza, Mycoplasma, Chlamydia and others). Opportunistic pathogens take
+advantage of the state of immunosuppression which is usually highest from one to 
+six months after transplantation. During this period, but also occurring many
+years later in the setting of a chronically depressed immune system, bacterial
+pathogens with low intrinsic virulence can cause pneumonia. The diagnosis of
+pneumonia caused by opportunistic pathogens can be challenging. The delay in
+diagnosis preventing the early instauration of adequate treatment in kidney
+transplant recipients with a depressed immune system, frequently coupled with
+co-morbid conditions and a state of frailty, will affect prognosis and outcome,
+increasing morbidity and mortality. This review will focus on the most common
+opportunistic bacterial pathogens causing pneumonia in kidney transplant
+recipients: Legionella, Nocardia, Mycobacterium tuberculosis/nontuberculous, and 
+Rhodococcus. Recognition of their specificities in the setting of
+immunosuppression will allow early diagnosis, crucial for initiation of effective
+therapy and successful outcome. Interactions with immunosuppressive therapy
+should be considered as well as reducing immunosuppression if necessary.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rmed.2018.02.022 
+PMID: 29605219  [Indexed for MEDLINE]
+
+
+2. Am J Transplant. 2017 Dec;17(12):3159-3171. doi: 10.1111/ajt.14459. Epub 2017 Sep
+15.
+
+Long-term outcome of renal transplantation from octogenarian donors: A
+multicenter controlled study.
+
+Ruggenenti P(1)(2), Silvestre C(3), Boschiero L(4), Rota G(5), Furian L(3), Perna
+A(2), Rossini G(6), Remuzzi G(1)(2)(7), Rigotti P(3).
+
+Author information: 
+(1)IRCCS - Istituto di Ricerche Farmacologiche Mario Negri, Clinical Research
+Center for Rare Diseases Aldo e Cele Daccò, Bergamo, Italy.
+(2)Nephrology and Dialysis Unit, Azienda Socio Sanitaria Territoriale (ASST) Papa
+Giovanni XXIII, Bergamo, Italy.
+(3)Kidney and Pancreas Transplant Unit, University Hospital of Padua, Padua,
+Italy.
+(4)Kidney Transplantation Unit, Department of Surgery, Azienda
+Ospedaliero-Universitaria (AOUI) di Verona, Verona, Italy.
+(5)Kidney Transplantation Center, Unit of Pediatric Surgery, Azienda Socio
+Sanitaria Territoriale (ASST) Papa Giovanni XXIII, Bergamo, Italy.
+(6)Organ and Tissue Transplant Immunology Unit, Foundation IRCCS "Ca' Granda
+Ospedale Maggiore Policlinico", Milan, Italy.
+(7)Department of Biomedical and Clinical Sciences, University of Milan, Milan,
+Italy.
+
+To assess whether biopsy-guided selection of kidneys from very old brain-dead
+donors enables more successful transplantations, the authors of this multicenter,
+observational study compared graft survival between 37 recipients of 1 or 2
+histologically evaluated kidneys from donors older than 80 years and 198
+reference-recipients of non-histologically evaluated single grafts from donors
+aged 60 years and younger (transplantation period: 2006-2013 at 3 Italian
+centers). During a median (interquartile range) of 25 (13-42) months, 2
+recipients (5.4%) and 10 reference-recipients (5.1%) required dialysis (crude and
+donor age- and sex-adjusted hazard ratio [95% confidence interval] 1.55
+[0.34-7.12], P = .576 and 1.41 [0.10-19.54], P = .798, respectively). Shared
+frailty analyses confirmed similar outcomes in a 1:2 propensity score study
+comparing recipients with 74 reference-recipients matched by center, year, donor,
+and recipient sex and age. Serum creatinine was similar across groups during
+84-month follow-up. Recipients had remarkably shorter waiting times than did
+reference-recipients and matched reference-recipients (7.5 [4.0-19.5] vs 36
+[19-56] and 40 [24-56] months, respectively, P < .0001 for both comparisons).
+Mean (± SD) kidney donor risk index was 2.57 ± 0.32 in recipients vs 1.09 ± 0.24 
+and 1.14 ± 0.24 in reference-recipients and matched reference-recipients
+(P < .0001 for both comparisons). Adverse events were similar across groups.
+Biopsy-guided allocation of kidneys from octogenarian donors permits further
+expansion of the donor organ pool and faster access to a kidney transplant,
+without increasing the risk of premature graft failure.
+
+© 2017 The American Society of Transplantation and the American Society of
+Transplant Surgeons.
+
+DOI: 10.1111/ajt.14459 
+PMID: 28792681  [Indexed for MEDLINE]
+
+
+3. Clin J Am Soc Nephrol. 2017 Mar 7;12(3):443-453. doi: 10.2215/CJN.05890616. Epub 
+2017 Jan 31.
+
+Perspectives of Older Kidney Transplant Recipients on Kidney Transplantation.
+
+Pinter J(1)(2)(3), Hanson CS(1)(2), Chapman JR(4), Wong G(1)(2)(4), Craig
+JC(1)(2), Schell JO(5), Tong A(6)(2).
+
+Author information: 
+(1)Sydney School of Public Health, The University of Sydney, Sydney, New South
+Wales, Australia.
+(2)Centre for Kidney Research, The Children's Hospital at Westmead, Westmead, New
+South Wales, Australia.
+(3)Department of Medicine, Division of Nephrology, Würzburg University Clinic,
+Würzburg, Germany.
+(4)Centre for Transplant and Renal Research, Westmead Hospital, Westmead, New
+South Wales, Australia; and.
+(5)Section of Palliative Care and Medical Ethics, Renal-Electrolyte Division,
+University of Pittsburgh, Pittsburgh, Pennsylvania.
+(6)Sydney School of Public Health, The University of Sydney, Sydney, New South
+Wales, Australia; allison.tong@sydney.edu.au.
+
+BACKGROUND AND OBJECTIVES: Older kidney transplant recipients are susceptible to 
+cognitive impairment, frailty, comorbidities, immunosuppression-related
+complications, and chronic graft failure, however, there has been limited focus
+on their concerns and expectations related to transplantation. This study aims to
+describe the perspectives of older kidney transplant recipients about their
+experience of kidney transplantation, self-management, and treatment goals to
+inform strategies and interventions that address their specific needs.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: Face-to-face semistructured
+interviews were conducted with 30 kidney transplant recipients aged 65-80 years
+from five renal units in Australia. Transcripts were analyzed thematically.
+RESULTS: Six themes were identified: restoring vitality of youth (with subthemes 
+of revived mindset for resilience, embracing enjoyment in life, drive for
+self-actualization); persisting through prolonged recovery (yielding to aging,
+accepting functional limitations, pushing the limit, enduring treatment
+responsibilities); imposing sicknesses (combatting devastating comorbidities,
+painful restrictions, emerging disillusionment, anxieties about accumulating side
+effects, consuming treatment burden); prioritizing graft survival (privileged
+with a miracle, negotiating risks for longevity, enacting a moral duty,
+preserving the last opportunity); confronting health deterioration (vulnerability
+and helplessness, narrowing focus to immediate concerns, uncertainty of
+survival); and value of existence (purpose through autonomy, refusing the burden 
+of futile treatment, staying alive by all means).
+CONCLUSIONS: Older kidney transplant recipients felt able to enjoy life and
+strived to live at their newly re-established potential and capability, which
+motivated them to protect their graft. However, some felt constrained by slow
+recuperation and overwhelmed by unexpected comorbidities, medication-related side
+effects, and health decline. Our findings suggest the need to prepare and support
+older recipients for self-management responsibilities, clarify their expectations
+of post-transplant risks and outcomes, and provide assistance through prolonged
+recovery after kidney transplantation.
+
+Copyright © 2017 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.05890616 
+PMCID: PMC5338704
+PMID: 28143863  [Indexed for MEDLINE]
+
+
+4. Am J Transplant. 2017 Apr;17(4):1031-1041. doi: 10.1111/ajt.14061. Epub 2016 Oct 
+24.
+
+First-Year Waitlist Hospitalization and Subsequent Waitlist and Transplant
+Outcome.
+
+Lynch RJ(1), Zhang R(2), Patzer RE(1)(3), Larsen CP(1), Adams AB(1).
+
+Author information: 
+(1)Division of Transplantation, Department of Surgery, Emory University School of
+Medicine, Atlanta, GA.
+(2)Department of Biostatistics, Rollins School of Public Health, Emory
+University, Atlanta, GA.
+(3)Department of Epidemiology, Rollins School of Public Health, Emory University,
+Atlanta, GA.
+
+Frailty is associated with inferior survival and increased resource requirements 
+among kidney transplant candidates, but assessments are time-intensive and costly
+and require direct patient interaction. Waitlist hospitalization may be a proxy
+for patient fitness and could help those at risk of poor outcomes. We examined
+United States Renal Data System data from 51 111 adult end-stage renal disease
+patients with continuous Medicare coverage who were waitlisted for transplant
+from January 2000 to December 2011. Heavily admitted patients had higher
+subsequent resource requirements, increased waitlist mortality and decreased
+likelihood of transplant (death after listing: 1-7 days: hazard ratio [HR] 1.24, 
+95% confidence interval [CI] 1.20-1.28; 8-14 days: HR 1.49, 95% CI 1.42-1.56; ≥15
+days: HR 2.07, 95% CI 1.99-2.15; vs. 0 days). Graft and recipient survival was
+inferior, with higher admissions, although survival benefit was preserved. A
+model including waitlist admissions alone performed better (C statistic 0.76, 95%
+CI 0.74-0.80) in predicting postlisting mortality than estimated posttransplant
+survival (C statistic 0.69, 95% CI 0.67-0.73). Although those with a heavy burden
+of admissions may still benefit from kidney transplant, less utility is derived
+from allografts placed in this population. Current kidney allocation policy,
+which is based in part on longevity matching, could be significantly improved by 
+consideration of hospitalization records of transplant candidates.
+
+© 2016 The American Society of Transplantation and the American Society of
+Transplant Surgeons.
+
+DOI: 10.1111/ajt.14061 
+PMID: 27664797  [Indexed for MEDLINE]
+
+
+5. Nephrol Dial Transplant. 2016 Sep;31(9):1531-40. doi: 10.1093/ndt/gfv463. Epub
+2016 Feb 4.
+
+'I feel stronger and younger all the time'-perspectives of elderly kidney
+transplant recipients: thematic synthesis of qualitative research.
+
+Pinter J(1), Hanson CS(1), Craig JC(1), Chapman JR(2), Budde K(3), Halleck F(3), 
+Tong A(1).
+
+Author information: 
+(1)Sydney School of Public Health, University of Sydney, Sydney, NSW 2006,
+Australia Centre for Kidney Research, Children's Hospital at Westmead, Westmead, 
+NSW, Australia.
+(2)Centre for Transplant and Renal Research, Westmead Hospital, Westmead, NSW,
+Australia.
+(3)Department of Nephrology, Charité-Universitätsmedizin Berlin, Berlin, Germany.
+
+BACKGROUND: Kidney transplantation offers improved survival and quality of life
+to an increasing number of elderly patients with end-stage kidney disease.
+However, elderly kidney transplant recipients may face unique challenges due to a
+higher burden of comorbidity, greater cumulative risk of
+immunosuppression-related complications and increasing frailty. We aimed to
+describe the perspectives of elderly kidney transplant recipients.
+METHODS: Electronic databases were searched to April 2015. Qualitative studies
+were eligible if they reported views from elderly kidney transplant recipients
+(≥60 years). Thematic synthesis was used to analyse the findings.
+RESULTS: Twenty-one studies involving >116 recipients were included. We
+identified seven themes. 'Regaining strength and vitality' meant valuing the
+physical and psychosocial improvements in daily functioning and life
+participation. 'Extending life' was the willingness to accept any organ,
+including extended criteria kidneys, to prolong survival. 'Debt of gratitude'
+entailed conscious appreciation toward their donor while knowing they were unable
+to repay their sacrifice. 'Moral responsibility to maintain health' motivated
+adherence to medication and lifestyle recommendations out of an ethical duty to
+protect their gift for graft survival. 'Unabating and worsening forgetfulness'
+hindered self-management. 'Disillusionment with side effects and complications'
+reflected disappointment and exasperation with the unintended consequences of
+medications. 'Finality of treatment option' was an acute awareness that the
+current transplant may be their last.
+CONCLUSIONS: Kidney transplantation was perceived to slow and even reverse the
+experience of aging among elderly recipients, especially compared with dialysis. 
+However, some were frustrated over persistent limitations after transplant,
+struggled with the burden of medication side effects and worried about a possible
+return to dialysis if the transplant failed. Clarifying patient expectations of
+transplantation, providing support to alleviate the debilitating impacts of
+immunosuppression and addressing fears about deteriorating health and graft
+failure may improve satisfaction and outcomes in elderly kidney transplant
+recipients.
+
+© The Author 2016. Published by Oxford University Press on behalf of ERA-EDTA.
+All rights reserved.
+
+DOI: 10.1093/ndt/gfv463 
+PMID: 27333617  [Indexed for MEDLINE]
+
+
+6. Curr Opin Organ Transplant. 2016 Apr;21(2):188-93. doi:
+10.1097/MOT.0000000000000295.
+
+Prehabilitation in our most frail surgical patients: are wearable fitness devices
+the next frontier?
+
+Rumer KK(1), Saraswathula A, Melcher ML.
+
+Author information: 
+(1)aDepartment of Surgery, Stanford University bStanford School of Medicine, Palo
+Alto, California, USA.
+
+PURPOSE OF REVIEW: Frailty is the concept of accumulating physiologic declines
+that make people less able to deal with stressors, including surgery.
+Prehabilitation is intervention to enhance functional capacity before surgery.
+Frailty and prehabilitation among transplant populations and the role of wearable
+fitness tracking devices (WFTs) in delivering fitness-based interventions will be
+discussed.
+RECENT FINDINGS: Frailty is associated with increased complications, longer
+length of hospital stay and increased mortality after surgery. Frail kidney
+transplant patients have increased delayed graft function, mortality and early
+hospital readmission. Frail lung or liver transplant patients are more likely to 
+delist or die on the waitlist. Prehabilitation can mitigate frailty and has
+resulted in decreased length of hospital stay and fewer postsurgical
+complications among a variety of surgical populations. Increasingly, WFTs are
+used to monitor patient activity and improve patient health. Interventions using 
+WFTs have resulted in improved activity, weight loss and blood pressure.
+SUMMARY: Frailty is a measurable parameter that identifies patients at risk for
+worse health outcomes and can be mitigated through intervention. Prehabilitation 
+to reduce frailty has been shown to improve postsurgical outcomes in a variety of
+populations. WFTs are being integrated in healthcare delivery for monitoring and 
+changing health behavior with promising results.
+
+DOI: 10.1097/MOT.0000000000000295 
+PMID: 26859220  [Indexed for MEDLINE]
+
+
+7. Adv Chronic Kidney Dis. 2016 Jan;23(1):44-50. doi: 10.1053/j.ackd.2015.11.002.
+
+Kidney Transplantation Among the Elderly: Challenges and Opportunities to Improve
+Outcomes.
+
+Singh P(1), Ng YH(1), Unruh M(2).
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, University of New
+Mexico.
+(2)Division of Nephrology, Department of Internal Medicine, University of New
+Mexico. Electronic address: mlunruh@salud.unm.edu.
+
+Elderly patients (>65 years old) represent the fastest growing population among
+the ESRD patients and those awaiting kidney transplantation. There is ample
+evidence to suggest that kidney transplant in the elderly population offers the
+best chance of survival and improves health-related quality of life compared to
+remaining on dialysis. Although all these emerging facts are encouraging, this
+population brings with them complex medical problems including frailty, cognitive
+impairment, and multiple comorbidities. These issues can be barriers to
+transplantation and threaten the well-being of the patients after
+transplantation. Furthermore, aging results in changes to the immune system and
+affects the pharmacokinetics of immunosuppressants. All these changes can
+increase risk of complications such as infections and malignancy. Because death
+with a functioning graft is a common cause of graft loss, the new kidney
+allocation system has been implemented in an attempt to maximize allograft
+utilization and minimize unrealized graft years. This may result in longer
+wait-times for the elderly. In this review, we will highlight the barriers to
+kidney transplant, characterize transplant-related issues in the elderly, and
+propose alternative strategies under the new allocation system.
+
+Published by Elsevier Inc.
+
+DOI: 10.1053/j.ackd.2015.11.002 
+PMID: 26709062  [Indexed for MEDLINE]
+
+
+8. Int Urol Nephrol. 2015 Nov;47(11):1801-7. doi: 10.1007/s11255-015-1112-z. Epub
+2015 Sep 28.
+
+Frailty phenotype and chronic kidney disease: a review of the literature.
+
+Musso CG(1), Jauregui JR(2), Macías Núñez JF(3).
+
+Author information: 
+(1)Ageing Biology Unit, Hospital Italiano de Buenos Aires, Buenos Aires,
+Argentina. carlos.musso@hospitalitaliano.org.ar.
+(2)Ageing Biology Unit, Hospital Italiano de Buenos Aires, Buenos Aires,
+Argentina.
+(3)Nephrology Division, Hospital Universitario de Salamanca, Salamanca, Spain.
+
+Frailty is a construct originally coined by gerontologists to describe cumulative
+declines across multiple physiological systems that occur with aging and lead
+individuals to a state of diminished physiological reserve and increased
+vulnerability to stressors. Fried et al. provided a standardized definition for
+frailty, and they created the concept of frailty phenotype which incorporates
+disturbances across interrelated domains (shrinking, weakness, poor endurance and
+energy, slowness, and low physical activity level) to indentify old people who
+are at risk of disability, falls, institutionalization, hospitalization, and
+premature death. Some authors consider the presence of lean mass reduction
+(sarcopenia) as part of the frailty phenotype. The frailty status has been
+documented in 7 % of elderly population and 14 % of not requiring dialysis CKD
+adult patients. Sarcopenia increases progressively along with loss of renal
+function in CKD patients and is high in dialysis population. It has been
+documented that prevalence of frailty in hemodialysis adult patients is around 42
+% (35 % in young and 50 % in elderly), having a 2.60-fold higher risk of
+mortality and 1.43-fold higher number of hospitalization, independent of age,
+comorbidity, and disability. The Clinical Frailty Scale is the simplest and
+clinically useful and validated tool for doing a frailty phenotype, while the
+diagnosis of sarcopenia is based on muscle mass assessment by body imaging
+techniques, bioimpedance analysis, and muscle strength evaluated with a handheld 
+dynamometer. Frailty treatment can be based on different strategies, such as
+exercise, nutritional interventions, drugs, vitamins, and antioxidant agents.
+Finally, palliative care is a very important alternative for very frail and sick 
+patients. In conclusion, since the diagnosis and treatment of frailty and
+sarcopenia is crucial in geriatrics and all CKD patients, it would be very
+important to incorporate these evaluations in pre-dialysis, peritoneal dialysis, 
+hemodialysis, and kidney transplant patients in order to detect and consequently 
+treat the frailty phenotype in these groups.
+
+DOI: 10.1007/s11255-015-1112-z 
+PMID: 26411428  [Indexed for MEDLINE]
+
+
+9. J Urol. 2015 Aug;194(2):483. doi: 10.1016/j.juro.2015.03.016. Epub 2015 Mar 18.
+
+Re: Frailty and Mortality in Kidney Transplant Recipients.
+
+Goldfarb DA.
+
+Comment on
+    Am J Transplant. 2015 Jan;15(1):149-54.
+
+DOI: 10.1016/j.juro.2015.03.016 
+PMID: 26195402  [Indexed for MEDLINE]
+
+
+10. Am J Transplant. 2015 Jul;15(7):1976-81. doi: 10.1111/ajt.13244. Epub 2015 Apr
+13.
+
+Radioimmunotherapy ((90) Y-Ibritumomab Tiuxetan) for Posttransplant
+Lymphoproliferative Disorders After Prior Exposure to Rituximab.
+
+Rossignol J(1), Terriou L(1), Robu D(1), Willekens C(1), Hivert B(1), Pascal
+L(1), Guieze R(1), Trappe R(2), Baillet C(3), Huglo D(3), Morschhauser F(1).
+
+Author information: 
+(1)Service des Maladies du Sang, CHRU de Lille, Lille, France.
+(2)Division of Hematology and Oncology, Department of Medicine, Ev.
+Diakonie-Krankenhaus, Bremen, Germany.
+(3)Service de médecine nucléaire, CHRU de Lille, Lille, France.
+
+Posttransplantation lymphoproliferative disorders (PTLDs) are life-threatening
+complications after solid organ and hematopoietic stem cell transplantation. Only
+half of CD20-positive PTLDs respond to rituximab monotherapy, and outcomes remain
+poor for patients with relapsed/refractory disease, especially those who do not
+qualify for an anthracycline containing regimen due to frailty or comorbidities. 
+Radioimmunotherapy (RIT) might be an option in this particular setting. We report
+a panel of eight patients with rituximab refractory/relapsed CD20-positive PTLDs 
+including three ineligible for subsequent CHOP-like chemotherapy who received
+(90) Y-Ibritumomab tiuxetan as a single agent (n = 7) or combined to chemotherapy
+(n = 1). Five out of eight patients were kidney transplant recipients, while 2/8 
+had a liver transplant and 1/8 had a heart transplant. Patients received a median
+of two previous therapies. Overall response rate was 62.5%. Importantly, all
+responders achieved complete response. At a median follow-up of 37 months [5;
+84], complete response was ongoing in four patients. Toxicity was predominantly
+hematological and easily manageable. No graft rejection was noticed concomitantly
+or following RIT administration despite immunosuppression reduction after
+diagnosis of PTLDs. This report emphasizes the potential efficiency of salvage
+RIT for early rituximab refractory PTLDs without any unexpected toxicity.
+
+© Copyright 2015 The American Society of Transplantation and the American Society
+of Transplant Surgeons.
+
+DOI: 10.1111/ajt.13244 
+PMID: 25868706  [Indexed for MEDLINE]
+
+
+11. Am J Transplant. 2015 Jan;15(1):149-54. doi: 10.1111/ajt.12992. Epub 2014 Oct 30.
+
+Frailty and mortality in kidney transplant recipients.
+
+McAdams-DeMarco MA(1), Law A, King E, Orandi B, Salter M, Gupta N, Chow E,
+Alachkar N, Desai N, Varadhan R, Walston J, Segev DL.
+
+Author information: 
+(1)Department of Surgery, Johns Hopkins University School of Medicine, Baltimore,
+MD; Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, MD.
+
+Comment in
+    J Urol. 2015 Aug;194(2):483.
+
+We have previously described strong associations between frailty, a measure of
+physiologic reserve initially described and validated in geriatrics, and early
+hospital readmission as well as delayed graft function. The goal of this study
+was to estimate its association with postkidney transplantation (post-KT)
+mortality. Frailty was prospectively measured in 537 KT recipients at the time of
+transplantation between November 2008 and August 2013. Cox proportional hazards
+models were adjusted for confounders using a novel approach to substantially
+improve model efficiency and generalizability in single-center studies. We
+precisely estimated the confounder coefficients using the large sample size of
+the Scientific Registry of Transplantation Recipients (n = 37 858) and introduced
+these into the single-center model, which then estimated the adjusted frailty
+coefficient. At 5 years, the survivals were 91.5%, 86.0% and 77.5% for nonfrail, 
+intermediately frail and frail KT recipients, respectively. Frailty was
+independently associated with a 2.17-fold (95% CI: 1.01-4.65, p = 0.047) higher
+risk of death. In conclusion, regardless of age, frailty is a strong, independent
+risk factor for post-KT mortality, even after carefully adjusting for many
+confounders using a novel, efficient statistical approach.
+
+© Copyright 2014 The American Society of Transplantation and the American Society
+of Transplant Surgeons.
+
+DOI: 10.1111/ajt.12992 
+PMCID: PMC4332809
+PMID: 25359393  [Indexed for MEDLINE]

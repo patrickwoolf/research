@@ -1,0 +1,68 @@
+﻿1. J Frailty Aging. 2017;6(2):103-106. doi: 10.14283/jfa.2017.14.
+
+Frailty in End-Stage Renal Disease Patients under Dialysis and Its Association
+with Clinical and Biochemical Markers.
+
+Poveda V(1), Filgueiras M, Miranda V, Santos-Silva A, Paúl C, Costa E.
+
+Author information: 
+(1)Elísio Costa, Laboratório de Bioquímica, Departamento de Ciências Biológicas, 
+Universidade do Porto, Rua de Jorge Viterbo Ferreira, 228, 4050-313 Porto,
+Portugal, Email: emcosta@ff.up.pt.
+
+Frailty is a common complication in elderly patients with end-stage renal disease
+(ESRD) under dialysis, which is a strong risk factor for low quality of life,
+morbidity, and mortality. In this work, we aimed to evaluate the prevalence of
+frailty in a group of Portuguese ESRD patients, and its association with
+socio-demographic, clinical and biochemical markers. We performed a
+cross-sectional study with 83 ESRD patients (44 males and 39 females, 64.3
+[±14.6] years old) on regular dialysis. The classification of the ESRD patients
+as robust, pre-frail and frail was performed using the FRAIL questionnaire.
+Social support, data about sociodemographic and comorbidities, and
+haematological, iron status, dialysis adequacy, nutritional and inflammatory
+markers were also evaluated. Our results confirmed that frailty is a highly
+prevalent condition in ESRD patients, particularly in female patients. An
+association between FRAIL score and increased depressive symptoms, presence of
+hypertension and decrease nutritional status was also found.
+
+DOI: 10.14283/jfa.2017.14 
+PMID: 28555712  [Indexed for MEDLINE]
+
+Conflict of interest statement: none
+
+
+2. Curr Opin Nephrol Hypertens. 2010 Mar;19(2):153-9. doi:
+10.1097/MNH.0b013e328335f939.
+
+Health-related quality of life outcomes in chronic kidney disease.
+
+Soni RK(1), Weisbord SD, Unruh ML.
+
+Author information: 
+(1)Department of Medicine, University of Pittsburgh Medical Center, Pittsburgh,
+Pennsylvania 15213, USA.
+
+PURPOSE OF REVIEW: Patients with chronic kidney disease (CKD) endure compromised 
+health-related quality of life (HRQOL). Although the link between HRQOL and
+increased mortality in patients with end-stage renal disease (ESRD) is well
+documented, less is known about the relationship between CKD and HRQOL. This
+article reviews the recent evidence on HRQOL, its correlates and proposed
+intervention strategies to improve HRQOL in CKD.
+RECENT FINDINGS: A growing body of literature indicates that various comorbid
+conditions related to CKD play a substantial role in impaired HRQOL in CKD.
+Hypertension, both a cause and complication of CKD, negatively affects HRQOL due 
+to associated comorbidities, side effects from antihypertensive medications and
+awareness of the diagnosis. Anemia has been associated with HRQOL, but concerns
+about the safety of erythropoietin-stimulating agents (ESAs) have led to more
+conservative anemia treatment. Frailty, symptom burden and depression are also
+major contributory factors to HRQOL in CKD.
+SUMMARY: Certain determinants of HRQOL in CKD, namely anemia and depression, are 
+treatable. Early identification and correction may improve overall well being of 
+patients. Clinical trials are required to demonstrate whether treatment
+interventions benefit HRQOL in this high-risk population. Furthermore, whether
+integration of HRQOL assessment into routine clinical practice will improve HRQOL
+outcomes remains to be determined.
+
+DOI: 10.1097/MNH.0b013e328335f939 
+PMCID: PMC2900393
+PMID: 20051850  [Indexed for MEDLINE]

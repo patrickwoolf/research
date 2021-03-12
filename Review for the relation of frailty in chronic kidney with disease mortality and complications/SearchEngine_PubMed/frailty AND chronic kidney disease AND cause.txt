@@ -1,0 +1,981 @@
+﻿//frailty AND "chronic kidney disease" AND cause
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "chronic kidney disease"[All Fields] AND cause[All Fields]
+============================================================================================
+1. Geriatr Gerontol Int. 2018 Dec;18(12):1597-1602. doi: 10.1111/ggi.13534. Epub
+2018 Oct 11.
+
+Diabetic nephropathy is associated with frailty in patients with chronic
+hemodialysis.
+
+Kakio Y(1), Uchida HA(1)(2), Takeuchi H(1)(3), Okuyama Y(1), Okuyama M(4),
+Umebayashi R(1), Wada K(5), Sugiyama H(1)(6), Sugimoto K(7), Rakugi H(7),
+Kasahara S(4), Wada J(1).
+
+Author information: 
+(1)Department of Nephrology, Rheumatology, Endocrinology and Metabolism, Okayama 
+University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences,
+Okayama, Japan.
+(2)Department of Chronic Kidney Disease and Cardiovascular Disease, Okayama
+University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences,
+Okayama, Japan.
+(3)Department of Internal Medicine, Innoshima General Hospital, Hiroshima, Japan.
+(4)Department of Cardiovascular Surgery, Okayama University Graduate School of
+Medicine, Dentistry and Pharmaceutical Sciences, Okayama, Japan.
+(5)Division of Nephrology and Dialysis, Department of Internal Medicine, Nippon
+Kokan Fukuyama Hospital, Hiroshima, Japan.
+(6)Department of Human Resource Development of Dialysis Therapy for Kidney
+Disease, Okayama University Graduate School of Medicine, Dentistry and
+Pharmaceutical Sciences, Okayama, Japan.
+(7)Department of Geriatric and General Medicine, Osaka University Graduate School
+of Medicine, Osaka, Japan.
+
+AIM: Since 1998, the leading cause of chronic hemodialysis in Japan has been
+diabetic nephropathy. Diabetes mellitus is known to be a risk factor for frailty,
+but it still remains unknown whether diabetic nephropathy is associated with
+frailty in chronic dialysis patients. The authors carried out the present study
+to reveal the association between frailty and diabetic nephropathy in chronic
+hemodialysis patients.
+METHODS: A total of 355 patients who were on hemodialysis were recruited.
+Participants were divided into two groups of either patients who suffered
+diabetic nephropathy with end-stage renal disease (DN group, n = 150) or not
+(Non-DN group, n = 205). The authors investigated the difference of the
+prevalence of frailty between the two groups. Furthermore, the authors examined
+the risk factors for frailty.
+RESULTS: The prevalence of frailty in the DN group was significantly higher than 
+that in the Non-DN group (28.0% vs 16.5%, P = 0.0161). To evaluate the
+association between frailty and its risk factors, we compared frail patients
+(n = 71) and non-frail patients (n = 262). After adjusting their
+interrelationships by using multivariate logistic regression analysis, diabetic
+nephropathy was determined as a significant risk factor for frailty.
+CONCLUSIONS: The authors found the close association between frailty and diabetic
+nephropathy in chronic hemodialysis patients. Geriatr Gerontol Int 2018; 18:
+1597-1602.
+
+© 2018 Japan Geriatrics Society.
+
+DOI: 10.1111/ggi.13534 
+PMID: 30311338 
+
+
+2. Can J Diabetes. 2018 Jun 20. pii: S1499-2671(18)30001-7. doi:
+10.1016/j.jcjd.2018.06.001. [Epub ahead of print]
+
+Frailty, Health-Related Quality of Life, Cognition, Depression, Vitamin D and
+Health-Care Utilization in an Ambulatory Adult Population with Type 1 or Type 2
+Diabetes Mellitus and Chronic Kidney Disease: A Cross-Sectional Analysis.
+
+Adame Perez SI(1), Senior PA(2), Field CJ(1), Jindal K(3), Mager DR(4).
+
+Author information: 
+(1)Department of Agricultural, Food and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada.
+(2)Department of Endocrinology, University of Alberta, Edmonton, Alberta, Canada.
+(3)Northern Alberta Renal Program, Alberta Health Services and Department of
+Nephrology, University of Alberta, Edmonton, Alberta, Canada.
+(4)Department of Agricultural, Food and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada. Electronic address: mager@ualberta.ca.
+
+OBJECTIVES: Frailty can cause increased vulnerability to adverse health outcomes,
+such as falls, fractures, depression and reduced health-related quality of life
+(HRQoL). This cross-sectional study compared the differences in body composition,
+HRQoL, mental health and cognitive and vitamin D (vitD) status with health-care
+utilization by frail and nonfrail adults with diabetes mellitus (type 1 and type 
+2) and with chronic kidney disease (stages 1 through 5).
+METHODS: We studied adults with type 1 and type 2 diabetes and chronic kidney
+disease stages 1 through 5 who were participating in a longitudinal follow-up
+study (41 to 83 years of age; n=41). Body composition (dual-energy x-ray
+absorptiometry); vitD status (serum 25[OH]D3); frailty (Edmonton Frail Scale);
+depression (Major Depression Inventory); HRQoL (Short Form Health Survey-36); and
+cognitive status (Mini Mental State exam) were measured using validated tools.
+Participants who were on dialysis and had body weights >136 kg, and coinciding
+comorbidities known to influence vitD metabolism were excluded.
+RESULTS: Frailty occurred in 17% of participants (n=7). Frail participants had
+lower lean body mass, lower HRQoL scores (individual and composite scores), more 
+depression (p=<0.05) and higher numbers of health visits (total, inpatient and
+emergency) compared with nonfrail participants (p<0.05). No differences in
+health-care visit types or vitD status were noted between frail and nonfrail
+participants (p>0.05).
+CONCLUSIONS: Frailty in an ambulatory population of adults with chronic kidney
+disease and diabetes is associated with low lean body mass, low HRQoL, greater
+depression and higher numbers of health-care visits.
+
+Copyright © 2018 Diabetes Canada. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jcjd.2018.06.001 
+PMID: 30139571 
+
+
+3. Acta Diabetol. 2018 Apr;55(4):323-330. doi: 10.1007/s00592-017-1094-7. Epub 2018 
+Jan 11.
+
+Levels of serum uric acid at admission for hypoglycaemia predict 1-year
+mortality.
+
+Bonaventura A(1), Gallo F(2), Carbone F(3), Liberale L(3)(4), Maggi D(2), Sacchi 
+G(5), Dallegri F(3)(6), Montecucco F(3)(6)(7), Cordera R(2).
+
+Author information: 
+(1)First Clinic of Internal Medicine, Department of Internal Medicine, University
+of Genoa, 6 Viale Benedetto XV, 16132, Genoa, Italy. aldobon85@gmail.com.
+(2)Diabetology Unit, Department of Internal Medicine, University of Genoa, 6
+Viale Benedetto XV, 16132, Genoa, Italy.
+(3)First Clinic of Internal Medicine, Department of Internal Medicine, University
+of Genoa, 6 Viale Benedetto XV, 16132, Genoa, Italy.
+(4)Center for Molecular Cardiology, University of Zürich, 12 Wagistrasse, 8952,
+Schlieren, Switzerland.
+(5)Emergency Department, Ospedale Policlinico San Martino, 10 Largo Benzi, 16132,
+Genoa, Italy.
+(6)Ospedale Policlinico San Martino, 10 Largo Benzi, 16132, Genoa, Italy.
+(7)Centre of Excellence for Biomedical Research (CEBR), University of Genoa, 9
+Viale Benedetto XV, 16132, Genoa, Italy.
+
+AIMS: Hypoglycaemia represents a critical burden with clinical and social
+consequences in the management of diabetes. Serum uric acid (SUA) has been
+associated with cardiovascular diseases (CVD), but no conclusive findings are
+available nowadays in patients suffering from hypoglycaemia. We investigated
+whether SUA levels at the time of hypoglycaemia could predict all-cause mortality
+after 1-year follow-up.
+METHODS: In total, 219 patients admitted to the Emergency Department (ED) of
+Ospedale Policlinico S. Martino of Genoa (Italy) have been enrolled between
+January 2011 and December 2014. The primary endpoint of the study consisted in
+determining whether SUA levels at the time of ED admission could predict the
+occurrence of death after 1 year.
+RESULTS: The majority of patients were diabetic, especially type 2. CVD and
+chronic kidney disease were prevalent comorbidities. By a cut-off value obtained 
+by the receiver operating characteristic curve analysis, a Kaplan-Meier analysis 
+demonstrated that patients with SUA levels > 5.43 mg/dL were more prone to death 
+after 1 year compared to those with lower SUA levels. The risk of death increased
+with high SUA levels both in the univariate and the multivariate models including
+estimated glomerular filtration rate, C-reactive protein, type of diabetes, and
+age-adjusted Charlson comorbidity index.
+CONCLUSIONS: SUA could be useful as a predictor of 1-year mortality in
+hypoglycaemic patients, irrespective of severe comorbidities notably increasing
+the risk of death in these frail patients.
+
+DOI: 10.1007/s00592-017-1094-7 
+PMID: 29327150  [Indexed for MEDLINE]
+
+
+4. Saudi J Kidney Dis Transpl. 2017 Nov-Dec;28(6):1321-1329. doi:
+10.4103/1319-2442.220873.
+
+Acute kidney injury due to overcorrection of hypovitaminosis D: A tertiary center
+experience in the Kashmir Valley of India.
+
+Chowdry AM(1), Azad H(1), Najar MS(1), Mir I(1).
+
+Author information: 
+(1)Department of Nephrology, Sher-i-Kashmir Institute of Medical Sciences, Soura,
+Srinagar, Jammu and Kashmir, India.
+
+Vitamin D deficiency state is endemic in the Kashmir valley of the Indian
+subcontinent. Clinicians frequently treat patients with Vitamin D for diverse
+clinical symptoms to improve the general health and to reduce the frailty of
+elderly and these doses may at times be inappropriately high. Vitamin D
+toxicity-induced acute kidney injury (AKI), often considered rare, can be
+life-threatening and associated with substantial morbidity if not identified
+promptly. We aimed to describe clinical and biochemical features, risk factors,
+and management of AKI patients with Vitamin D toxicity seen at a single tertiary 
+care centre in Sher-i-Kashmir Institute of Medical Sciences, Srinagar, India,
+between January 2014 and January 2016. Evaluation included detailed clinical
+history and biochemical tests including serum calcium, phosphorus, creatinine,
+intact parathyroid hormone, and 25-hydroxyvitamin D [25(OH)D]. Nineteen patients 
+with Vitamin D toxicity-induced AKI could be identified. Clinical manifestations 
+included nausea, vomiting, altered sensorium, constipation, pancreatitis, AKI,
+acute on chronic kidney disease, and weight loss. Median (range) age was 64
+(45-89) years. Median (range) serum 25(OH)D level and median (range) total serum 
+calcium level were 99 (190-988) ng/mL and 139 (119-152) mg/dL, respectively.
+Overdose of Vitamin D caused by prescription of megadoses of Vitamin D was the
+cause of AKI in all cases. Median (range) cumulative Vitamin D dose was 6,000,000
+(3,600,000-9,000,000) IU. On three- and six-month follow-up, the creatinine and
+estimated glomerular filtration rate normalized and returned to baseline in all
+patients except three cases who had underlying chronic kidney disease. Three
+patients needed rehospitalization for another episode of AKI. Our data
+demonstrate an emergence of Vitamin D toxicity as a cause of AKI in this part of 
+the world. Irrational use of Vitamin D in megadoses resulted in AKI in all cases.
+Persistence of Vitamin D in the body for longer time resulted in
+rehospitalization of patients with AKI. Awareness among health-care providers
+regarding the toxic potential of high doses of Vitamin D and cautious use of
+Vitamin D supplements can have immense value to prevent this AKI.
+
+DOI: 10.4103/1319-2442.220873 
+PMID: 29265043 
+
+
+5. Nephrology (Carlton). 2019 Jan;24(1):94-101. doi: 10.1111/nep.13194.
+
+Suboptimal initiation predicts short-term prognosis and vulnerability among very 
+elderly patients who start haemodialysis.
+
+Kanno A(1), Nakayama M(2), Sanada S(1), Sato M(1), Sato T(1), Taguma Y(1).
+
+Author information: 
+(1)Department of Nephrology, Japan Community Health Care Organization (JCHO)
+Sendai Hospital, Sendai, Japan.
+(2)Research Division of Chronic Kidney Disease and Dialysis Treatment, Tohoku
+University Hospital, Tohoku University, Sendai, Japan.
+
+AIM: A recent, growing concern regarding haemodialysis in Japan is a sustained
+increase in the elderly population. Among very elderly people who start
+haemodialysis, the prognosis is considered to be poor; however, this has not been
+fully elucidated. This study aimed to discover the short-term prognosis and
+related factors in very elderly patients who commence haemodialysis.
+METHODS: Between January 2008 and December 2013, 122 patients aged ≥85 years at
+haemodialysis initiation were documented in our hospital. Predictors of 90-day
+and 1-year mortality after haemodialysis initiation were assessed with Cox
+proportional hazards regression analysis. Selection of covariates for the
+multivariate model was based on forward stepwise selection using the probability 
+of a likelihood ratio statistics.
+RESULTS: The subjects' mean age was 87.4 ± 2.5 years, and 48% were female. The
+most common cause of death was infection (38% of patients) and the leading cause 
+of infectious death was pneumonia. The 90-day and 1-year survival rates were 81% 
+and 62%, respectively. Suboptimal initiation was a significant prognostic factor 
+for 90-day [hazard ratio (HR) 3.98, 95% confidence interval (CI) 1.18-13.43] and 
+1-year [HR 3.19, 95% CI 1.51-6.76] mortality after adjusting for confounders in
+multivariate analysis.
+CONCLUSION: Very elderly patients who started haemodialysis had a poor prognosis,
+and suboptimal initiation significantly predicted outcome. Shared decision-making
+with patients and their families is needed for initiating haemodialysis on the
+conditions that appropriate information on the expected prognosis is provided.
+
+© 2017 Asian Pacific Society of Nephrology.
+
+DOI: 10.1111/nep.13194 
+PMID: 29131496 
+
+
+6. BMJ. 2017 Oct 17;359:j4323. doi: 10.1136/bmj.j4323.
+
+Comparative safety of direct oral anticoagulants and warfarin in venous
+thromboembolism: multicentre, population based, observational study.
+
+Jun M(1)(2)(3), Lix LM(4), Durand M(5), Dahl M(6), Paterson JM(7)(8)(9), Dormuth 
+CR(10), Ernst P(11)(12), Yao S(13), Renoux C(11)(14)(15), Tamim H(16)(17), Wu
+C(18), Mahmud SM(19), Hemmelgarn BR(20); Canadian Network for Observational Drug 
+Effect Studies (CNODES) Investigators.
+
+Author information: 
+(1)Departments of Medicine and Community Health Sciences, University of Calgary, 
+AB, Canada.
+(2)The George Institute for Global Health, Sydney, NSW, Australia.
+(3)Faculty of Medicine, UNSW Sydney, NSW, Australia.
+(4)Department of Community Health Sciences, University of Manitoba, MB, Canada.
+(5)Department of Internal Medicine, University of Montreal Health Centre,
+Montreal, QC, Canada.
+(6)Manitoba Centre for Health Policy, Department of Community Health Sciences,
+University of Manitoba, Winnipeg, MB, Canada.
+(7)Department of Family Medicine, McMaster University, Hamilton, ON, Canada.
+(8)Institute for Clinical Evaluative Sciences, Toronto, ON, Canada.
+(9)Institute of Health Policy, Management and Evaluation, University of Toronto, 
+ON, Toronto.
+(10)Department of Anesthesiology, Pharmacology and Therapeutics, University of
+British Columbia, Vancouver, BC, Canada.
+(11)Center for Clinical Epidemiology, Lady Davis Research Institute, Jewish
+General Hospital, Montreal, QC, Canada.
+(12)Department of Medicine, McGill University, Montreal, QC, Canada.
+(13)College of Pharmacy and Nutrition, Department of Pharmacy, University of
+Saskatchewan, SK, Canada.
+(14)Department of Neurology and Neurosurgery, McGill University, Montréal, QC,
+Canada.
+(15)Department of Epidemiology and Biostatistics, McGill University, Montréal,
+QC, Canada.
+(16)School of Kinesiology and Health Science, York University, Toronto, ON,
+Canada.
+(17)Department of Community Health and Epidemiology, Dalhousie University,
+Halifax, NS, Canada.
+(18)Department of Medicine, University of Alberta, Edmonton, AB, Canada.
+(19)Department of Community Health Sciences, University of Manitoba, Winnipeg,
+MB, Canada.
+(20)Departments of Medicine and Community Health Sciences, University of Calgary,
+AB, Canada Brenda.Hemmelgarn@ahs.ca.
+
+Objective To determine the safety of direct oral anticoagulant (DOAC) use
+compared with warfarin use for the treatment of venous
+thromboembolism.Design Retrospective matched cohort study conducted between 1
+January 2009 and 31 March 2016.Setting Community based, using healthcare data
+from six jurisdictions in Canada and the United States.Participants 59 525 adults
+(12 489 DOAC users; 47 036 warfarin users) with a new diagnosis of venous
+thromboembolism and a prescription for a DOAC or warfarin within 30 days of
+diagnosis.Main outcome measures Outcomes included hospital admission or emergency
+department visit for major bleeding and all cause mortality within 90 days after 
+starting treatment. Propensity score matching and shared frailty models were used
+to estimate adjusted hazard ratios of the outcomes comparing DOACs with warfarin.
+Analyses were conducted independently at each site, with meta-analytical methods 
+used to estimate pooled hazard ratios across sites.Results Of the 59 525
+participants, 1967 (3.3%) had a major bleed and 1029 (1.7%) died over a mean
+follow-up of 85.2 days. The risk of major bleeding was similar for DOAC compared 
+with warfarin use (pooled hazard ratio 0.92, 95% confidence interval 0.82 to
+1.03), with the overall direction of the association favouring DOAC use. No
+difference was found in the risk of death (pooled hazard ratio 0.99, 0.84 to
+1.16) for DOACs compared with warfarin use. There was no evidence of
+heterogeneity across centres, between patients with and without chronic kidney
+disease, across age groups, or between male and female patients.Conclusions In
+this analysis of adults with incident venous thromboembolism, treatment with
+DOACs, compared with warfarin, was not associated with an increased risk of major
+bleeding or all cause mortality in the first 90 days of treatment.Trial
+registration Clinical trials NCT02833987.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.j4323 
+PMCID: PMC5641962
+PMID: 29042362  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed
+the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available 
+on request from the corresponding author) and declare: support for the submitted 
+work as described above; CW has received honorariums (for advisory board meetings
+as well as speaking engagements) from Leo Pharma and Pfizer (makers of tinzaparin
+and dalteparin, respectively); SMM has received research grants for work
+unrelated to this project from GlaxoSmithKline, Merck, Pfizer, and Sanofi; no
+other relationships or activities that could appear to have influenced the
+submitted work.
+
+
+7. BMJ. 2017 Sep 20;358:j4208. doi: 10.1136/bmj.j4208.
+
+Development and validation of QMortality risk prediction algorithm to estimate
+short term risk of death and assess frailty: cohort study.
+
+Hippisley-Cox J(1), Coupland C(2).
+
+Author information: 
+(1)Division of Primary Care, University Park, University of Nottingham,
+Nottingham NG2 7RD, UK Julia.hippisley-cox@nottingham.ac.uk.
+(2)Division of Primary Care, University Park, University of Nottingham,
+Nottingham NG2 7RD, UK.
+
+Comment in
+    BMJ. 2017 Sep 27;358:j4478.
+
+Objectives To derive and validate a risk prediction equation to estimate the
+short term risk of death, and to develop a classification method for frailty
+based on risk of death and risk of unplanned hospital
+admission.Design Prospective open cohort study.Participants Routinely collected
+data from 1436 general practices contributing data to QResearch in England
+between 2012 and 2016. 1079 practices were used to develop the scores and a
+separate set of 357 practices to validate the scores. 1.47 million patients aged 
+65-100 years were in the derivation cohort and 0.50 million patients in the
+validation cohort.Methods Cox proportional hazards models in the derivation
+cohort were used to derive separate risk equations in men and women for
+evaluation of the risk of death at one year. Risk factors considered were age,
+sex, ethnicity, deprivation, smoking status, alcohol intake, body mass index,
+medical conditions, specific drugs, social factors, and results of recent
+investigations. Measures of calibration and discrimination were determined in the
+validation cohort for men and women separately and for each age and ethnic group.
+The new mortality equation was used in conjunction with the existing QAdmissions 
+equation (which predicts risk of unplanned hospital admission) to classify
+patients into frailty groups.Main outcome measure The primary outcome was all
+cause mortality.Results During follow-up 180 132 deaths were identified in the
+derivation cohort arising from 4.39 million person years of observation. The
+final model included terms for age, body mass index, Townsend score, ethnic
+group, smoking status, alcohol intake, unplanned hospital admissions in the past 
+12 months, atrial fibrillation, antipsychotics, cancer, asthma or chronic
+obstructive pulmonary disease, living in a care home, congestive heart failure,
+corticosteroids, cardiovascular disease, dementia, epilepsy, learning disability,
+leg ulcer, chronic liver disease or pancreatitis, Parkinson's disease, poor
+mobility, rheumatoid arthritis, chronic kidney disease, type 1 diabetes, type 2
+diabetes, venous thromboembolism, anaemia, abnormal liver function test result,
+high platelet count, visited doctor in the past year with either appetite loss,
+unexpected weight loss, or breathlessness. The model had good calibration and
+high levels of explained variation and discrimination. In women, the equation
+explained 55.6% of the variation in time to death (R2), and had very good
+discrimination-the D statistic was 2.29, and Harrell's C statistic value was
+0.85. The corresponding values for men were 53.1%, 2.18, and 0.84. By combining
+predicted risks of mortality and unplanned hospital admissions, 2.7% of patients 
+(n=13 665) were classified as severely frail, 9.4% (n=46 770) as moderately
+frail, 43.1% (n=215 253) as mildly frail, and 44.8% (n=223 790) as
+fit.Conclusions We have developed new equations to predict the short term risk of
+death in men and women aged 65 or more, taking account of demographic, social,
+and clinical variables. The equations had good performance on a separate
+validation cohort. The QMortality equations can be used in conjunction with the
+QAdmissions equations, to classify patients into four frailty groups (known as
+QFrailty categories) to enable patients to be identified for further assessment
+or interventions.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.j4208 
+PMCID: PMC5606253
+PMID: 28931509  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Both authors have completed 
+the uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on
+request from the corresponding author) and declare: JHC is codirector of
+QResearch, a not-for-profit organisation, which is a joint partnership between
+the University of Nottingham and Egton Medical Information Systems (leading
+commercial supplier of IT for 55% of general practices in the UK). JHC is also a 
+paid director of ClinRisk, which produces open and closed source software to
+ensure the reliable and updatable implementation of clinical risk equations
+within clinical computer systems to help improve patient care. CC is a paid
+consultant statistician for ClinRisk. This work and any views expressed within it
+are solely those of the authors and not of any affiliated bodies or
+organisations.
+
+
+8. Ann Thorac Surg. 2016 Oct;102(4):1172-80. doi: 10.1016/j.athoracsur.2016.07.001. 
+Epub 2016 Sep 1.
+
+Impact of Preoperative Chronic Kidney Disease in 2,531 High-Risk and Inoperable
+Patients Undergoing Transcatheter Aortic Valve Replacement in the PARTNER Trial.
+
+Thourani VH(1), Forcillo J(2), Beohar N(3), Doshi D(4), Parvataneni R(5), Ayele
+GM(5), Kirtane AJ(6), Babaliaros V(2), Kodali S(6), Devireddy C(2), Szeto W(7),
+Herrmann HC(7), Makkar R(8), Ailawadi G(9), Lim S(9), Maniar HS(10), Zajarias
+A(10), Suri R(11), Tuzcu EM(11), Kapadia S(11), Svensson L(11), Condado J(2),
+Jensen HA(2), Mack MJ(12), Leon MB(6).
+
+Author information: 
+(1)Emory University School of Medicine, Atlanta, Georgia. Electronic address:
+vthoura@emory.edu.
+(2)Emory University School of Medicine, Atlanta, Georgia.
+(3)Columbia University Division of Cardiology, Mount Sinai Medical Center, Miami 
+Beach, Florida.
+(4)Columbia University Medical Center, New York, New York.
+(5)Cardiovascular Research Foundation, New York, New York.
+(6)Columbia University Medical Center, New York, New York; Cardiovascular
+Research Foundation, New York, New York.
+(7)University of Pennsylvania, Philadelphia, Pennsylvania.
+(8)Cedars-Sinai Medical Center, Los Angeles, California.
+(9)University of Virginia, Charlottesville, Virginia.
+(10)Washington University, St. Louis, Missouri.
+(11)Cleveland Clinic, Cleveland, Ohio.
+(12)Baylor, Scott, and White Healthcare, Plano, Texas.
+
+BACKGROUND: Although preoperative renal dysfunction (RD) is associated with
+increased mortality and morbidity after surgical aortic valve replacement, its
+impact on clinical outcomes after transcatheter aortic valve replacement (TAVR)
+is less defined.
+METHODS: TAVR patients in the PARTNER (Placement of Aortic Transcatheter Valves) 
+trial with a calculable glomerular filtration rate (GFR) using the Modification
+of Diet in Renal Disease equation were included. Patients were divided into three
+groups: GFR >60 mL/min (none/mild RD), GFR 31 to 60 mL/min (moderate RD), and GFR
+≤30 mL/min (severe RD). Operative characteristics and clinical outcomes were
+analyzed. Cox regression models were used to determine multivariable predictors
+of 1-year all-cause mortality.
+RESULTS: A total of 2,531 inoperable or high surgical risk patients from the
+PARTNER trial and continued access registries had a calculable GFR level: 767
+(30%) had normal renal function or mild RD, 1,473 (58%) had moderate RD, and 291 
+(12%) presented with severe RD. The mean Society of Thoracic Surgeons Predicted
+Risk of Mortality for the cohort was 11.5%, and it was highest in those with
+severe RD (13.8%). Patients with severe RD were more often women with a higher
+prevalence of diabetes. Patients with severe RD had the highest incidence of
+30-day and 1-year all-cause mortality and rehospitalization. The 30-day rate of
+death from any cause was 10.7% in the severe RD group versus 6.0% in the moderate
+and mild RD groups (p = 0.01). The 1-year rate of death from any cause was 34.4% 
+in the severe RD group versus 21.5% in the moderate RD and 20.8% in the none/mild
+RD groups (adjusted hazard ratio [HR] 2.24, p < 0.0001 for severe versus
+none/mild; adjusted HR 1.14, p = 0.24 for severe versus moderate). Other
+significant predictors of 1-year all-cause mortality included lower body mass
+index, frailty, the transapical approach, a lower ejection fraction,
+oxygen-dependent chronic obstructive pulmonary disease, liver disease, and male
+sex.
+CONCLUSIONS: Preoperative severe RD is a significant predictor for 1-year
+mortality in TAVR patients. Careful risk stratification by the heart team is
+required in patients with severe preprocedural RD.
+
+Copyright © 2016 The Society of Thoracic Surgeons. Published by Elsevier Inc. All
+rights reserved.
+
+DOI: 10.1016/j.athoracsur.2016.07.001 
+PMID: 27592092  [Indexed for MEDLINE]
+
+
+9. Geriatr Gerontol Int. 2017 Apr;17(4):529-544. doi: 10.1111/ggi.12758. Epub 2016
+May 31.
+
+Chronic kidney disease-related physical frailty and cognitive impairment: a
+systemic review.
+
+Shen Z(1), Ruan Q(2), Yu Z(2), Sun Z(1).
+
+Author information: 
+(1)Department of Urology, Huadong Hospital, Fudan University, 221 West Yan'an
+Road, Shanghai, China.
+(2)Shanghai Institute of Geriatrics and Gerontology, Shanghai Key Laboratory of
+Clinical Geriatrics, Department of Geriatrics, Huadong Hospital, and Research
+Center of Aging and Medicine, Shanghai Medical College, Fudan University,
+Shanghai, China.
+
+AIM: The objective of this review was to assess chronic kidney disease-related
+frailty and cognitive impairment, as well as their probable causes, mechanisms
+and the interventions.
+METHODS: Studies from 1990 to 2015 were reviewed to evaluate the relationship
+between chronic kidney disease and physical frailty and cognitive impairment. Of 
+the 1694 studies from the initial search, longitudinal studies (n = 22) with the 
+keywords "Cognitive and CKD" and longitudinal or cross-sectional studies (n = 5) 
+with the keywords "Frailty and CKD" were included in final analysis.
+RESULTS: By pooling current research, we show clear evidence for a relationship
+between chronic kidney disease and frailty and cognitive impairment in major
+studies. Vascular disease is likely an important mediator, particularly for
+cognitive impairment. However, non-vascular factors also play an important role. 
+Many of the other mechanisms that contribute to impaired cognitive function and
+increased frailty in CKD remain to be elucidated. In limited studies, medication 
+therapy did not obtain the ideal effect. There are limited data on treatment
+strategies, but addressing the vascular disease risk factors earlier in life
+might decrease the subsequent burden of frailty and cognitive impairment in this 
+population. Multidimensional interventions, which address both microvascular
+health and other factors, may have substantial benefits for both the cognitive
+impairments and physical frailty in this vulnerable population.
+CONCLUSIONS: Chronic kidney disease is a potential cause of frailty and cognitive
+impairment. Vascular and non-vascular factors are the possible causes. The
+mechanism of chronic kidney disease-induced physical frailty and cognitive
+impairment suggests that multidimensional interventions may be effective
+therapeutic strategies in the early stage of chronic kidney disease. Geriatr
+Gerontol Int 2017; 17: 529-544.
+
+© 2016 Japan Geriatrics Society.
+
+DOI: 10.1111/ggi.12758 
+PMID: 27240548  [Indexed for MEDLINE]
+
+
+10. Clin J Am Soc Nephrol. 2016 Mar 7;11(3):431-41. doi: 10.2215/CJN.06290615. Epub
+2016 Jan 4.
+
+Trends in Survival and Renal Recovery in Patients with Multiple Myeloma or
+Light-Chain Amyloidosis on Chronic Dialysis.
+
+Decourt A(1), Gondouin B(1), Delaroziere JC(2), Brunet P(1), Sallée M(1), Burtey 
+S(1), Dussol B(1), Ivanov V(3), Costello R(3), Couchoud C(4), Jourde-Chiche N(5).
+
+Author information: 
+(1)Departments of *Nephrology.
+(2)Public Health, and.
+(3)Immuno-Hematology, Assistance Publique-Hôpitaux de Marseille, Conception
+Hospital, Aix-Marseille University, Marseille, France; and.
+(4)French Biomedical Agency, Renal Epidemiology and Information Network Registry,
+St. Denis, France.
+(5)Departments of *Nephrology, noemie.jourde@ap-hm.fr.
+
+BACKGROUND AND OBJECTIVES: Monoclonal gammopathies (MGs) with renal involvement
+can lead to ESRD caused by myeloma cast nephropathy (MCN), immunoglobulin light
+chain amyloidosis (ALA), or light-chain deposition disease (LCDD). Few studies
+have focused on the prognosis of patients with MG on chronic dialysis. We
+evaluated the outcomes of patients with MG incident on chronic dialysis in
+France.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: All incident patients registered
+in the Renal Epidemiology and Information Network Registry between 2002 and 2011 
+with ESRD caused by ALA, LCDD, or MCN were included. Patient's survival, censored
+for renal transplantation, renal recovery, and loss to follow-up, as well as
+renal outcomes were analyzed and compared with a control group. Risk factors and 
+causes of death were analyzed.
+RESULTS: We included 1459 patients, comprising 265 (18%) patients with ALA, 334
+(23%) patients with LCDD, and 861 (59%) patients with MCN. Median age was 72
+years, and 56% were men. Median follow-up was 13.1 months. Renal recovery was
+observed in 9.1% of patients and more frequent after 2006. Kidney transplantation
+was rare in this population (2.3%). Among 1272 patients who remained on dialysis,
+67% died. Median survival on dialysis was 18.3 months. Main causes of death were 
+malignancies (34.4%), cardiovascular diseases (18%), infections (13.3%), and
+cachexia (5.2%). Independent risk factors of death were age (hazard ratio [HR],
+1.03 per year increase; 95% confidence interval [95% CI], 1.02 to 1.03), frailty 
+(HR, 1.93; 95% CI, 1.58 to 2.36), congestive heart failure (HR, 1.54; 95% CI,
+1.23 to 1.93), and dialysis initiation on a central catheter (HR, 1.40; 95% CI,
+1.11 to 1.75). Factors associated with a lower risk of death were year of
+dialysis initiation (HR, 0.95 per year increase; 95% CI, 0.91 to 0.99) and high
+BP (HR, 0.80; 95% CI, 0.67 to 0.97).
+CONCLUSIONS: Survival of patients with ALA, LCDD, or MCN on chronic dialysis is
+poor but has improved over time. Progressive malignancy is the main cause of
+death in this population. Renal recovery has increased since 2006.
+
+Copyright © 2016 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.06290615 
+PMCID: PMC4791812
+PMID: 26728585  [Indexed for MEDLINE]
+
+
+11. BMC Nephrol. 2015 Sep 23;16:157. doi: 10.1186/s12882-015-0150-1.
+
+Association of frailty with endothelial dysfunction and its possible impact on
+negative outcomes in Brazilian predialysis patients with chronic kidney disease.
+
+Mansur HN(1)(2), Lovisi JC(3), Colugnati FA(3), Raposo NR(3), Fernandes NM(3),
+Bastos MG(4).
+
+Author information: 
+(1)IMEPEN Foundation, Federal University of Juiz de Fora, Juiz de Fora, Brazil.
+hnmansur@gmail.com.
+(2)Academic Centre of Vitoria, Federal University of Pernambuco, Vitória de Santo
+Antão, Pernambuco, Brazil. hnmansur@gmail.com.
+(3)IMEPEN Foundation, Federal University of Juiz de Fora, Juiz de Fora, Brazil.
+(4)Federal University of Juiz de Fora, José Lourenço Kelmer Street, 1300, Juiz de
+Fora, Minas Gerais, Brazil. marcusbastos7@gmail.com.
+
+BACKGROUND: Frailty is a state of physiological vulnerability common in the
+elderly. It is more predominant in patients with Chronic Kidney Disease in
+comparison to healthy subjects, which can also be diagnosed in non-elderly
+individuals and be associated with innumerous causes such as muscle strength,
+body composition and inflammation. The association between frailty and
+endothelial function, as well as the association between frailty and the combined
+outcome of mortality multiple cause and start of renal replace therapy were
+assessed.
+METHODS: In the initial analysis, sixty-one predialysis patients with Chronic
+Kidney Disease stages were evaluated and included in this study. Due to patient
+drop-out during follow-up, fifty-seven patients were subsequently re-evaluated 12
+months later. The diagnosis of frailty was based on the Johansen et al. (J Am Soc
+Nephrol 18(11):2960-67, 2007) criteria. The groups were divided into Non-frail
+and Frail. Sociodemographic, inflammatory markers (IL-6, TNF-?, CRP-us),
+endothelial dysfunction (flow-mediated vasodilatation - FMD), body composition
+(DXA) and the 25-hidroxi-vitamin D parameters were analyzed.
+RESULTS: The average age of the patients used in the study was 64.9 ± 10.3 years 
+old. The predominance of frailty was 42.6%, of which 46% were non-elderly. After 
+some adjustments, frailty was associated with gender (OR = 11.32; IC 95% = 2.30
+to 55.67), advanced age (OR = 4.07; IC 95% = 1.02 to 16.20), obesity (OR = 6.63; 
+IC 95% = 0.82 to 11.44) and endothelial dysfunction (OR = 3.86; IC 95% = 1.00 to 
+14.88). The ratio of the incidence of frail subjects to the variable outcome was 
+2.5 (CI 95%, 1.04 to 6.50).
+CONCLUSIONS: Although an observational study does not allow one to determine the 
+casual relation between frailty and endothelial dysfunction, we conclude that
+frailty was predominant in our sample of Brazilian patients with chronic kidney
+disease on predialysis, even in elderly individuals. This was linked to either
+worse endothelial function or mortality.
+
+DOI: 10.1186/s12882-015-0150-1 
+PMCID: PMC4579818
+PMID: 26395776  [Indexed for MEDLINE]
+
+
+12. Am J Kidney Dis. 2015 Oct;66(4):666-76. doi: 10.1053/j.ajkd.2015.04.051. Epub
+2015 Jun 25.
+
+Dental Health and Mortality in People With End-Stage Kidney Disease Treated With 
+Hemodialysis: A Multinational Cohort Study.
+
+Palmer SC(1), Ruospo M(2), Wong G(3), Craig JC(3), Petruzzi M(4), De Benedittis
+M(5), Ford P(6), Johnson DW(7), Tonelli M(8), Natale P(9), Saglimbene V(9),
+Pellegrini F(10), Celia E(9), Gelfman R(9), Leal MR(9), Torok M(9), Stroumza
+P(9), Bednarek-Skublewska A(11), Dulawa J(12), Frantzen L(9), Ferrari JN(9), Del 
+Castillo D(9), Bernat AG(9), Hegbrant J(9), Wollheim C(9), Gargano L(9), Bots
+CP(13), Strippoli GF(14); ORAL-D Study Investigators.
+
+Collaborators: Raña S, Serrano M, Claros S, Arias M, Petracci L, Arana M, De Rosa
+P, Gutierrez A, Simon M, Vergara V, Tosi M, Cernadas M, Vilamajó I, Gravac D,
+Paulón M, Penayo L, Carrizo G, Ghiani M, Perez G, Da Cruz O, Galarce D, Gravielle
+M, Vescovo E, Paparone R, Mato Mira C, Mojico E, Hermida O, Florio D, Yucoswky M,
+Labonia W, Rubio D, Di Napoli G, Fernandez A, Altman H, Rodriguez J, Serrano S,
+Valle G, Lobos M, Acosta V, Corpacci G, Jofre M, Gianoni L, Chiesura G, Capdevila
+M, Montenegro J, Bequi J, Dayer J, Gómez A, Calderón C, Abrego E, Cechín C,
+García J, Corral J, Natiello M, Coronel A, Muñiz M, Muñiz V, Bonelli A, Sanchez
+F, Maestre S, Olivera S, Camargo M, Avalos V, Geandet E, Canteli M, Escobar A,
+Sena E, Tirado S, Peñalba A, Neme G, Cisneros M, Oliszewski R, Nascar V, Daud M, 
+Mansilla S, Paredes Álvarez A, Gamín L, Arijón M, Coombes M, Zapata M, Boriceanu 
+C, Frantzen-Trendel S, Albert K, Csaszar I, Kiss E, Kosa D, Orosz A, Redl J,
+Kovacs L, Varga E, Szabo M, Magyar K, Kriza G, Zajko E, Bereczki A, Csikos J,
+Kuti A, Mike A, Steiner K, Nemeth E, Tolnai K, Toth A, Vinczene J, Szummer S,
+Tanyi E, Toth R, Szilvia M, Dambrosio N, Paparella G, Sambati M, Donatelli C,
+Pedone F, Cagnazzo VA, Antinoro R, Torsello F, Saturno C, Giannoccaro G, Maldera 
+S, Boccia E, Mantuano M, Di Toro Mammarella R, Meconizzi M, Steri PF, Riccardi C,
+Flammini A, Moscardelli L, Murgo M, San Filippo N, Pagano S, Marino G, Montalto
+G, Cantarella S, Salamone B, Randazzo G, Rallo D, Maniscalco A, Fici M, Lupo A,
+Pellegrino P, Fichera R, D'Angelo A, Falsitta N, Bochenska-Nowacka E, Jaroszynski
+A, Drabik J, Birecka M, Daniewska D, Drobisz M, Doskocz K, Wyrwicz G,
+Inchaustegui L, Outerelo C, Sousa Mendes D, Mendes A, Lopes J, Barbas J, Madeira 
+C, Fortes A, Vizinho R, Cortesão A, Almeida E, Bernat A, De la Torre B, Lopez A, 
+Martín J, Cuesta G, Rodriguez RM, Ros F, Garcia M, Orero E, Ros E, Caetano A,
+MacGregor K, Santos M, Silva Pinheiro S, Martins L, Leitão D, Izidoro C, Bava G, 
+Bora A, Gorena H, Calderón T, Dupuy R, Alonso N, Siciliano V, Frantzen-Trendel S,
+Nagy K, Bajusz Ö, Pinke I, Decsi G, Gyergyoi L, Jobba Z, Zalai Z, Zsedenyi Á,
+Kiss G, Pinter M, Kereszturi M, Petruzzi M, De Benedittis M, Szkutnik J,
+Sieczkarek J, Capelo A, Garcia Gallart M, Mendieta C.
+
+Author information: 
+(1)University of Otago, Christchurch, New Zealand.
+(2)Diaverum Medical Scientific Office, Lund, Sweden; Amedeo Avogadro University
+of Eastern Piedmont, Novara, Italy.
+(3)University of Sydney, Sydney, Australia.
+(4)University of Bari, Bari, Italy.
+(5)Universita' del Piemonte Orientale, Vercelli, Italy.
+(6)University of Queensland, Brisbane, Australia.
+(7)University of Queensland, Brisbane, Australia; Translational Research
+Institute, Brisbane, Australia.
+(8)University of Calgary, Calgary, Canada.
+(9)Diaverum Medical Scientific Office, Lund, Sweden.
+(10)Global Medical Biogen Idec, Cambridge, MA.
+(11)Diaverum Medical Scientific Office, Lund, Sweden; Medical University of
+Lublin, Lublin.
+(12)Diaverum Medical Scientific Office, Lund, Sweden; Medical University of
+Silesia, Silesia, Poland.
+(13)Academic Centre for Dentistry Amsterdam (ACTA), Oral Biochemistry, Amsterdam,
+the Netherlands.
+(14)Diaverum Medical Scientific Office, Lund, Sweden; University of Sydney,
+Sydney, Australia; University of Bari, Bari, Italy; Diaverum Academy, Lund,
+Sweden. Electronic address: gfmstrippoli@gmail.com.
+
+BACKGROUND: Dental disease is more extensive in adults with chronic kidney
+disease, but whether dental health and behaviors are associated with survival in 
+the setting of hemodialysis is unknown.
+STUDY DESIGN: Prospective multinational cohort.
+SETTING & PARTICIPANTS: 4,205 adults treated with long-term hemodialysis, 2010 to
+2012 (Oral Diseases in Hemodialysis [ORAL-D] Study).
+PREDICTORS: Dental health as assessed by a standardized dental examination using 
+World Health Organization guidelines and personal oral care, including
+edentulousness; decayed, missing, and filled teeth index; teeth brushing and
+flossing; and dental health consultation.
+OUTCOMES: All-cause and cardiovascular mortality at 12 months after dental
+assessment.
+MEASUREMENTS: Multivariable-adjusted Cox proportional hazards regression models
+fitted with shared frailty to account for clustering of mortality risk within
+countries.
+RESULTS: During a mean follow-up of 22.1 months, 942 deaths occurred, including
+477 cardiovascular deaths. Edentulousness (adjusted HR, 1.29; 95% CI, 1.10-1.51) 
+and decayed, missing, or filled teeth score ≥ 14 (adjusted HR, 1.70; 95% CI,
+1.33-2.17) were associated with early all-cause mortality, while dental flossing,
+using mouthwash, brushing teeth daily, spending at least 2 minutes on oral
+hygiene daily, changing a toothbrush at least every 3 months, and visiting a
+dentist within the past 6 months (adjusted HRs of 0.52 [95% CI, 0.32-0.85], 0.79 
+[95% CI, 0.64-0.97], 0.76 [95% CI, 0.58-0.99], 0.84 [95% CI, 0.71-0.99], 0.79
+[95% CI, 0.65-0.95], and 0.79 [95% CI, 0.65-0.96], respectively) were associated 
+with better survival. Results for cardiovascular mortality were similar.
+LIMITATIONS: Convenience sample of clinics.
+CONCLUSIONS: In adults treated with hemodialysis, poorer dental health was
+associated with early death, whereas preventive dental health practices were
+associated with longer survival.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.ajkd.2015.04.051 
+PMID: 26120038  [Indexed for MEDLINE]
+
+
+13. Curr Opin Nephrol Hypertens. 2014 May;23(3):291-7. doi:
+10.1097/01.mnh.0000444821.87873.7b.
+
+Cognitive and physical function in chronic kidney disease.
+
+Weiner DE(1), Seliger SL.
+
+Author information: 
+(1)aTufts Medical Center, Boston, Massachusetts bUniversity of Maryland Medical
+Center, Baltimore VA Medical Center, Baltimore, Maryland, USA.
+
+PURPOSE OF REVIEW: Both cognitive and physical function are commonly impaired in 
+individuals with chronic kidney disease (CKD), resulting in important impacts on 
+their quality of life and overall health. This review summarizes the burden of
+cognitive and physical impairment in CKD, focusing on recent research that
+highlights a possible unifying microvascular cause among these shared comorbid
+conditions.
+RECENT FINDINGS: Multiple small studies have been published recently evaluating
+cognitive and physical functioning in people with CKD. These studies overall
+demonstrate a high burden of comorbid conditions in people with CKD, including
+microvascular disease, that may result in cognitive impairment. Additionally,
+studies demonstrate that physical function is substantially worse than expected
+in individuals with CKD, that decreased physical activity is associated with
+worse outcomes, that frailty is very common and associated with an increased risk
+of death, and that structured exercise programs have small but tangible
+short-term effects on markers of physical performance.
+SUMMARY: Impaired cognitive function and physical performance are important
+factors impacting the lives of people with CKD. Further research is necessary to 
+better treat these important comorbid conditions in people with CKD.
+
+DOI: 10.1097/01.mnh.0000444821.87873.7b 
+PMCID: PMC4052721
+PMID: 24638060  [Indexed for MEDLINE]
+
+
+14. Curr Opin Nephrol Hypertens. 2013 Nov;22(6):615-23. doi:
+10.1097/MNH.0b013e328365b43a.
+
+The association of physical activity and physical function with clinical outcomes
+in adults with chronic kidney disease.
+
+Painter P(1), Roshanravan B.
+
+Author information: 
+(1)aDepartment of Physical Therapy, University of Utah, Salt Lake City, Utah
+bKidney Research Institute, Division of Nephrology, University of Washington,
+Seattle, Washington, USA.
+
+PURPOSE OF REVIEW: Despite guidelines supporting the regular assessment of
+physical functioning and encouragement of physical activity in management of the 
+patient with chronic kidney disease (CKD), implementation has been undermined by 
+a lack of understanding of the evidence for this recommendation. The purpose of
+this review is to present a summary of emerging data from larger epidemiologic
+cohorts that report associations between low levels of physical functioning
+and/or low physical activity and clinical outcomes in patients with CKD.
+RECENT FINDINGS: Low levels of physical activity and poor physical functioning
+are strongly associated with mortality and poor clinical outcomes in adult
+patients with CKD, regardless of treatment modality. Low physical performance and
+activity limitations are more prevalent in patients with CKD, regardless of age, 
+compared to older community-dwelling adults.
+SUMMARY: The strength of the evidence presented should strongly motivate a focus 
+of treatment on assessing and improving physical activity and physical function
+as part of routine patient-centered management of persons with CKD. Physical
+activity interventions are warranted because patients with CKD, regardless of
+age, have a high prevalence of low physical functioning and frailty that is
+similar to or higher than the general population of elderly adults; physical
+activity, physical function, and performance are strongly associated with
+all-cause mortality; and exercise training and exercise counseling have been
+shown to improve measures of physical functioning.
+
+DOI: 10.1097/MNH.0b013e328365b43a 
+PMID: 24100215  [Indexed for MEDLINE]
+
+
+15. Am J Kidney Dis. 2012 Dec;60(6):912-21. doi: 10.1053/j.ajkd.2012.05.017. Epub
+2012 Jul 7.
+
+A prospective study of frailty in nephrology-referred patients with CKD.
+
+Roshanravan B(1), Khatri M, Robinson-Cohen C, Levin G, Patel KV, de Boer IH,
+Seliger S, Ruzinski J, Himmelfarb J, Kestenbaum B.
+
+Author information: 
+(1)Department of Medicine, Division of Nephrology, University of Washington
+Kidney Research Institute, 325 9th Ave, Seattle, WA 98104, USA.
+broshanr@u.washington.edu
+
+BACKGROUND: Frailty is a construct developed to characterize a state of reduced
+functional capacity in older adults. However, there are limited data describing
+the prevalence or consequences of frailty in middle-aged patients with chronic
+kidney disease (CKD).
+STUDY DESIGN: Observational study.
+SETTING & PARTICIPANTS: 336 non-dialysis-dependent patients with stages 1-4 CKD
+with estimated glomerular filtration rate (eGFR) <90 mL/min/1.73 m(2) (by the
+CKD-EPI [CKD Epidemiology Collaboration] serum creatinine-based equation) or
+evidence of microalbuminuria enrolled in the Seattle Kidney Study, a clinic-based
+cohort study. Findings were compared with community-dwelling older adults in the 
+Cardiovascular Health Study.
+OUTCOME: Prevalence and determinants of frailty in addition to its association
+with the combined outcome of all-cause mortality or renal replacement therapy.
+MEASUREMENTS: We defined frailty according to established criteria as 3 or more
+of the following characteristics: slow gait, weakness, unintentional weight loss,
+exhaustion, and low physical activity. We estimated kidney function using serum
+cystatin C concentrations (eGFR(cys)) to minimize confounding due to
+relationships of serum creatinine levels with muscle mass and frailty.
+RESULTS: The mean age of the study population was 59 years and mean eGFR(cys) was
+51 mL/min/1.73 m(2). The prevalence of frailty (14.0%) was twice that of the much
+older non-CKD reference population (P < 0.01). The most common frailty components
+were physical inactivity and exhaustion. After adjustment including diabetes,
+eGFR(cys) categories of <30 and 30-44 mL/min/1.73 m(2) were associated with a
+2.8- (95% CI, 1.3-6.3) and 2.1 (95% CI, 1.0-4.7)-fold greater prevalence of
+frailty compared with GFR(cys) ≥60 mL/min/1.73 m(2). There were 63 events during 
+a median 987 days of follow-up. After adjustment, the frailty phenotype was
+associated with an estimated 2.5 (95% CI, 1.4-4.4)-fold greater risk of death or 
+dialysis therapy.
+LIMITATIONS: Cross-sectional study design obscures inference regarding temporal
+relationships between CKD and frailty.
+CONCLUSIONS: Frailty is relatively common in middle-aged patients with CKD and is
+associated with lower eGFR(cys) and increased risk of death or dialysis therapy.
+
+Copyright © 2012 National Kidney Foundation, Inc. All rights reserved.
+
+DOI: 10.1053/j.ajkd.2012.05.017 
+PMCID: PMC3491110
+PMID: 22770927  [Indexed for MEDLINE]
+
+
+16. Semin Dial. 2010 May-Jun;23(3):317-23. doi: 10.1111/j.1525-139X.2010.00736.x.
+
+Thyroid hormone abnormalities and frailty in elderly patients with chronic kidney
+disease: a hypothesis.
+
+Abdel-Rahman EM(1), Mansour W, Holley JL.
+
+Author information: 
+(1)Division of Nephrology, Department of Internal Medicine, University of
+Virginia, Charlottesville, Virginia 22908, USA. ea6n@virginia.edu
+
+Thyroid hormones play a crucial role in the metabolic activities of adults,
+affecting almost every organ system. All types of thyroid diseases are
+encountered in the elderly. As symptoms and signs of thyroid diseases may overlap
+with what is considered to be "normal aging," the presence of a thyroid disorder 
+may go undiagnosed in the elderly. This potential problem is further compounded
+in elderly patients with chronic kidney disease (CKD), where the presence of an
+underlying hormonal problem such as hypothyroidism may be erroneously attributed 
+to multiple comorbidities, the aging process, or the kidney disease. Frailty is
+being recognized as a contributing factor to the poor outcomes (hospitalization
+and high mortality) in elderly patients with CKD. Predisposing factors leading to
+frailty in elderly with CKD such as increased inflammatory markers, anemia, low
+testosterone, sarcopenia, and depression are associated with thyroid hormonal
+abnormalities. These associations are remarkable and raise the question of
+whether routine monitoring and screening for thyroid hormone changes in elderly
+CKD patients might be helpful in identifying reversible causes of frailty. In
+this review, we will focus on the associations between thyroid hormone
+abnormalities and the predisposing factors of frailty in elderly patients with
+CKD. If a cause-effect relationship of thyroid hormone abnormalities and factors 
+predisposing to frailty in CKD patients is established, identification and
+treatment of thyroid abnormalities in this population would assume increased
+importance.
+
+DOI: 10.1111/j.1525-139X.2010.00736.x 
+PMID: 20636925  [Indexed for MEDLINE]
+
+
+17. Curr Opin Nephrol Hypertens. 2010 Mar;19(2):153-9. doi:
+10.1097/MNH.0b013e328335f939.
+
+Health-related quality of life outcomes in chronic kidney disease.
+
+Soni RK(1), Weisbord SD, Unruh ML.
+
+Author information: 
+(1)Department of Medicine, University of Pittsburgh Medical Center, Pittsburgh,
+Pennsylvania 15213, USA.
+
+PURPOSE OF REVIEW: Patients with chronic kidney disease (CKD) endure compromised 
+health-related quality of life (HRQOL). Although the link between HRQOL and
+increased mortality in patients with end-stage renal disease (ESRD) is well
+documented, less is known about the relationship between CKD and HRQOL. This
+article reviews the recent evidence on HRQOL, its correlates and proposed
+intervention strategies to improve HRQOL in CKD.
+RECENT FINDINGS: A growing body of literature indicates that various comorbid
+conditions related to CKD play a substantial role in impaired HRQOL in CKD.
+Hypertension, both a cause and complication of CKD, negatively affects HRQOL due 
+to associated comorbidities, side effects from antihypertensive medications and
+awareness of the diagnosis. Anemia has been associated with HRQOL, but concerns
+about the safety of erythropoietin-stimulating agents (ESAs) have led to more
+conservative anemia treatment. Frailty, symptom burden and depression are also
+major contributory factors to HRQOL in CKD.
+SUMMARY: Certain determinants of HRQOL in CKD, namely anemia and depression, are 
+treatable. Early identification and correction may improve overall well being of 
+patients. Clinical trials are required to demonstrate whether treatment
+interventions benefit HRQOL in this high-risk population. Furthermore, whether
+integration of HRQOL assessment into routine clinical practice will improve HRQOL
+outcomes remains to be determined.
+
+DOI: 10.1097/MNH.0b013e328335f939 
+PMCID: PMC2900393
+PMID: 20051850  [Indexed for MEDLINE]
+
+
+18. Am J Hum Biol. 2006 May-Jun;18(3):387-401.
+
+Biological aging and Cox hazard analysis of mortality trends in a Mennonite
+community from south-central Kansas.
+
+Melton PE(1), Zlojutro M, Kimminau K, Crawford MH.
+
+Author information: 
+(1)Department of Anthropology, University of Kansas, Lawrence, 66045, USA.
+pmelton@ku.edu
+
+This study investigated mortality in 568 individuals from the Goessel Mennonite
+community in rural central Kansas. There were three main objectives to this
+research: 1) characterize mortality trends within a biologically well-defined
+Mennonite community; 2) determine what biochemical, morphological, and
+physiological risk factors could be related to all-cause mortality, stratified by
+age and sex; and 3) compare these results to previously described variables that 
+were associated with both biological age and mortality in this population.
+Mortality data were obtained from three sources: Kansas Vital Records, the Social
+Security death index, and church records. In total, 221 (39%) individuals were
+found to have died in this population between January 1980-June 2002. Analogous
+to the larger US population, the three leading causes of death in this community 
+were heart disease, cancer, and stroke, accounting for 60% of all deaths. Besides
+advancing age, the greatest biological risk factor in this population was
+decreased amounts of albumin in men (relative risk, 2.47), potentially indicating
+underreported cases of either chronic kidney disease or frailty syndrome for
+males. Cox proportional hazard models demonstrated that increased amounts of
+total cholesterol may provide a protective effect for elderly individuals. We
+conclude, based on the previously described heritability of both albumin (h(2) = 
+0.40) and total cholesterol (h(2) = 0.50) in this population, that underlying
+genetic factors associated with both chronic degenerative diseases and biological
+aging may have important implications for understanding mortality patterns in
+this community.
+
+DOI: 10.1002/ajhb.20514 
+PMID: 16634024  [Indexed for MEDLINE]

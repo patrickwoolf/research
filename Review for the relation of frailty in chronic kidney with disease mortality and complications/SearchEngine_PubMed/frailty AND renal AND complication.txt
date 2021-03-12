@@ -1,0 +1,836 @@
+﻿//frailty AND "renal" AND complication
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "renal"[All Fields] AND complication[All Fields]
+//
+
+1. World Neurosurg. 2019 Jan 11. pii: S1878-8750(19)30038-5. doi:
+10.1016/j.wneu.2018.12.168. [Epub ahead of print]
+
+The Modified 5-Item Frailty Index: A Concise and Useful Tool for Assessing the
+Impact of Frailty on Postoperative Morbidity Following Elective Posterior Lumbar 
+Fusions.
+
+Weaver DJ(1), Malik AT(1), Jain N(1), Yu E(1), Kim J(1), Khan SN(2).
+
+Author information: 
+(1)Department of Orthopaedics, The Ohio State University Wexner Medical Center,
+Columbus, Ohio, USA.
+(2)Department of Orthopaedics, The Ohio State University Wexner Medical Center,
+Columbus, Ohio, USA. Electronic address: Safdar.Khan@osumc.edu.
+
+BACKGROUND: The modified 5-item frailty index (mFI-5) is a concise
+comorbidity-based risk stratification tool that has been shown to predict the
+occurrence of adverse outcomes following various orthopedic surgeries.
+METHODS: The 2012-2016 American College of Surgeons - National Surgical Quality
+Improvement Program (ACS-NSQIP) dataset was used to identify patients undergoing 
+an elective 1- to 2-level posterior lumbar fusion for degenerative lumbar
+pathology. The mFI-5 score was calculated based on the presence of the 5
+co-morbidities: congestive heart failure within 30 days prior to surgery,
+insulin-dependent or noninsulin-dependent diabetes mellitus, chronic obstructive 
+pulmonary disease or pneumonia, partially dependent or totally dependent
+functional health status at time of surgery, and hypertension requiring
+medication. Multivariate analysis was used to assess the independent impact of
+increasing mFI-5 score on postoperative morbidity while controlling for baseline 
+clinical characteristics.
+RESULTS: Increasing mFI-5 score versus mFI-5 = 0 was associated with higher odds 
+of any complication (mFI-5 ≥2: odds ratio [OR] 1.45; mFI-5 = 1: OR 1.22), 30-day 
+readmissions (mFI-5 ≥2: OR 1.46; mFI-5 = 1: OR 1.18), and nonhome discharge
+(mFI-5 ≥2: OR 1.80; mFI-5 = 1: OR 1.16). Higher mFI-5 score was significantly
+associated with increased risks of superficial surgical site infection, deep
+surgical site infection, unplanned reoperation, any medical complication,
+pneumonia, unplanned intubation, postoperative ventilator use, progressive renal 
+insufficiency, acute renal failure, urinary tract infection, stroke, myocardial
+infarction, bleeding requiring transfusion, sepsis, and septic shock.
+CONCLUSIONS: Higher mFI-5 scores were associated with increased postoperative
+morbidity following elective 1- to 2-level posterior lumbar fusions.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2018.12.168 
+PMID: 30639495 
+
+
+2. J Hand Surg Am. 2018 Aug;43(8):701-709. doi: 10.1016/j.jhsa.2018.05.029. Epub
+2018 Jul 3.
+
+Use of a 5-Item Modified Frailty Index for Risk Stratification in Patients
+Undergoing Surgical Management of Distal Radius Fractures.
+
+Wilson JM(1), Holzgrefe RE(1), Staley CA(1), Schenker ML(1), Meals CG(2).
+
+Author information: 
+(1)Emory University Orthopedics and Spine, Atlanta, GA.
+(2)Emory University Orthopedics and Spine, Atlanta, GA. Electronic address:
+clifton.meals@emory.edu.
+
+PURPOSE: Compared with cast treatment, surgery may expose patients with distal
+radius fractures to undue risk. Surgical intervention in this cohort may offer
+less benefit than previously thought and appropriate patient selection is
+imperative. The modified Frailty Index (mFI) predicts complications after other
+orthopedic surgeries. We hypothesized that this index would predict, and might
+ultimately prevent, complications in patients older than 50 years with distal
+radius fractures.
+METHODS: We retrospectively reviewed the American College of Surgeons-National
+Surgery Quality Improvement Program (ACS-NSQIP) database, including patients
+older than 50 years who underwent open reduction and internal fixation of a
+distal radius fracture. A 5-item mFI score was then calculated for each patient. 
+Postoperative complications, readmission and reoperation rates, as well as length
+of stay (LOS) were recorded. Bivariate and multivariable statistical analysis was
+then performed.
+RESULTS: We identified 6,494 patients (mean age, 65 years). Compared with
+patients with mFI of 0, patients with mFI of 2 or greater were nearly 2.5 times
+as likely to incur a postoperative complication (1.7% vs 7.4%). Specifically, the
+rates of Clavien-Dindo IV, wound, cardiac, and renal complications were increased
+significantly in patients with mFI of 2 or greater. In addition, as mFI increased
+from 0 to 2 or greater, 30-day reoperation rate increased from 0.8% to 2.4%,
+30-day readmission from 0.8% to 4.6%, and LOS from 0.5 days to 1.44 days. Frailty
+was associated with increased complications as well as rates of readmission and
+reoperation even when controlling for demographic data, LOS, and operative time. 
+Age alone was not significantly associated with postoperative complications,
+readmission, reoperation, or LOS.
+CONCLUSIONS: A state of frailty is highly predictive of postoperative
+complications, readmission, reoperation, and increased LOS following open
+reduction and internal fixation of distal radius fractures. Our data suggest that
+a simple frailty evaluation can help inform surgical decision making in patients 
+older than 50 years with distal radius fractures.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Prognostic II.
+
+Copyright © 2018 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2018.05.029 
+PMID: 29980394 
+
+
+3. Surg J (N Y). 2018 May 23;4(2):e66-e77. doi: 10.1055/s-0038-1655756. eCollection 
+2018 Apr.
+
+The Impact of Frailty on Postoperative Cardiopulmonary Complications in the
+Emergency General Surgery Population.
+
+Akyar S(1), Armenia SJ(1), Ratnani P(1), Merchant AM(1).
+
+Author information: 
+(1)Department of Surgery, New Jersey Medical School, Rutgers Biomedical and
+Health Sciences, Rutgers University, Newark, New Jersey.
+
+Background  The burden of frail patients undergoing emergency general surgery
+(EGS) is increasing rapidly and this population is particularly susceptible to
+postoperative cardiopulmonary complications and mortality. We aimed to determine 
+the association between frailty, as defined by the previously described modified 
+frailty index (mFI), and postoperative respiratory complications (unplanned
+reintubation, pneumonia, and prolonged ventilation), cardiac complications
+(myocardial infarction and cardiac arrest), and mortality. We also sought to
+identify the most significant determinants of frailty in the highest risk
+patients based on the specific variables comprising the mFI. Methods  We
+performed a retrospective observational analysis of the prospectively collected
+American College of Surgeons National Surgical Quality Improvement Program
+database. Files from 2005 to 2015 identified 132,765 inpatients who underwent
+EGS. mFI scores were calculated for each patient. The effect of increasing
+frailty on unplanned reintubation, pneumonia, prolonged ventilation, myocardial
+infarction, cardiac arrest, and mortality was evaluated using bivariate analysis.
+Multivariable logistic regression was used to compare mFI with additional
+predictor variables including race, gender, physical status as defined by the
+American Society of Anesthesiologists, disseminated cancer, renal failure,
+smoking status, sepsis, wound presence/classification, dyspnea, and previous
+ventilator dependence. Results  Unplanned reintubation, pneumonia, prolonged
+ventilation, myocardial infarction, cardiac arrest, and mortality were
+significantly associated with frailty, and the odds of each postoperative
+complication increased with increasing mFI score. Of the frailest patients (mFI
+≥3) that experienced cardiopulmonary complications or mortality, the variables of
+the mFI that contributed most to frailty were hypertension requiring medication
+and functional status before surgery. Conclusions  A higher mFI score is
+associated with increased odds of postoperative cardiopulmonary complications and
+mortality in the EGS population. Specific variables of the mFI can also provide
+valuable information for assessing odds in the frailest patients undergoing EGS.
+
+DOI: 10.1055/s-0038-1655756 
+PMCID: PMC5966303
+PMID: 29796424 
+
+
+4. JAMA Surg. 2018 Feb 1;153(2):160-168. doi: 10.1001/jamasurg.2017.4007.
+
+Association of Patient Frailty With Increased Morbidity After Common Ambulatory
+General Surgery Operations.
+
+Seib CD(1), Rochefort H(1), Chomsky-Higgins K(1), Gosnell JE(1), Suh I(1), Shen
+WT(1), Duh QY(1), Finlayson E(1).
+
+Author information: 
+(1)Department of Surgery, University of California, San Francisco.
+
+Importance: Frailty is a measure of decreased physiological reserve that is
+associated with morbidity and mortality in major elective and emergency general
+surgery operations, independent of chronological age. To date, the association of
+frailty with outcomes in ambulatory general surgery has not been established.
+Objective: To determine the association between frailty and perioperative
+morbidity in patients undergoing ambulatory general surgery operations.
+Design, Setting, and Participants: A retrospective cohort study was conducted of 
+140 828 patients older than 40 years of age from the 2007-2010 American College
+of Surgeons National Surgical Quality Improvement Program Participant Use File
+who underwent ambulatory and 23-hour-stay hernia, breast, thyroid, or parathyroid
+surgery. Data analysis was performed from August 18, 2016, to June 21, 2017.
+Main Outcomes and Measures: The association between the National Surgical Quality
+Improvement Program modified frailty index and perioperative morbidity was
+determined via multivariable logistic regression with random-effects modeling to 
+control for clustering within Current Procedural Terminology codes.
+Results: A total of 140 828 patients (80 147 women and 60 681 men; mean [SD] age,
+59.3 [12.0] years) underwent ambulatory hernia (n = 71 455), breast (n = 51 267),
+thyroid, or parathyroid surgery (n = 18 106). Of these patients, 2457 (1.7%)
+experienced any type of perioperative complication and 971 (0.7%) experienced
+serious perioperative complications. An increasing modified frailty index was
+associated with a stepwise increase in the incidence of complications. In
+multivariable analysis adjusting for age, sex, race/ethnicity, anesthesia type,
+tobacco use, renal failure, corticosteroid use, and clustering by Current
+Procedural Terminology codes, an intermediate modified frailty index score
+(0.18-0.35, corresponding to 2-3 frailty traits) was associated with
+statistically significant odds ratios of 1.70 (95% CI, 1.54-1.88; P < .001) for
+any complication and 2.00 (95% CI, 1.72-2.34; P < .001) for serious
+complications. A high modified frailty index score (≥0.36, corresponding to ≥4
+frailty traits) was associated with statistically significant odds ratios of 3.35
+(95% CI, 2.52-4.46; P < .001) for any complication and 3.95 (95% CI, 2.65-5.87;
+P < .001) for serious complications. Anesthesia with local and monitored
+anesthesia care was the only modifiable covariate associated with decreased odds 
+of serious 30-day complications, with an adjusted odds ratio of 0.66 (95% CI,
+0.53-0.81; P < .001).
+Conclusions and Relevance: Frailty is associated with increased perioperative
+morbidity in common ambulatory general surgery operations, independent of age,
+type of anesthesia, and other comorbidities. Surgeons should consider frailty
+rather than chronological age when counseling and selecting patients for elective
+ambulatory surgery.
+
+DOI: 10.1001/jamasurg.2017.4007 
+PMCID: PMC5838594
+PMID: 29049457 
+
+
+5. Ann Thorac Surg. 2017 Dec;104(6):1939-1946. doi:
+10.1016/j.athoracsur.2017.05.067. Epub 2017 Sep 21.
+
+Assessment of Commonly Used Frailty Markers for High- and Extreme-Risk Patients
+Undergoing Transcatheter Aortic Valve Replacement.
+
+Forcillo J(1), Condado JF(2), Ko YA(3), Yuan M(3), Binongo JN(3), Ndubisi NM(4), 
+Kelly JJ(5), Babaliaros V(2), Guyton RA(5), Devireddy C(2), Leshnower BG(2),
+Stewart JP(2), Perrault LP(4), Khairy P(6), Thourani VH(7).
+
+Author information: 
+(1)Structural Heart and Valve Center, Division of Cardiothoracic Surgery, Joseph 
+B. Whitehead Department of Surgery, Emory University School of Medicine, Atlanta,
+Georgia; Department of Cardiac Surgery, Université de Montréal, Montréal, Québec,
+Canada.
+(2)Division of Cardiology, Emory University School of Medicine, Atlanta, Georgia.
+(3)Department of Biostatistics and Bioinformatics, Rollins School of Public
+Health, Emory University, Atlanta, Georgia.
+(4)Department of Cardiac Surgery, Université de Montréal, Montréal, Québec,
+Canada.
+(5)Structural Heart and Valve Center, Division of Cardiothoracic Surgery, Joseph 
+B. Whitehead Department of Surgery, Emory University School of Medicine, Atlanta,
+Georgia.
+(6)Department of Cardiology, Montreal Heart Institute, Université de Montréal,
+Montréal, Québec, Canada.
+(7)Structural Heart and Valve Center, Division of Cardiothoracic Surgery, Joseph 
+B. Whitehead Department of Surgery, Emory University School of Medicine, Atlanta,
+Georgia. Electronic address: vthoura@emory.edu.
+
+BACKGROUND: The effect of frailty on outcomes after transcatheter aortic valve
+replacement (TAVR) remains incompletely understood. The objective of this study
+was to evaluate the performance of four commonly used frailty markers as
+predictors of early and late outcomes among patients undergoing TAVR.
+METHODS: A review was performed of 361 high- and extreme-risk patients undergoing
+TAVR from 2011 to 2015. Four frailty variables were assessed: serum albumin
+(g/dL), 5-m walk (seconds), grip strength (kg), and Katz index of independence in
+activities of daily living. Logistic regression was used to examine the
+association between the frailty indicators and 30-day composite of mortality,
+stroke, new heart block requiring permanent pacemaker, major or life-threatening 
+bleeding, acute renal failure, major vascular complication, and 30-day
+readmission rate. Minimum distance to the perfect point (0, 1) was performed to
+delineate a cutoff point for each frailty indicator, and risk models were
+compared using receiver-operating characteristics curves.
+RESULTS: The composite of outcomes occurred in 28% of patients. Serum albumin,
+activities of daily living, and 5-m walk were independent predictors for 30-day
+composite outcomes, but only albumin was predictive of 30-day mortality. A new
+frailty model (four frailty indicators, age, and sex) to predict 30-day mortality
+was created and compared with The Society of Thoracic Surgeons predicted risk of 
+mortality. Better discrimination was found with the new frailty model (area under
+the curve 0.74 versus 0.58). New individual frailty variable cutoff values were
+found to predict our composite of events.
+CONCLUSIONS: Among high- and extreme-risk patients undergoing TAVR, our new
+frailty model was more discriminative of 30-day mortality than The Society of
+Thoracic Surgeons predicted risk of mortality. New cutoff values for frailty
+indicators were identified and will require further validation.
+
+Copyright © 2017 The Society of Thoracic Surgeons. Published by Elsevier Inc. All
+rights reserved.
+
+DOI: 10.1016/j.athoracsur.2017.05.067 
+PMID: 28942076  [Indexed for MEDLINE]
+
+
+6. J Frailty Aging. 2017;6(2):103-106. doi: 10.14283/jfa.2017.14.
+
+Frailty in End-Stage Renal Disease Patients under Dialysis and Its Association
+with Clinical and Biochemical Markers.
+
+Poveda V(1), Filgueiras M, Miranda V, Santos-Silva A, Paúl C, Costa E.
+
+Author information: 
+(1)Elísio Costa, Laboratório de Bioquímica, Departamento de Ciências Biológicas, 
+Universidade do Porto, Rua de Jorge Viterbo Ferreira, 228, 4050-313 Porto,
+Portugal, Email: emcosta@ff.up.pt.
+
+Frailty is a common complication in elderly patients with end-stage renal disease
+(ESRD) under dialysis, which is a strong risk factor for low quality of life,
+morbidity, and mortality. In this work, we aimed to evaluate the prevalence of
+frailty in a group of Portuguese ESRD patients, and its association with
+socio-demographic, clinical and biochemical markers. We performed a
+cross-sectional study with 83 ESRD patients (44 males and 39 females, 64.3
+[±14.6] years old) on regular dialysis. The classification of the ESRD patients
+as robust, pre-frail and frail was performed using the FRAIL questionnaire.
+Social support, data about sociodemographic and comorbidities, and
+haematological, iron status, dialysis adequacy, nutritional and inflammatory
+markers were also evaluated. Our results confirmed that frailty is a highly
+prevalent condition in ESRD patients, particularly in female patients. An
+association between FRAIL score and increased depressive symptoms, presence of
+hypertension and decrease nutritional status was also found.
+
+DOI: 10.14283/jfa.2017.14 
+PMID: 28555712  [Indexed for MEDLINE]
+
+Conflict of interest statement: none
+
+
+7. J Trauma Acute Care Surg. 2016 Dec;81(6):1150-1155.
+
+The impact of frailty on failure-to-rescue in geriatric trauma patients: A
+prospective study.
+
+Joseph B(1), Phelan H, Hassan A, Orouji Jokar T, O'Keeffe T, Azim A, Gries L,
+Kulvatunyou N, Latifi R, Rhee P.
+
+Author information: 
+(1)From the Department of Surgery (B.J., A.H., T.O.J., T.O.K., A.A., L.G., N.K., 
+R.L., P.R.), Division of Trauma, Critical Care, Burns and Emergency Surgery,
+University of Arizona, Tucson, Arizona; and Department of Surgery, Division of
+Trauma, Critical Care, Burns, and Acute Care Surgery (H.P.), University of Texas 
+Southwestern Medical Center, Dallas, Texas.
+
+INTRODUCTION: Failure-to-rescue (FTR) (defined as death from a major
+complication) is considered as an index of hospital quality in trauma patients.
+However, the role of frailty in FTR events remains unclear. We hypothesized that 
+FTR rate is higher in elderly frail trauma patients.
+METHODS: We performed a prospective cohort study of all elderly (age ≥ 65 years) 
+trauma patients presenting at our level one trauma center. Patient's frailty
+status was calculated utilizing the Trauma Specific Frailty Index (TSFI) within
+24 hours of admission. Patients were stratified into non-frail, pre-frail, and
+frail. FTR was defined as death from a major complication (respiratory,
+infectious, cardiac, and renal). Binary logistic regression analysis was
+performed after adjusting for age, gender, injury severity (ISS), and vital
+parameters to assess the relationship between frailty status and FTR.
+RESULTS: A total of 368 elderly trauma patients were evaluated of which 25% (n = 
+93) were non-frail, 38% (n = 139) pre-frail, and 37% (n = 136) frail. Overall,
+30% of the patients developed in-hospital complications; of them, mortality
+occurred in 26% of the patients (FTR group). In the FTR group, 69% of the
+patients were frail compared to 17% pre-frail and 14% non-frail (p = 0.002). On
+multivariate regression analysis for predictors of FTR, frail status was an
+independent predictor of FTR (OR [95% CI] = 2.67 [1.37-5.20]; p = 0.004). On
+sensitivity analysis, positive predictive value of TSFI for FTR was 69% and
+negative predictive value for FTR was 67%.
+CONCLUSION: In elderly trauma patients, the presence of frailty increased the
+odds of FTR almost threefold as compared to non-frail. Although FTR has been
+considered as an indicator of health care quality, the findings of this study
+suggest that frailty status independently contributes to FTR. This needs to be
+considered in the future development of quality metrics, particularly in the case
+of geriatric trauma patients.
+LEVEL OF EVIDENCE: Prognostic study, level II.
+
+DOI: 10.1097/TA.0000000000001250 
+PMID: 27602908  [Indexed for MEDLINE]
+
+
+8. World Neurosurg. 2016 Nov;95:548-555.e4. doi: 10.1016/j.wneu.2016.08.029. Epub
+2016 Aug 18.
+
+Development of a Metastatic Spinal Tumor Frailty Index (MSTFI) Using a Nationwide
+Database and Its Association with Inpatient Morbidity, Mortality, and Length of
+Stay After Spine Surgery.
+
+De la Garza Ramos R(1), Goodwin CR(1), Jain A(2), Abu-Bonsrah N(1), Fisher CG(3),
+Bettegowda C(1), Sciubba DM(4).
+
+Author information: 
+(1)Department of Neurosurgery, Johns Hopkins University School of Medicine,
+Baltimore, Maryland, USA.
+(2)Department of Orthopaedic Surgery, Johns Hopkins University School of
+Medicine, Baltimore, Maryland, USA.
+(3)Divison of Spine, Department of Orthopaedics, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+(4)Department of Neurosurgery, Johns Hopkins University School of Medicine,
+Baltimore, Maryland, USA. Electronic address: dsciubb1@jhmi.edu.
+
+OBJECTIVE: The aim of this study was to develop a perioperative metastatic spinal
+tumor frailty index (MSTFI) that could predict morbidity, mortality, and length
+of stay.
+METHODS: A large inpatient hospitalization database was searched from 2002 to
+2011 to identify 4583 patients with spinal metastasis from breast (21.1%), lung
+(34.1%), thyroid (3.8%), renal (19.9%), and prostate (21.1%) cancer who underwent
+surgery. A multiple logistic regression model identified 9 independent parameters
+that were used to construct the MSTFI: anemia, chronic lung disease,
+coagulopathy, electrolyte abnormalities, pulmonary circulation disorders, renal
+failure, malnutrition, emergent/urgent admission, and anterior/combined surgical 
+approach. Patients with 0 points were categorized as "not frail," 1 as "mildly
+frail," 2 as "moderately frail," and ≥3 as "severely frail."
+RESULTS: The overall perioperative complication rate was 19.3% and in-patient
+mortality was 3.0%. Compared with patients with no frailty, patients with
+moderate frailty (odds ratio [OR] 5.15; 95% confidence interval [95% CI]
+2.44-10.86), and severe frailty (OR 5.74; 95% CI 2.69-12.24) had significantly
+increased odds of inpatient mortality (all P < 0.001). Similarly, patients with
+mild frailty (OR 1.88; 95% CI 1.33-2.66), moderate frailty (OR 3.83; 95% CI
+2.71-5.41), and severe frailty (OR 6.97; 95% CI 4.98-9.74) had significantly
+increased odds of developing a major in-hospital complication (all P < 0.001).
+Length of stay also increased significantly by MSTFI (P < 0.001).
+CONCLUSIONS: In surgically treated patients with spinal metastasis, certain
+perioperative parameters may significantly predict the risk of major in-hospital 
+complications and mortality.
+
+Copyright © 2016. Published by Elsevier Inc.
+
+DOI: 10.1016/j.wneu.2016.08.029 
+PMID: 27544340  [Indexed for MEDLINE]
+
+
+9. Ann Vasc Surg. 2016 Aug;35:19-29. doi: 10.1016/j.avsg.2016.01.052. Epub 2016 Jun 
+2.
+
+Preoperative Frailty Increases Risk of Nonhome Discharge after Elective Vascular 
+Surgery in Home-Dwelling Patients.
+
+Arya S(1), Long CA(2), Brahmbhatt R(2), Shafii S(2), Brewster LP(3), Veeraswamy
+R(2), Johnson TM 2nd(4), Johanning JM(5).
+
+Author information: 
+(1)Division of Vascular Surgery, Department of Surgery, Emory University School
+of Medicine, Atlanta, GA; Surgical Service Line, Atlanta VA Medical Center,
+Decatur, GA. Electronic address: shipra.arya@emory.edu.
+(2)Division of Vascular Surgery, Department of Surgery, Emory University School
+of Medicine, Atlanta, GA.
+(3)Division of Vascular Surgery, Department of Surgery, Emory University School
+of Medicine, Atlanta, GA; Surgical Service Line, Atlanta VA Medical Center,
+Decatur, GA.
+(4)Division of General Medicine and Geriatrics, Department of Medicine, Emory
+University School of Medicine.
+(5)Division of Vascular Surgery, Department of Surgery, University of Nebraska
+Medical Center, Omaha, NE.
+
+BACKGROUND: Patient-centered quality outcomes such as disposition after surgery
+are increasingly being scrutinized. Preoperative factors predictive of nonhome
+discharge (DC) may identify at-risk patients for targeted interventions. This
+study examines the association among preoperative risk factors, frailty, and
+nonhome DC after elective vascular surgery procedures in patients living at home.
+METHODS: The 2011-2012 National Surgical Quality Improvement Project database was
+queried to identify all home-dwelling patients who underwent elective vascular
+procedures (endovascular and open aortic aneurysm repair, suprainguinal and
+infrainguinal bypasses, peripheral endovascular interventions, carotid
+endarterectomy, and stent). Preoperative frailty was measured using the modified 
+frailty index (mFI; derived from Canadian Study of Health and Aging). Univariate 
+and multivariate logistic regression analysis was performed to examine the
+association of frailty and nonhome DC.
+RESULTS: Of 15,843 home-dwelling patients, 1,177 patients (7.4%) did not return
+home postoperatively. Frailty (mFI > 0.25) conferred a significantly increased
+2-fold risk of nonhome DC disposition for each procedure type. Frailty, female
+gender, open procedures, increasing age, end-stage renal disease, and occurrence 
+of any postoperative complication were associated with increased risk of nonhome 
+DC. On multivariate logistic regression analysis, frailty increased the odds of
+nonhome DC by 60% (odds ratio 1.6, 95% confidence interval 1.4-1.8) after
+adjusting for other covariates. In the presence of complications, the risk of
+nonhome DC was 27.5% in frail versus 16.5% in nonfrail patients (P < 0.001). In
+the absence of complications, although absolute risk was lower, frail patients
+were nearly twice as likely to not return home (frail 5.5% vs. nonfrail 2.75%,
+P < 0.001).
+CONCLUSIONS: Frail home-dwelling patients undergoing elective vascular procedures
+are at high risk of not returning home after surgery. Preoperative frailty
+assessment appears to hold potential for counseling regarding postsurgery
+disposition and DC planning.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.avsg.2016.01.052 
+PMID: 27263810  [Indexed for MEDLINE]
+
+
+10. World J Urol. 2017 Jan;35(1):21-26. doi: 10.1007/s00345-016-1845-z. Epub 2016 May
+12.
+
+Preoperative frailty predicts postoperative complications and mortality in
+urology patients.
+
+Isharwal S(1), Johanning JM(2)(3), Dwyer JG(4), Schimid KK(5), LaGrange CA(4).
+
+Author information: 
+(1)Division of Urology, University of Nebraska Medical Center, 984110 Nebraska
+Medical Center, Omaha, NE, 68198-4110, USA. isharwal.sudhir@gmail.com.
+(2)Division of Vascular Surgery, University of Nebraska Medical Center, Omaha,
+NE, USA.
+(3)Department of Surgery, Veterans Administration Medical Center, Omaha, NE, USA.
+(4)Division of Urology, University of Nebraska Medical Center, 984110 Nebraska
+Medical Center, Omaha, NE, 68198-4110, USA.
+(5)Department of Biostatistics, University of Nebraska Medical Center, Omaha, NE,
+USA.
+
+PURPOSE: Our objective was to determine the impact of preoperative frailty, as
+measured by validated Risk Analysis Index (RAI), on the occurrence of
+postoperative complications after urologic surgeries in a national database
+comprised of diverse practice groups and cases.
+STUDY DESIGN: The National Surgical Quality Improvement Program (NSQIP) database 
+was queried from 2005 to 2011 for a list of abdominal, vaginal, transurethral and
+scrotal urological surgeries using Current Procedural Terminology codes. The
+study population was subdivided into two groups based on the nature of procedures
+performed: complex procedures (inpatient) and simple procedures (outpatient).
+Risk Analysis Index score was calculated using preoperative NSQIP variables to
+determine preoperative frailty. Major postoperative morbidities (pulmonary,
+cardiovascular, renal and infectious), mortality, return to operating room,
+discharge destination and readmission to the hospital were examined.
+RESULTS: The study identified 42,715 patients who underwent urological
+procedures, 25,693 complex and 17,022 simple procedures. Mean RAI score (range)
+was 7.75 (0-53). The majority of patients scored low on the RAI (90.57 % with
+RAI < 10). As the RAI score increased, there was a significant increase in
+postoperative complication and mortality rate (both p < 0.0001). Similarly, the
+rate of return to operating room and hospital readmission rate increased as RAI
+increased (both p < 0.0001). Additionally, rate of discharge to home decreased.
+Interestingly, mortality rate in patients with high RAI did not differ comparing 
+simple to complex procedures (p = 0.90), whereas complications were significantly
+greater in the complex operation (p = 0.01).
+CONCLUSIONS: Increase in frailty, as measured by RAI score, is associated with
+increased postoperative complications and mortality. RAI may allow for rapid
+identification and counseling of patients who are at high risk of adverse
+perioperative outcomes.
+
+DOI: 10.1007/s00345-016-1845-z 
+PMID: 27172940  [Indexed for MEDLINE]
+
+
+11. Catheter Cardiovasc Interv. 2016 Jul;88(1):135-43. doi: 10.1002/ccd.26336. Epub
+2015 Nov 25.
+
+Vascular complication can be minimized with a balloon-expandable, re-collapsible 
+sheath in TAVR with a self-expanding bioprosthesis.
+
+Abu Saleh WK(1), Tang GH(2), Ahmad H(3), Cohen M(3), Undemir C(2), Lansman SL(2),
+Reyes M(4), Barker CM(4), Kleiman NS(4), Reardon MJ(1), Ramlawi B(1).
+
+Author information: 
+(1)Houston Methodist DeBakey Heart & Vascular Center, Department of
+Cardiovascular Surgery, Houston Methodist Hospital, Houston, Texas.
+(2)Section of Cardiothoracic Surgery, Westchester Medical Center, New York
+Medical College, Valhalla, New York.
+(3)Division of Cardiology, Westchester Medical Center, New York Medical College, 
+Valhalla, New York.
+(4)Department of Cardiology, Houston Methodist DeBakey Heart and Vascular Center,
+Houston, Texas.
+
+OBJECTIVE: This study evaluates the feasibility and safety of a
+balloon-expandable, re-collapsible sheath for TAVR patients, including those with
+small iliofemoral access (≤5.0 mm).
+BACKGROUND: The recommended iliofemoral diameter for the CoreValve TAVR system is
+≥6.0 mm, but the lowest limit has not been determined.
+METHODS: Of 322 consecutive patients who underwent TAVR from 1/2014 to 8/2015 at 
+two institutions, 64 underwent transfemoral CoreValve implantation, using an
+11/19-French balloon-expandable, re-collapsible sheath, which has a 4.45 mm outer
+diameter (OD) on arterial entry, expands to 7.67 mm, then re-collapses upon
+removal. Valve sizing and vascular access were determined by computed tomography,
+and outcomes were assessed using the Valve Academic Research Consortium 2
+(VARC-2) definitions.
+RESULTS: Thirteen of 64 patients had a minimal iliofemoral artery luminal
+diameter (MLD) of ≤5.0 mm (mean 4.38+/-0.59 mm, range 3.1-5.0 mm), with vessel
+calcification ≤90° to 360° and tortuosity <45° to >90°. At the MLD point, the
+sheath-to-artery ratios, based on the fully expanded 7.67 mm OD, ranged
+1.53-2.47, higher than previously reported ratios that risk vascular
+complications. Major comorbidities included chronic renal failure, severe chronic
+obstructive pulmonary disease, extreme thrombocytopenia, cirrhosis, prior cardiac
+surgery, poor ventricular function, and frailty. All 64 patients had TAVR with IV
+sedation and local anesthesia, with 0% sheath malfunction, 0% vascular
+complications, and 0% bleeding in-hospital and at 30 days per VARC-2 definitions.
+CONCLUSIONS: TAVR using a balloon-expandable, re-collapsible sheath is safe,
+including in small iliofemoral access ≤5.0 mm, thus considerably expanding the
+population suitable for transfemoral approach. © 2015 Wiley Periodicals, Inc.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ccd.26336 
+PMID: 26603266  [Indexed for MEDLINE]
+
+
+12. Am J Cardiol. 2015 Oct 1;116(7):1110-5. doi: 10.1016/j.amjcard.2015.06.033. Epub 
+2015 Jul 16.
+
+Comparison of Outcomes of Transcatheter Aortic Valve Implantation in Patients
+≥90 Years Versus <90 Years.
+
+Abramowitz Y(1), Chakravarty T(1), Jilaihawi H(1), Kashif M(1), Zadikany R(1),
+Lee C(1), Matar G(1), Cheng W(1), Makkar RR(2).
+
+Author information: 
+(1)Cedars-Sinai Heart Institute, Los Angeles, California.
+(2)Cedars-Sinai Heart Institute, Los Angeles, California. Electronic address:
+Raj.Makkar@cshs.org.
+
+Transcatheter aortic valve implantation (TAVI) for severe aortic stenosis (AS) is
+increasingly performed in nonagenarians. There is scarce evidence on the
+feasibility and safety of balloon-expandable TAVI in this patient population. A
+total of 734 patients who underwent balloon-expandable TAVI at our institute were
+included in the study. We compared 136 patients who were aged at least 90 years
+at the time of TAVI (mean age 92.4 ± 2.4 years) with the remaining 598 younger
+patients (mean age 79.7 ± 7.8 years). Valve Academic Research Consortium 2 end
+points were compared between the 2 groups. Diabetes mellitus, coronary artery
+disease (CAD), peripheral artery disease (PAD), and chronic lung disease were
+significantly less prevalent in patients aged ≥90 years. In contrast, the
+prevalence of frailty, chronic renal failure, and atrial fibrillation was
+significantly higher in these patients. Device success was 96% in both groups.
+All-cause mortality at 30 days and 1 year was 2.9% and 12.5% versus 2.8% and
+12.3% in patients aged ≥90 and <90, respectively (p = 0.95 for both). All major
+complication rates were similar between groups. Nonagenarians had higher rates of
+minor vascular complications (13.2% vs 7.7%; p = 0.04). In conclusion, performing
+balloon-expandable TAVI in carefully selected group of nonagenarians is feasible 
+and offers clinical benefit comparable to patients aged <90 years. Advanced age, 
+in the absence of significant co-morbidities, should not deter clinicians from
+evaluating patients for TAVI for severe AS.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjcard.2015.06.033 
+PMID: 26235927  [Indexed for MEDLINE]
+
+
+13. Clin Orthop Relat Res. 2014 Mar;472(3):1010-7. doi: 10.1007/s11999-013-3334-7.
+Epub 2013 Oct 29.
+
+Association of a modified frailty index with mortality after femoral neck
+fracture in patients aged 60 years and older.
+
+Patel KV(1), Brennan KL, Brennan ML, Jupiter DC, Shar A, Davis ML.
+
+Author information: 
+(1)Department of Orthopaedics, Scott and White Memorial Hospital, 2401 S 31st
+Street, Temple, TX, 76508, USA, kpatel@sw.org.
+
+Comment in
+    Clin Orthop Relat Res. 2014 Mar;472(3):1018-9.
+
+BACKGROUND: Frailty, a multidimensional syndrome entailing loss of energy,
+physical ability, cognition, and health, plays a significant role in elderly
+morbidity and mortality. No study has examined frailty in relation to mortality
+after femoral neck fractures in elderly patients.
+QUESTIONS/PURPOSES: We examined the association of a modified frailty index
+abbreviated from the Canadian Study of Health and Aging Frailty Index to 1- and
+2-year mortality rates after a femoral neck fracture. Specifically we examined:
+(1) Is there an association of a modified frailty index with 1- and 2-year
+mortality rates in patients aged 60 years and older who sustain a low-energy
+femoral neck fracture? (2) Do the receiver operating characteristic (ROC) curves 
+indicate that the modified frailty index can be a potential tool predictive of
+mortality and does a specific modified frailty index value demonstrate increased 
+odds ratio for mortality? (3) Do any of the individual clinical deficits
+comprising the modified frailty index independently associate with mortality?
+METHODS: We retrospectively reviewed 697 low-energy femoral neck fractures in
+patients aged 60 years and older at our Level I trauma center from 2005 to 2009. 
+A total of 218 (31%) patients with high-energy or pathologic fracture,
+postoperative complication including infection or revision surgery, fracture of
+the contralateral hip, or missing documented mobility status were excluded. The
+remaining 481 patients, with a mean age of 81.2 years, were included. Mortality
+data were obtained from a state vital statistics department using date of birth
+and Social Security numbers. Statistical analysis included unequal variance
+t-test, Pearson correlation of age and frailty, ROC curves and area under the
+curve, Hosmer-Lemeshow statistics, and logistic regression models.
+RESULTS: One-year mortality analysis found the mean modified frailty index was
+higher in patients who died (4.6 ± 1.8) than in those who lived (3.0 ± 2; p <
+0.001), which was maintained in a 2-year mortality analysis (4.4 ± 1.8 versus 3.0
+± 2; p < 0.001). In ROC analysis, the area under the curve was 0.74 and 0.72 for 
+1- and 2-year mortality, respectively. Patients with a modified frailty index of 
+4 or greater had an odds ratio of 4.97 for 1-year mortality and an odds ratio of 
+4.01 for 2-year mortality as compared with patients with less than 4. Logistic
+regression models demonstrated that the clinical deficits of mobility,
+respiratory, renal, malignancy, thyroid, and impaired cognition were
+independently associated with 1- and 2-year mortality.
+CONCLUSIONS: Patients aged 60 years and older sustaining a femoral neck fracture,
+with a higher modified frailty index, had increased 1- and 2-year mortality
+rates, and the ROC analysis suggests that this tool may be predictive of
+mortality. Patients with a modified frailty index of 4 or greater have increased 
+risk for mortality at 1 and 2 years. Clinical deficits of mobility, respiratory, 
+renal, malignancy, thyroid, and impaired cognition also may be independently
+associated with mortality. The modified frailty index may be a useful tool in
+predicting mortality, guiding patient and family expectations and elucidating
+implant/surgery choices. Further prospective studies are necessary to strengthen 
+the predictive power of the index.
+LEVEL OF EVIDENCE: Level IV, prognostic study. See Instructions for Authors for a
+complete description of levels of evidence.
+
+DOI: 10.1007/s11999-013-3334-7 
+PMCID: PMC3916591
+PMID: 24166073  [Indexed for MEDLINE]
+
+
+14. Injury. 2013 Dec;44(12):1945-8. doi: 10.1016/j.injury.2013.07.023. Epub 2013 Aug 
+6.
+
+Incidence of periprosthetic fractures after hip hemiarthroplasty: Are uncemented 
+prostheses unsafe?
+
+McGraw IW(1), Spence SC, Baird EJ, Eckhardt SM, Ayana GE.
+
+Author information: 
+(1)Department of Trauma & Orthopaedics, Royal Alexandra Hospital, Paisley,
+Scotland PA2 9PN, UK. Electronic address: iainmcgraw@gmail.com.
+
+Displaced intracapsular fractures of the neck of femur are routinely treated in
+the elderly with either cemented or uncemented hemiarthroplasty. Recent evidence 
+suggests a superior outcome with the use of cement, but uncemented prostheses are
+still employed for those with multiple co-morbidities or particular frailty. In
+Scotland, the Scottish Intercollegiate Guidelines Network (SIGN) recommendations 
+are used to identify which patients should receive a cemented prosthesis. These
+are simply based upon the presence of cardiorespiratory disease, particularly in 
+the frail elderly patient. Between January 2007 and June 2010, a total of 1397
+patients with neck-of-femur fractures presented to our unit. Retrospective
+analysis was performed with particular attention given to the rate of
+postoperative periprosthetic fracture. As many as 546 fractures were treated with
+hemiarthroplasty, of which 183 were treated with a cemented Exeter Trauma Stem
+(ETS) and 363 were treated with an uncemented Austin-Moore prosthesis (AMP). At
+the time of our retrospective analysis, we found that 15 (4%) patients treated
+with an uncemented prosthesis went on to sustain a periprosthetic fracture. There
+were no periprosthetic fractures in the cemented group (p=0.004). Data analysis
+by case-note review of those patients sustaining a periprosthetic fracture was
+then performed. Seven (50%) suffered from confusion secondary to dementia, six
+(43%) had a history of significant cardiac disease (recent myocardial infarction 
+(MI) or cardiac failure) and two (14%) had known renal impairment. The mean time 
+to fracture after uncemented hemiarthroplasty was 2 years. The majority (80%)
+were fractures which required further surgery. Revision surgery in these patients
+was associated with an overall complication rate of 42% (mainly deep infection
+and haemorrhage requiring transfusion). Two of the patients had a fracture that
+could be treated conservatively. It is concluded that, in conjunction with the
+treating senior anaesthetist, cemented implants should be considered in all
+patients, especially those who are deemed to be frail and with multiple
+co-morbidities. A periprosthetic fracture rate of 14% at a mean of 2 years after 
+uncemented hemiarthroplasty represents a potentially unacceptable risk for such a
+frail population. In particular, we feel that the AMP should not be used for
+treating displaced intracapsular neck-of-femur fractures.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.injury.2013.07.023 
+PMID: 24001784  [Indexed for MEDLINE]
+
+
+15. Eur J Vasc Endovasc Surg. 2011 Dec;42(6):824-30. doi: 10.1016/j.ejvs.2011.07.006.
+Epub 2011 Jul 31.
+
+Standardised frailty indicator as predictor for postoperative delirium after
+vascular surgery: a prospective cohort study.
+
+Pol RA(1), van Leeuwen BL, Visser L, Izaks GJ, van den Dungen JJ, Tielliu IF,
+Zeebregts CJ.
+
+Author information: 
+(1)Department of Surgery, University Medical Center Groningen, University of
+Groningen, The Netherlands.
+
+Comment in
+    Eur J Vasc Endovasc Surg. 2011 Dec;42(6):831-2.
+
+OBJECTIVES: To determine whether the Groningen Frailty Indicator (GFI) has a
+positive predictive value for postoperative delirium (POD) after vascular
+surgery.
+METHODS: Between March and August 2010, 142 consecutive vascular surgery patients
+were prospectively evaluated. Preoperatively, the GFI was obtained and
+postoperatively patients were screened with the Delirium Observation Scale (DOS).
+Patients with a DOS-score ≥3 points were assessed by a geriatrician. Delirium was
+defined by the DSM-IV-TR criteria. Primary outcome variable was the incidence of 
+POD. Secondary outcome variables were any surgical complication and hospital
+length of stay (HLOS) (>7 days).
+RESULTS: Ten patients (7%) developed POD. The highest incidence of POD was found 
+after aortic surgery (17%) and amputation procedures (40%). Increased
+comorbidities (p = 0.006), GFI score (p = 0.03), renal insufficiency (p = 0.04), 
+elevated C-reactive protein (p = 0.008), high American Society of
+Anaesthesiologists score (p = 0.05), a DOS-score of ≥3 points (p = 0.001),
+post-operative intensive care unit admittance (p = 0.01) and HLOS ≥7 days (p =
+0.005) were risk factors for POD. The GFI score was not associated with a
+prolonged HLOS. A mean number of 2 ± 1 (range 0-5) complications were registered.
+The receiver operator characteristics (ROC) area under the curve for the GFI was 
+0.70.
+CONCLUSIONS: The GFI can be helpful in the early identification of POD after
+vascular surgery in a select group of high-risk patients.
+
+Copyright © 2011 European Society for Vascular Surgery. Published by Elsevier
+Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejvs.2011.07.006 
+PMID: 21810543  [Indexed for MEDLINE]
+
+
+16. Curr Opin Nephrol Hypertens. 2010 Mar;19(2):153-9. doi:
+10.1097/MNH.0b013e328335f939.
+
+Health-related quality of life outcomes in chronic kidney disease.
+
+Soni RK(1), Weisbord SD, Unruh ML.
+
+Author information: 
+(1)Department of Medicine, University of Pittsburgh Medical Center, Pittsburgh,
+Pennsylvania 15213, USA.
+
+PURPOSE OF REVIEW: Patients with chronic kidney disease (CKD) endure compromised 
+health-related quality of life (HRQOL). Although the link between HRQOL and
+increased mortality in patients with end-stage renal disease (ESRD) is well
+documented, less is known about the relationship between CKD and HRQOL. This
+article reviews the recent evidence on HRQOL, its correlates and proposed
+intervention strategies to improve HRQOL in CKD.
+RECENT FINDINGS: A growing body of literature indicates that various comorbid
+conditions related to CKD play a substantial role in impaired HRQOL in CKD.
+Hypertension, both a cause and complication of CKD, negatively affects HRQOL due 
+to associated comorbidities, side effects from antihypertensive medications and
+awareness of the diagnosis. Anemia has been associated with HRQOL, but concerns
+about the safety of erythropoietin-stimulating agents (ESAs) have led to more
+conservative anemia treatment. Frailty, symptom burden and depression are also
+major contributory factors to HRQOL in CKD.
+SUMMARY: Certain determinants of HRQOL in CKD, namely anemia and depression, are 
+treatable. Early identification and correction may improve overall well being of 
+patients. Clinical trials are required to demonstrate whether treatment
+interventions benefit HRQOL in this high-risk population. Furthermore, whether
+integration of HRQOL assessment into routine clinical practice will improve HRQOL
+outcomes remains to be determined.
+
+DOI: 10.1097/MNH.0b013e328335f939 
+PMCID: PMC2900393
+PMID: 20051850  [Indexed for MEDLINE]
+
+
+17. Rev Med Interne. 2008 Sep;29 Suppl 2:S231-7. doi: 10.1016/S0248-8663(08)73950-X.
+
+[Physiopathology of the diabetic foot].
+
+[Article in French]
+
+Malgrange D(1).
+
+Author information: 
+(1)Service de Médecine Interne, CHU Reims, Reims, France. dmalgrange@chu-reims.fr
+
+Diabetic foot ulcerations result from different physiopathological mechanisms; a 
+clear understanding of them is crucial to reduce their incidence, provide early
+care, and finally delay the amputation risk. The three main diabetes
+complications involved in foot ulcerations are neuropathy, peripheral arterial
+disease, and infection. The most common pathway to ulceration is peripheral
+sensorimotor and autonomic neuropathy, leading to loss of sensitivity, foot
+deformities, high foot pressure, and dry skin. Peripheral arterial disease is
+more frequent and more serious in the diabetic population. It delays
+cicatrization and causes gangrene and finally amputation. Infection is also a
+major complication of ulceration because of its risk of spreading into deep
+tissue and bone, which increases the risk of amputation. Infection may also
+generalize and become life-threatening. These complications preferentially affect
+the foot because it is exposed to hyper pressure, neuropathy, and peripheral
+arterial disease, which cause distal lesions, and the foot is exposed to a closed
+atmosphere, a source of soaking and skin frailty. Diabetes itself may enhance the
+risk of complications stemming from the disease's long-term progression and poor 
+glucose control, thereby affecting ocular and renal functions. Finally, some
+psychosocial situations such as depression syndrome or poor hygiene possibly
+enhance diabetic foot occurrence.
+
+DOI: 10.1016/S0248-8663(08)73950-X 
+PMID: 18822248  [Indexed for MEDLINE]

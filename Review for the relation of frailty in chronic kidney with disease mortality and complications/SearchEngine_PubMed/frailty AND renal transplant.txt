@@ -1,0 +1,234 @@
+﻿//frailty AND "renal transplant" 
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "renal transplant"[All Fields]
+=========================================================================================
+1. J Res Health Sci. 2018 Dec 29;18(4):e00433.
+
+Association between Multiple Recurrent Events with Multivariate Modeling: A
+Retrospective Cohort Study.
+
+Osmani F(1), Hajizadeh E(2), Rasekhi A(2).
+
+Author information: 
+(1)Department of Biostatistics, Faculty of Medical Sciences, Tarbiat Modares
+University, Tehran, Iran. f.osmani@modares.ac.ir.
+(2)Department of Biostatistics, Faculty of Medical Sciences, Tarbiat Modares
+University, Tehran, Iran.
+
+BACKGROUND: Recurrent event data are often encountered in biomedical research,
+for example, recurrent infections or recurrent hospitalizations for patients
+after renal transplant. In many studies, there are more than one type of events
+of interest. We aimed to identify the association between two types of events
+using multivariate joint modeling and then apply this statistical method in the
+clinical data set.
+STUDY DESIGN: A retrospective cohort study.
+METHODS: Overall, 342 subjects with breast cancer whose records were registered
+for follow-up in a Cancer Research Center at Shohadaye Tajrish Hospital, Tehran, 
+Iran from 2006 to 2015 were investigated. These patients were monitored for at
+least 6 months after diagnosis and their latest status were recorded. Joint
+frailty model was used for modeling the relationship between two types of
+recurrences with Frailty package in R software.
+RESULTS: When the terminal event was considered as death, three-year and
+five-year survival rates for the patients were 0.79 and 0.68, respectively. Given
+the results obtained from a fitted joint frailty model, the risk of multiple
+recurrences (local and metastases) increased for the patients with tumor grades
+greater than I.
+CONCLUSION: With regard to the significant variance of the frailty component of
+the metastases event, it can be inferred that patients with the same predictive
+variables are prone to different levels of metastases risk and, on the other
+hand, given the low frequency of types of recurrences, caution should be
+exercised when considering the obtained results.
+
+
+PMID: 30728319 
+
+
+2. Transplant Proc. 2018 Dec;50(10):3968-3972. doi:
+10.1016/j.transproceed.2018.07.002. Epub 2018 Jul 7.
+
+Acute Esophageal Necrosis in an Immunosuppressed Kidney Transplant Recipient: A
+Case Report.
+
+Mealiea D(1), Greenhouse D(2), Velez M(3), Moses P(3), Marroquin CE(4).
+
+Author information: 
+(1)Department of Surgery, University of Toronto, Toronto, Ontario, Canada.
+(2)Department of Cardiac Surgery, Children's Healthcare of Atlanta, Atlanta, GA.
+(3)Department of Gastroenterology, University of Vermont Medical Center,
+Burlington, VT.
+(4)Department of Transplant and Hepatobiliary Surgery and Immunology, University 
+of Vermont Medical Center, Burlington, VT. Electronic address:
+Carlos.Marroquin@uvmhealth.org.
+
+Acute esophageal necrosis (AEN) is rare and characterized endoscopically by
+distal esophageal ulceration, blackening, and necrosis. It typically arises in
+patients with multiple comorbidities who have significant systemic disease and
+frailty. Specific precipitating events are variable. Evidence suggests a
+multifactorial etiology likely involving esophageal ischemia in the setting of
+corrosive injury from gastric contents and impaired tissue repair mechanisms. In 
+the transplant setting, immunosuppression likely plays a substantial role. We
+report a case of AEN in a 70-year-old man following a renal transplant.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.transproceed.2018.07.002 
+PMID: 30577298  [Indexed for MEDLINE]
+
+
+3. Pharmacol Res. 2018 Apr;130:303-307. doi: 10.1016/j.phrs.2018.02.031. Epub 2018
+Mar 6.
+
+Personalized immunosuppression in elderly renal transplant recipients.
+
+Peeters LEJ(1), Andrews LM(1), Hesselink DA(2), de Winter BCM(1), van Gelder
+T(3).
+
+Author information: 
+(1)Departments of Hospital Pharmacy, Erasmus MC, University Medical Center
+Rotterdam, The Netherlands.
+(2)Departments of Internal Medicine, Erasmus MC, University Medical Center
+Rotterdam, The Netherlands.
+(3)Departments of Hospital Pharmacy, Erasmus MC, University Medical Center
+Rotterdam, The Netherlands; Departments of Internal Medicine, Erasmus MC,
+University Medical Center Rotterdam, The Netherlands. Electronic address:
+t.vangelder@erasmusmc.nl.
+
+The number of elderly people has increased considerably over the last decades,
+due to a rising life expectancy and ageing populations. As a result, an increased
+number of elderly with end-stage-renal-disease are diagnosed, for which the
+preferred treatment is renal transplantation. Over the past years the awareness
+of the elderly as a specific patient population has grown, which increases the
+importance of research in this group. Elderly patients often receive kidneys from
+elderly donors while younger donor kidneys are preferentially reserved for
+younger recipients. Although the rate of acute rejection after transplantation is
+lower in the elderly, these rejections may lead to graft loss more frequently, as
+kidneys from elderly donors have marginal reserve capacity. To prevent acute
+rejection, immunosuppressive therapy is needed. On the other hand, elderly
+patients have a higher risk to die from infectious complications, and thus less
+immunosuppression would be preferable. Immunosuppressive treatment in the elderly
+is complicated further by changes in the pharmacokinetics and pharmacodynamics,
+with increasing age. Adjustments in standard immunosuppressive regimes are
+therefore suggested for this population. An unmet need in transplantation
+medicine is a tool to guide a personalized approach to immunosuppression.
+Recently several promising biomarkers that identify injury to the graft at an
+early stage or predict acute rejection have been identified. Unfortunately, none 
+of these biomarkers were tested specifically in the elderly. We believe there is 
+an urgent need to perform clinical trials investigating novel immunosuppressive
+regimens in conjunction with biomarker studies in this specific population.
+
+Copyright © 2018 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.phrs.2018.02.031 
+PMID: 29501679  [Indexed for MEDLINE]
+
+
+4. Stat Methods Med Res. 2018 Mar;27(3):832-845. doi: 10.1177/0962280216643563. Epub
+2016 May 2.
+
+Dynamic prediction of recurrent events data by landmarking with application to a 
+follow-up study of patients after kidney transplant.
+
+Musoro JZ(1), Struijk GH(2), Geskus RB(1), Ten Berge I(2), Zwinderman AH(1).
+
+Author information: 
+(1)1 Department of Clinical Epidemiology, Biostatistics and Bioinformatic
+Academic Medical Center, University of Amsterdam, Amsterdam, the Netherlands.
+(2)2 Renal Transplant Unit, Academic Medical Center, University of Amsterdam,
+Amsterdam, the Netherlands.
+
+This paper extends dynamic prediction by landmarking to recurrent event data. The
+motivating data comprised post-kidney transplantation records of repeated
+infections and repeated measurements of multiple markers. At each landmark time
+point ts, a Cox proportional hazards model with a frailty term was fitted using
+data of individuals who were at risk at landmark s. This model included the
+time-updated marker values at ts as time-fixed covariates. Based on a stacked
+data set that merged all landmark data sets, we considered supermodels that allow
+parameters to depend on the landmarks in a smooth fashion. We described and
+evaluated four ways to parameterize the supermodels for recurrent event data.
+With both the study data and simulated data sets, we compared supermodels that
+were fitted on stacked data sets that consisted of either overlapping or
+non-overlapping landmark periods. We observed that for recurrent event data, the 
+supermodels may yield biased estimates when overlapping landmark periods are used
+for stacking. Using the best supermodel amongst the ones considered, we
+dynamically estimated the probability to remain infection free between ts and a
+prediction horizon thor, conditional on the information available at ts.
+
+DOI: 10.1177/0962280216643563 
+PMID: 27142981 
+
+
+5. Am J Transplant. 2015 Apr;15(4):1050-60. doi: 10.1111/ajt.13095. Epub 2015 Mar
+10.
+
+Individual and regional factors of access to the renal transplant waiting list in
+france in a cohort of dialyzed patients.
+
+Bayat S(1), Macher MA, Couchoud C, Bayer F, Lassalle M, Villar E, Caillé Y,
+Mercier S, Joyeux V, Noel C, Kessler M, Jacquelinet C; REIN registry.
+
+Author information: 
+(1)Département d'Epidémiologie-Biostatistiques, EA MOS, EHESP, Rennes, France.
+
+Several studies have investigated geographical variations in access to renal
+transplant waiting lists, but none has assessed the impact on these variations of
+factors at both the patient and geographic levels. The objective of our study was
+to identify medical and non-medical factors at both these levels associated with 
+these geographical variations in waiting-list placement in France. We included
+all incident patients aged 18-80 years in 11 French regions who started dialysis 
+between January 1, 2006, and December 31, 2008. Both a multilevel Cox model with 
+shared frailty and a competing risks model were used for the analyses. At the
+patient level, old age, comorbidities, diabetic nephropathy, non-autonomous first
+dialysis, and female gender were the major determinants of a lower probability of
+being waitlisted. At the regional level, the only factor associated with this
+probability was an increase in the number of patients on the waiting list from
+2005 to 2009. This finding supports a slight but significant impact of a regional
+organ shortage on waitlisting practices. Our findings demonstrate that patients' 
+age has a major impact on waitlisting practices, even for patients with no
+comorbidity or disability, whose survival would likely be improved by
+transplantation compared with dialysis.
+
+© Copyright 2015 The American Society of Transplantation and the American Society
+of Transplant Surgeons.
+
+DOI: 10.1111/ajt.13095 
+PMID: 25758788  [Indexed for MEDLINE]
+
+
+6. Int J Qual Health Care. 2003 Jun;15(3):189-96.
+
+Survival of hemodialysis patients: modeling differences in risk of dialysis
+centers.
+
+Sá Carvalho M(1), Henderson R, Shimakura S, Sousa IP.
+
+Author information: 
+(1)Department of Mathematics and Statistics, Lancaster University, Lancaster, UK.
+carvalho@procc.fiocruz.br
+
+OBJECTIVE: Dialysis is the most common renal replacement therapy for patients
+with end stage renal disease. This paper considers survival of dialysis patients,
+aiming to assess quality of renal replacement therapy at dialysis centers in Rio 
+de Janeiro, Brazil, and to investigate differences in survival between health
+facilities.
+METHODS: A Cox proportional hazards model, allowing for time-varying covariates
+and prevalent data, was the basic method used to analyze the survival of 11,579
+patients on hemodialysis in 67 health facilities in Rio de Janeiro State from
+January 1998 until August 2001, using data obtained from routine information
+systems. A frailty random effects model was applied to investigate differences in
+mortality between health centers not explained by measured characteristics.
+RESULTS: The individual variables associated with the outcome were age and
+underlying disease, with diabetes being the main isolated risk factor.
+Considering covariates of the health unit, two factors were associated with
+performance: bigger units had on average better survival times than smaller ones 
+and units which offered cyclic peritoneal dialysis performed less well than those
+that did not. There were significant frailty effects among centers, with relative
+risks varying between 0.24 and 3.15, and an estimated variance of 0.43.
+CONCLUSIONS: Routine assessment based on health registries of the outcome of any 
+high technology medical treatment is extremely important in maintaining quality
+of care and in estimating the impact of changes in therapies, units, and patient 
+profiles. The frailty model allowed estimation of variation in risk between
+centers not attributable to any measured covariates. This can be used to guide
+more specific investigation and changes in health policies related to renal
+transplant therapies.
+
+
+PMID: 12803346  [Indexed for MEDLINE]

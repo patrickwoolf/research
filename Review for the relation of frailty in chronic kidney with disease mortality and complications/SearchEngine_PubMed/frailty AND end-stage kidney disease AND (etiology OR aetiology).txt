@@ -1,0 +1,191 @@
+﻿//frailty AND "end-stage kidney disease" AND (etiology OR aetiology) 
+//("frailty"[MeSH Terms] OR "frailty"[All Fields]) AND "end-stage kidney disease"[All Fields] AND (("etiology"[Subheading] OR "etiology"[All Fields] OR "causality"[MeSH Terms] OR "causality"[All Fields]) OR aetiology[All Fields])
+//
+1. J Ren Care. 2017 Sep;43(3):163-174. doi: 10.1111/jorc.12205. Epub 2017 May 23.
+
+Biomarkers associated with mortality in patients undergoing dialysis.
+
+Rebollo Rubio A(1), Morales Asencio JM(2), Pons Raventos ME(3).
+
+Author information: 
+(1)Nephrology Service, Carlos Haya Regional University Hospital, Malaga, Spain.
+(2)Faculty of Health Sciences, University of Malaga, Malaga, Spain.
+(3)Fresenius Medical Care Services Andalusia, Antequera Clinic, Andalusia,
+Alabama, USA.
+
+BACKGROUND: Survival for patients commencing renal replacement therapy is around 
+90% in the first year and 83% at two years after starting dialysis. The factors
+that appear to predict mortality are comorbidity and frailty associated with
+kidney disease, glomerular filtration rate, age and biochemical factors.
+OBJECTIVES: To analyse the condition of patients starting renal replacement
+therapy, based on biomarkers commonly used in clinical practice and their
+association with mortality, measured 6 and 12 months after initiating replacement
+therapy.
+METHODS: A one-year prospective follow-up study with 189 patients.
+Sociodemographic variables, aetiology of renal disease, comorbidities, prior
+nephrology service monitoring, prior renal transplantation and biochemical
+parameters at the time of initiating replacement therapy were analysed.
+RESULTS: The overall percentage of death during the one-year follow-up was 6.87%,
+with 64% of deaths occurring during the first six months. The only variable
+independently associated with mortality was low albumin levels.
+CONCLUSION: Although most patients in this centre are monitored by a nephrologist
+prior to starting replacement therapy, many nevertheless fail to achieve the
+biochemical targets recommended. One such parameter is albumin, which proved at
+the start of replacement therapy to be an independent predictor of mortality.
+Findings of this study show the need to intervene on certain biochemical
+parameters during the pre-dialysis stage and at the start of dialysis, in order
+to improve survival in this group of patients.
+
+© 2017 European Dialysis and Transplant Nurses Association/European Renal Care
+Association.
+
+DOI: 10.1111/jorc.12205 
+PMID: 28544527  [Indexed for MEDLINE]
+
+
+2. BMC Nephrol. 2017 May 22;18(1):166. doi: 10.1186/s12882-017-0574-x.
+
+Periodontitis and early mortality among adults treated with hemodialysis: a
+multinational propensity-matched cohort study.
+
+Ruospo M(1)(2), Palmer SC(3), Wong G(4), Craig JC(4), Petruzzi M(5), De
+Benedittis M(5), Ford P(6), Johnson DW(6)(7), Tonelli M(8), Natale P(1),
+Saglimbene V(1)(4), Pellegrini F(9), Celia E(1), Gelfman R(1), Leal MR(1), Torok 
+M(1), Stroumza P(1), Bednarek-Skublewska A(1)(10), Dulawa J(1)(11), Frantzen
+L(1), Del Castillo D(1), Schon S(1), Bernat AG(1), Hegbrant J(1), Wollheim C(1), 
+Gargano L(1), Bots CP(12), Strippoli GF(13)(14)(15)(16); ORALD Investigators.
+
+Author information: 
+(1)Diaverum Medical Scientific Office, Lund, Sweden.
+(2)Amedeo Avogadro University of Eastern Piedmont, Novara, Italy.
+(3)University of Otago Christchurch, Christchurch, New Zealand.
+(4)University of Sydney, Sydney, Australia.
+(5)Department of Emergency and Organ Transplantation, University of Bari, Piazza 
+Giulio Cesare, 70124, Bari, Italy.
+(6)University of Queensland, Brisbane, Australia.
+(7)Translational Research Institute, Brisbane, Australia.
+(8)University of Calgary, Calgary, Canada.
+(9)Global Medical Biogen Idec, Cambridge, MA, USA.
+(10)Medical University of Lublin, Lublin, Poland.
+(11)SHS, Medical University of Silesia, Katowice, Poland.
+(12)Academic Centre for Dentistry Amsterdam (ACTA), Amsterdam, The Netherlands.
+(13)Diaverum Medical Scientific Office, Lund, Sweden. gfmstrippoli@gmail.com.
+(14)University of Sydney, Sydney, Australia. gfmstrippoli@gmail.com.
+(15)Department of Emergency and Organ Transplantation, University of Bari, Piazza
+Giulio Cesare, 70124, Bari, Italy. gfmstrippoli@gmail.com.
+(16)Diaverum Academy, Lund, Sweden. gfmstrippoli@gmail.com.
+
+BACKGROUND: Periodontitis is associated with cardiovascular mortality in the
+general population and adults with chronic diseases. However, it is unclear
+whether periodontitis predicts survival in the setting of kidney failure.
+METHODS: ORAL-D was a propensity matched analysis in 3338 dentate adults with
+end-stage kidney disease treated in a hemodialysis network in Europe and South
+America designed to examine the association between periodontitis and all-cause
+and cardiovascular-related mortality in people on long-term hemodialysis.
+Participants were matched 1:1 on their propensity score for moderate to severe
+periodontitis assessed using the World Health Organization Community Periodontal 
+Index. A random-effects Cox proportional hazards model was fitted with shared
+frailty to account for clustering of mortality risk within countries.
+RESULTS: Among the 3338 dentate participants, 1355 (40.6%) had moderate to severe
+periodontitis at baseline. After using propensity score methods to generate a
+matched cohort of participants with periodontitis similar to those with none or
+mild periodontal disease, moderate to severe periodontitis was associated with a 
+lower risk of all-cause (9.1 versus 13.0 per 100 person years, hazard ratio 0.74,
+95% confidence interval 0.61 to 0.90) and cardiovascular (4.3 versus 6.9 per 100 
+person years, hazard ratio 0.67, 0.51 to 0.88) mortality. These associations were
+not changed substantially when participants were limited to those with 12 or more
+natural teeth and when accounting for competing causes of cardiovascular death.
+CONCLUSION: In contrast to the general population, periodontitis does not appear 
+to be associated with an increased risk of early death in adults treated with
+hemodialysis.
+
+DOI: 10.1186/s12882-017-0574-x 
+PMCID: PMC5440912
+PMID: 28532432  [Indexed for MEDLINE]
+
+
+3. Clin J Am Soc Nephrol. 2016 Mar 7;11(3):431-41. doi: 10.2215/CJN.06290615. Epub
+2016 Jan 4.
+
+Trends in Survival and Renal Recovery in Patients with Multiple Myeloma or
+Light-Chain Amyloidosis on Chronic Dialysis.
+
+Decourt A(1), Gondouin B(1), Delaroziere JC(2), Brunet P(1), Sallée M(1), Burtey 
+S(1), Dussol B(1), Ivanov V(3), Costello R(3), Couchoud C(4), Jourde-Chiche N(5).
+
+Author information: 
+(1)Departments of *Nephrology.
+(2)Public Health, and.
+(3)Immuno-Hematology, Assistance Publique-Hôpitaux de Marseille, Conception
+Hospital, Aix-Marseille University, Marseille, France; and.
+(4)French Biomedical Agency, Renal Epidemiology and Information Network Registry,
+St. Denis, France.
+(5)Departments of *Nephrology, noemie.jourde@ap-hm.fr.
+
+BACKGROUND AND OBJECTIVES: Monoclonal gammopathies (MGs) with renal involvement
+can lead to ESRD caused by myeloma cast nephropathy (MCN), immunoglobulin light
+chain amyloidosis (ALA), or light-chain deposition disease (LCDD). Few studies
+have focused on the prognosis of patients with MG on chronic dialysis. We
+evaluated the outcomes of patients with MG incident on chronic dialysis in
+France.
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: All incident patients registered
+in the Renal Epidemiology and Information Network Registry between 2002 and 2011 
+with ESRD caused by ALA, LCDD, or MCN were included. Patient's survival, censored
+for renal transplantation, renal recovery, and loss to follow-up, as well as
+renal outcomes were analyzed and compared with a control group. Risk factors and 
+causes of death were analyzed.
+RESULTS: We included 1459 patients, comprising 265 (18%) patients with ALA, 334
+(23%) patients with LCDD, and 861 (59%) patients with MCN. Median age was 72
+years, and 56% were men. Median follow-up was 13.1 months. Renal recovery was
+observed in 9.1% of patients and more frequent after 2006. Kidney transplantation
+was rare in this population (2.3%). Among 1272 patients who remained on dialysis,
+67% died. Median survival on dialysis was 18.3 months. Main causes of death were 
+malignancies (34.4%), cardiovascular diseases (18%), infections (13.3%), and
+cachexia (5.2%). Independent risk factors of death were age (hazard ratio [HR],
+1.03 per year increase; 95% confidence interval [95% CI], 1.02 to 1.03), frailty 
+(HR, 1.93; 95% CI, 1.58 to 2.36), congestive heart failure (HR, 1.54; 95% CI,
+1.23 to 1.93), and dialysis initiation on a central catheter (HR, 1.40; 95% CI,
+1.11 to 1.75). Factors associated with a lower risk of death were year of
+dialysis initiation (HR, 0.95 per year increase; 95% CI, 0.91 to 0.99) and high
+BP (HR, 0.80; 95% CI, 0.67 to 0.97).
+CONCLUSIONS: Survival of patients with ALA, LCDD, or MCN on chronic dialysis is
+poor but has improved over time. Progressive malignancy is the main cause of
+death in this population. Renal recovery has increased since 2006.
+
+Copyright © 2016 by the American Society of Nephrology.
+
+DOI: 10.2215/CJN.06290615 
+PMCID: PMC4791812
+PMID: 26728585  [Indexed for MEDLINE]
+
+
+4. J Am Soc Nephrol. 2013 Feb;24(3):337-51. doi: 10.1681/ASN.2012010047. Epub 2012
+Dec 20.
+
+Frailty and protein-energy wasting in elderly patients with end stage kidney
+disease.
+
+Kim JC(1), Kalantar-Zadeh K, Kopple JD.
+
+Author information: 
+(1)Division of Nephrology and Hypertension, Los Angeles Biomedical Research
+Institute at Harbor-UCLA Medical Center, Torrance, California 90502, USA.
+
+Older people constitute an increasingly greater proportion of patients with
+advanced CKD, including those patients undergoing maintenance dialysis treatment.
+Frailty is a biologic syndrome of decreased reserve and resistance to stressors
+that results from cumulative declines across multiple physiologic systems and
+causes vulnerability to adverse outcomes. Frailty is common in elderly CKD
+patients, and it may be associated with protein-energy wasting (PEW), sarcopenia,
+dynapenia, and other complications of CKD. Causes of frailty with or without PEW 
+in the elderly with CKD can be classified into three categories: causes primarily
+caused by aging per se, advanced CKD per se, or a combination of both conditions.
+Frailty and PEW in elderly CKD patients are associated with impaired physical
+performance, disability, poorer quality of life, and reduced survival. Prevention
+and treatment of these conditions in the elderly CKD patients often require a
+multifaceted approach. Here, we examine the causes and consequences of these
+conditions and examine the interplay between frailty and PEW in elderly CKD
+patients.
+
+DOI: 10.1681/ASN.2012010047 
+PMID: 23264684  [Indexed for MEDLINE]

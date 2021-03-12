@@ -1,0 +1,155 @@
+\documentclass[jou]{apa6}
+\usepackage{apacite}
+\usepackage{natbib} %causes in-text citation lose their () but deals with the \cite problem caused by package hyperref
+\usepackage{filecontents}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{multirow} %Used when table \multicolumn{} is in use.
+\usepackage[table]{xcolor} %is used with \textcolor{red}%
+%\usepackage{color}
+
+%\usepackage[numbered]{bookmark}
+%\makeatletter
+%\let\NAT@parse\undefined
+%\makeatother
+\usepackage{hyperref}
+%\DeclareUnicodeCharacter
+
+\begin{filecontents}{thebibliography.bib}
+@article{Patrick LOVE Evonne,
+    Author = {Author, Patrick Yihong Wu, Evonne Hsiaoyun Hung},
+    Date-Added = {2019-01-16 19:11:00 +0800},
+    Date-Modified = {2019-01-16 19:11:00 +0800},
+    Doi = {10.XXXX/YYYY},
+    Journal = {\LaTeX{} Studies},
+    Pages = {1--5},
+    Title = {Example Citation with DOI},
+    Volume = {1},
+    Year = {2019}}
+\end{filecontents}
+
+\renewcommand{\doiprefix}{}
+\newcommand{\doi}[1]{https://doi.org/#1}
+\title{Patrick LOVE Evonne}
+\twoauthors{Patrick Yihong Wu}{Evonne Hsiaoyun Hung}
+\twoaffiliations{College of Medicine, National Taiwan University}{College of Dentistry, National Taiwan University}
+
+\begin{document}
+\maketitle
+
+\section{Introduction to CKD and Frailty}
+Chronic kidney disease is also called chronic kidney failure, including symptoms such as gradual loss of kidney function, and advanced stage of CKD indicates a dangerous level of fluid, electrolytes and wastes accumulate in body. However,d the early stage of the disease doesn’t usually manifest signs.
+
+Treatment often focuses on halting the process of failure by treating the underlying cause. Without good control, CKD progresses to end-stage kidney failure (ESKD), and if no transplant or artificial dialysis often leads to death.
+
+Symptoms and signs of CKD involve nausea, vomiting, loss of appetite, fatigue and weakness, sleep problems, changes in how much you urinate, decreased mental sharpness, muscle twitches and cramps, swelling of feet and ankles, persistent itching, chest pain if fluid builds up around the lining of the heart, shortness of breath if fluid builds up in the lungs, high blood pressure (hypertension) that’s difficult to control. But because kidney is exceedingly malleable, signs may not develop until irrevocable damage has been made. Sometimes even failures have developed, amount of urine stay normal, however, wastes are not sufficiently excreted.
+
+Causes related to CKD are Type I or II diabetes, high B.P., glomerulonephritis, interstitial nephritis, polycystic kidney disease, prolonged obstruction of the urinary tract (usually caused by enlarged prostate, kidney stones and some cancers), vesicoureteral reflux (a disorder that makes urine back up into kidneys), recurrent kidney infection which is also called pyelonephritis. Risk factors that may increase the risk of CKD are diabetes, high B.P.., cardiovascular disease, smoking, obesity, being African-American, Native American or Asian-American, family history of KD, abnormal kidney structure, older age [a1].
+Frailty is a geriatric condition in which resilience to stressors decreased. The risk of frailty increases with age or incidence of disease. Gradually considered more as the hallmark geriatric syndrome and foreshadowing of other geriatric syndromes, including falls, fractures, delirium, and incontinence. 
+
+Differential diagnosis of frailty requires ruling out other underlying medical or physiological issues which might drive symptoms of frailty. These conditions include:
+\begin{APAenumerate}
+	\item Depression
+	\item Malignancy - Lymphoma, multiple myeloma, occult solid tumors
+	\item Rheumatologic disease - Polymyalgia rheumatica, vasculitis
+	\item Endocrinologic disease - Hyper- or hypothyroidism, diabetes mellitus
+	\item Cardiovascular disease - Hypertension, heart failure, coronary artery disease, peripheral vascular disease
+	\item Renal disease - Renal insufficiency
+	\item Hematologic disease - Myelodysplasia, iron deficiency, and pernicious anemia
+	\item Nutritional deficits - Vitamin deficiencies
+	\item Neurologic disease - Parkinson disease, vascular dementia, serial lacunar infarcts
+\end{APAenumerate}
+
+Most research identifies frailty based on the five Fried frailty criteria (slowness, weakness, low physical activity, exhaustion and shrinkage) and divides participants into three stages: non-frail, pre-frail and frail. The above stages determined with scores in the social (social network type, informal care use, loneliness), psychological (psychological distress, mastery, self-management) and physical (chronic diseases, GARS IADL-disability, OECD disability) domains [b3]. Despite the prevalence of Fried criteria, there are dissimilarities in methods used to evaluate frailty between different studies. Another approach to assess frailty is the frailty index approach, which sees frailty as accumulations of deficits beginning from cellular level, and quantification relies on counting the amounts of deficits among manifold organ systems.
+
+Regardless of measurement methods, patients with frailty have their physical function declined and risk of adverse health outcomes augmented.
+
+
+\section{Epidemiology of frailty}
+The prevalence of frailty in those who have CKD have a larger span: from 7\% in community-dwellers to 73\% in a cohort of patients on hemodialysis [b3]. 
+
+\section{Pathophysiology}
+Two leading hypotheses are plausible to explain the relationship between frailty and inflammatory-related disease.
+One mechanism is “punished inefficiency,” which indicates the sequential effect of impairments in one system on stress and inefficiencies in other systems. The second mechanism, “shared pathophysiology,” suggests inflammation being a probable etiological cause of frailty, inflammatory-related disease has a high prevalence in frail older people.
+
+\section{Mortality}
+Frailty is associated with higher mortality risk, and varying hazard ratios (HR) depends on frailty definitions and populations. In the longitudinal Women’s Health Initiative Observational Study, mortality rose in those with baseline frailty (HR 1.71; 95\% CI 1.48-1.97) [b1]. In another study, compared with robust men, it was twice the mortality for frail men (HR 2.05; 95\% CI 1.55-2.72) [b2]. 
+
+\section{Complications}
+Chronic kidney disease can affect almost every part of your body. Potential complications may include fluid retention, high blood pressure, or pulmonary edema. Hyperkalemia is probable, which is capable of damaging the heart’s function, being life-threatening. Cardiovascular disease, weak bones, anemia, decreased sex drive, erectile dysfunction or reduced fertility may be accompanying. Besides, damage to central nervous system, leading to difficulty concentrating, personality changes or seizures is likely. Other complications like decreased immune response, pericarditis, pregnancy complications that carry risks for the mother and the developing fetus, and irreversible damage to kidneys (end-stage kidney disease) making patients eventually needing either dialysis or a kidney transplant for survival.
+
+\section{Test}
+Some claim that \cite{sanchez2017comparison}, however, others don't think that way \citep{mathiesen2019survival}.
+\section{Comments}
+\textcolor{red}{
+Why is this shit always blocking me from adding bookmarks \citep{studzinska2017atranorin}?}
+
+\textcolor{red}{
+Ach so, this motherfucker shit TexMaker needs me to press F1 and F11 like crazily, again and again. Am I playing piano? I couldn't figure it out...HAHAHA \citep{streur2018don}.}
+
+\textcolor{purple}{
+Oh I found out finally after a 2-hour search. The package hyperref gives PDF bookmarks, but it also interferes with apa 6th \textbackslash cite. Here comes the package natbib, in which citation with parentheses is \textbackslash citep, who copes with the problem left by  the package hyperref. Problem solved!}
+
+\section{Summary table}
+% Table generated by Excel2LaTeX from sheet 'Psychosocial'
+\begin{table}[htbp]
+  \centering
+  \caption{Add caption}
+    \begin{tabular}{rrp{17.75em}p{20.7em}r}
+    \toprule
+    \multicolumn{5}{|l|}{\textbf{Adverse Health Effects of Frailty Among CKD Patients}} \\
+    \midrule
+    \multicolumn{1}{|r|}{\multirow{3}[6]{*}{\textbf{Related adverse health effects }}} & \multicolumn{1}{r|}{\multirow{3}[6]{*}{\textbf{Method}}} & \multicolumn{2}{l|}{\textbf{References}} & \multicolumn{1}{r|}{\multirow{3}[6]{*}{\textbf{Sample Group}}} \\
+\cmidrule{3-4}    \multicolumn{1}{|r|}{} & \multicolumn{1}{r|}{} & \multicolumn{2}{c|}{\textbf{Conditions}} & \multicolumn{1}{r|}{} \\
+\cmidrule{3-4}    \multicolumn{1}{|r|}{} & \multicolumn{1}{r|}{} & \multicolumn{1}{l|}{\textbf{Data}} & \multicolumn{1}{l|}{\textbf{p-value}} & \multicolumn{1}{r|}{} \\
+    \midrule
+    \rowcolor[rgb]{ .929,  .733,  .706} \multicolumn{1}{r}{\multirow{2}[1]{*}{\textit{\textbf{Mood}}}} & \multicolumn{1}{r}{\multirow{2}[1]{*}{The Edmonton Frail Scale}} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textbf{Orlandi \& Gesualdo, 2014}} & \multicolumn{1}{r}{\multirow{2}[1]{*}{N/A}} \\
+          &       & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .984,  .898,  .839}The Edmonton Frail Scale itself evaluates nine domains, with mood being one of them. So it’s rational to deduce that frailty accounts for negative mood change.} &  \\
+    \rowcolor[rgb]{ .929,  .733,  .706} \multicolumn{1}{r}{\multirow{2}[0]{*}{\textit{\textbf{Good interaction with family}}}} & \multicolumn{1}{r}{\multirow{2}[0]{*}{Interview}} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textbf{Moffatt, Moorhouse, Mallery, Landry, \& Tennankore, 2018}} & \multirow{2}[0]{*}{} \\
+          &       & \cellcolor[rgb]{ .929,  .733,  .706}Interview only & \multicolumn{1}{r}{\cellcolor[rgb]{ .929,  .733,  .706}} &  \\
+    \rowcolor[rgb]{ .929,  .733,  .706} \multicolumn{1}{r}{\multirow{6}[0]{*}{\textit{\textbf{Cognitive impairments}}}} & \multicolumn{1}{r}{\multirow{2}[0]{*}{\textcolor[rgb]{ 1,  1,  1}{Review}}} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textcolor[rgb]{ 1,  1,  1}{\textbf{Kittiskulnam, P. et al. (2016). Consequences of CKD on Functioning. Seminars in Nephrology, 36(4), 305–318. }}} & \multirow{2}[0]{*}{\textcolor[rgb]{ .8,  .8,  .8}{}} \\
+          &       & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .984,  .898,  .839}\textcolor[rgb]{ 1,  1,  1}{There’s no adverse health effects of frailty other than mortality and morbidities mentioned.}} &  \\
+          & \multicolumn{1}{p{20.35em}}{\cellcolor[rgb]{ .929,  .733,  .706}Grouping: Nonfrail, intermediate frail, and frail. Fried frailty phenotype.} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textbf{McAdams-Demarco, M. A., Tan, J., Salter, M. L., Gross, A., Meoni, L. A., Jaar, B. G., …Sozio, S. M. (2015). Frailty and cognitive function in incident hemodialysis patients. Clinical Journal of the American Society of Nephrology, 10(12), 2181–2189.}} & \multicolumn{1}{r}{\multirow{4}[0]{*}{\cellcolor[rgb]{ .929,  .733,  .706}A longitudinal cohort study (Predictors of Arrhythmic and Cardiovascular Risk in ESRD [PACE] trial; R01DK072367)  with 324 adults enrolled (November 2008 to July 2012), 95\% of which were enrolled within the first month of hemodialysis. \newline{}Patients location: 27 free-standing dialysis centers in Baltimore, Maryland, and six surrounding counties. \newline{}Eligible criteria: ≥ 18 years at enrollment and the ability to speak English.}} \\
+          & \multicolumn{1}{p{20.35em}}{\cellcolor[rgb]{ .929,  .733,  .706}Cognitive function: \newline{}Global cognitive function: Modified Mini-Mental State (3MS); \newline{}Speed/Attention: Trail Making Tests A and B (TMTA and TMTB)*. \newline{}} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .929,  .733,  .706}\textbf{Nonfrail vs. Intermediate Frail vs. Frail}} &  \\
+          & \multicolumn{1}{p{20.35em}}{\cellcolor[rgb]{ .929,  .733,  .706}Cognitive impairment was defined as a score <80 for the 3MS, a time 1.5 SD above the mean (from this cohort) for the TMTA/TMTB.} & \cellcolor[rgb]{ .984,  .898,  .839}At cohort entry: 3MS (points): Reference vs. -1.29 (-3.05 to 0.48) vs. -2.37 (-4.21 to -0.53); TMTA (seconds): Reference vs. 6.12 (−0.94 to 13.18) vs. 12.08 (4.73 to 19.43); TMTB (seconds): Reference vs. 19.87 (−2.34 to 42.08) vs. 33.15 (9.88 to 56.42) & \cellcolor[rgb]{ .984,  .898,  .839}At cohort entry: 3MS: 0.01; TMTA: <0.001; TMTB: 0.01 &  \\
+          & \multicolumn{1}{p{20.35em}}{\cellcolor[rgb]{ .929,  .733,  .706}*The TMTA and TMTB are time tests that measure executive function. Both of these tests assess scanning, speed of processing, attention and concentration, and psychomotor speed, and the TMTB further assesses cognitive shifting and complex sequencing function. The tests measure the time required to connect a series of sequentially numbered (TMTA) and numbered/lettered (TMTB) circles.} & \cellcolor[rgb]{ .984,  .898,  .839}At 1-year follow-up: 3MS (points): Reference vs. $−1.74$ (−4.16 to 0.69) vs. $−2.80$ (−5.37 to −0.24) & \cellcolor[rgb]{ .984,  .898,  .839}At 1-year follow-up: 3MS: 0.03 &  \\
+    \rowcolor[rgb]{ .929,  .733,  .706} \multicolumn{1}{r}{\multirow{7}[0]{*}{\textit{\textbf{Functional independence}}}} &       & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textbf{Fabrício-Wehbe, Suzele Cristina Coelho, Schiaveto, Fábio Veiga, Vendrusculo, Thaís Ramos Pereira, Haas, Vanderlei José, Dantas, Rosana Aparecida Spadoti, \& Rodrigues, Rosalina Aparecida Partezani. (2009). Adaptação cultural e validade da Edmonton Frail Scale - EFS em uma amostra de idosos brasileiros. Revista Latino-Americana de Enfermagem, 17(6), 1043-1049.}} & \multicolumn{1}{r}{\multirow{7}[0]{*}{A subsample of 137 elderly people was selected from 515 elderly using simple random sampling (SRS).}} \\
+          & \multicolumn{1}{p{20.35em}}{\cellcolor[rgb]{ .929,  .733,  .706}Frailty grouping: Edmonton Frail Scale (EFS).} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .929,  .733,  .706}\textbf{Spearman's correlation coefficient of frailty diagnosis with global, motor, and cognitive FIM}} &  \\
+          & \multicolumn{1}{p{20.35em}}{\cellcolor[rgb]{ .929,  .733,  .706}Functional independence: Functional Independence Measure (FIM).} & \cellcolor[rgb]{ .984,  .898,  .839}Spearman’s correlation coefficient: -0.703 (moderate), -0.714 (moderate), -0.575 (weak) & \cellcolor[rgb]{ .984,  .898,  .839}All correlations: <0.01 &  \\
+          & \multicolumn{1}{p{20.35em}}{\cellcolor[rgb]{ .929,  .733,  .706}Cognitive assessment: Mini-Mental State Examination (MMSE).} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .929,  .733,  .706}\textbf{Spearman’s correlation coefficient of frailty scores (EFS) with gross functional dependence (FIM) and the gross MMSE score}} &  \\
+          & \cellcolor[rgb]{ .929,  .733,  .706} & \cellcolor[rgb]{ .984,  .898,  .839}Spearman’s correlation coefficient: -0.53 and -0.607 (weak) & \multicolumn{1}{l}{\cellcolor[rgb]{ .984,  .898,  .839}<0.01} &  \\
+          & \cellcolor[rgb]{ .929,  .733,  .706} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .929,  .733,  .706}\textbf{Spearman’s correlation coefficient between functional independence on the EFS and FIM scores}} &  \\
+          & \cellcolor[rgb]{ .929,  .733,  .706} & \multicolumn{1}{l}{\cellcolor[rgb]{ .984,  .898,  .839}Spearman's correlation coefficient: -0.57} & \multicolumn{1}{l}{\cellcolor[rgb]{ .984,  .898,  .839}<0.01} &  \\
+    \rowcolor[rgb]{ .929,  .733,  .706} \multicolumn{1}{r}{\multirow{2}[0]{*}{\textit{\textbf{Depression (Beck dep. scale)}}}} & \multicolumn{1}{p{20.35em}}{descriptive cross-sectional study} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textbf{SI, A. P., Senior, P. A., Field, C. J., Jindal, K., \& Mager, D. R. (2018). Frailty, Health Related Quality of Life, Cognition, Depression, Vitamin D and Health Care Utilization in an Ambulatory Adult Population with Type 1 and Type 2 Diabetes Mellitus and Chronic Kidney Disease: a cross sectional analysis. Canadian Journal of Diabetes.}} & \multicolumn{1}{r}{\multirow{2}[0]{*}{41 ambulatory adults (41 through 83 years of age) with type 1 (n=3) or type 2 (n=38) diabetes mellitus and CKD (stages 1 through V). \newline{}Exclusion criteria: Thoses who were on dialysis  (estimated glomerular filtration rate <10 mL/min/1.73 m\^2) and had body weights >136 kg, and coinciding comorbidities known to influence vitD metabolism were excluded. }} \\
+          & \multicolumn{1}{p{20.35em}}{\cellcolor[rgb]{ .929,  .733,  .706}Depression: the validated, self-reported Major Depression Inventory (scores ≥20 are considered abnormal)} & \multicolumn{1}{r}{\cellcolor[rgb]{ .984,  .898,  .839}} & \multicolumn{1}{l}{\cellcolor[rgb]{ .984,  .898,  .839}Depression: 0.0002} &  \\
+    \rowcolor[rgb]{ .929,  .733,  .706} \multicolumn{1}{r}{\multirow{22}[0]{*}{\textit{\textbf{HRQOL}}}} & \multicolumn{1}{p{20.35em}}{Narrative} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textbf{Soni, Weisbord, \& Unruh, 2010}} & \multirow{2}[0]{*}{} \\
+          & \cellcolor[rgb]{ .929,  .733,  .706} & \cellcolor[rgb]{ .984,  .898,  .839}Narrative only & \multicolumn{1}{r}{\cellcolor[rgb]{ .984,  .898,  .839}} &  \\
+          & \cellcolor[rgb]{ .929,  .733,  .706} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textbf{Kanauchi, Kubo, Kanauchi, \& Saito, 2008}} & \multirow{3}[0]{*}{\cellcolor[rgb]{ .929,  .733,  .706}} \\
+          & \cellcolor[rgb]{ .929,  .733,  .706} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .929,  .733,  .706}\textbf{Nonfrail vs. Frail}} &  \\
+          & \cellcolor[rgb]{ .929,  .733,  .706} & \multicolumn{1}{r}{\cellcolor[rgb]{ .984,  .898,  .839}} & \cellcolor[rgb]{ .984,  .898,  .839}≤ 0.001  &  \\
+          & \multicolumn{1}{l}{\cellcolor[rgb]{ .929,  .733,  .706}descriptive cross-sectional study} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textbf{SI, A. P., Senior, P. A., Field, C. J., Jindal, K., \& Mager, D. R. (2018). Frailty, Health Related Quality of Life, Cognition, Depression, Vitamin D and Health Care Utilization in an Ambulatory Adult Population with Type 1 and Type 2 Diabetes Mellitus and Chronic Kidney Disease: a cross sectional analysis. Canadian Journal of Diabetes.}} & \multicolumn{1}{r}{\multirow{3}[0]{*}{\cellcolor[rgb]{ .929,  .733,  .706}41 ambulatory adults (41 through 83 years of age) with type 1 (n=3) or type 2 (n=38) diabetes mellitus and CKD (stages 1 through V).  \newline{}Exclusion criteria: Thoses who were on dialysis  (estimated glomerular filtration rate <10 mL/min/1.73 m\^2) and had body weights >136 kg, and coinciding comorbidities known to influence vitD metabolism were excluded.}} \\
+          & \cellcolor[rgb]{ .929,  .733,  .706} & \multicolumn{2}{c}{\cellcolor[rgb]{ .929,  .733,  .706}\textbf{Frail vs. Nonfrail}} &  \\
+          & \multicolumn{1}{p{20.35em}}{\cellcolor[rgb]{ .929,  .733,  .706}HRQoL: the validated self-reported SF-36} & \multicolumn{1}{r}{\cellcolor[rgb]{ .984,  .898,  .839}} & \cellcolor[rgb]{ .984,  .898,  .839}SF-36 scores (adjusted for differences in CKD stage): \newline{} physical functioning: 0.004\newline{} blood pressure: 0.001\newline{} role physical: 0.003\newline{} physical component summary: 0.002 &  \\
+          & \multicolumn{1}{r}{\multirow{10}[0]{*}{\cellcolor[rgb]{ .929,  .733,  .706}PREPROCESSING\newline{}Frailty: Fried phenotypes\newline{}Grouping: nonfrail and frail (intermediate frail and frail combined)\newline{}HRQOL: KDQOL-SF (generic core [Short Form-36 (SF-36)] and 11 multi-item kidney disease-specific scales), scores linearly converted to 0 to 100 scales.\newline{}ANALYSIS METHOD\newline{}Relationship between frailty and physical, mental, and kidney disease-specific HRQOL at KT: Multivariable linear regression\newline{}Within-individual changes in HRQOL scores among frail and nonfrail recipients: paired t test\newline{}HRQOL between frail and nonfrail: Student t test\newline{}Post-KT HRQOL change (among frail and nonfrail recipients, a longitudinal analysis): Multilevel mixed effects linear regression models with random slopes and intercepts.}} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textbf{McAdams-DeMarco, M. A., Olorundare, I. O., Ying, H., Warsame, F., Haugen, C. E., Hall, R., …Segev, D. L. (2018). Frailty and Postkidney Transplant Health-Related Quality of Life. Transplantation, 102(2), 291–299.}} & \multicolumn{1}{r}{\multirow{10}[0]{*}{\cellcolor[rgb]{ .929,  .733,  .706}443 KT recipients at Johns Hopkins Hospital (n = 370), Baltimore, Maryland (May 2014 to May 2017) and the University of Michigan (N = 73), Ann Arbor, Michigan (March 2015 to June 2016).}} \\
+          &       & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .929,  .733,  .706}\textbf{Frail vs. Nonfrail (At Kidney Transplant)}} &  \\
+          &       & \multicolumn{1}{r}{\cellcolor[rgb]{ .984,  .898,  .839}} & \cellcolor[rgb]{ .984,  .898,  .839}Worse physical HRQOL: <0.001 &  \\
+          &       & \multicolumn{1}{r}{\cellcolor[rgb]{ .984,  .898,  .839}} & \cellcolor[rgb]{ .984,  .898,  .839}Worse kidney disease-specific HRQOL: 0.001 &  \\
+          &       & \multicolumn{1}{r}{\cellcolor[rgb]{ .984,  .898,  .839}} & \cellcolor[rgb]{ .984,  .898,  .839}Similar mental HRQOL: 0.43 &  \\
+          &       & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .929,  .733,  .706}\textbf{Frail vs. Nonfrail (Post-Kidney Transplant)}} &  \\
+          &       & \multicolumn{1}{r}{\cellcolor[rgb]{ .984,  .898,  .839}} & \cellcolor[rgb]{ .984,  .898,  .839}Greater rates of improvement in: &  \\
+          &       & \cellcolor[rgb]{ .984,  .898,  .839}Physical HRQOL: 1.35 points/month (95\% CI, 0.65-2.05) vs. 0.34 points/month (95\% CI, −0.17-0.85) & \cellcolor[rgb]{ .984,  .898,  .839}(1) physical HRQOL: 0.02 &  \\
+          &       & \cellcolor[rgb]{ .984,  .898,  .839}Kidney Disease-specific HRQOL: 3.75 points/month (95\% CI, 2.89-4.60) vs. 2.41 points/month (95\% CI, 1.78-3.04) & \cellcolor[rgb]{ .984,  .898,  .839}(2) kidney disease-specific HRQOL: 0.01 &  \\
+          &       & \cellcolor[rgb]{ .984,  .898,  .839}Mental HRQOL: 0.54 points/month (95\% CI, −0.17-1.25) vs. 0.46 points/month (95\% CI, −0.06-0.98) & \cellcolor[rgb]{ .984,  .898,  .839}No difference in mental HRQOL: 0.85 &  \\
+          & \multicolumn{1}{r}{\multirow{4}[0]{*}{\cellcolor[rgb]{ .929,  .733,  .706}HRQOL: includes PCS (Physical Component Summary, calculated based on physical functioning, role limitations due to physical problems, body pain, and general health perception) and MCS (Mental Component Summary, calculated base on role limitations due to emotional problems, social func- tioning, mental health, and vitality).\newline{}Hierarchical regression: the greater the R\^2 change between Model 2 (frailty included) and Model 1 (frailty excluded), the greater the effect of frailty on HRQOL.}} & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .745,  .749,  .894}\textbf{Lee, S. J., Son, H., \& Shin, S. K. (2015). Influence of frailty on health-related quality of life in pre-dialysis patients with chronic kidney disease in Korea: A cross-sectional study. Health and Quality of Life Outcomes, 13(1).}} & \multicolumn{1}{r}{\multirow{4}[0]{*}{\cellcolor[rgb]{ .929,  .733,  .706}Conducted at an outpatient CKD clinic in a general hospital in Korea from March to September 2014.}} \\
+          &       & \multicolumn{2}{p{38.45em}}{\cellcolor[rgb]{ .929,  .733,  .706}\textbf{Model 2 (hierarchical regression, frailty included) vs. Model 1 (frailty excluded)}} &  \\
+          &       & \cellcolor[rgb]{ .984,  .898,  .839}R\^2 change = 29\% & \cellcolor[rgb]{ .984,  .898,  .839}Lower PCS: <0.001 &  \\
+          &       & \cellcolor[rgb]{ .984,  .898,  .839}R\^2 change = 21.3\% & \cellcolor[rgb]{ .984,  .898,  .839}Lower MCS: <0.001 &  \\
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+
+
+\bibliographystyle{apacite}
+\bibliography{References}
+\end{document}

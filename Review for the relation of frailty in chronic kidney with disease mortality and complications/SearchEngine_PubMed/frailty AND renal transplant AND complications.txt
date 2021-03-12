@@ -1,0 +1,47 @@
+﻿//frailty AND "renal transplant" AND complications 
+//
+1. Pharmacol Res. 2018 Apr;130:303-307. doi: 10.1016/j.phrs.2018.02.031. Epub 2018
+Mar 6.
+
+Personalized immunosuppression in elderly renal transplant recipients.
+
+Peeters LEJ(1), Andrews LM(1), Hesselink DA(2), de Winter BCM(1), van Gelder
+T(3).
+
+Author information: 
+(1)Departments of Hospital Pharmacy, Erasmus MC, University Medical Center
+Rotterdam, The Netherlands.
+(2)Departments of Internal Medicine, Erasmus MC, University Medical Center
+Rotterdam, The Netherlands.
+(3)Departments of Hospital Pharmacy, Erasmus MC, University Medical Center
+Rotterdam, The Netherlands; Departments of Internal Medicine, Erasmus MC,
+University Medical Center Rotterdam, The Netherlands. Electronic address:
+t.vangelder@erasmusmc.nl.
+
+The number of elderly people has increased considerably over the last decades,
+due to a rising life expectancy and ageing populations. As a result, an increased
+number of elderly with end-stage-renal-disease are diagnosed, for which the
+preferred treatment is renal transplantation. Over the past years the awareness
+of the elderly as a specific patient population has grown, which increases the
+importance of research in this group. Elderly patients often receive kidneys from
+elderly donors while younger donor kidneys are preferentially reserved for
+younger recipients. Although the rate of acute rejection after transplantation is
+lower in the elderly, these rejections may lead to graft loss more frequently, as
+kidneys from elderly donors have marginal reserve capacity. To prevent acute
+rejection, immunosuppressive therapy is needed. On the other hand, elderly
+patients have a higher risk to die from infectious complications, and thus less
+immunosuppression would be preferable. Immunosuppressive treatment in the elderly
+is complicated further by changes in the pharmacokinetics and pharmacodynamics,
+with increasing age. Adjustments in standard immunosuppressive regimes are
+therefore suggested for this population. An unmet need in transplantation
+medicine is a tool to guide a personalized approach to immunosuppression.
+Recently several promising biomarkers that identify injury to the graft at an
+early stage or predict acute rejection have been identified. Unfortunately, none 
+of these biomarkers were tested specifically in the elderly. We believe there is 
+an urgent need to perform clinical trials investigating novel immunosuppressive
+regimens in conjunction with biomarker studies in this specific population.
+
+Copyright © 2018 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.phrs.2018.02.031 
+PMID: 29501679  [Indexed for MEDLINE]

@@ -1,0 +1,31 @@
+\documentclass[jou]{apa6}
+\usepackage{apacite}
+\usepackage{filecontents}
+\begin{filecontents}{thebibliography.bib}
+@article{Adverse Health Effects of Frailty Among CKD Patients,
+    Author = {Author, Patrick Yihong Wu},
+    Date-Added = {2019-01-16 19:11:00 +0800},
+    Date-Modified = {2019-01-16 19:11:00 +0800},
+    Doi = {10.XXXX/YYYY},
+    Journal = {\LaTeX{} Studies},
+    Pages = {1--5},
+    Title = {Example Citation with DOI},
+    Volume = {1},
+    Year = {2019}}
+\end{filecontents}
+
+\renewcommand{\doiprefix}{}
+\newcommand{\doi}[1]{https://doi.org/#1}
+\title{Adverse Health Effects of Frailty Among CKD Patients}
+\author{Patrick Yihong Wu}
+\affiliation{College of Medicine, National Taiwan University}
+
+\begin{document}
+\maketitle
+
+Some claim that \cite{S.2017}, however, others don't think that way \cite{McAdams-DeMarco2018}.
+He, she, they, and I are so so in this damn world. Couldn't leave \cite{Cheawchanwattana2014}.
+
+\bibliographystyle{apacite}
+\bibliography{Frailty}
+\end{document}

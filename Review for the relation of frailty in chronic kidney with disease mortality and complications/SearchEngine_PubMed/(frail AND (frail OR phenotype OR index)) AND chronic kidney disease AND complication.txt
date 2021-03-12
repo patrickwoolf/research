@@ -1,0 +1,66 @@
+﻿//(frail AND (frail OR phenotype OR index)) AND "chronic kidney disease" AND complication 
+//(frail[All Fields] AND (frail[All Fields] OR ("phenotype"[MeSH Terms] OR "phenotype"[All Fields]) OR ("abstracting and indexing as topic"[MeSH Terms] OR ("abstracting"[All Fields] AND "indexing"[All Fields] AND "topic"[All Fields]) OR "abstracting and indexing as topic"[All Fields] OR "index"[All Fields]))) AND "chronic kidney disease"[All Fields] AND complication[All Fields]
+//
+1. J Frailty Aging. 2017;6(2):103-106. doi: 10.14283/jfa.2017.14.
+
+Frailty in End-Stage Renal Disease Patients under Dialysis and Its Association
+with Clinical and Biochemical Markers.
+
+Poveda V(1), Filgueiras M, Miranda V, Santos-Silva A, Paúl C, Costa E.
+
+Author information: 
+(1)Elísio Costa, Laboratório de Bioquímica, Departamento de Ciências Biológicas, 
+Universidade do Porto, Rua de Jorge Viterbo Ferreira, 228, 4050-313 Porto,
+Portugal, Email: emcosta@ff.up.pt.
+
+Frailty is a common complication in elderly patients with end-stage renal disease
+(ESRD) under dialysis, which is a strong risk factor for low quality of life,
+morbidity, and mortality. In this work, we aimed to evaluate the prevalence of
+frailty in a group of Portuguese ESRD patients, and its association with
+socio-demographic, clinical and biochemical markers. We performed a
+cross-sectional study with 83 ESRD patients (44 males and 39 females, 64.3
+[±14.6] years old) on regular dialysis. The classification of the ESRD patients
+as robust, pre-frail and frail was performed using the FRAIL questionnaire.
+Social support, data about sociodemographic and comorbidities, and
+haematological, iron status, dialysis adequacy, nutritional and inflammatory
+markers were also evaluated. Our results confirmed that frailty is a highly
+prevalent condition in ESRD patients, particularly in female patients. An
+association between FRAIL score and increased depressive symptoms, presence of
+hypertension and decrease nutritional status was also found.
+
+DOI: 10.14283/jfa.2017.14 
+PMID: 28555712  [Indexed for MEDLINE]
+
+Conflict of interest statement: none
+
+
+2. Clin Geriatr Med. 2014 May;30(2):279-84. doi: 10.1016/j.cger.2014.01.006. Epub
+2014 Mar 4.
+
+Management of postoperative complications: anemia.
+
+Willett LR(1), Carson JL(2).
+
+Author information: 
+(1)Division of Education, Rutgers Robert Wood Johnson Medical School, 1 RWJ
+Place, MEB-486, New Brunswick, NJ 08903, USA. Electronic address:
+willetlr@rwjms.rutgers.edu.
+(2)Division of General Internal Medicine, Rutgers Robert Wood Johnson Medical
+School, 125 Paterson Street, New Brunswick, NJ 08901, USA. Electronic address:
+jeffrey.carson@rutgers.edu.
+
+Anemia is extremely common following hip fracture. Consistent data from
+randomized trials show that transfusion of less blood, with a transfusion
+threshold around 8 g/dL hemoglobin concentration, is preferable to a traditional 
+threshold of 10 g/dL. Adoption of a lower threshold leads to at least equivalent 
+clinical outcomes, with much less exposure to transfusion costs and risks. The
+most common complication of transfusion is circulatory overload. Future research 
+may elucidate the optimal transfusion threshold for these elderly patients and
+address the specific needs of subgroups of patients, including those with acute
+coronary syndrome or chronic kidney disease.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cger.2014.01.006 
+PMID: 24721367  [Indexed for MEDLINE]
+

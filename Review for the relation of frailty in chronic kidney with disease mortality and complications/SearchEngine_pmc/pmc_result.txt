@@ -1,0 +1,254 @@
+
+PMC - PMC2670986
+PMID- 19350330
+IS  - 0884-8734 (Print)
+IS  - 1525-1497 (Electronic)
+VI  - 24
+IP  - Suppl 1
+DP  - 2009 Apr
+TI  - Scientific Abstracts.
+PG  - 1-380
+LA  - eng
+PT  - Journal Article
+DEP - 20090407
+TA  - J Gen Intern Med
+JT  - Journal of General Internal Medicine
+AID - 963 [pii]
+AID - 10.1007/s11606-009-0963-3 [doi]
+SO  - J Gen Intern Med. 2009 Apr;24(Suppl 1):1-380. Epub 2009 Apr 7
+      doi:10.1007/s11606-009-0963-3.
+
+PMC - PMC5011511
+PMID- 27642529
+IS  - 2090-6528 (Print)
+IS  - 2090-6536 (Electronic)
+VI  - 2016
+DP  - 2016
+TI  - An Unusual Cause of Acute Upper Gastrointestinal Bleeding: Acute Esophageal
+      Necrosis.
+LID - 6584363
+AB  - Acute esophageal necrosis (AEN), also called “black esophagus,” is a condition
+      characterized by circumferential necrosis of the esophagus with universal distal 
+      involvement and variable proximal extension with clear demarcation at the
+      gastroesophageal junction. It is an unusual cause of upper gastrointestinal
+      bleeding and is recognized with distinct and striking mucosal findings on
+      endoscopy. The patients are usually older and are critically ill with shared
+      comorbidities, which include atherosclerotic cardiovascular disease, diabetes
+      mellitus, hypertension, chronic renal insufficiency, and malnutrition. Alcoholism
+      and substance abuse could be seen in younger patients. Patients usually have
+      systemic hypotension along with upper abdominal pain in the background of
+      clinical presentation of hematemesis and melena. The endoscopic findings confirm 
+      the diagnosis and biopsy is not always necessary unless clinically indicated in
+      atypical presentations. Herein we present two cases with distinct clinical
+      presentation and discuss the endoscopic findings along with a review of the
+      published literature on the management of AEN.
+FAU - Kalva, Nikhil R.
+AU  - Kalva NR
+AUID- ORCID: 0000-0003-0444-367X
+AD  - Division of Gastroenterology and Hepatology, University of Illinois College of
+      Medicine at Peoria, IL, USA
+FAU - Tokala, Madhusudhan R.
+AU  - Tokala MR
+AD  - Department of Pharmacology and Pathophysiology, St. George's University School of
+      Medicine, St. George's, West Indies, Grenada
+FAU - Dhillon, Sonu
+AU  - Dhillon S
+AD  - Division of Gastroenterology and Hepatology, University of Illinois College of
+      Medicine at Peoria, IL, USA
+FAU - Pisoh, Watcoun-Nchinda
+AU  - Pisoh WN
+AD  - Division of Gastroenterology and Hepatology, University of Illinois College of
+      Medicine at Peoria, IL, USA
+FAU - Walayat, Saqib
+AU  - Walayat S
+AD  - Division of Gastroenterology and Hepatology, University of Illinois College of
+      Medicine at Peoria, IL, USA
+FAU - Vanar, Vishwas
+AU  - Vanar V
+AD  - Division of Gastroenterology and Hepatology, University of Illinois College of
+      Medicine at Peoria, IL, USA
+FAU - Puli, Srinivas R.
+AU  - Puli SR
+AD  - Division of Gastroenterology and Hepatology, University of Illinois College of
+      Medicine at Peoria, IL, USA
+LA  - eng
+PT  - Journal Article
+DEP - 20160823
+PHST- 2016/02/06 [received]
+PHST- 2016/06/13 [revised]
+PHST- 2016/06/27 [accepted]
+PHST- 2016/08/23 [aheadofprint]
+TA  - Case Rep Gastrointest Med
+JT  - Case Reports in Gastrointestinal Medicine
+AID - 10.1155/2016/6584363 [doi]
+SO  - Case Rep Gastrointest Med. 2016;2016:. Epub 2016 Aug 23 doi:10.1155/2016/6584363.
+
+PMC - PMC2423597
+IS  - 0894-8569 (Print)
+IS  - 1607-8462 (Electronic)
+VI  - 2
+IP  - Suppl
+DP  - 1990
+TI  - Free Papers.
+PG  - 1-267
+LA  - eng
+PT  - Journal Article
+TA  - HPB Surg
+JT  - HPB Surgery
+AID - S0894856990724046 [pii]
+AID - 10.1155/1990/72404 [doi]
+SO  - HPB Surg. 1990;2(Suppl):1-267. doi:10.1155/1990/72404.
+
+PMC - PMC4389133
+PMID- 25859384
+IS  - 2048-8505 (Print)
+IS  - 2048-8513 (Electronic)
+VI  - 7
+IP  - 6
+DP  - 2014 Dec
+TI  - Black esophagus in the early kidney post-transplant period.
+PG  - 613-4
+FAU - Caravaca-Fontán, Fernando
+AU  - Caravaca-Fontán F
+FAU - Jimenez, Sara
+AU  - Jimenez S
+FAU - Fernández-Rodríguez, Ana
+AU  - Fernández-Rodríguez A
+FAU - Marcén, Roberto
+AU  - Marcén R
+FAU - Quereda, Carlos
+AU  - Quereda C
+LA  - eng
+PT  - Journal Article
+DEP - 20140914
+PHST- 2014/06/01 [received]
+PHST- 2014/08/15 [accepted]
+PHST- 2014/09/14 [aheadofprint]
+TA  - Clin Kidney J
+JT  - Clinical Kidney Journal
+AID - 10.1093/ckj/sfu094 [doi]
+AID - sfu094 [pii]
+SO  - Clin Kidney J. 2014 Dec;7(6):613-4. Epub 2014 Sep 14 doi:10.1093/ckj/sfu094.
+
+PMC - PMC4449347
+PMID- 25503648
+IS  - 1875-2292 (Print)
+IS  - 1875-2284 (Electronic)
+VI  - 8
+IP  - 1
+DP  - 2015 Apr
+TI  - Biomodulatory Treatment of Patients with Castration-Resistant Prostate Cancer: A 
+      Phase II Study of Imatinib with Pioglitazone, Etoricoxib, Dexamethasone and
+      Low-Dose Treosulfan.
+PG  - 33-41
+AB  - Therapeutic options for patients with castration-resistant prostate cancer (CRPC)
+      remain limited. In a multicenter, Phase II study, 65 patients with histologically
+      confirmed CRPC received a biomodulatory regimen during the six-month core study. 
+      Treatment comprised daily doses of imatinib mesylate, pioglitazone, etoricoxib,
+      treosulfan and dexamethasone. The primary endpoint was prostate-specific antigen 
+      (PSA) response. Responders could enter an extension phase until disease
+      progression or intolerable toxicity occurred. Mean PSA was 45.3 ng/mL at
+      baseline, and 77 % of patients had a PSA doubling time <3 months. Of the 61
+      evaluable patients, 37 patients (60.6 %) responded or had stable disease and 23
+      of them (37.7 % of 61 patients) were PSA responders. Among the 23 responders mean
+      PSA decreased from 278.9 ± 784.1 ng/mL at baseline to 8.8 ± 11.6 ng/mL at the
+      final visit (week 24). The progression-free survival (PFS) was 467 days in the
+      ITT population. Of the 947 adverse events, 57.6 % were suspected to be
+      drug-related, 13.8 % led to dose adjustment or permanent discontinuation and
+      40.2 % required concomitant medication. This novel combination approach led to an
+      impressive PSA response rate of 37.7 % in CRPC patients. The good PSA response
+      and PFS rate combined with the manageable toxicity profile suggest an alternative
+      treatment option.
+FAU - Vogelhuber, M.
+AU  - Vogelhuber M
+AD  - Department of Hematology and Oncology, University Hospital Regensburg,
+      Franz-Josef-Strauß-Allee 11, 93053 Regensburg, Germany
+FAU - Feyerabend, S.
+AU  - Feyerabend S
+AD  - Department of Urology, University Hospital Tuebingen, Hoppe-Seyler-Strasse 3,
+      72076 Tuebingen, Germany
+FAU - Stenzl, A.
+AU  - Stenzl A
+AD  - Department of Urology, University Hospital Tuebingen, Hoppe-Seyler-Strasse 3,
+      72076 Tuebingen, Germany
+FAU - Suedhoff, T.
+AU  - Suedhoff T
+AD  - Department of Hematology and Oncology, Hospital Passau, Innstrasse 76, 94032
+      Passau, Germany
+FAU - Schulze, M.
+AU  - Schulze M
+AD  - Outpatient Center for Urology and Oncology, Hauptstrasse 10, 04416 Markkleeberg, 
+      Germany
+FAU - Huebner, J.
+AU  - Huebner J
+AD  - Department of Oncology, J. W. Goethe University, Theodor-Stern-Kai 7, 60323
+      Frankfurt, Germany
+FAU - Oberneder, R.
+AU  - Oberneder R
+AD  - Urologic Hospital München-Planegg, Germeringer Str. 32, 82152 Planegg, Germany
+FAU - Wieland, W.
+AU  - Wieland W
+AD  - Department of Urology, Hospital St. Josef, University Regensburg, Landshuter
+      Strasse 65, 93053 Regensburg, Germany
+FAU - Mueller, S.
+AU  - Mueller S
+AD  - Department of Urology, University Hospital Bonn, Sigmund-Freud-Strasse 25, 53105 
+      Bonn, Germany
+FAU - Eichhorn, F.
+AU  - Eichhorn F
+AD  - Outpatient Center, Rinckstrasse 7-9, 83435 Bad Reichenhall, Germany
+FAU - Heinzer, H.
+AU  - Heinzer H
+AD  - Martini-Clinic at University Hospital Hamburg-Eppendorf, Martinistrasse 52, 20246
+      Hamburg, Germany
+FAU - Schmidt, K.
+AU  - Schmidt K
+AD  - Novartis Pharma GmbH, Roonstrasse 25, 90429 Nuernberg, Germany
+FAU - Baier, M.
+AU  - Baier M
+AD  - Novartis Pharma GmbH, Roonstrasse 25, 90429 Nuernberg, Germany
+FAU - Ruebel, A.
+AU  - Ruebel A
+AD  - Novartis Pharma GmbH, Roonstrasse 25, 90429 Nuernberg, Germany
+FAU - Birkholz, K.
+AU  - Birkholz K
+AD  - Novartis Pharma GmbH, Roonstrasse 25, 90429 Nuernberg, Germany
+FAU - Bakhshandeh-Bath, A.
+AU  - Bakhshandeh-Bath A
+AD  - Outpatient Center for Medical Oncology, Waitzstrasse 22, 22607 Hamburg, Germany
+FAU - Andreesen, R.
+AU  - Andreesen R
+AD  - Department of Hematology and Oncology, University Hospital Regensburg,
+      Franz-Josef-Strauß-Allee 11, 93053 Regensburg, Germany
+FAU - Herr, W.
+AU  - Herr W
+AD  - Department of Hematology and Oncology, University Hospital Regensburg,
+      Franz-Josef-Strauß-Allee 11, 93053 Regensburg, Germany
+FAU - Reichle, A.
+AU  - Reichle A
+AD  - Department of Hematology and Oncology, University Hospital Regensburg,
+      Franz-Josef-Strauß-Allee 11, 93053 Regensburg, Germany
+LA  - eng
+PT  - Journal Article
+DEP - 20141211
+PHST- 2014/07/22 [received]
+PHST- 2014/10/24 [accepted]
+TA  - Cancer Microenviron
+JT  - Cancer Microenvironment
+AID - 161 [pii]
+AID - 10.1007/s12307-014-0161-7 [doi]
+SO  - Cancer Microenviron. 2014 Dec 11;8(1):33-41. doi:10.1007/s12307-014-0161-7.
+
+PMC - PMC2486220
+PMID- 20740935
+VI  - 2
+IP  - 101
+DP  - 1854 Dec 08
+TI  - PERISCOPIC REVIEW.
+PG  - 1095-105
+LA  - eng
+PT  - Journal Article
+PT  - Review
+TA  - Assoc Med J
+JT  - Association Medical Journal
+SO  - Assoc Med J. 1854 Dec 08;2(101):1095-105.
