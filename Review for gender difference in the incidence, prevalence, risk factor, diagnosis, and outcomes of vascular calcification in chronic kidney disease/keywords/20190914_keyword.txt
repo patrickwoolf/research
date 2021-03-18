@@ -31,3 +31,27 @@ Embase: 210; review (11)
 Embase-deprecated: 146
 PubMed-deprecated: 489; review (24)
 PubMed: 505; review (25)
+
+
+
+(('gender'[Title/Abstract] OR 'gender differences'[Title/Abstract] OR 'sex differences'[Title/Abstract]) AND calcification[Title/Abstract] 
+AND 
+('fibroblast growth factor-23'[Title/Abstract] OR FGF-23[Title/Abstract] OR Klotho[Title/Abstract] OR Osteopontin[Title/Abstract] OR Osteoprotegerin[Title/Abstract] OR Osteocalcin[Title/Abstract] OR 'parathyroid hormone'[Title/Abstract] OR 'fetuin-A'[Title/Abstract] OR 'matrix Gla-protein'[Title/Abstract] OR MGP 'alkaline phosphatase'[Title/Abstract] OR microRNAs[Title/Abstract])) 
+AND 
+('chronic kidney disease’[Title/Abstract] OR 'chronic renal disease'[Title/Abstract] OR 'chronic renal insufficiency’[Title/Abstract] OR 'kidney transplant'[Title/Abstract] OR 'renal transplant'[Title/Abstract] OR ‘end-stage kidney disease’[Title/Abstract] OR 'end-stage renal disease'[Title/Abstract] OR 'dialysis'[Title/Abstract])
+
+-> 59
+
+((('male'[Title/Abstract] OR 'female'[Title/Abstract] OR 'men'[Title/Abstract] OR 'women'[Title/Abstract]) 
+AND 
+calcification[Title/Abstract] 
+AND 
+('fibroblast growth factor-23'[Title/Abstract] OR FGF-23[Title/Abstract] OR FGF23[Title/Abstract] OR Klotho[Title/Abstract] OR Osteopontin[Title/Abstract] OR Osteoprotegerin[Title/Abstract] OR Osteocalcin[Title/Abstract] OR 'parathyroid hormone'[Title/Abstract] OR 'fetuin-A'[Title/Abstract] OR 'fetuin A'[Title/Abstract] OR 'matrix Gla-protein'[Title/Abstract] OR MGP OR 'alkaline phosphatase'[Title/Abstract] OR microRNAs[Title/Abstract])) 
+AND 
+('chronic kidney disease’[Title/Abstract] OR 'chronic renal disease'[Title/Abstract] OR 'chronic renal insufficiency’[Title/Abstract] OR 'kidney transplant'[Title/Abstract] OR 'renal transplant'[Title/Abstract] OR ‘end-stage kidney disease’[Title/Abstract] OR 'end-stage renal disease'[Title/Abstract] OR 'dialysis'[Title/Abstract]))
+
+-> 174, 160 (full text)
+
+((('male' OR 'female' OR 'men' OR 'women') AND calcification AND ('fibroblast growth factor-23' OR FGF-23 OR FGF23 OR Klotho OR Osteopontin OR Osteoprotegerin OR Osteocalcin OR 'parathyroid hormone' OR 'fetuin-A' OR 'fetuin A' OR 'matrix Gla-protein' OR MGP OR 'alkaline phosphatase' OR microRNAs)) AND ('chronic kidney disease’ OR 'chronic renal disease' OR 'chronic renal insufficiency’ OR 'kidney transplant' OR 'renal transplant' OR ‘end-stage kidney disease’ OR 'end-stage renal disease' OR 'dialysis'))
+
+-> 1317, 1208 (full text)
