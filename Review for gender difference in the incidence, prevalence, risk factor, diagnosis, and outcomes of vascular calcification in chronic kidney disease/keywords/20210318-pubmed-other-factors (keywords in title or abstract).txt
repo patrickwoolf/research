@@ -1,3 +1,5 @@
+((('male'[Title/Abstract] OR 'female'[Title/Abstract] OR 'men'[Title/Abstract] OR 'women'[Title/Abstract]) AND calcification[Title/Abstract] AND ('fibroblast growth factor-23'[Title/Abstract] OR FGF-23[Title/Abstract] OR FGF23[Title/Abstract] OR Klotho[Title/Abstract] OR Osteopontin[Title/Abstract] OR Osteoprotegerin[Title/Abstract] OR Osteocalcin[Title/Abstract] OR 'parathyroid hormone'[Title/Abstract] OR 'fetuin-A'[Title/Abstract] OR 'fetuin A'[Title/Abstract] OR 'matrix Gla-protein'[Title/Abstract] OR MGP OR 'alkaline phosphatase'[Title/Abstract] OR microRNAs[Title/Abstract])) AND ('chronic kidney disease’[Title/Abstract] OR 'chronic renal disease'[Title/Abstract] OR 'chronic renal insufficiency’[Title/Abstract] OR 'kidney transplant'[Title/Abstract] OR 'renal transplant'[Title/Abstract] OR ‘end-stage kidney disease’[Title/Abstract] OR 'end-stage renal disease'[Title/Abstract] OR 'dialysis'[Title/Abstract]))
+
 1. Hyperparathyroidism in Chronic Kidney Disease.
 
 Drüeke TB(1).
@@ -478,9 +480,7 @@ PMID: 33102965
 
 7. Blood Purif. 2020;49(5):550-559. doi: 10.1159/000505846. Epub 2020 Feb 12.
 
-Serum Alkaline Phosphatase Level Predicts Cardiac Valve Calcification in 
-Maintenance Hemodialysis Patients.
-
+	
 Guo J(1), Zeng M(1), Zhang Y(2), Huang H(3), Yang G(1), Xu F(1), Ren W(1), Wang 
 J(1), Huang Y(1), Wang N(4), Xing C(1).
 

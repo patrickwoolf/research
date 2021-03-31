@@ -1,10 +1,15 @@
 [exclusion note]
-not CKD: 
-no calcification-related factors: 
-gender differences not discussed (or no diff): 3,4,5
+not human: 8,9,15,17,22,34,35,52,62,71,74,78,82,90,96,101,109,112,126,137,153,155
+not CKD: 26,31,50,51,66,70,83,99,100,106,130,138
+not vascular calcification: 57,94,143
+gender differences not discussed (or no diff): 3,4,5,6,7,10,11,12,18,20,23,29,30,32,36,37,38,39,44,45,48,52,53,54,55,56,59,60,61,63,65,68,69,73,75,76,80,84,85,86,89,91,92,93,97,102,103,105,108,111,117,120,121,124,125,127,128,129,133,134,140,141,142,145,147,149,151,152,154,156,157
 
-review: 1,2
-no full text: 
+no calcification-related factors: 
+
+review: 1,2,16,24,25,93
+case report: 19,131,133,154,157
+no full text: 12
 potential duplicates: 
 
-5
+included: 13,14,21,27,28,33,58,60,64,67,77,81,87,88,95,98,99,104,107,110,113,115,116,118,119,123,132,136,139,144,146,148,150
+158

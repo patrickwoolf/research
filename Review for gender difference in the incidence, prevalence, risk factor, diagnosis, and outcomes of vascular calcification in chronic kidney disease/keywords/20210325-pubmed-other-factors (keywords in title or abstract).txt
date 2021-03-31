@@ -1,0 +1,876 @@
+1: Drüeke TB. Hyperparathyroidism in Chronic Kidney Disease. 2018 Apr 28. In:
+Feingold KR, Anawalt B, Boyce A, Chrousos G, de Herder WW, Dungan K, Grossman A,
+Hershman JM, Hofland J, Kaltsas G, Koch C, Kopp P, Korbonits M, McLachlan R,
+Morley JE, New M, Purnell J, Singer F, Stratakis CA, Trence DL, Wilson DP,
+editors. Endotext [Internet]. South Dartmouth (MA): MDText.com, Inc.; 2000–.
+PMID: 25905209.
+
+2: Mozos I, Malainer C, Horbańczuk J, Gug C, Stoian D, Luca CT, Atanasov AG.
+Inflammatory Markers for Arterial Stiffness in Cardiovascular Diseases. Front
+Immunol. 2017 Aug 31;8:1058. doi: 10.3389/fimmu.2017.01058. PMID: 28912780;
+PMCID: PMC5583158.
+
+3: Ponte B, Pruijm M, Pasch A, Dufey-Teso A, Martin PY, de Seigneux S. Dialysis
+initiation improves calcification propensity. Nephrol Dial Transplant. 2020 Mar
+1;35(3):495-502. doi: 10.1093/ndt/gfz222. PMID: 31738424.
+
+4: Kubiak RW, Zelnick LR, Hoofnagle AN, Alpers CE, Terry CM, Shiu YT, Cheung AK,
+de Boer IH, Robinson-Cohen C, Allon M, Dember LM, Feldman HI, Himmelfarb J,
+Huber TS, Roy-Chaudhury P, Vazquez MA, Kusek JW, Beck GJ, Imrey PB, Kestenbaum
+B; Hemodialysis Fistula Maturation Study Group. Mineral Metabolism Disturbances
+and Arteriovenous Fistula Maturation. Eur J Vasc Endovasc Surg. 2019
+May;57(5):719-728. doi: 10.1016/j.ejvs.2019.01.022. Epub 2019 Apr 15. PMID:
+31000459; PMCID: PMC7259372.
+
+5: Fayed A, Soliman A, El Mahdy H, Hamza W, Abdulazim DO, Salem MM, Sharaf El
+Din UA; on behalf of the Vascular Calcification Group (VCG). Intraoperative
+Arterial Biopsy in Incident Hemodialysis Patients: Differences Observed.
+Nephron. 2019;143(1):54-61. doi: 10.1159/000500486. Epub 2019 Jun 6. PMID:
+31170717.
+
+6: Fitzpatrick J, Kim ED, Sozio SM, Jaar BG, Estrella MM, Monroy-Trujillo JM,
+Parekh RS. Calcification Biomarkers, Subclinical Vascular Disease, and Mortality
+Among Multiethnic Dialysis Patients. Kidney Int Rep. 2020 Aug 6;5(10):1729-1737.
+doi: 10.1016/j.ekir.2020.07.033. PMID: 33102965; PMCID: PMC7569684.
+
+7: Guo J, Zeng M, Zhang Y, Huang H, Yang G, Xu F, Ren W, Wang J, Huang Y, Wang
+N, Xing C. Serum Alkaline Phosphatase Level Predicts Cardiac Valve Calcification
+in Maintenance Hemodialysis Patients. Blood Purif. 2020;49(5):550-559. doi:
+10.1159/000505846. Epub 2020 Feb 12. PMID: 32050204.
+
+8: Liao R, Wang L, Li J, Sun S, Xiong Y, Li Y, Han M, Jiang H, Anil M, Su B.
+Vascular calcification is associated with Wnt-signaling pathway and blood
+pressure variability in chronic kidney disease rats. Nephrology (Carlton). 2020
+Mar;25(3):264-272. doi: 10.1111/nep.13677. Epub 2019 Nov 24. PMID: 31709686.
+
+9: Liu X, Niu Y, Zhang X, Zhang Y, Yu Y, Huang J, Li J, Yu C. Recombinant
+<i>α</i>-Klotho Protein Alleviated Acute Cardiorenal Injury in a Mouse Model of
+Lipopolysaccharide-Induced Septic Cardiorenal Syndrome Type 5. Anal Cell Pathol
+(Amst). 2019 Jun 11;2019:5853426. doi: 10.1155/2019/5853426. PMID: 31309036;
+PMCID: PMC6594328.
+
+10: Nakamura K, Nagata Y, Hiroyoshi T, Isoyama N, Fujikawa K, Miura Y, Matsuyama
+H, Kuro-O M. The effect of lanthanum carbonate on calciprotein particles in
+hemodialysis patients. Clin Exp Nephrol. 2020 Apr;24(4):323-329. doi:
+10.1007/s10157-019-01832-4. Epub 2019 Dec 26. PMID: 31875935; PMCID: PMC7131979.
+
+11: Batko K, Krzanowski M, Gajda M, Dumnicka P, Pietrzycka A, Fedak D,
+Woziwodzka K, Gołasa P, Kuźniewski M, Litwin JA, Sułowicz W, Krzanowska K.
+Proteoglycan/glycosaminoglycan and collagen content in the arterial wall of
+patients with end-stage renal disease: new indicators of vascular disease. Pol
+Arch Intern Med. 2019 Nov 29;129(11):781-789. doi: 10.20452/pamw.15022. Epub
+2019 Oct 15. PMID: 31613870.
+
+12: Simba K, Borkum M, Strauss N, Basera W, Swanepoel C, Freercks R, Rayner BL.
+The impact of vascular calcification among dialysis-dependent South African
+patients: A 5-year follow-up study . Clin Nephrol. 2020 Jul;94(1):18-25. doi:
+10.5414/CN110010. PMID: 32352371.
+
+13: Zhang AH, Guo WK, Yu L, Liu WH. Relationship of Serum Soluble Klotho Levels
+and Echocardiographic Parameters in Patients on Maintenance Hemodialysis. Kidney
+Blood Press Res. 2019;44(3):396-404. doi: 10.1159/000499200. Epub 2019 May 10.
+PMID: 31079116.
+
+14: Block GA, Hulbert-Shearon TE, Levin NW, Port FK. Association of serum
+phosphorus and calcium x phosphate product with mortality risk in chronic
+hemodialysis patients: a national study. Am J Kidney Dis. 1998 Apr;31(4):607-17.
+doi: 10.1053/ajkd.1998.v31.pm9531176. PMID: 9531176.
+
+15: Tsai MT, Chen YY, Chang WJ, Li SY. Warfarin accelerated vascular
+calcification and worsened cardiac dysfunction in remnant kidney mice. J Chin
+Med Assoc. 2018 Apr;81(4):324-330. doi: 10.1016/j.jcma.2017.08.021. Epub 2018
+Feb 13. PMID: 29395943.
+
+16: Suzuki H, Kondo K. Chronic kidney disease in postmenopausal women. Hypertens
+Res. 2012 Feb;35(2):142-7. doi: 10.1038/hr.2011.155. Epub 2011 Sep 8. PMID:
+21900940.
+
+17: Watanabe K, Fujii H, Goto S, Nakai K, Kono K, Watanabe S, Shinohara M, Nishi
+S. Newly Developed Rat Model of Chronic Kidney Disease-Mineral Bone Disorder. J
+Atheroscler Thromb. 2018 Feb 1;25(2):170-177. doi: 10.5551/jat.40170. Epub 2017
+Jul 1. PMID: 28674323; PMCID: PMC5827086.
+
+18: Jansz TT, Neradova A, van Ballegooijen AJ, Verhaar MC, Vervloet MG,
+Schurgers LJ, van Jaarsveld BC. The role of kidney transplantation and phosphate
+binder use in vitamin K status. PLoS One. 2018 Aug 30;13(8):e0203157. doi:
+10.1371/journal.pone.0203157. PMID: 30161193; PMCID: PMC6117040.
+
+19: Nasr R, Ghazanfar H. Parathyroidectomy as a Cure for Calciphylaxis in a Non-
+Dialysis Chronic Kidney Disease Patient? Am J Case Rep. 2019 Aug 9;20:1170-1174.
+doi: 10.12659/AJCR.917105. PMID: 31395848; PMCID: PMC6698064.
+
+20: Ulutas O, Taskapan MC, Dogan A, Baysal T, Taskapan H. Vascular calcification
+is not related to serum fetuin-A and osteopontin levels in hemodialysis
+patients. Int Urol Nephrol. 2018 Jan;50(1):137-142. doi:
+10.1007/s11255-017-1740-6. Epub 2017 Nov 13. PMID: 29134617.
+
+21: Lioufas NM, Pedagogos E, Hawley CM, Pascoe EM, Elder GJ, Badve SV, Valks A,
+Toussaint ND; on behalf of the IMPROVE-CKD Investigators. Aortic Calcification
+and Arterial Stiffness Burden in a Chronic Kidney Disease Cohort with High
+Cardiovascular Risk: Baseline Characteristics of the Impact of Phosphate
+Reduction On Vascular End-Points in Chronic Kidney Disease Trial. Am J Nephrol.
+2020;51(3):201-215. doi: 10.1159/000505717. Epub 2020 Feb 5. PMID: 32023606.
+
+22: Shi YC, Lu WW, Hou YL, Fu K, Gan F, Cheng SJ, Wang SP, Qi YF, Liu JH.
+Protection Effect of Exogenous Fibroblast Growth Factor 21 on the Kidney Injury
+in Vascular Calcification Rats. Chin Med J (Engl). 2018 Mar 5;131(5):532-538.
+doi: 10.4103/0366-6999.226065. PMID: 29483386; PMCID: PMC5850668.
+
+23: Han KH, O'Neill WC. Increased Peripheral Arterial Calcification in Patients
+Receiving Warfarin. J Am Heart Assoc. 2016 Jan 25;5(1):e002665. doi:
+10.1161/JAHA.115.002665. PMID: 26811161; PMCID: PMC4859382.
+
+24: Chapurlat RD, Confavreux CB. Novel biological markers of bone: from bone
+metabolism to bone physiology. Rheumatology (Oxford). 2016 Oct;55(10):1714-25.
+doi: 10.1093/rheumatology/kev410. Epub 2016 Jan 20. PMID: 26790456.
+
+25: Ossareh S, Rayatnia M, Vahedi M, Jafari H, Zebarjadi M. Association of Serum
+Fetuin-A with Vascular Calcification in Hemodialysis Patients and Its' Impact on
+3-year Mortality. Iran J Kidney Dis. 2020 Dec;14(6):500-509. PMID: 33277456.
+
+26: Klimentová A, Ságová I, Prídavková D, Kantárová D, Makovický P, Sadloňová J,
+Mokáň M. Diabetické ochorenie obličiek 3. štádia - laboratórne markery
+minerálovej a kostnej poruchy [Diabetic Kidney Disease 3rd stage - laboratory
+markers of mineral bone disorder]. Vnitr Lek. 2016 Summer;62(6):442-8. Czech.
+PMID: 27485841.
+
+27: Ho TY, Chen NC, Hsu CY, Huang CW, Lee PT, Chou KJ, Fang HC, Chen CL.
+Evaluation of the association of Wnt signaling with coronary artery
+calcification in patients on dialysis with severe secondary hyperparathyroidism.
+BMC Nephrol. 2019 Sep 2;20(1):345. doi: 10.1186/s12882-019-1543-3. PMID:
+31477034; PMCID: PMC6721332.
+
+28: Kuo TH, Lin WH, Chao JY, Wu AB, Tseng CC, Chang YT, Liou HH, Wang MC. Serum
+sclerostin levels are positively related to bone mineral density in peritoneal
+dialysis patients: a cross-sectional study. BMC Nephrol. 2019 Jul 17;20(1):266.
+doi: 10.1186/s12882-019-1452-5. PMID: 31315601; PMCID: PMC6637583.
+
+29: Ramirez-Sandoval JC, Casanova I, Villar A, Gomez FE, Cruz C, Correa-Rotter
+R. Biomarkers Associated with Vascular Calcification in Peritoneal Dialysis.
+Perit Dial Int. 2016 May-Jun;36(3):262-8. doi: 10.3747/pdi.2014.00250. Epub 2015
+Aug 20. PMID: 26293840; PMCID: PMC4881788.
+
+30: Khan AM, Chirinos JA, Litt H, Yang W, Rosas SE. FGF-23 and the progression
+of coronary arterial calcification in patients new to dialysis. Clin J Am Soc
+Nephrol. 2012 Dec;7(12):2017-22. doi: 10.2215/CJN.02160212. Epub 2012 Sep 20.
+PMID: 22997345; PMCID: PMC3513740.
+
+31: Shah NH, Dong C, Elkind MS, Sacco RL, Mendez AJ, Hudson BI, Silverberg S,
+Wolf M, Rundek T, Wright CB. Fibroblast Growth Factor 23 Is Associated With
+Carotid Plaque Presence and Area: The Northern Manhattan Study. Arterioscler
+Thromb Vasc Biol. 2015 Sep;35(9):2048-53. doi: 10.1161/ATVBAHA.115.305945. Epub
+2015 Jun 25. PMID: 26112008; PMCID: PMC4552577.
+
+32: Kovesdy CP, Ureche V, Lu JL, Kalantar-Zadeh K. Outcome predictability of
+serum alkaline phosphatase in men with pre-dialysis CKD. Nephrol Dial
+Transplant. 2010 Sep;25(9):3003-11. doi: 10.1093/ndt/gfq144. Epub 2010 Mar 17.
+PMID: 20299338; PMCID: PMC2948834.
+
+33: Hou JS, Lin YL, Wang CH, Lai YH, Kuo CH, Subeq YM, Hsu BG. Serum
+osteoprotegerin is an independent marker of central arterial stiffness as
+assessed using carotid-femoral pulse wave velocity in hemodialysis patients: a
+cross sectional study. BMC Nephrol. 2019 May 23;20(1):184. doi:
+10.1186/s12882-019-1374-2. PMID: 31122190; PMCID: PMC6533647.
+
+34: Watanabe A, Koizumi T, Horikawa T, Sano Y, Uki H, Miyajima K, Kemuriyama N,
+Anzai R, Iwata H, Anzai T, Nakagawa K, Nakae D. Impact of altered dietary
+calcium-phosphorus ratio caused by high-phosphorus diets in a rat chronic kidney
+disease (CKD) model created by partial ligation of the renal arteries. J Toxicol
+Pathol. 2020 Apr;33(2):77-86. doi: 10.1293/tox.2019-0086. Epub 2020 Jan 3. PMID:
+32425340; PMCID: PMC7218233.
+
+35: Yu L, Tomlinson JE, Alexander ST, Hensley K, Han CY, Dwyer D, Stolina M,
+Dean C Jr, Goodman WG, Richards WG, Li X. Etelcalcetide, A Novel Calcimimetic,
+Prevents Vascular Calcification in A Rat Model of Renal Insufficiency with
+Secondary Hyperparathyroidism. Calcif Tissue Int. 2017 Dec;101(6):641-653. doi:
+10.1007/s00223-017-0319-7. Epub 2017 Oct 16. PMID: 29038882; PMCID: PMC5660836.
+
+36: Panchal S, Holtermann K, Trivedi N, Regunath H, Yerram P. Calciphylaxis: An
+Analysis of Concomitant Factors, Treatment Effectiveness and Prognosis in 30
+Patients. Int J Nephrol Renovasc Dis. 2020 Apr 5;13:65-71. doi:
+10.2147/IJNRD.S241422. PMID: 32308465; PMCID: PMC7147606.
+
+37: Milovanova L, Fomin V, Moiseev S, Taranova M, Milovanov Y, Lysenko
+Kozlovskaya L, Kozlov V, Kozevnikova E, Milovanova S, Lebedeva M, Reshetnikov V.
+Effect of essential amino acid кetoanalogues and protein restriction diet on
+morphogenetic proteins (FGF-23 and Кlotho) in 3b-4 stages chronic кidney disease
+patients: a randomized pilot study. Clin Exp Nephrol. 2018 Dec;22(6):1351-1359.
+doi: 10.1007/s10157-018-1591-1. Epub 2018 Jun 11. PMID: 29948444.
+
+38: Janda K, Krzanowski M, Chowaniec E, Kuśnierz-Cabala B, Dumnicka P, Kraśniak
+A, Podolec P, Sułowicz W. Osteoprotegerin as a marker of cardiovascular risk in
+patients on peritoneal dialysis. Pol Arch Med Wewn. 2013;123(4):149-55. doi:
+10.20452/pamw.1678. Epub 2013 Mar 26. PMID: 23535831.
+
+39: Claes KJ, Viaene L, Heye S, Meijers B, d'Haese P, Evenepoel P. Sclerostin:
+Another vascular calcification inhibitor? J Clin Endocrinol Metab. 2013
+Aug;98(8):3221-8. doi: 10.1210/jc.2013-1521. Epub 2013 Jun 20. PMID: 23788689.
+
+40: Beddhu S, Baird B, Ma X, Cheung AK, Greene T. Serum alkaline phosphatase and
+mortality in hemodialysis patients. Clin Nephrol. 2010 Aug;74(2):91-6. doi:
+10.5414/cnp74091. PMID: 20630128.
+
+41: Chen W, Fitzpatrick J, Monroy-Trujillo JM, Sozio SM, Jaar BG, Estrella MM,
+Serrano J, Anokhina V, Miller BL, Melamed ML, Bushinsky DA, Parekh RS.
+Associations of Serum Calciprotein Particle Size and Transformation Time With
+Arterial Calcification, Arterial Stiffness, and Mortality in Incident
+Hemodialysis Patients. Am J Kidney Dis. 2021 Mar;77(3):346-354. doi:
+10.1053/j.ajkd.2020.05.031. Epub 2020 Aug 13. PMID: 32800846; PMCID: PMC7881044.
+
+42: Liou SF, Nguyen TTN, Hsu JH, Sulistyowati E, Huang SE, Wu BN, Lin MC, Yeh
+JL. The Preventive Effects of Xanthohumol on Vascular Calcification Induced by
+Vitamin D<sub>3</sub> Plus Nicotine. Antioxidants (Basel). 2020 Oct 6;9(10):956.
+doi: 10.3390/antiox9100956. PMID: 33036258; PMCID: PMC7599490.
+
+43: Peyro-Shabani A, Nabahati M, Saber-Sadeghdoust MA, Soleymani MJ, Oliaei F.
+Risk factors associated with aortic calcification in hemodialysis patients.
+Caspian J Intern Med. 2018 Fall;9(4):347-352. doi: 10.22088/cjim.9.4.347. PMID:
+30510649; PMCID: PMC6230455.
+
+44: Hayashi M, Takamatsu I, Kanno Y, Yoshida T, Abe T, Sato Y; Japanese
+Calciphylaxis Study Group. A case-control study of calciphylaxis in Japanese
+end-stage renal disease patients. Nephrol Dial Transplant. 2012
+Apr;27(4):1580-4. doi: 10.1093/ndt/gfr658. Epub 2011 Nov 25. PMID: 22121234.
+
+45: Okamoto T, Hatakeyama S, Kodama H, Horiguchi H, Kubota Y, Kido K, Momota M,
+Hosogoe S, Tanaka Y, Takashima T, Saitoh F, Suzuki T, Ohyama C. The relationship
+between poor nutritional status and progression of aortic calcification in
+patients on maintenance hemodialysis. BMC Nephrol. 2018 Mar 20;19(1):71. doi:
+10.1186/s12882-018-0872-y. PMID: 29558928; PMCID: PMC5861641.
+
+46: Brahmbhatt S, Mikhail M, Islam S, Aloia JF. Vitamin D and Abdominal Aortic
+Calcification in Older African American Women, the PODA Clinical Trial.
+Nutrients. 2020 Mar 24;12(3):861. doi: 10.3390/nu12030861. PMID: 32213826;
+PMCID: PMC7146156.
+
+47: Nemeth ZK, Mardare NG, Czira ME, Deak G, Kiss I, Mathe Z, Remport A,
+Ujszaszi A, Covic A, Molnar MZ, Mucsi I. Serum osteoprotegerin is associated
+with pulse pressure in kidney transplant recipients. Sci Rep. 2015 Oct
+13;5:14518. doi: 10.1038/srep14518. PMID: 26459001; PMCID: PMC4602220.
+
+48: Keyzer CA, Vermeer C, Joosten MM, Knapen MH, Drummen NE, Navis G, Bakker SJ,
+de Borst MH. Vitamin K status and mortality after kidney transplantation: a
+cohort study. Am J Kidney Dis. 2015 Mar;65(3):474-83. doi:
+10.1053/j.ajkd.2014.09.014. Epub 2014 Nov 12. PMID: 25453995.
+
+49: Nishizawa Y, Jono S, Ishimura E, Shioi A. Hyperphosphatemia and vascular
+calcification in end-stage renal disease. J Ren Nutr. 2005 Jan;15(1):178-82.
+doi: 10.1053/j.jrn.2004.09.027. PMID: 15648030.
+
+50: Tantisattamo E, Han KH, O'Neill WC. Increased vascular calcification in
+patients receiving warfarin. Arterioscler Thromb Vasc Biol. 2015
+Jan;35(1):237-42. doi: 10.1161/ATVBAHA.114.304392. Epub 2014 Oct 16. PMID:
+25324574.
+
+51: Ix JH, Chertow GM, Shlipak MG, Brandenburg VM, Ketteler M, Whooley MA.
+Fetuin-A and kidney function in persons with coronary artery disease--data from
+the Heart and Soul Study. Nephrol Dial Transplant. 2006 Aug;21(8):2144-51. doi:
+10.1093/ndt/gfl204. Epub 2006 Apr 27. PMID: 16644775; PMCID: PMC2776687.
+
+52: Lau WL, Liu S, Vaziri ND. Chronic kidney disease results in deficiency of
+ABCC6, the novel inhibitor of vascular calcification. Am J Nephrol.
+2014;40(1):51-5. doi: 10.1159/000365014. Epub 2014 Jul 2. PMID: 24994603.
+
+53: O'Neill WC, Adams AL. Breast arterial calcification in chronic kidney
+disease: absence of smooth muscle apoptosis and osteogenic transdifferentiation.
+Kidney Int. 2014 Mar;85(3):668-76. doi: 10.1038/ki.2013.351. Epub 2013 Sep 18.
+PMID: 24048381.
+
+54: Balci M, Kirkpantur A, Gulbay M, Gurbuz OA. Plasma fibroblast growth
+factor-23 levels are independently associated with carotid artery
+atherosclerosis in maintenance hemodialysis patients. Hemodial Int. 2010
+Oct;14(4):425-32. doi: 10.1111/j.1542-4758.2010.00480.x. PMID: 20955275.
+
+55: Inaba M, Okuno S, Imanishi Y, Yamada S, Shioi A, Yamakawa T, Ishimura E,
+Nishizawa Y. Role of fibroblast growth factor-23 in peripheral vascular
+calcification in non-diabetic and diabetic hemodialysis patients. Osteoporos
+Int. 2006 Oct;17(10):1506-13. doi: 10.1007/s00198-006-0154-6. Epub 2006 Aug 5.
+PMID: 16896512.
+
+56: Rojas-Campos E, Herrera-Llamas R, Montañez-Fernández JL, Martínez-Martínez
+P, Andrade-Sierra J, Avila-Baray AA, Cueto-Manzano AM. Vascular calcification in
+Mexican hemodialysis patients. Arch Med Res. 2013 Nov;44(8):628-32. doi:
+10.1016/j.arcmed.2013.10.018. Epub 2013 Nov 8. PMID: 24211752.
+
+57: Zaragatski E, Grommes J, Schurgers LJ, Langer S, Kennes L, Tamm M, Koeppel
+TA, Kranz J, Hackhofer T, Arakelyan K, Jacobs MJ, Kokozidou M. Vitamin K
+antagonism aggravates chronic kidney disease-induced neointimal hyperplasia and
+calcification in arterialized veins: role of vitamin K treatment? Kidney Int.
+2016 Mar;89(3):601-11. doi: 10.1038/ki.2015.298. PMID: 26466318.
+
+58: Witasp A, Carrero JJ, Hammarqvist F, Qureshi AR, Heimbürger O, Schalling M,
+Lindholm B, Nordfors L, Stenvinkel P. Expression of osteoprotegerin in human fat
+tissue; implications for chronic kidney disease. Eur J Clin Invest. 2011
+May;41(5):498-506. doi: 10.1111/j.1365-2362.2010.02432.x. Epub 2010 Dec 3. PMID:
+21128937.
+
+59: Tamei N, Ogawa T, Ishida H, Ando Y, Nitta K. Serum fibroblast growth
+factor-23 levels and progression of aortic arch calcification in non-diabetic
+patients on chronic hemodialysis. J Atheroscler Thromb. 2011;18(3):217-23. doi:
+10.5551/jat.5595. Epub 2010 Dec 1. PMID: 21139318.
+
+60: Unal HU, Çelik M, Gökoğlan Y, Çetinkaya H, Gök M, Karaman M, Yilmaz Mİ,
+Eyileten T, Oğuz Y. Mitral annular calcification and the serum osteocalcin level
+in patients with chronic kidney disease. Ren Fail. 2014 Nov;36(10):1481-5. doi:
+10.3109/0886022X.2014.962421. Epub 2014 Sep 16. PMID: 25224152.
+
+61: Baralić M, Brković V, Stojanov V, Stanković S, Lalić N, Đurić P, Đukanović
+L, Kašiković M, Petrović M, Petrović M, Stošović M, Ležaić V. Dual Roles of the
+Mineral Metabolism Disorders Biomarkers in Prevalent Hemodilysis Patients: In
+Renal Bone Disease and in Vascular Calcification. J Med Biochem. 2019 Mar
+3;38(2):134-144. doi: 10.2478/jomb-2018-0026. PMID: 30867641; PMCID: PMC6411002.
+
+62: Seyahi N, Altiparmak MR, Kahveci A, Yetik H, Kanberoglu K, Serdengecti K,
+Ataman R, Erek E. Association of conjunctival and corneal calcification with
+vascular calcification in dialysis patients. Am J Kidney Dis. 2005
+Mar;45(3):550-6. doi: 10.1053/j.ajkd.2004.11.002. PMID: 15754277.
+
+63: Tani T, Orimo H, Shimizu A, Tsuruoka S. Development of a novel chronic
+kidney disease mouse model to evaluate the progression of hyperphosphatemia and
+associated mineral bone disease. Sci Rep. 2017 May 22;7(1):2233. doi:
+10.1038/s41598-017-02351-6. PMID: 28533541; PMCID: PMC5440375.
+
+64: Matsuo H, Dohi K, Machida H, Takeuchi H, Aoki T, Nishimura H, Yasutomi M,
+Senga M, Ichikawa T, Kakuta K, Mizutani Y, Tanoue A, Isaka N, Oosugi K, Koyabu
+S, Sakurai M, Fukui Y, Kakimoto H, Sugimoto T, Ohnishi T, Murata T, Ishikawa E,
+Okamoto R, Yamada T, Ogura T, Nishimura Y, Tanigawa T, Nomura S, Nishikawa M,
+Ito M. Echocardiographic Assessment of Cardiac Structural and Functional
+Abnormalities in Patients With End-Stage Renal Disease Receiving Chronic
+Hemodialysis. Circ J. 2018 Jan 25;82(2):586-595. doi: 10.1253/circj.CJ-17-0393.
+Epub 2017 Oct 31. PMID: 29093429.
+
+65: Buiten MS, de Bie MK, Bouma-de Krijger A, van Dam B, Dekker FW, Jukema JW,
+Rabelink TJ, Rotmans JI. Soluble Klotho is not independently associated with
+cardiovascular disease in a population of dialysis patients. BMC Nephrol. 2014
+Dec 11;15:197. doi: 10.1186/1471-2369-15-197. PMID: 25495997; PMCID: PMC4293085.
+
+66: Turkmen K, Gorgulu N, Uysal M, Ozkok A, Sakaci T, Unsal A, Yildiz A.
+Fetuin-A, inflammation, and coronary artery calcification in hemodialysis
+patients. Indian J Nephrol. 2011 Apr;21(2):90-4. doi: 10.4103/0971-4065.82128.
+PMID: 21769170; PMCID: PMC3132345.
+
+67: Riphagen IJ, Keyzer CA, Drummen NEA, de Borst MH, Beulens JWJ, Gansevoort
+RT, Geleijnse JM, Muskiet FAJ, Navis G, Visser ST, Vermeer C, Kema IP, Bakker
+SJL. Prevalence and Effects of Functional Vitamin K Insufficiency: The PREVEND
+Study. Nutrients. 2017 Dec 8;9(12):1334. doi: 10.3390/nu9121334. PMID: 29292751;
+PMCID: PMC5748784.
+
+68: Nigwekar SU, Zhao S, Wenger J, Hymes JL, Maddux FW, Thadhani RI, Chan KE. A
+Nationally Representative Study of Calcific Uremic Arteriolopathy Risk Factors.
+J Am Soc Nephrol. 2016 Nov;27(11):3421-3429. doi: 10.1681/ASN.2015091065. Epub
+2016 Apr 14. PMID: 27080977; PMCID: PMC5084892.
+
+69: Chen HY, Lin CC, Chiu YL, Hsu SP, Pai MF, Yang JY, Peng YS. Serum fetuin A
+and chemerin levels correlate with hepatic steatosis and regional adiposity in
+maintenance hemodialysis patients. PLoS One. 2012;7(7):e38415. doi:
+10.1371/journal.pone.0038415. Epub 2012 Jul 16. PMID: 22815691; PMCID:
+PMC3398010.
+
+70: Lee SA, Lee MJ, Ryu GW, Jhee JH, Kim HW, Park S, Jung SY, Oh HJ, Park JT,
+Han SH, Kang SW, Yoo TH. Low serum intact parathyroid hormone level is an
+independent risk factor for overall mortality and major adverse cardiac and
+cerebrovascular events in incident dialysis patients. Osteoporos Int. 2016
+Sep;27(9):2717-2726. doi: 10.1007/s00198-016-3636-1. Epub 2016 May 23. PMID:
+27216997.
+
+71: Roos M, Richart T, Kouznetsova T, von Eynatten M, Lutz J, Heemann U, Baumann
+M, Staessen JA. Fetuin-A and arterial stiffness in patients with normal kidney
+function. Regul Pept. 2009 Apr 10;154(1-3):39-43. doi:
+10.1016/j.regpep.2008.12.001. Epub 2008 Dec 13. PMID: 19110009.
+
+72: Agharazii M, St-Louis R, Gautier-Bastien A, Ung RV, Mokas S, Larivière R,
+Richard DE. Inflammatory cytokines and reactive oxygen species as mediators of
+chronic kidney disease-related vascular calcification. Am J Hypertens. 2015
+Jun;28(6):746-55. doi: 10.1093/ajh/hpu225. Epub 2014 Nov 27. PMID: 25430697.
+
+73: Chiu YW, Adler SG, Budoff MJ, Takasu J, Ashai J, Mehrotra R. Coronary artery
+calcification and mortality in diabetic patients with proteinuria. Kidney Int.
+2010 Jun;77(12):1107-14. doi: 10.1038/ki.2010.70. Epub 2010 Mar 17. PMID:
+20237457.
+
+74: Rivet J, Lebbé C, Urena P, Cordoliani F, Martinez F, Baglin AC, Aubert P,
+Aractingi S, Ronco P, Fournier P, Janin A. Cutaneous calcification in patients
+with end-stage renal disease: a regulated process associated with in situ
+osteopontin expression. Arch Dermatol. 2006 Jul;142(7):900-6. doi:
+10.1001/archderm.142.7.900. PMID: 16847207.
+
+75: Sheen CR, Kuss P, Narisawa S, Yadav MC, Nigro J, Wang W, Chhea TN, Sergienko
+EA, Kapoor K, Jackson MR, Hoylaerts MF, Pinkerton AB, O'Neill WC, Millán JL.
+Pathophysiological role of vascular smooth muscle alkaline phosphatase in medial
+artery calcification. J Bone Miner Res. 2015 May;30(5):824-36. doi:
+10.1002/jbmr.2420. PMID: 25428889; PMCID: PMC4406354.
+
+76: Mazzaferro S, Pasquali M, Taggi F, Baldinelli M, Conte C, Muci ML, Pirozzi
+N, Carbone I, Francone M, Pugliese F. Progression of coronary artery
+calcification in renal transplantation and the role of secondary
+hyperparathyroidism and inflammation. Clin J Am Soc Nephrol. 2009
+Mar;4(3):685-90. doi: 10.2215/CJN.03930808. Epub 2009 Feb 11. PMID: 19211668;
+PMCID: PMC2653657.
+
+77: Nseir V, Bradauskaite G, Pedroza M, Minimo C, Zaki R, Chewaproug D. A Rare
+Case of Calciphylaxis in an Orthotopic Liver Transplant Recipient with Acute
+Kidney Injury. Exp Clin Transplant. 2018 Apr 9. doi: 10.6002/ect.2017.0123. Epub
+ahead of print. PMID: 29633925.
+
+78: Chen HY, Chiu YL, Hsu SP, Pai MF, Yang JY, Peng YS. Low serum fetuin A
+levels and incident stroke in patients with maintenance haemodialysis. Eur J
+Clin Invest. 2013 Apr;43(4):387-96. doi: 10.1111/eci.12057. Epub 2013 Feb 19.
+PMID: 23419133.
+
+79: Salem S, Bruck H, Bahlmann FH, Peter M, Passlick-Deetjen J, Kretschmer A,
+Steppan S, Volsek M, Kribben A, Nierhaus M, Jankowski V, Zidek W, Jankowski J.
+Relationship between magnesium and clinical biomarkers on inhibition of vascular
+calcification. Am J Nephrol. 2012;35(1):31-9. doi: 10.1159/000334742. Epub 2011
+Dec 15. PMID: 22179063.
+
+80: Kanbay M, Wolf M, Selcoki Y, Solak Y, Ikizek M, Uysal S, Segall L, Armutcu
+F, Eryonucu B, Duranay M, Goldsmith D, Covic A. Association of serum calcitonin
+with coronary artery disease in individuals with and without chronic kidney
+disease. Int Urol Nephrol. 2012 Aug;44(4):1169-75. doi:
+10.1007/s11255-011-0076-x. Epub 2011 Dec 1. PMID: 22130958.
+
+81: Osorio A, Ortega E, Torres JM, Sanchez P, Ruiz-Requena E. Biochemical
+markers of vascular calcification in elderly hemodialysis patients. Mol Cell
+Biochem. 2013 Feb;374(1-2):21-7. doi: 10.1007/s11010-012-1500-y. Epub 2012 Nov
+3. PMID: 23124853.
+
+82: Nitta K, Hanafusa N, Okazaki M, Komatsu M, Kawaguchi H, Tsuchiya K.
+Association Between Risk Factors Including Bone-Derived Biomarkers and Aortic
+Arch Calcification in Maintenance Hemodialysis Patients. Kidney Blood Press Res.
+2018;43(5):1554-1562. doi: 10.1159/000494441. Epub 2018 Oct 22. PMID: 30347400.
+
+83: Nikolov IG, Joki N, Galmiche A, Nguyen-Khoa T, Guerrera IC, Guillonneau F,
+Ivanovski O, Phan O, Maizel J, Marçon F, Benchitrit J, Lucas A, Edelman A,
+Lacour B, Drüeke TB, Massy ZA. Farnesyltransferase inhibitor R115777 protects
+against vascular disease in uremic mice. Atherosclerosis. 2013 Jul;229(1):42-51.
+doi: 10.1016/j.atherosclerosis.2013.02.041. Epub 2013 Apr 22. PMID: 23672878.
+
+84: Mirza MA, Hansen T, Johansson L, Ahlström H, Larsson A, Lind L, Larsson TE.
+Relationship between circulating FGF23 and total body atherosclerosis in the
+community. Nephrol Dial Transplant. 2009 Oct;24(10):3125-31. doi:
+10.1093/ndt/gfp205. Epub 2009 May 9. PMID: 19429932.
+
+85: Wyskida K, Żak-Gołąb A, Wajda J, Klein D, Witkowicz J, Ficek R, Rotkegel S,
+Spiechowicz U, Kocemba Dyczek J, Ciepał J, Olszanecka-Glinianowicz M, Więcek A,
+Chudek J. Functional deficiency of vitamin K in hemodialysis patients in Upper
+Silesia in Poland. Int Urol Nephrol. 2016 May;48(5):765-71. doi:
+10.1007/s11255-016-1255-6. Epub 2016 Mar 21. PMID: 27000106; PMCID: PMC4839038.
+
+86: Avila-Díaz M, Mora-Villalpando C, Prado-Uribe Mdel C, Orihuela-Rodriguez O,
+Villegas-Antelo E, Gómez-Noriega AM, Villanueva-Noches D, Hinojosa-Heredia H,
+Serrato-Avila J, Ilabaca B, Paniagua R. De novo development of heart valve
+calcification in incident peritoneal dialysis patients. Arch Med Res. 2013
+Nov;44(8):638-44. doi: 10.1016/j.arcmed.2013.10.015. Epub 2013 Nov 8. Erratum
+in: Arch Med Res. 2014 Jul;45(5):443. Hinojosa-Hernandez, Héctor [corrected to
+Hinojosa-Heredia, Hector]. PMID: 24211754.
+
+87: Bergman A, Qureshi AR, Haarhaus M, Lindholm B, Barany P, Heimburger O,
+Stenvinkel P, Anderstam B. Total and bone-specific alkaline phosphatase are
+associated with bone mineral density over time in end-stage renal disease
+patients starting dialysis. J Nephrol. 2017 Apr;30(2):255-262. doi:
+10.1007/s40620-016-0292-7. Epub 2016 Mar 18. PMID: 26994005.
+
+88: Sumida Y, Nakayama M, Nagata M, Nakashita S, Suehiro T, Kaizu Y, Ikeda H,
+Izumaru K. Carotid artery calcification and atherosclerosis at the initiation of
+hemodialysis in patients with end-stage renal disease. Clin Nephrol. 2010
+May;73(5):360-9. doi: 10.5414/cnp73360. PMID: 20420796.
+
+89: Qureshi AR, Olauson H, Witasp A, Haarhaus M, Brandenburg V, Wernerson A,
+Lindholm B, Söderberg M, Wennberg L, Nordfors L, Ripsweden J, Barany P,
+Stenvinkel P. Increased circulating sclerostin levels in end-stage renal disease
+predict biopsy-verified vascular medial calcification and coronary artery
+calcification. Kidney Int. 2015 Dec;88(6):1356-1364. doi: 10.1038/ki.2015.194.
+Epub 2015 Sep 2. PMID: 26331407.
+
+90: Nascimento MM, Hayashi SY, Riella MC, Lindholm B. Elevated levels of plasma
+osteoprotegerin are associated with all-cause mortality risk and atherosclerosis
+in patients with stages 3 to 5 chronic kidney disease. Braz J Med Biol Res. 2014
+Nov;47(11):995-1002. doi: 10.1590/1414-431x20144007. Epub 2014 Aug 22. PMID:
+25296363; PMCID: PMC4230291.
+
+91: Matsumoto T, Fukushima S, Kanasaki T, Hagino S. Relationship between aortic
+mineral elements and osteodystrophy in mice with chronic kidney disease. Biol
+Trace Elem Res. 2012 Dec;150(1-3):278-84. doi: 10.1007/s12011-012-9466-x. Epub
+2012 Jun 16. PMID: 22700181.
+
+92: Gonçalves FL, Elias RM, dos Reis LM, Graciolli FG, Zampieri FG, Oliveira RB,
+Jorgetti V, Moysés RM. Serum sclerostin is an independent predictor of mortality
+in hemodialysis patients. BMC Nephrol. 2014 Dec 2;15:190. doi:
+10.1186/1471-2369-15-190. PMID: 25465028; PMCID: PMC4265422.
+
+93: Demer LL, Tintut Y, Parhami F. Novel mechanisms in accelerated vascular
+calcification in renal disease patients. Curr Opin Nephrol Hypertens. 2002
+Jul;11(4):437-43. doi: 10.1097/00041552-200207000-00011. Erratum in: Curr Opin
+Nephrol Hypertens. 2003 Mar;12(2):221. PMID: 12105395.
+
+94: Bonato FO, Lemos MM, Cassiolato JL, Canziani ME. Prevalence of ventricular
+arrhythmia and its associated factors in nondialyzed chronic kidney disease
+patients. PLoS One. 2013 Jun 7;8(6):e66036. doi: 10.1371/journal.pone.0066036.
+PMID: 23762460; PMCID: PMC3676379.
+
+95: Scialla JJ, Leonard MB, Townsend RR, Appel L, Wolf M, Budoff MJ, Chen J,
+Lustigova E, Gadegbeku CA, Glenn M, Hanish A, Raj D, Rosas SE, Seliger SL, Weir
+MR, Parekh RS; CRIC Study Group. Correlates of osteoprotegerin and association
+with aortic pulse wave velocity in patients with chronic kidney disease. Clin J
+Am Soc Nephrol. 2011 Nov;6(11):2612-9. doi: 10.2215/CJN.03910411. Epub 2011 Sep
+22. PMID: 21940840; PMCID: PMC3206002.
+
+96: Fujii H, Yonekura Y, Nakai K, Kono K, Goto S, Nishi S. Comparison of the
+effects of novel vitamin D receptor analog VS-105 and paricalcitol on chronic
+kidney disease-mineral bone disorder in an experimental model of chronic kidney
+disease. J Steroid Biochem Mol Biol. 2017 Mar;167:55-60. doi:
+10.1016/j.jsbmb.2016.11.002. Epub 2016 Nov 3. PMID: 27818277.
+
+97: Oikawa O, Higuchi T, Yamazaki T, Yamamoto C, Fukuda N, Matsumoto K.
+Evaluation of serum fetuin-A relationships with biochemical parameters in
+patients on hemodialysis. Clin Exp Nephrol. 2007 Dec;11(4):304-308. doi:
+10.1007/s10157-007-0499-y. Epub 2007 Dec 21. PMID: 18085392.
+
+98: Jean G, Bresson E, Terrat JC, Vanel T, Hurot JM, Lorriaux C, Mayor B, Chazot
+C. Peripheral vascular calcification in long-haemodialysis patients: associated
+factors and survival consequences. Nephrol Dial Transplant. 2009
+Mar;24(3):948-55. doi: 10.1093/ndt/gfn571. Epub 2008 Oct 13. PMID: 18852190.
+
+99: Ix JH, Chertow GM, Shlipak MG, Brandenburg VM, Ketteler M, Whooley MA.
+Association of fetuin-A with mitral annular calcification and aortic stenosis
+among persons with coronary heart disease: data from the Heart and Soul Study.
+Circulation. 2007 May 15;115(19):2533-9. doi: 10.1161/CIRCULATIONAHA.106.682450.
+Epub 2007 May 7. PMID: 17485576; PMCID: PMC2771196.
+
+100: Morisawa T, Nakagomi A, Kohashi K, Kusama Y, Shimizu W. Serum Tartrate-
+resistant Acid Phosphatase-5b Levels are Associated with the Severity and Extent
+of Coronary Atherosclerosis in Patients with Coronary Artery Disease. J
+Atheroscler Thromb. 2017 Oct 1;24(10):1058-1068. doi: 10.5551/jat.39339. Epub
+2017 Apr 19. PMID: 28428481; PMCID: PMC5656768.
+
+101: Moe SM, Seifert MF, Chen NX, Sinders RM, Chen X, Duan D, Henley C, Martin
+D, Gattone VH 2nd. R-568 reduces ectopic calcification in a rat model of chronic
+kidney disease-mineral bone disorder (CKD-MBD). Nephrol Dial Transplant. 2009
+Aug;24(8):2371-7. doi: 10.1093/ndt/gfp078. Epub 2009 Mar 3. PMID: 19258382.
+
+102: Takada D, Tsukamoto T, Fuse M, Kada S, Yanagita M. The use of cinacalcet
+hinders the diagnosis of parathyroid carcinoma in a chronic dialysis patient: a
+case report. BMC Nephrol. 2017 Oct 18;18(1):315. doi: 10.1186/s12882-017-0733-0.
+PMID: 29047366; PMCID: PMC5648519.
+
+103: Gungor O, Kircelli F, Carrero JJ, Hur E, Demirci MS, Asci G, Toz H. The
+effect of immunosuppressive treatment on arterial stiffness and matrix Gla
+protein levels in renal transplant recipients. Clin Nephrol. 2011
+Jun;75(6):491-6. doi: 10.5414/cnp75491. PMID: 21612751.
+
+104: Craver L, Dusso A, Martinez-Alonso M, Sarro F, Valdivielso JM, Fernández E.
+A low fractional excretion of Phosphate/Fgf23 ratio is associated with severe
+abdominal Aortic calcification in stage 3 and 4 kidney disease patients. BMC
+Nephrol. 2013 Oct 12;14:221. doi: 10.1186/1471-2369-14-221. PMID: 24119158;
+PMCID: PMC3852798.
+
+105: Jorsal A, Tarnow L, Flyvbjerg A, Parving HH, Rossing P, Rasmussen LM.
+Plasma osteoprotegerin levels predict cardiovascular and all-cause mortality and
+deterioration of kidney function in type 1 diabetic patients with nephropathy.
+Diabetologia. 2008 Nov;51(11):2100-7. doi: 10.1007/s00125-008-1123-8. Epub 2008
+Aug 22. PMID: 18719882.
+
+106: Grønhøj MH, Gerke O, Mickley H, Steffensen FH, Lambrechtsen J, Sand NPR,
+Rasmussen LM, Olsen MH, Diederichsen A. Associations between calcium-phosphate
+metabolism and coronary artery calcification; a cross sectional study of a
+middle-aged general population. Atherosclerosis. 2016 Aug;251:101-108. doi:
+10.1016/j.atherosclerosis.2016.06.001. Epub 2016 Jun 2. PMID: 27299953.
+
+107: Sigrist MK, Taal MW, Bungay P, McIntyre CW. Progressive vascular
+calcification over 2 years is associated with arterial stiffening and increased
+mortality in patients with stages 4 and 5 chronic kidney disease. Clin J Am Soc
+Nephrol. 2007 Nov;2(6):1241-8. doi: 10.2215/CJN.02190507. Epub 2007 Oct 10.
+PMID: 17928470.
+
+108: Krzanowski M, Janda K, Dumnicka P, Dubiel M, Stompór M, Kuśnierz-Cabala B,
+Grodzicki T, Sułowicz W. Relationship between aortic pulse wave velocity,
+selected proinflammatory cytokines, and vascular calcification parameters in
+peritoneal dialysis patients. J Hypertens. 2014 Jan;32(1):142-8. doi:
+10.1097/HJH.0b013e32836569c7. PMID: 24309487.
+
+109: Zelt JG, McCabe KM, Svajger B, Barron H, Laverty K, Holden RM, Adams MA.
+Magnesium Modifies the Impact of Calcitriol Treatment on Vascular Calcification
+in Experimental Chronic Kidney Disease. J Pharmacol Exp Ther. 2015
+Dec;355(3):451-62. doi: 10.1124/jpet.115.228106. Epub 2015 Oct 20. PMID:
+26487689.
+
+110: Fusaro M, Tripepi G, Noale M, Plebani M, Zaninotto M, Piccoli A, Naso A,
+Miozzo D, Giannini S, Avolio M, Foschi A, Rizzo MA, Gallieni M; Vertebral
+Fractures And Vascular Calcifications Study Group. Prevalence of vertebral
+fractures, vascular calcifications, and mortality in warfarin treated
+hemodialysis patients. Curr Vasc Pharmacol. 2015;13(2):248-58. doi:
+10.2174/15701611113119990146. PMID: 23927679.
+
+111: Kerr JD, Holden RM, Morton AR, Nolan RL, Hopman WM, Pruss CM, Garland JS.
+Associations of epicardial fat with coronary calcification, insulin resistance,
+inflammation, and fibroblast growth factor-23 in stage 3-5 chronic kidney
+disease. BMC Nephrol. 2013 Jan 26;14:26. doi: 10.1186/1471-2369-14-26. PMID:
+23351146; PMCID: PMC3571879.
+
+112: Morony S, Sage AP, Corbin T, Lu J, Tintut Y, Demer LL. Enhanced
+mineralization potential of vascular cells from SM22α-Rankl (tg) mice. Calcif
+Tissue Int. 2012 Dec;91(6):379-86. doi: 10.1007/s00223-012-9655-9. Epub 2012 Oct
+9. PMID: 23052229; PMCID: PMC3523707.
+
+113: Schlieper G, Brandenburg V, Djuric Z, Damjanovic T, Markovic N, Schurgers
+L, Kruger T, Westenfeld R, Ackermann D, Haselhuhn A, Dimkovic S, Ketteler M,
+Floege J, Dimkovic N. Risk factors for cardiovascular calcifications in non-
+diabetic Caucasian haemodialysis patients. Kidney Blood Press Res.
+2009;32(3):161-8. doi: 10.1159/000221064. Epub 2009 May 26. PMID: 19468238.
+
+114: Kitauchi T, Yoshida K, Yoneda T, Saka T, Yoshikawa M, Ozono S, Hirao Y.
+Association between pentosidine and arteriosclerosis in patients receiving
+hemodialysis. Clin Exp Nephrol. 2004 Mar;8(1):48-53. doi:
+10.1007/s10157-003-0256-9. PMID: 15067516.
+
+115: Sigrist MK, Levin A, Er L, McIntyre CW. Elevated osteoprotegerin is
+associated with all-cause mortality in CKD stage 4 and 5 patients in addition to
+vascular calcification. Nephrol Dial Transplant. 2009 Oct;24(10):3157-62. doi:
+10.1093/ndt/gfp253. Epub 2009 Jun 2. PMID: 19491380.
+
+116: Porter CJ, Stavroulopoulos A, Roe SD, Pointon K, Cassidy MJ. Detection of
+coronary and peripheral artery calcification in patients with chronic kidney
+disease stages 3 and 4, with and without diabetes. Nephrol Dial Transplant. 2007
+Nov;22(11):3208-13. doi: 10.1093/ndt/gfm377. Epub 2007 Jul 7. PMID: 17617653.
+
+117: Schurgers LJ, Barreto DV, Barreto FC, Liabeuf S, Renard C, Magdeleyns EJ,
+Vermeer C, Choukroun G, Massy ZA. The circulating inactive form of matrix gla
+protein is a surrogate marker for vascular calcification in chronic kidney
+disease: a preliminary report. Clin J Am Soc Nephrol. 2010 Apr;5(4):568-75. doi:
+10.2215/CJN.07081009. Epub 2010 Feb 4. PMID: 20133489; PMCID: PMC2849687.
+
+118: Jean G, Charra B, Chazot C. Vitamin D deficiency and associated factors in
+hemodialysis patients. J Ren Nutr. 2008 Sep;18(5):395-9. doi:
+10.1053/j.jrn.2008.04.003. PMID: 18721733.
+
+119: Di Iorio BR, Bortone S, Piscopo C, Grimaldi P, Cucciniello E, D'Avanzo E,
+Mondillo F, Cillo N, Bellizzi V. Cardiac vascular calcification and QT interval
+in ESRD patients: is there a link? Blood Purif. 2006;24(5-6):451-9. doi:
+10.1159/000095362. Epub 2006 Aug 25. PMID: 16940716.
+
+120: Pereira RC, Bischoff DS, Yamaguchi D, Salusky IB, Wesseling-Perry K. Micro-
+CT in the Assessment of Pediatric Renal Osteodystrophy by Bone Histomorphometry.
+Clin J Am Soc Nephrol. 2016 Mar 7;11(3):481-7. doi: 10.2215/CJN.04810515. Epub
+2015 Dec 28. PMID: 26712809; PMCID: PMC4791816.
+
+121: Tarrass F, Benjelloun M, Zamd M, Medkouri G, Hachim K, Benghanem MG,
+Ramdani B. Heart valve calcifications in patients with end-stage renal disease:
+analysis for risk factors. Nephrology (Carlton). 2006 Dec;11(6):494-6. doi:
+10.1111/j.1440-1797.2006.00696.x. PMID: 17199785.
+
+122: Tomiyama C, Higa A, Dalboni MA, Cendoroglo M, Draibe SA, Cuppari L,
+Carvalho AB, Neto EM, Canziani ME. The impact of traditional and non-traditional
+risk factors on coronary calcification in pre-dialysis patients. Nephrol Dial
+Transplant. 2006 Sep;21(9):2464-71. doi: 10.1093/ndt/gfl291. Epub 2006 May 30.
+PMID: 16735378.
+
+123: Viaene L, Behets GJ, Claes K, Meijers B, Blocki F, Brandenburg V, Evenepoel
+P, D'Haese PC. Sclerostin: another bone-related protein related to all-cause
+mortality in haemodialysis? Nephrol Dial Transplant. 2013 Dec;28(12):3024-30.
+doi: 10.1093/ndt/gft039. Epub 2013 Apr 19. PMID: 23605174.
+
+124: Chen HY, Chiu YL, Chuang YF, Hsu SP, Pai MF, Lai CF, Yang JY, Peng YS, Tsai
+TJ, Wu KD. Association of low serum fetuin A levels with poor arteriovenous
+access patency in patients undergoing maintenance hemodialysis. Am J Kidney Dis.
+2010 Oct;56(4):720-7. doi: 10.1053/j.ajkd.2010.06.015. PMID: 20801568.
+
+125: Ammirati AL, Dalboni MA, Cendoroglo M, Draibe SA, Fernandes Canziani ME.
+Coronary artery calcification, systemic inflammation markers and mineral
+metabolism in a peritoneal dialysis population. Nephron Clin Pract.
+2006;104(1):c33-40. doi: 10.1159/000093257. Epub 2006 May 9. PMID: 16685142.
+
+126: Kumata C, Mizobuchi M, Ogata H, Koiwa F, Kondo F, Kinugasa E, Akizawa T.
+Involvement of matrix metalloproteinase-2 in the development of medial layer
+vascular calcification in uremic rats. Ther Apher Dial. 2011 Jun;15 Suppl
+1:18-22. doi: 10.1111/j.1744-9987.2011.00921.x. PMID: 21595847.
+
+127: Chen XN, Chen ZJ, Ma XB, Ding B, Ling HW, Shi ZW, Chen N. Aortic Artery and
+Cardiac Valve Calcification are Associated with Mortality in Chinese
+Hemodialysis Patients: A 3.5 Years Follow-up. Chin Med J (Engl). 2015 Oct
+20;128(20):2764-71. doi: 10.4103/0366-6999.167315. PMID: 26481743; PMCID:
+PMC4736882.
+
+128: Centre for Clinical Practice at NICE (UK). Hyperphosphataemia in Chronic
+Kidney Disease: Management of Hyperphosphataemia in Patients with Stage 4 or 5
+Chronic Kidney Disease. Manchester: National Institute for Health and Clinical
+Excellence (UK); 2013 Mar. PMID: 25340244.
+
+129: Kiss I, Kiss Z, Ambrus C, Szabó A, Szegedi J, Balla J, Ladányi E, Csiky B,
+Árkossy O, Török M, Túri S, Kulcsár I; CKD-MBD Working Group of Hungarian
+Society of Nephrology. Age-dependent parathormone levels and different CKD-MBD
+treatment practices of dialysis patients in Hungary--results from a nationwide
+clinical audit. BMC Nephrol. 2013 Jul 18;14:155. doi: 10.1186/1471-2369-14-155.
+PMID: 23865464; PMCID: PMC3720255.
+
+130: Ix JH, Barrett-Connor E, Wassel CL, Cummins K, Bergstrom J, Daniels LB,
+Laughlin GA. The associations of fetuin-A with subclinical cardiovascular
+disease in community-dwelling persons: the Rancho Bernardo Study. J Am Coll
+Cardiol. 2011 Nov 29;58(23):2372-9. doi: 10.1016/j.jacc.2011.08.035. PMID:
+22115642; PMCID: PMC3224791.
+
+131: Voiculeț C, Zara O, Văcăroiu I, Bogeanu C, Tiron T, Turcu F, Aron G,
+Ciocâlteu A. Severe asymptomatic coronary obstruction in chronic hemodialysed
+patient - a case report. J Med Life. 2016 Oct-Dec;9(4):424-428. PMID: 27928449;
+PMCID: PMC5141405.
+
+132: Mazzaferro S, Pasquali M, Pugliese F, Barresi G, Carbone I, Francone M,
+Sardella D, Taggi F. Serum levels of calcification inhibition proteins and
+coronary artery calcium score: comparison between transplantation and dialysis.
+Am J Nephrol. 2007;27(1):75-83. doi: 10.1159/000099095. Epub 2007 Jan 26. PMID:
+17259697.
+
+133: Christiadi D, Singer RF. Calciphylaxis in a dialysis patient successfully
+treated with high-dose vitamin K supplementation. Clin Kidney J. 2018
+Aug;11(4):528-529. doi: 10.1093/ckj/sfx126. Epub 2017 Nov 10. PMID: 30094016;
+PMCID: PMC6070075.
+
+134: Tsuchihashi K, Takizawa H, Torii T, Ikeda R, Nakahara N, Yuda S, Kobayashi
+N, Nakata T, Ura N, Shimamoto K. Hypoparathyroidism potentiates cardiovascular
+complications through disturbed calcium metabolism: possible risk of vitamin
+D(3) analog administration in dialysis patients with end-stage renal disease.
+Nephron. 2000 Jan;84(1):13-20. doi: 10.1159/000045533. PMID: 10644903.
+
+135: Ahmed S, O'Neill KD, Hood AF, Evan AP, Moe SM. Calciphylaxis is associated
+with hyperphosphatemia and increased osteopontin expression by vascular smooth
+muscle cells. Am J Kidney Dis. 2001 Jun;37(6):1267-76. doi:
+10.1053/ajkd.2001.24533. PMID: 11382698.
+
+136: Turkmen F, Emre A, Ozdemir A, Sevinc C, Erisken E, Yesilcimen K.
+Relationship between aortic valve sclerosis and left ventricular hypertrophy in
+chronic haemodialysis patients. Int Urol Nephrol. 2008;40(2):497-502. doi:
+10.1007/s11255-007-9317-4. PMID: 18085423.
+
+137: Wu-Wong JR, Chen YW, Gaffin R, Hall A, Wong JT, Xiong J, Wessale JL.
+VS-501: A NOVEL, NON-ABSORBED, CALCIUM- AND ALUMINUM-FREE, HIGHLY EFFECTIVE
+PHOSPHATE BINDER DERIVED FROM NATURAL PLANT POLYMER. Pharmacol Res Perspect.
+2014 Jun 1;2(3):e00042. doi: 10.1002/prp2.42. PMID: 25197556; PMCID: PMC4151863.
+
+138: Milas M, Bush RL, Lin P, Brown K, Mackay G, Lumsden A, Weber C, Dodson TF.
+Calciphylaxis and nonhealing wounds: the role of the vascular surgeon in a
+multidisciplinary treatment. J Vasc Surg. 2003 Mar;37(3):501-7. doi:
+10.1067/mva.2003.70. PMID: 12618682.
+
+139: Charitaki E, Davenport A. Aortic pulse wave velocity in haemodialysis
+patients is associated with the prescription of active vitamin D analogues. J
+Nephrol. 2014 Aug;27(4):431-7. doi: 10.1007/s40620-014-0040-9. Epub 2014 Jan 29.
+PMID: 24473732.
+
+140: Holden RM, Booth SL, Day AG, Clase CM, Zimmerman D, Moist L, Shea MK,
+McCabe KM, Jamal SA, Tobe S, Weinstein J, Madhumathi R, Adams MA, Heyland DK.
+Inhibiting the progression of arterial calcification with vitamin K in
+HemoDialysis patients (iPACK-HD) trial: rationale and study design for a
+randomized trial of vitamin K in patients with end stage kidney disease. Can J
+Kidney Health Dis. 2015 May 1;2:17. doi: 10.1186/s40697-015-0053-x. PMID:
+26075081; PMCID: PMC4465015.
+
+141: Turner ME, White CA, Taylor SM, Neville K, Rees-Milton K, Hopman WM, Adams
+MA, Anastassiades T, Holden RM. Secreted Phosphoprotein 24 is a Biomarker of
+Mineral Metabolism. Calcif Tissue Int. 2021 Mar;108(3):354-363. doi:
+10.1007/s00223-020-00783-3. Epub 2021 Jan 22. PMID: 33481052.
+
+142: Szeberin Z, Fehérvári M, Krepuska M, Apor A, Rimely E, Sarkadi H, Széplaki
+G, Prohászka Z, Kalabay L, Acsády G. Serum fetuin-A levels inversely correlate
+with the severity of arterial calcification in patients with chronic lower
+extremity atherosclerosis without renal disease. Int Angiol. 2011
+Oct;30(5):474-50. PMID: 21804488.
+
+143: Huang JW, Lien YC, Yang CY, Liu KL, Fang CC, Wu CK, Lee JK, Wu HY, Chiang
+CK, Cheng HT, Yen CJ, Hung KY. High peritoneal KT/V and peritonitis rates are
+associated with peritoneal calcification. PLoS One. 2013 Aug 19;8(8):e71636.
+doi: 10.1371/journal.pone.0071636. PMID: 23977097; PMCID: PMC3747216.
+
+144: Floege J, Raggi P, Block GA, Torres PU, Csiky B, Naso A, Nossuli K,
+Moustafa M, Goodman WG, Lopez N, Downey G, Dehmel B, Chertow GM; ADVANCE Study
+group. Study design and subject baseline characteristics in the ADVANCE Study:
+effects of cinacalcet on vascular calcification in haemodialysis patients.
+Nephrol Dial Transplant. 2010 Jun;25(6):1916-23. doi: 10.1093/ndt/gfp762. Epub
+2010 Jan 27. PMID: 20110249.
+
+145: Paschoalin RP, Torregrosa JV, Barros X, Durán CE, Soler M, Campistol JM.
+Withdrawal of cinacalcet at the time of renal transplantation is not a risk
+factor for allograft calcifications in the early posttransplantation period.
+Transplant Proc. 2012 Oct;44(8):2379-80. doi:
+10.1016/j.transproceed.2012.07.050. PMID: 23026598.
+
+146: González-Parra E, Aceña Á, Lorenzo Ó, Tarín N, González-Casaus ML,
+Cristóbal C, Huelmos A, Mahíllo-Fernández I, Pello AM, Carda R, Hernández-
+González I, Alonso J, Rodríguez-Artalejo F, López-Bescós L, Ortiz A, Egido J,
+Tuñón J. Important abnormalities of bone mineral metabolism are present in
+patients with coronary artery disease with a mild decrease of the estimated
+glomerular filtration rate. J Bone Miner Metab. 2016 Sep;34(5):587-98. doi:
+10.1007/s00774-015-0706-y. Epub 2015 Aug 23. PMID: 26298279.
+
+147: Tian Y, Feng S, Zhan Z, Lu Y, Wang Y, Jiang S, Song K, Shen H. Risk Factors
+for New-Onset Cardiac Valve Calcification in Patients on Maintenance Peritoneal
+Dialysis. Cardiorenal Med. 2016 Feb;6(2):150-8. doi: 10.1159/000443620. Epub
+2016 Feb 4. PMID: 26989400; PMCID: PMC4789884.
+
+148: Fusaro M, Gallieni M, Noale M, Tripepi G, Miozzo D, Plebani M, Zaninotto M,
+Guglielmi G, Miotto D, Fabris F, Piccoli A, Vilei MT, Sella S, Morachiello P,
+Stoppa F, Rossini M, Giannini S. The relationship between the Spine Deformity
+Index, biochemical parameters of bone metabolism and vascular calcifications:
+results from the Epidemiological VERtebral FRACtures iTalian Study (EVERFRACT)
+in dialysis patients. Clin Chem Lab Med. 2014 Nov;52(11):1595-603. doi:
+10.1515/cclm-2014-0194. PMID: 24897402.
+
+149: Eriguchi R, Umakoshi J, Miura S, Sato Y. Raloxifene ameliorates progressive
+bone loss in postmenopausal dialysis patients with controlled parathyroid
+hormone levels. Clin Nephrol. 2009 Dec;72(6):423-9. doi: 10.5414/cnp72423. PMID:
+19954718.
+
+150: Gupta V, Ekundayo O, Nemeth ZK, Yang Y, Covic A, Mathe Z, Kovesdy CP,
+Molnar MZ, Mucsi I. Association between serum osteoprotegerin level and
+mortality in kidney transplant recipients - a prospective observational cohort
+study. Transpl Int. 2021 Feb 19. doi: 10.1111/tri.13847. Epub ahead of print.
+PMID: 33606319.
+
+151: Ribeiro S, Ramos A, Brandão A, Rebelo JR, Guerra A, Resina C, Vila-Lobos A,
+Carvalho F, Remédio F, Ribeiro F. Cardiac valve calcification in haemodialysis
+patients: role of calcium-phosphate metabolism. Nephrol Dial Transplant. 1998
+Aug;13(8):2037-40. doi: 10.1093/ndt/13.8.2037. PMID: 9719161.
+
+152: Marques GL, Hayashi S, Bjällmark A, Larsson M, Riella M, Olandoski M,
+Lindholm B, Nascimento MM. Osteoprotegerin is a marker of
+cardiovascular mortality in patients with chronic kidney disease stages 3-5. Sci
+Rep. 2021 Jan 28;11(1):2473. doi: 10.1038/s41598-021-82072-z. PMID: 33510348;
+PMCID: PMC7844415.
+
+153: Grases F, Prieto RM, Sanchis P, Saus C, De Francisco T. Role of phytate and
+osteopontin in the mechanism of soft tissue calcification. J Nephrol. 2008 Sep-
+Oct;21(5):768-75. PMID: 18949733.
+
+154: Tsuchiya Y, Ubara Y, Anzai M, Hiramatsu R, Suwabe T, Hoshino J, Sumida K,
+Hasegawa E, Yamanouchi M, Hayami N, Marui Y, Sawa N, Hara S, Takaichi K, Oohashi
+K. A case of idiopathic basal ganglia calcification associated with
+membranoproliferative glomerulonephritis. Intern Med. 2011;50(20):2351-6. doi:
+10.2169/internalmedicine.50.5747. Epub 2011 Oct 15. PMID: 22001464.
+
+155: Thom N, Er E, Reinacher M. Nonuraemic nonfatal idiopathic calciphylaxis in
+a kitten. Vet Dermatol. 2013 Oct;24(5):547-e131. doi: 10.1111/vde.12064. Epub
+2013 Aug 9. PMID: 23930985.
+
+156: Nitta K, Akiba T, Suzuki K, Uchida K, Watanabe R, Majima K, Aoki T, Nihei
+H. Effects of cyclic intermittent etidronate therapy on coronary artery
+calcification in patients receiving long-term hemodialysis. Am J Kidney Dis.
+2004 Oct;44(4):680-8. PMID: 15384019.
+
+157: Acher-Chenebaux A, Maillard H, Potier A, Nzeyimana H, Cazals F, Celerier P.
+Nécrose cutanée par calciphylaxie traitée par greffe de kératinocytes autologues
+et parathyroïdectomie partielle [Cutaneous calciphylaxis treated by autologous
+keratinocytes graft and subtotal parathyroidectomy]. Ann Dermatol Venereol. 2006
+Mar;133(3):260-3. French. doi: 10.1016/s0151-9638(06)70893-6. PMID: 16800179.
+
+158: Nakayama K, Nakao K, Takatori Y, Inoue J, Kojo S, Akagi S, Fukushima M,
+Wada J, Makino H. Long-term effect of cinacalcet hydrochloride on abdominal
+aortic calcification in patients on hemodialysis with secondary
+hyperparathyroidism. Int J Nephrol Renovasc Dis. 2013 Dec 18;7:25-33. doi:
+10.2147/IJNRD.S54731. PMID: 24379691; PMCID: PMC3872220.
+
+159: Chou FF, Lee CH, Chen JB. General weakness as an indication for parathyroid
+surgery in patients with secondary hyperparathyroidism. Arch Surg. 1999
+Oct;134(10):1108-11. doi: 10.1001/archsurg.134.10.1108. PMID: 10522856.
+
+160: Kuriyama S, Tomonari H, Nakayama M, Kawaguchi Y, Sakai O. Successful
+treatment of tumoral calcinosis using CAPD combined with hemodialysis with low-
+calcium dialysate. Blood Purif. 1998;16(1):43-8. doi: 10.1159/000014312. PMID:
+9513762.
