@@ -50,7 +50,7 @@ AND
 AND 
 ('chronic kidney disease’[Title/Abstract] OR 'chronic renal disease'[Title/Abstract] OR 'chronic renal insufficiency’[Title/Abstract] OR 'kidney transplant'[Title/Abstract] OR 'renal transplant'[Title/Abstract] OR ‘end-stage kidney disease’[Title/Abstract] OR 'end-stage renal disease'[Title/Abstract] OR 'dialysis'[Title/Abstract]))
 
--> 174, 160 (full text)
+-> 174, 160 (full text)**
 
 ((('male' OR 'female' OR 'men' OR 'women') AND calcification AND ('fibroblast growth factor-23' OR FGF-23 OR FGF23 OR Klotho OR Osteopontin OR Osteoprotegerin OR Osteocalcin OR 'parathyroid hormone' OR 'fetuin-A' OR 'fetuin A' OR 'matrix Gla-protein' OR MGP OR 'alkaline phosphatase' OR microRNAs)) AND ('chronic kidney disease’ OR 'chronic renal disease' OR 'chronic renal insufficiency’ OR 'kidney transplant' OR 'renal transplant' OR ‘end-stage kidney disease’ OR 'end-stage renal disease' OR 'dialysis'))
 
@@ -63,3 +63,7 @@ AND
 ((('male gender'[Title/Abstract] OR 'female gender'[Title/Abstract] OR 'male sex'[Title/Abstract] OR 'female sex'[Title/Abstract]) AND calcification[Title/Abstract] AND ('fibroblast growth factor-23'[Title/Abstract] OR FGF-23[Title/Abstract] OR FGF23[Title/Abstract] OR Klotho[Title/Abstract] OR Osteopontin[Title/Abstract] OR Osteoprotegerin[Title/Abstract] OR Osteocalcin[Title/Abstract] OR 'parathyroid hormone'[Title/Abstract] OR 'fetuin-A'[Title/Abstract] OR 'fetuin A'[Title/Abstract] OR 'matrix Gla-protein'[Title/Abstract] OR MGP OR 'alkaline phosphatase'[Title/Abstract] OR microRNAs[Title/Abstract])) AND ('chronic kidney disease’[Title/Abstract] OR 'chronic renal disease'[Title/Abstract] OR 'chronic renal insufficiency’[Title/Abstract] OR 'kidney transplant'[Title/Abstract] OR 'renal transplant'[Title/Abstract] OR ‘end-stage kidney disease’[Title/Abstract] OR 'end-stage renal disease'[Title/Abstract] OR 'dialysis'[Title/Abstract])) NOT review[Publication Type]
 
 -> 30 (full text)
+
+
+(('chronic kidney disease'[TW] OR 'chronic renal disease'[TW] OR 'dialysis'[TW] OR 'renal insufficiency'[TW] OR 'end-stage renal disease'[TW] OR 'end-stage kidney disease'[TW] OR 'kidney transplantation'[TW] OR 'renal transplantation'[TW] OR 'kidney transplant'[TW] OR 'renal transplant'[TW]) AND (gender[TW] OR sex[TW])) AND (male[TW] OR female[TW] OR men[TW] OR women[TW] OR masculine[TW]) AND (calcification[TW]) NOT (rats[Title]) NOT review[PT]
+-> 306
