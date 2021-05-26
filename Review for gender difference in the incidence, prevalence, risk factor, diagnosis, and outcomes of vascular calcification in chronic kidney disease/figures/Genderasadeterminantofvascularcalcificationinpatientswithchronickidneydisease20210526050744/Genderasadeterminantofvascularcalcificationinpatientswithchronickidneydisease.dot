@@ -1,0 +1,37 @@
+digraph Genderasadeterminantofvascularcalcificationinpatientswithchronickidneydisease {
+  a -> nodups;
+  a [label="Pubmed, Embase, Google Scholar\n1962-2021/05/06\n893 Citation(s)"];
+  a [shape="box"];
+
+  nodups -> incex;
+  nodups [label="893 Non-Duplicate\nCitations Screened"];
+  nodups [shape="box"];
+
+  incex -> {ex; ft}
+  incex [label="Exclusion\nNot CKD, \nvascular calcification or its predictors not assessed, or\ngender difference on vascular calcification or its predictors not assessed"];
+
+  ex [label="450 Articles Excluded\nAfter Title/Abstract Screen"];
+  ex [shape="box"];
+  {rank=same; incex ex}
+
+  ft -> incex2;
+  ft [label="443 Articles Retrieved"];
+  ft [shape="box"];
+
+  incex2 -> {daex; ftex}
+  incex2 [label="Exclusion\n62 Not CKD\n21 Vascular calcification or its predictors not assessed\n194 Gender difference on vascular calcification or its predictors not assessed"];
+
+  ftex [label="277 Articles Excluded\nAfter Full Text Screen"];
+  ftex [shape="box"];
+  {rank=same; ftex incex2 daex}
+  incex2 -> inc;
+
+  daex [label="0 Articles Excluded\nDuring Data Extraction"];
+  daex [shape="box"];
+
+  inc [label="166 Articles Included"];
+  inc [shape="box"];
+  inc [peripheries=2];
+}
+
+/* dot -Tpng -Tsvg  -Tpdf Genderasadeterminantofvascularcalcificationinpatientswithchronickidneydisease.dot -O */
